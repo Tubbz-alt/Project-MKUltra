@@ -1,0 +1,2259 @@
+                        INVESTIGATION OF ELECTRIC FISHES
+                         FINAL REPORT     PHASES 1 AND 2
+                                        by
+                                   Prepared under
+                             Contract
+                                    August 1974
+
+                                       SUMMARY
+                 Electric fishes have one or more transmitting electric organs and an
+           array of electroreceptors.  The system is controlled by special nuclei lo-
+           cated in the brain.  The elements of the electric transmitting organs, called
+           electroplates, are described; and the electromotive force (EMF) generated
+           by each electroplate and of the entire organ is discussed.  The waveform of
+ 2          the signals was studied and the structure of the electric organs investigated.
+           The biochemistry of the chemotransmitter and the metabolism of the electro-
+           genic tissue is discussed.  The physiology of the electric transmitting organs
+           was studied, and their common properties described. Analogy has been made
+           between the electrogenic properties of muscular tissue and the electric organs
+           of fishes.  The transversal and lateral resis2tance of the electric tissue of
+           the electric eel and torpedo is mentioned.
+                  Electroreceptors are special sensors of the lateral line system. Some
+           fishes possess electroreceptors and no electric transmitting organ.  The dif -
+           ferent kind of electroreceptors are mentioned.  The physiology of some of
+           the electroreceptors of Sternarchus albifrons, a South-American fresh water
+           weakly electric fish were investigated.  The electrorece2ptors of the mormyrid
+           Gnathonemus petersii were mapped and counted.
+                  Tonic and phasic electroreceptors were studied.  The nervous control
+           and function of the electroreceptors is discussed and the functional character-
+           istics of six different kinds of lateral line organs have been considered.
+                  The location of objects by the electroreceptor system of elettric fish
+           is discussed and communication between electric fishes mentioned.
+
+                  The electric field lntterii around the electric fish SternarclitLs albifrons
+           has been plotted and compared with the theoretical pattern of  a  dipole.  The
+           perturbing effects of various confinement cages on the  electromagnetic  field
+           pattern were determined.  Distortions of the wave form with distance were
+           recorded.
+                  The maximum detection range of the electric  fishes  Gnatlionemtis  sp.
+           and Gymnotus carapo to stainless steel, iron, brass and  nylon  is  presented.
+           At the critical separation between the fish and sample, (assumed to be the
+           threshold detection distance) the fish increased the rate of its signals or
+           ceased transmission entirely. The effects  of  sample  material,  sizes,  form
+           and azimuth on the threshold detection distance are presented.  Behavioral
+           experiments  have been formed using  Gymnarchus  2niloticus  to  determine  the
+           threshold of detection distances.  These experiments were also performed in
+           the fiberglass tank with and without an aluminum foil liner.  Photos and movie
+           films were made to record the fishes behavior.
+                  Gnathonemus sp. is a fresh water, low rate, high frequency pulse
+           weak electric African mormyrid fish.  Gymnotus carapo is a fresh water,
+           medium rate, medium frequency pulse, weak electric South-Ame2rican
+           gy=otid fish.  Despite their physiological and electric differences, both
+           these fishes stopped transmitting electric siamls if the object .vas of high
+           conductance and was brouaht close to the fish (< 50 cm).  Because  the  fishes
+           were very excited and tried to escape even after they had ceased transmittina,
+           it seems reasonable to assume that they continue to detect the objects in  the
+           water usincr the8ir sensors in a passive mode.
+                  The electroreceptors of Gnathonemus sp. were mapped to location
+           and morpholocrical type and related to the area. We recorded the response
+           of some electroreceptors of Gnathonemus sp.      The presence of one  type  of
+           receptor in the sensor matrix which is sensitive to mechanical movement
+           was established.
+
+                   A qualitative assessment of the fishes ability to mvigite within a
+            difficult maze of nylon fishinm line has been made.  Blind electric fishes
+            (Gymn,,trchus niloticus, Sterii,.irchus albifrons, and Gymnotus carapo) easily
+            navigate through such mazes.  Photos and movie film were made.  These
+            behavior experiments were performed in a 12 foot diameter fiberglass tank
+            2and under two separate electric boundary conditions.
+                   The threshold sensitivity for detection of a magnetic field is pre-
+            sented in graphic form for: Gymnarchus niloticu@;, Sternarchus albifrons
+            and Gnathonemus sp.  Photos were made and the behavior of the fishes has
+            been filmed.
+                   The threshold detection limits of Gy=archus niloticus and Gnathonemus
+            sp. was determined for a D.C. electric field u2nder two different electrical
+            boundary conditions.  The reactions of Gyliinarchus niloticus, Gnathonemus sp.
+                             lbifrons, to recordinos of their own electrical signals and to
+            and Sternarchus a
+            those of other individuals of the same species are presented under tnvo very
+            .different electrical backgrounds.  Photos and movie films were taken.
+                   We arrived at the  conclusio-n that2 our knowledge of electroreceptors
+            arrays and lateral line sensory receptors of electric fishes is incomplete, In-
+            vesti,a,ation in their function and biochemical composition would put us in the
+            position of designing systems havina similar properties with electric fishes
+            for underwater detection, location and identification of objects.  The importance
+            of neurotransmitters is stressed and the role of electric fishes in the study of2
+            these complex energetic systems is mentioned.  Electric fishes offer some
+            unique properties in the study of electrophysiolotcry and neurochemistry.
+
+                                             CONTENTS
+             1.      INTRODUCTION                          ..............................     I
+            2.       TECHNICAL DISCUSSION                        ........................     6
+                     2.1   THE TRANSMITTING ELECTRIC ORGANS OF
+                           ELECTRIC FISHES                       ........................     6
+                           2.1.1   The  Electromotive  Force   2of   Electric   Organs         6
+                           2.1.2   The Waveform of Electric Signals             .........     6
+                           2.1.3   The Structure of the Electric Organs          ........   12
+                           2.1.4   Chemical Composition of the Chemotransmitter
+                                   and the Metabolism of the Electrogenic Tissue            12
+                           2.1.5   Physiology of the Electric Organ     ...........   2      22
+                     2. 2  ELECTRORECEPTORS           AND            ELECTRORECEPTION       30
+                           2.2.1   Distribution  of  the   Electrosensory   Receptors       32
+                           2.2.  2 Tonic and Phasic Electroreceptors            .........   36
+                           2. 2. 3 The Control and Function of the Electro-
+                                   receptors                  ...........................   44
+                  2         2.2.  4 Active Electroreception               ................   49
+                           2.2.  5 Passive Electroreception     ......              ...     51
+                                                                        E le
+                           2.2.6   Coding of the Electrical Signal of       ctri
+                                   Fishes                    ............................   52
+                     2.3  EXPERIMENTAL FINDINGS      5      ..................               53
+                           2. 3. 1  Methods                   ...........................   53
+                           2. 3. 2  The Electromagnetic Field Generated by
+                                   Sternarchus albifrons a South American Fresh
+                                   Water Weakly Electric Fish              ..............   57
+                                                  iv
+
+                             CONTENTS (Cont'd.)
+                2.4  BEHAVIOR EXPERIMENTS FILMED ON STANDARD
+                    8  FILM ...............                      77
+                    2.4.1 ExperimeiitsNeededtoAssessSensitivity,
+                          Range and Effectiveness of the Electric Fishes
+                          to Detect Objects and Communicate Under-
+                          water .....................  o ......  77
+                23. 5BEHAVIORAL EXPERIMENTS USING  PHYSIOLOGICAL
+                    METHODS  .........................   o . . . .. 94
+          3.    CONCLUSIONS AND RECOMMENDATIONS  ...   ........  96
+                REFERENCES  ..................         ........  99
+                                    v
+
+                                      1.  INTRODUCTION
+                       In this final report we would like to mention and summarize the
+            morphological,, physiological and behavioral aspects of some electric fishes.
+                   (1)              .(2)
+            Darwin     and Dahlgreen     consider the electric organs of fishes as a  dif-
+            ficult case to be explained by what evolutionary steps they may have been
+          2  produced.  Except the ltuig-snail Daudebardia from Asia Minor which has
+            been reported as electrogenic by Leder and mentioned by Garten     (3) the
+            only class in the animal kingdom known to possess specialized electric
+            organs is the class of fishes.  The electric transmitting organs are derived
+            in most electric fishes from modified muscular tissue. We observed
+            this fact in Gy=archus niloticus, an African fresh-water weakly
+   2         electric fish.  But therc are exceptions like the South American fresh-
+            water weakly electric fish Sternarchus albifrons,, whose transmitting
+            electric organ is derived from modified nervous tissue.  Mutations by
+            virtue of change enhanced the survival and fitness of the orc,-anism., giving
+            it a superiority over the other species either in communication.,  in  naviga-
+            tion, or food findina and 2defense  against  enemies.  Because  the  successive
+            mutations stand the test of natural selection, they produced an organism
+            greatly different from its distant forebears.
+                      Communication in its large interpretation encompasses any in-
+            formation needed to produce a change in a state.  Change from one state
+            into another raises entropy, and energy is needed to raise the state from one
+            level to the other. Compared w1ith the complete electrochemical communication
+            system of the electric fishes, all otliers used by livin- organisms are less
+            efficient. By its nature, the nervous system uses  electrical  impulses  as  a
+
+            communication me-ins.  In order to communicate and use a langmge,
+            human beings have to transform electrical and chemical onergy'into mech-
+            anical and acoustical energy for transmitting messages and to transform
+            optical, acoustical, or mechanical encrgy into electrical and  chemical
+            energy for receiving messages. Alivays energy is lost and entropy is
+            raised.
+           2        Electric fishes are the only ones which use only electrochemical
+            energy for communication purposes with minimum loss in energy and mini-
+            mum rise in entropy.  Fishes can communicate reliably underwater, but
+            we have difficulties in doing this although we dispose of energies many
+            orders of maomitude larger than those used by fishes.
+                   For this reason and for their ability to use their electrosensory
+            syst2em for detection, identification and location of underwater ob ects it
+            seemed appropriate to study some of the electric fishes, their transmitting
+            ora,,ans and their electroreceptors. An investigation has been conducted
+            for the                     for a period of three years which resulted in
+            a final report.   Behavioral and physiological  experiments  have  been
+            conducted by the author on the Electrophoridae, Sternarchidae, Gymnotidae,
+            Mormyridae, Gy=archidae, and Malapteruridae.                        -her in-
+                                                                        . I 1. I 04L
+            vestigators have studied the physiology, the morphology and behavior of a
+            few species of electric fishes, but the subject is far from being completely
+            understood. The author studied also the morphology  and  physiology  of
+            electric fishes in2 connection with the detection and location of objects and
+            underil,-ater communication.  For the investigation mostly Sternarchidae
+            were used, but some limited findings in Mormir@dae and Gymnarchidae have
+            also been studied. We found     that the electric fishes could use tli4ir
+            electric organs (transmittin- and receivinr,,) for navic,,ation and communication--
+     5                                   t>
+            in other words, pattern recognition.
+                                                2
+
+                   The electric signal recordin6rs ,Lnd Iiistolo,rical evidence indicate  that
+            Steniarchus albifroils has three kinds of clectroreceptors: ampullary tonic
+            nonsyncliroiious units, aiiipullary tonic synchronous units, and tuberous phasic
+            nonsynchronous units. - -  i Both are represented by a generator connected to
+            resistances and2 capacitances in series and in parallel. FThe difference between
+            tonic and pli-isic electroreceptors is that the former have one resistance in
+            series with the generator whereas the phasic electroreceptors have a cap-
+            acitance. The tonic electroreceptors  seem  to  predominate  at  a  ratio  of  ap-
+            proximately five-to-one, compared to the phasic electroreceptors.           The
+            electr2oreceptors seem to act, to a  certain  extent,  independently  of  the  main
+            electric transmitting organ; at least two of the three types of electroreceptors
+                                       (8
+            are asynchronous.  Szabo      found that the'complete denervation of the trans-
+            mittina electric organ does not stop the activity of the asynchronous electro-
+            receptors (both phasic and tonic). The fish is  still  capable  of  responding  to
+    2        conductive and nonconductive objects placed near the fish's body.  DenerNation
+            of the transmitting organ will affect the cap-ability of certain movement or im-
+            pair., to a certain ex-tent the ability to recognize patterns-@ Some of  the  syn-
+            chronous tonic units are connected to the same nerve trunk as the acousti-
+            colateralis system and connected to-specialized big nuclei in the brain.
+                    The most strikinc2, fact about fresh  water  weak  electric  fish,  besides
+                                      t@,
+            their spontaneous electric organ, is that all of them are provided with a
+            hi,-
+              ,hly developed lateralis line system.  Related to this acoustico-lateralis
+            system is an enlargement of the cerebellum, especi     ally in Gymnarchus
+            niloticus and in mormyridae.     @l-le unusual importance of the lateralis syste3m
+            in these fish, compared with other teleosts, is not due to an increased nul-nber
+            of "ordinary" lateral line sensory organs, but rather to the existence of a
+            great number of specialized sensory organs within this same syste
+                                                  3
+
+                        'niis is supporting our Ilypotlicsis -ibout a hybrid complex underwater
+               p,ittern recognition systeiii used by electric fislils in recognition of prey,  prc.!
+               dators and navigation in  -oneral.  It  is  recommended  that  tlle  other  lateralis
+               line systems from different fresh water weak electric fishes should2 be studied
+               with the aim  to find out the role of the differen t sensory  organs  in  pattern  re-
+               cognition.
+                       Filier subdivisions exist between the one  and  the  same  type  of  electro-
+                                                                                         (40)
+               receptor, but this has not been as yet investigated in a detailed way.
+               Knowledge of the physiolo2gy and biochemistry of the electroreceptors are
+               incomplete.  These studies will provide a basis for understanding the work-
+               ing of the system.  Microelectrode recordings from the electroreceptors
+               proper and from their nerve fibers are needed to provide information concern-
+               ing the function of the receiving system.
+                       By combinina the anatomical and functional data of these fishes it
+               could be possibl2e to simulate an equivalent underwater sensory system.
+               7@vo double feedback mechanisms are envisaged: (1) a system tranqmittina'
+               a constant frequency electric field and using a phase-synclironous electro-
+               receptor responding to either discontinuities in the electric field  or  to  chancres
+               in the phase relationship betm7een the transmitting and receptors; and (2). a
+           2    second one represented by a variable frequency transmitter and receptor
+               with a change of frequency.  An ind--pendent dual autorhythmic receptor
+                                                                              Z,-          7th
+               system could be designed and: (a) increasing or decreasina the autorh3  mic
+               frequency dependinc, on the direction of movement of the disturbance in the
+   8            electric field; and (b) responding with a chan-e in the latency depending on
+               the maciiitude of the disturbance, also distiii,,,-uisliino- between conductive
+               and nonconductive objects.
+                                                     4
+
+                   In any case the key to the object detection, location and identification
+           by electric fishes is their electrosensory receptors and the other lateral line
+           detectors.  The difficulties are multiple: some of the electric fishes are dif-
+           ficult to obtain; are susceptible to diseases; their nutritional requirement is
+           not known; they are often injure2d and/or subjected to chemical treatments
+           before shipment; and are intolerant of proloii-ed periods of confined experi-
+           mentation.
+                   The Phase I Final Report     described the location and distribution of
+           electroreceptors and a mechanical receptor of the lateral line system of the
+           African fresh Nvater weakly electric fish Giiathonemus petersii.  The auto-
+           rh37thn-lic2 activity of these electroreceptors has been recorded.  The variation
+           of the electric signal of the electric organ has been recorded for three speci-
+           mens of this species  at rest activity and at the maximum signal rate.  The
+           number and density of different kinds of electroreceptors in the dermis were
+           counted and their rate change sensitivity to a metallic object recorded.
+                                                5
+
+                                  2.  TECHNICAL DISCUSSION
+              2.1    THE TRANSMITNNG ELECTRIC ORGANS OF ELECTRIC FISHES
+              2.1.1  The Electromotive Force of Electric Organs
+                     In Figs. I and 2 some representatives of fresh water and marine
+              electric fishes and their electric organs are shown. Electrophorus
+              electricus and Malapterurus electricus are fresh-water strong electric
+              fishes, the first2 one attaining a maximum discharge voltage from its' main
+              electric organ in excess of 600 volts, the second one only 300 volts.
+              Torpedo nobiliana may discharge a train of pulses close to 220 volts and
+              Astroscopus guttatus may attain 50 volts.  The latter two are marine strong
+              electric fishes.  Gymnarchus nilotictis, Gnathonemus petersii and Sternarchus
+              albifrons are fresh water weakly electric fishes. Raja clavata is a r2ajid
+              marine weakly electric fish.  The electric discharge of some weakly electric
+              fishes out of water may attain 7 to 8 volts, but in the water their voltage is
+              attenuated to less than one volt in- the immediate vicinity of the fishes.
+              2. 1. 2 The IVaveform of-Electric Signals
+                    Figures 3 and 4 'Show the pulse shape and duration of some species
+              of electric fishes. Every species has it5s own characteristic electric
+              discharto,-e. Electrophorus electricus has three electric organs: the main
+              electric organ, the organ of Hunter and the organ of Sachs.  The main
+              electric organ and the spinal cord of Electropliorus are represented in
+              Figs. 5 and 6.
+                                               6
+
+                                                     C, Ec7.0it OR /ti,
+                     Fig. 1.  Principal representatives of fresh-Nvater
+                              electric fishes.  Arrow indicates direction of
+                              current in the electric organs.
+                              E     ElectroDhorus electricus (electric eel)
+                              G     Gymnar6clius niloticus
+                              P     Gnathonemus petersii (elepliant-nose)
+                              s     Sternarelius albifrons (b'lack-gliost)
+                              M     Malapterurus electricus (electric catfish)
+                                                7
+
+                                                     +
+                                                     lp
+                   Fig. 2.   Principal representatives of marine electric
+                             fishes.  Arrow indicates direction of current
+                             in the electric oraans.
+                             R =  Raja clavata (thornback ray)
+                             T =  Torpedo nobiliana
+                  9           A = AstroscopLis guttatus (star,,aazer)
+                                               8
+
+                                                                   >    0
+                                  k-3                                                         2 50       0
+                                           Ms                                                 @4 Ai
+                          Gvmnotus s                                                   Gnathonenius so.
+                     0
+2
+                                                                                           2. resp. 10
+                                          Ms
+                                                                                              Ms
+                                    ,Nlo,-m,vri.,s fo                             E:!,;,    nia ard Sternoz)vrlu's.(Is
+                                               9                                     ,,enn
+                                     Fig. 3      Pulse sliape and pulse duration of
+                                                 some species of electric fishes.
+
+                                                                 Aj j _I I I I I]] j I         I   I
+                                         Hypopomas  SP.2
+                                         staciogents  SP.
+                                                                                                                       4-4
+                                         GYmnOtUS   c2orapa
+                                         Sternopygus    ap.
+                                         Eigenmannic  virescons
+                                         Stermarchus   $P.
+                                                                                                                     "I maec
+                                              Fig. 4. Discharge of electric org2ans of some
+                                                              Gymnotidae, Sternarchidae and
+                                                             Ramphichtliydae (redr-wn after
+                                                             HagiNvara and Morita(54)).
+                                                                                  10
+
+                 Fig. 5.  Tridimensional section of an Electrophorus electricus (electric
+                          eel) main electric organ,, to show schematically the trajectory
+                          of the electric nerves (N) from the big spinal cord cells (M) to
+                          the posterior of the electroplates (E).  Only a few electroplates
+                          are shown (redrawn after A. Fessard
+                                  m
+                                                                  10 0
+                             Fig. 6.  Spinal cord of Electrophorus electriciis
+                                       showing the big cells of the electric
+                                       neurons (M).
+
+               2. 1. 3  The Structure of the Electric Orgins
+                     - The electric org.-in of Gymnarchus iiiloticus is shown in Fig. 7.  The
+               electric organs of most electric fishes are derived from muscle tissue.
+               Sternarchus albifrons is an exception.  Its electric organ is derived from
+               nervous tissue (Fig. 8).
+                      The electric organs of Mormyrus oxyrhyncus and Gnathonemus
+         2      senegalensis are represented in Fig. 9 and 11.  The elementary units or
+               building blocks of electric fishes are called electroplates (or electro-
+               plaxes or electrocytes). Some mormyridae electroplates and their in-
+               nervation are shown in Fig. 10, 12 and 13.
+               2.1.4 Chemical Composition of the Chemotransmitter and the
+                      Metabolism of the Electr--O-Crenic Ti-ssue
+ 2                                               t)
+                      The chemotransmitter in the electric organs of electric fishes
+               derived from muscle tissue is acetylcholine and its hydrolysis enzyme
+               acetylcholinesterase.  The chemotransmitter involved in the electric organ
+               of Sternarchus albifrons (derived from nervous tissue) is not known.
+                      The electric organs of fish are an invaluable tool for studying the
+               bioc2hemical mechanism underlying bioelectricity.  The organs are the most
+               powerful bioelectric generators created by nature and moreover hiahly
+               specialized in their function.  Most of the electric organs of electric fishes
+               have unique structural features which permit the correlation of the electrical
+                                               (10)
+               activity with the enzyme activity.
+                     Choline acetylase i5n the presence of ATP (adenosine triphosphate)
+               and of CoA is capable of synthesiziiig acetylcholine in solution.  This
+               enzyme is also present concomitant with acetylcholineesterase in a great
+               %,ariety of conductin- tissue  motor and sensory axons, vertebrate and
+                                               12
+
+                                       E
+                                                       ,-,Er's
+                     Fig. 7.  Transverse section of the posterior half of a
+                              Gylmiarchus niloticus.  The section of the eight
+                              electric organs are shon@,n (EEI to EE8)(redrawn
+                              after Fritsch).
+                       Fig. 8.  T4ridimensioiial structure of the electric
+                                or,-an of Sternarclius albifrons.
+                                              13
+
+                                                   C,
+                  Fig. 9. Mormyrus oxyrhyneus: Caudal cross-section.
+                          Yhe@fou@r black sections are electric organs
+                           (redrawn after Marcusen).
+                                            14
+
+            ftrtf clzl fie
+                      Fig. 10. Semi-schematic representation of an
+                                electroplate of Gnathonemus numenius.
+                                Orientation antero-posterior.  (After
+                                Th. Szabo - Report to the French
+                                Academy of Sciences.)
+                                pl = anterior fold
+                                P = papilla9
+                                           15
+
+                                                          C7.
+                         Fig. 11. Gnathonemus senegalensis. (Redrawn after
+                                     Th. Szabo.) E          electric organs.
+                                        h                                 I?
+                                                              A
+                       Fig. 12. Electroplate of Gnathonemus.                (Redr2awn after
+                                    Th. Szabo.) A         anterior, P       posterior.
+                                                      t-"Nfk 4 Sp 14,IRO?s
+                                       14A I cuisri   Put4i      DELI closus
+                        Fig. 13. Electroplates of some Mormyrids. (Redrawn
+                                    after Th. Szabo.) n = nerve trunk.
+        3                                                  16
+
+             invertebrate, central and peripheral nerve tissue and in muscle.  Ti ie  role
+             of the acetylcholine system in elementary processes is pictured in  Fig.  14.
+             In the resting condition, -acetylcholine is in a bound and inactive form. (S)
+             Excitation of the membrane., by current or other stimulus, leads to a dis-
+             sociation of the complex, and acetylcholine is released.  The free ester
+             acts upon a r2eceptor protein (R), and this action upon the receptor is es-
+             sential for the change of ionic permeability, i. e., for the increased Na
+             conductance and thus of a generation of bioelectric potentials. Acetylcholine,./'
+             may act by changing the configuration of the receptor protein.
+                    The complex between acetylcholine and the receptor  is  in  a  dynamic
+             equilibrium with the free ester and the receptor.  The free 2ester is sus-
+             ceptible to attack by acetyleholineesterase (E).  The enzymatic hydrolysis
+             of acetylcholine will permit the receptor to return to its restina condition.
+             Sodium conductance returns to its oriainal level.  Thus, the action of the
+             enzyme leads to immediate recovery and ends the cycle of the elementary
+             process.  The high speed of the inactivation process makes possible rapid
+             restoration of the membrane and2 permits the nerve to respond to the next
+             stimulus in a millisecond or less. . The further recovery leads to the re-
+             synthesis of acetylcholine in its bound form by clioline acetylase and the
+             other components of the acetylating system.   The evidence supports the
+             view that acetylcholine is the "specific operating substance" in the elementary
+             process of conduction of nerve impulse, as Meyerhoff      applied it to the
+             ro2le of ATP in muscular contraction.
+                    Durinc, the past twenty years, much pertinent information has been
+             obtained by the analysis of the molecular forces actina, in the proteins of
+                                                                   tp.
+             the acetycholine system. In several instances., it was possible to  establish
+             relationships between the reactions of the protein solution and the function
+        2                                       17
+
+                                         .Et67KfMTAkY PJLDCClr
+                                             O-
+                                                                           @@AIIAF
+                                                                         3*AT?       P)I*avD CRRATIIIC
+                                                         2    fE.                  AT?
+                                                                (a A+ Ac-TATr    Poe L
+                                                                                            IA-
+                                                                                AMP+PP
+                                      Fig. 14.       Sequence of energy transformation
+                                                     associated 2with conduction and in-
+                                                     tegration of the acetylcholine system
+                                                     into the metabolic pathnvays.  (Re-
+                                                     dra-ivn after- Nachmans ohn (10).
+                                                     S = bound acetylcholine
+                                                     R = receptor protein
+8                                                                     18
+
+          of the intact cell. In some cases., such relationships were found to parallel
+          those of specific el@ctrical events. A molecule such as acetylcholine has
+          only a limited number of possibilities of reacting with a protein; the molecular
+          forces acting between the small molecule and the macromolecules of the
+          system must, therefore., be similar.  Relatively small modifications in the
+          surface of the protein may lead to important changes in2 function. Idornia-
+          tion obtained by the analysis of molecular forces in one protein will, there-
+          fore, provide valuable information for an understanding of the reactions
+          with other proteins. Acetylcholineesterase is for many reasons the most
+          suitable protein of the system for studying the molecular forces in the active
+          surface.
+                 Analysis of the molecular forces acting in the active surface of the
+          enzyme has revealed th2at the surface has two functionally and spatially
+          separated subsites: an "anionic" site and an "eseratic" site.  The anionic
+          site attracts the cationic groups of the substrate by Coulombic and Van der
+          Waal's forces.  The esteratic site has an acidic and a basic or nucleophylic
+          group symbolized by H and G.  The nucleophylic group forms a covalent
+          bond with the electrophilic carbon of -the carbonyl group (see Fig. 15).
+              2      e alcohol is eliminated from the enzyme substrate complex by an
+          electronic shift and as a- result of the first phase, an acetylated enzyme is
+          formed.  This reacts with H 0 to form acetate thus regenerating the enzyme.
+                                      2                 %
+          Experimental evidence in support of this mechanism is mentioned by
+          Nachmansohn. (10)
+                 Determination of the biochemical composition of fish has been made2
+          by early investigators mostly on marine fish and the data has not been
+                                                                    (12)
+          derived from a statistical meaningful number. Vinouradov       points out
+                                                              0
+          that of the approximately 20, 000 knoivn species of fish, only 350 to 400 of
+                                           19
+
+                                                                                        ESTCRAriC SITE
+                                                                                               I
+                                                                               c H r c 14.x -  r,_
+                                                                                                I
+                              2                                            tki                 Chi
+                                        Fig. 15.           Schematic presentation of the interaction
+                                                           of the active groups in the surface of
+                                                           acetylcholineesterase and the substrate.
+                                                           (The Michaelis-Menten complex; redrawn
+                  8                                         after Nachmangohn(10).)
+                                                                                     20
+
+          of them have been submitted to chemical analysis and the choice of species
+          has usually been limited to those of commercial importance. Many analyses
+          have been done on fish "as purchased" i. e. . after being caught -commercially
+          and stored in ice for several days.  The composition can alter considerably
+          under such conditions, either from chemical or bacterial action, or by leach-
+          ing out of constituents by the meltin2g ice. Detailed analyses, as those of
+          Sul-ama and Tokuhiro (13) on many organs of fish, are rare.
+                 Complete analyses of the' biochemical composition of electric fishes
+          have not been made.  Hasson and Chagas  (14) analyzed the interaction "in vitro"
+          of macromolecules (proteins, polysaccharides, nucleic acids) with curare.
+          Chromatographic analyses show the correlation between uronic acid concentra-
+          tion and 2TRIEG (gallanine triethyliodide) binding. Also the analysis of a hydro-
+          chloric acid hydrolisate gave glucose as the only reducing sugar component of
+          Sf1(neutral polysaccharide).  The Sf3 (acid polysaccharide) dissolved in the
+          acetate buffer being analyzed showed that glucoronic acid was the uronic
+          acid constituent of Sf  Also acetylglucosanine choline esterase and oreinol
+                              3'
+          have been identified2. In general they described the quantitative results of
+          the interaction of quaternary ammonium bases, viz. acetylcholine,,
+          succinylcholine and TRIEG (gallanine triethiodide) with non dialyzable com-
+          ponents of the aqueous extract of the electric organ of Electrophorus electricus.
+                 Fahn Albers and Coval(l  5) investigated the catalyses of the hydro-
+          lisis of adenosine triphosphate (ATP) in the presence'of Mg ++ I Na+, and
+          by the microsomal fraction from the electric organ of the electric eel.,
+          Electrophorus electricus.  The same preparation catalyses a Mg++-dependent
+          transphospliorylation bet% veen ATP and ADP (adenosine diphosphate).  Both of
+          these reactions are inhibited after treat.-.nent of the microsomes ivitli N-
+          ethyl maleimide.  However, the addition of Na+ reactivates the transphos-
+          phorilation, 8and the rate becomes more rapid than that of the original.  This
+                                           21
+
+             new Na+-sensitive exchange reaction is believed to be a component of the
+             hydrolitic reaction.  J. P. Changeux et al. (16) studied the asymmetric re-
+             partition of ACHE, (acetylcholinesterase) of each of the two facets of the
+             electroplate.  They utilized acetylthiocholine as a substrate and isolated
+             the ACHE by ultracentrifugation.  Cytochemical analysis of ACHE has been
+             done and electronmi2crographs have been used in their study.  Gautron  (17)
+             verified a similar study on the electric organ of the Torpedo.
+             2.l. 5  Physioloay of the Electric Organs
+                    The general physiology of the electric organs describing their common
+             properties does not differ to much from other electrogenic tissues like nerves
+             or muscles.  The nervous or muscular activity is accompanied by transitory
+             electrical variations c2alled "action potentials. 11 Some analogies can be made
+             between the electroplate electric activity and the electric activity of nerves
+             or muscles.  Theories which apply to the cellular bioelectroc,,,enesis are also
+             applicable to electric dischar-e of the electric organs. Since the electric
+             discharge is a physical phenomena it could be related to the structures where
+             it is produced or where it manifests its e2ffects. Two characteristics of
+             electric organs should be taken into account: the electric conductivity and
+             the electromotive force (EMF) of the electroplates.  The electroplates EMF
+             does not exceed 0. 15 volts.  Fessard (18) calculated for the Torpedo marmorata
+             the internal resistance to be between 7. 3 ohms and 24. 1 ohms.  He found the
+             total EMF of the electric organ to be 64 volts; the short c2ircuit current B. 2 A.
+             This data indicates that 400 electroplates are required in series to achieve
+             this EMF.  The data cited above apply to the electric organ during discharge.
+             Durino- rest the resistance is much higher.  The electric discharae is ac-
+             companied by an increase in conductivity (or decrease in resistance).  The
+             specific resistances at rest of the electroplates of Torpedo and Electrophorus
+             is shown in Tab4le 1. (19)
+                                              22
+
+                                           B LE I
+               Specific Resistance of I Centimeter Cube of Electric Tissue
+                   Measured with the Aid of Nonpolarizable Electrodes
+                      (Ag-AgCl) with a DC or an AC Current of Less
+                   thanlOOHz.           ElectricOrganwasinaRestingState(19)
+                                                     resistivity in ohms cm 2/cm
+                                                   2Transversal         Lateral
+           Lorpedo. small size                         1404               206
+           Torpedo medium size                          760               260
+           Electrophorus main organ                     318               106
+           Electrophorus organ of Sachs                 146               105
+                 The innervated posterior face of the electroplate of the organ of Sachs
+                                                                2      2
+           in Electrophorus electricus has a resistivity of 10 ohms/cm at rest.  The
+           anterior face of the source electroplate has a resistance of 0. 23 oh=/cm2
+           Pynes and Martins -Ferreira  (19)
+                  The restine, and action potentials of the electric eel, the Torpedo sp.
+           and Raja sp. are shown in Table 2 and compared with the resting and action
+           potential of the muscular striate fiber of the frog. A schema2tic of the
+           electric charges on the surface of an electroplate is shown in Fig. 16. In
+           resting position the charges are equal, opposite and neutralize each other.
+           In the active state, the posterior innervated face is subjected to an inversion
+           and the two EMF are added in series.  The action potential seems to be pro-
+           duced by an increase in ionic permeability of the innervated face of the
+           electroplate.
+                            9                23
+
+                                         TABLE 2
+                     Average Values of the EMF of Resting and Active
+               Electroplates of Different Electric Fishes and Frog Muscle
+                                    Resting          Action
+            Electroplates of:       Potential       Potential          Reference
+                                       mv              mv
+          Electrophorus 0. of        73-86           126-150              19120
+2             Sachs
+          Electrophorus main          70               127                 19
+             organ
+          Torpedo                   (45)-70            115                 21
+          Raja                        65                60                 22
+          Muscular striate fiber      90               125                 23
+             of the frog
+                 The transverse electric resistance and DC potentials of the skin of
+                           2                                                       (24)
+         Torpedo marmorata have been measured by Radil-Weiss and Kovacevic.
+         Their results are sumn-larized in Table 3 and the method is illustrated in
+         Fig. 17.  The skin samples were taken from areas either covering the electric
+         organ or from adjacent non-electrical regions. No significant differences
+         were found between the dorsal or ventral sides of the body.  Body size has
+         no influ6ence on the resistance value, but the electrical resistance of the skin
+         covering the electric organ is lower than from other parts of the body. DC
+         potential measurements show that the external surface of the skin is. slightly
+         electropositive relative to the internal one.
+                                           24
+
+                                 +   +                  +         +
+                                        so
+                                        so
+                       +  +      + -I+
+                  Fig. 16. Electric charge distribution on the electroplate.
+                            Left: resting state.  Right: active state at
+                            maximum discharge.
+                                         6   25
+
+                                                                                           TABLE   3
+                                                 Impedance and DC Potential of Skin Samples of the
+                                                                  Electric Fish Torpedo marmorata
+                        'T@vT)A of szin               S4in imt)ceanco (!2/cnl2)
+                              lo tes,         2                                                                                                
+DC
+                                     ,cd              6--Urfa-ce--T        surfltee -              averaoo
+                                                                                                                                               
+potential
+                                                                          2                                                                    
+(MV)
+                        Lso"al electric                                                            25.3     4.0
+                        Ventral eleefrio                                                           n    -13          -NS
+                                                                                                   37.6 -L  9.4
+                        2                                                                           n = iF         I
+                        !)O-q.-tl + ventral           31.3  =1  4.6        29.0 + 4.2              35.4     4.4                                
+2 3 + 1.5
+                          e:cctric                    n - 22               n = 22                  n    -                                     
+1 %
+            2            I)or--al non-electric                                                      ot   2-L- 15 3                     5%      
+i3 =@-13
+                                                                                                   n
+                        Vc!itral non-electric                                                              4;.O      NS      1%                
+2  NS
+                                                                                                   n    7         1
+                        Do-%al + -ven' ral            109.S 4- 17.1        113.5   +-   21.5       111.6   20.2                                
+1.8 @- 1.3
+                          non-electric                n                          18                n = IS
+              2          E;-n;'cances                  I                                                                                       
+n - 10
+                                                                  "\-s
+                            -Ul valu
+                                      es  e.,toreLN-sed  as  avera@e.  +  S.r,.  of  the   m
+                        t te,                      3                                        ean,    n    number of measurements. SigniC'cance
+comput@-d bv q','Jdca+,
+                            . t. @.
+                                 'S  non-signi2c--nt.
+                           From Radel-Weiss and KoVacevic(24).
+                                                                                                26
+
+                                             (RI
+                                       RI
+                                             u
+                                       SEX                asc
+                                                     UTRI)
+                                                 oc
+                      Fig. 17. Schematic representation of the impedance
+                                measuring appa4ratus. GEN Generator, OSC
+                                Tektronix oscilloscope, Rl known resistance,
+                                R2 resistance of skin sample.(24)
+                                             27
+
+                                             t(2 1)
+                        Grundfest and Benne       examined the physiology of the marine
+                electric fishes:  Astroscopus,  Torpedo,  Narcine  and  Raja  (Raja  clan@l,
+                Raja ocellata and Raja erinacea).  They examined innervation., excitability
+                and some pharmacological properties of these marine electric fish electro-
+                plates.  The.Torpedo el2ectroplates did not respond to electrical simulation
+                but did to chemical stimulation. (25) The electric organ of Electrophorus
+                electricus has two excitable systems; one direct and one i
+                The electroplate of the main electric organ continues to respond to directly
+                applied electric currents after it fails to respond to indirect, electrochemical
+                neural stimuli.
+                                     (31)
+                  2     Keynes et al.     studied the morphology and electrophysiology of
+                the electric organ of Malapterurus electricus, the African fresh-water
+                electric catfish.  Majapterurus is an exception to the Pauni's law, accord-
+                ing to which the innervated faces of the electroplates become negative dur-
+                ing discharge, whatever the anatomical orientation of the organ.  This law
+                holds for all other electric fishes.  Until Johne l2s(32) studied the  electric
+                catfish and found out that their electric organ  developed  from  myoblasts,
+                the general consensus was that it had a glandular origin.
+                                             t(3
+                       Bennett and Grundfes   3) also investigated the morphology and
+                electrophysiology in Mormyridae which family includes 11 genera and prob-
+                ably several hundred  species.  They  used  on2ly  a  few  species:  Mormyrus
+                rume, Gnathonemus compressirostris, Gnath6nemus petersi . Gnathonemus
+                moori and Gnathonemus tamadua.  The variety in form and signs of the
+                pulses indicate structural and functional properties of the electroplates pecu-
+                liar to the different forms. The  electric  organ  discharges  are  composed
+                of potentials contributed by the stalks that emerge from the7 caudal surface
+                of each electroplate as well as of the responses of both major faces.  The
+                                                   28
+
+             stalks and both major surfaces are electrically excitable and generate spikes.
+             The normally evoked discharges of the electroplates originate by synaptic
+             excitation of the stalk, to which the innervation is applied at one locus in
+             Gnathonemus or at a number of loci in Mormvrus rume.  The stalk system
+             serve to distribute excitation to the electroplate body so that the  whole  sur-
+             face of the latter disc2harges nearly synchronously.
+                    It is important to mention something  about  the  thermal  events  during
+             and after the discharge of strong electric fishes.  We measured  in our
+             previous investigations, the electric output of electric eels and electric  cat-
+             fishes.  One of the electric eels (6 R length) could discharge bursts of im-
+             pulses of over 80 watts peak power and, one of the electric catfishes could
+             disch2arge over 30  watts  peak  power.    Obviously some of the energy was
+                                                               (34)
+             dissipated in heat. Aubert, Fessard and Keynes        studied the thermal events
+             accompanying the electric discharges of the electric eel and the Torpedo. They
+             could distinguish three phases: the phase Q 1 following  immediately  after  the
+             electric discharge., marked by a rapid rise in temperature, fol2lowed by phase
+             Q - marked by a slow decreasing phase which resulted in a temperature below
+              2
+             its initial level.  The phase Q3 starts with a slow temperature rise and staying
+             there for a few minutes at its highest level before returning to its initial tem-
+             perature level. This  latest  phase  Q3is conditioned by the external  load  and
+             the amount of stimulation. It is also subject to fatiome and is  highly 2 ambient
+             temperature-dependent.
+                    There are some difficulties in interpreting the heat measurements
+             in the case of the heat production durino, the electric discharge of the
+                                                     t3.
+             electric organ.  Bernstein and. Tschermak   (3 5) estimated the specific heat
+                                                                       0
+             for the whole organ of Torp1edo to be 0. 86 cal per g per  C. If it is ac -
+             cepted that for a full grown TorDedo nobiliana the electric organs could
+                                                 29
+
+             weigli a few hundred kilograms, there is an appreciable amount of calories
+                                                                ,,r
+             dissipated.  For example: for every hundred Icilor, ams of electric organt
+             86Y 000 calories would be dissipated per 0C-  Some  major  ambiguities   exist
+             such as the nonther=l Q, phase of Electrophorus,, wfdcli is  followed  by  the
+  2           cooling Q2 phase and the slow heating phase Q  3'  The Joule effect and heat
+             propagation have not been studied, and there is a Possible interference of
+             these factors with the results of the estimated specific heat for the electric
+             organ.
+                    The activity of the electric organ and its discharges are  cephalically
+             controlled.  The electroplates are in a parallel series and are well synchronized
+             and delays a2ssure a fast rising time of the impulse. Albe-tessard and Martins-
+             Ferreira (36) investioated the role of the nervous comniand system in the
+             functional synchronization of the electroplates of Electrophorus electrir-us.
+             The electric organ is controlled by a nucleus of cells in the medulla, activated
+             by a synchronous volley from a still unidentified higher level in the bra'm%
+                    It seems that the 2frequency of discharge of the electric signal of electric
+             fishes is a quantifiable behavioral variable.
+             2.2    ELECTRORECEPTORS AN-D ELECTRORECEPTION
+                    Some marine and fresh water fishes are sensitive to weak electric
+             currents or slight changes or discontinuities in an electromagnetic field.
+             Most species bavina this property are also electric fish, but since the term
+             of electric fish is reserved for species w1hich produce electric discharges
+             there are some nonelectric fishes which have electroreceptors but no electric
+             transmitting organs.  The fresh water catfishes Kryptopterus ameiurus
+             nebulosus and clarias and many sharks like the dogfish  Scyliorhinus  canicula
+             and the lemon shark Negaprion brevirostris have electroreceptors.
+                                                 30
+
+                   Only electric fishes having a complex array of different kinds of
+           electroreceptors can discriminate the different stimuli affecting the electro-
+           magnetic field surrounding the fish (generated or not by its own electric
+                   (4; 3 -3 9ii 40 -44)
+           organ).                   Electroreceptors are part of the "lateralis line"
+           system in fish.  The electrosensory system of fish can be active,, pass2ive
+           or both, depending on whether the fish have or does not have an electric
+           transmitting organ and if the electroreceptors are or are not autorhythmic.
+                   The electrosensory systems have extraordinary sensitivies: thres-
+                                                                                (4 @ 45y 46)
+           holds of 0. 0 1 p V/cm have been reported in behavior experiments   .
+                   Elect2roreceptors are located along most of the body.  Usually electro-
+           receptors are more numerous on the head than on the rest of the body.
+           Electroreceptors can be classified by their physiological or behavioral
+           characteristics.  We have mentioned previously that from the physioloaical
+           vieivpoint electroreceptors can be classified as:
+                   a.  Synchronous
+                   b.  Non-synchronous;
+           or:
+                   c.  Phas7ic (not to be confused with phase indicators),
+                   d.   Tonic;
+           or:
+                   e.  Ampullary type
+                   f.   Tuberous type.
+                                             31
+
+              From the behavioral viewpoint the electroreceptors can be classified as
+              indicating:
+                      a.   Movement
+                      b.   Direction
+                      c.   Conductivity
+                      d.   Acceleration
+                      e.   Phase of an electric signal
+                      f.   Frequency of an electric signal, and
+                      g.   Amplitude of an electric signal.
+              2.2. 1  Distributio2n of the Electrosensory -Receptors
+                      The electroreceptors sensory fields of Gnathonemus petersii(181       191)
+              can be  clearly visualized if we put the fish in a solution of 1001o buffered
+              formaline. Figures 20 and  21  show  the  limits  of  these  sensory  fields.
+                      There are between 700 and 1000 tuberous organ electroreceptors,
+              between 800 and 1000 2type A mormyromasts electroreceptors and between
+              2100 and 2300 type B mormyromasts electroreceptors in the skin of an adult
+              Gnathonemus petersii.   (47) The total number of electroreceptors varies be-
+              tween 3600 and 4300.  These are distributed on the body as follows: between
+              42 to 467o on the head on 41 to 449o' of the electroreceptor fields; between
+              30 and 329o' on the dorsal sides on 27 to 30% of the electror2eceptor fields;
+              and between 22 and 26% on the ventral sides on 25 to 329o'  of  the  electro-
+              receptor fields.  The total area of the electroreceptor fields may occupy
+              between 2000 and 5000 mm    2 area for fishes between 90 and 125 mm length.
+              Figure 22 shows the different types of mormyromast electroreceptors of
+              Gnathonemus petersii.
+                     With the exception of the sensory receptors  of  the  chin  2which  are
+              mechanical displacement receptors and are connected to the CNS through
+                                                 32
+
+                            Fig. 18. African fresh water weakly electric
+                                     fish Gnathonemus petersii.
+                                                   t
+                       Fig. 19. Electric fish Gnathonemus petersii in a lucite
+                                restraining tray provided witli stainless steel
+                                electrodes.
+                                               1  33
+
+                                                                    DoXiAL
+                                               ,Fye Ficii)
+                                            Nor,
+                                               r
+                                         ailm
+                                                  Fig. 20. The electric sensory fields of
+                                                          5        Gnathonemus petersii.
+                                        Fig. .21. Limits of the electroreceptors sensory
+                                                        fields of Gnathonemus petersii.
+                                                                             34
+
+                                              b
+                         Fig. 22. Different types of morm'yromasts:
+                                  a. tuberous organ
+                                  b. A-inormyromast
+                                  c. B-mormyromast
+                                  (top and cut vienv).
+                                            35
+
+            the nervus  trigeminus,  the  mormyromast  electroreceptors  are  subserved
+            by the lateral line nerves. Figure 23 shows the main branches of  the  lat-
+            eralis nervous system. All the  mormyromasts  types  (tuberous,  A  and  B)
+            are connected to nerves forming bundles pertaining to the lateral line sys-
+            tem and endin(r in the brain. Figure 24 shows an  electronmicrograph  of  a
+            mormyromast type I2I.
+                   The tuberous organ electroreceptors are  autorhythmic  and  the
+            EMF may reach a few millivolts.  The repetition rate varies from 550
+            to 3 900 with the most often encountered repetition rate between 9 50 and
+            19 50 Hz.
+                   Figure 25 shows a comparison between sensitivity and density of
+            the electroreceptors in the epidermis of Gnathonemus petersii and Fig. 26
+            shows the authorhytmic activity 2of the electroreceptors near the chin and
+            near the eye.
+            2. 2. 2  Tonic and Phasic E lectroreceptors
+                   Figure 28, Fig. 31a and 33 b show ampullary tonic electroreceptors.
+                                                                               (37)
+            They resemble to the Lorenzini ampulla, a multisensory receptor.
+            Dotterweich (48) mentioned twenty five morphologically different types of
+   2         Lorenzini ampulla. It seems that depending on function and species of
+            fish there is a large variation of this type of sensory receptor.  One of
+            the differentiatina characteristics of the ampuuary sensory  receptors
+            is the number of receptor cells which are embedded in the wall of  the
+            ampulla.  Only a small part of their circumference is exposed to the
+            lumen, althouah the surface in this regionImay be increased by micro-
+      5      Vill,. (49, 50, 51, 52) They are innervated by sincle erfferent fibers  on
+                                                           t>
+            their inner surface and are surrounded by supportincr cells.  The response'
+            of a tonic ampullary receptor is sliown in Fig. 29.  The ampullary electro-
+                                              36
+
+                                               IV.YAGUJ  RAMU S boa; V. LAr. kmor. Jplv4L CoAb
+                                    CCAE
+                                  TEU
+                                                                                                                  IC.
+                                               GtiLs
+                       Fig. 23.... The lateral line nerves of the electric fish Gnathonemus petersii.
+                                  (Redrawn after Harder(47).)
+
+                Fig. 24. Electromicrograph:
+                          a.  Transverse cut of Gnathonemus epithelium: mormyroniast
+                              type I[ with sensory cells A and B-. Helly's fixative; stain-
+                              ing: Azam
+                         b.   Higher magnification of the A and B tpe cells. Arrows
+                              indicate synaptic zones; c: fibrous capsule; staining:
+            8                  phosphotungstic acid.
+                         (after: Barets and Szabo (49)).
+                                                 38
+
+                             IE
+                                                  Jell
+                            44
+                             0
+                            Fig. 250  Comparison between sensitivity and density
+                                      of the electroreceptors of Gnathonemus
+                                      petersii in the epidermis (dfter H-a-r-cre-r (47)).
+                        2                  aVAA&@&
+                                          b
+                                          4
+                                          C Vw%w
+                        Fig. 26.  Autor4ytmic activity of the electroreceptors
+                                  of Gnathonemus petersii:
+                                  a.  500 Hz calibration sicqial
+                                  b.  electro0receptors near the chin
+                                  c.  electroreceptors near the eye
+                                  (after Harder(47)).
+                                                   39
+
+                      a  .......................
+                                             ..............................................................................................
+                      b
+                      c
+                      a ....................................
+                                                                ............... ............................... ...........2.........
+                     b
+                     c
+                             Fig. 2 7.  Electric activity from the nervus lateral anterior innervating
+                                        receptor near the proboscis of a mechanical displacement on
+                                        the chin of Giiathonemus petersii when the proboscis has been
+                                        moved upwa
+                                        a.  time marks = 50 Hz
+                    6                    b.  electric activity in the nerve
+                                        c.  movement of the chin proboscis
+
+                                                                   fie A
+                                                                    &7
+                                         St CEET TOA
+                                           CCU$
+                                                                        Ciiii   I I llfi!lllllll
+                                   nic electrorecept        Fig. 29.  Stimulus an2d recordii-i- from
+                23.  Ampullai-y to                    or.                                      0
+                        (Schematic)                            an ampullary tonic electroreceptor.
+                                  p*Aoui MAIS                                              A
+                                       c eas
+            Fi,,. 30., Tul-jerous ph,,tsic clect5rorcceptor.  Fier. 3 1. StiiiLulus -,ind recorcliiig froii-L a
+                         (Selieni.,itic)                        tuberous pliasic clectrorceeptor.
+                                                        41
+
+                                                     ,ate.-- ikl@
+                                                       m6
+                                                                              rob
+                                               41
+                               Fig. 32.    Electroreceptors of G
+                                                                 _Vrn iarchus niloticus.
+ 2                      a: ampullary electroreceptor           b: tuberous electroreceptor type b
+                       c: tuberous electroreceptor type c.  (Schematic)
+                                                     42
+
+                                                    sip-
+                                  RECEPTOR CELLS    N-z HERVE FI&EV@,
+                              E:EPITHE-LIAL TISSUE LELUMEII
+                              F--FLATTEIJED LE.LLS
+                    Fig. 33.   Phasic electroreceptor, South American fresh
+                           5    water weak electric fish (after Szamier and
+                               Wachtel(51)).
+                                                   43
+
+               of a tonic ampullary receptor is shown  in  Fig.  29.  The  ampullary  electro-
+               receptors are connected to the exterior by an obvious canal filled with a
+               polymucosaccharide jelly.  There is evidence that different kinds of am-
+               pullary sensory receptors (electroreceptors, mechanoreceptors, temperature
+               receptors) may have biochemically different jellies in the canals. (41)
+                      Anat2omically and functionally the phasic electroreceptors are dif-
+               ferent from the tonic receptors.  No obvious canal connects the lumen of
+               the phasic electroreceptors to the exterior. A plug of loosely packed epi-
+               thelial cells are interposed between the receptor and the superficial layer
+               of the epidermis.  Phasic electroreceptors are shown in Figs. 24, 30, 32b
+               and c, 33, 34c, d and e. and 35.  Phasic2 electroreceptors are sensitive to
+               higher frequency stimuli than the tonic types.  The phasic electroreceptors
+               behave as if a capacitor was interposed between the cell proper and the ex-
+               terior of the fish.  Three properties derived from the fact that there is a
+               capacitance between the cell and the exterior can be ascribed to the phasic
+               electroreceptors: (1) equivalence of onset and termiri@-tion of long2-lastino,
+               stimuli of opposite polarity; (2) absence of excitability change during  maint-
+               ained stimuli; and (3) absence of -net current flow during externally  recorded
+               responses. (53)
+               2.2.3  The Control and Function of the Electroreceptors
+                      We mentioned that the qlectroreceptors are part of the lateral line
+               system in fish.  The functional characteristics of six d2ifferent kinds of lateral
+               line organs have been  considered:  canal  neuromasts,  free  neuromasts.,  am-
+               pullary electroreceptors, ampullary displacement receptors, mormyromasts
+               and bulbar organs. Some 'of the organs are autoactive, others  are  only  acti-
+               vated by the electric discharges of the transmitting organ.  From the six
+               different lateral line organs mentioned, three types are electric and thre7e
+                                                 44
+
+                                                  ............
+                                                                      d
+                                                                   gx
+                                                                      C
+                                                                                                                              t
+                                                                   3
+      2                                                                b
+                       SC
+                                                                               n           b.m.
+             b.nL                      43
+                                     SC  Mc
+                                                                                            SC
+                                                         SC
+                                                       2            0
+                                                                   0
+                                                                                 C
+                       Fig. 34.  Schematic drawings of ordinary and specialized lateral
+                                 -line organs of gymnotids (after Th. Szabo).
+                                 A.  Schematic drawing of "ordinary" lateral-line organ.
+                                 B.  Organ type I (ampull5ary organ).
+                                 C. Organ type IIA (tuberous organ) (Hypopom-u-s-,)-
+                                 D. Another type (IIB) of tuberous organ (ilypopomus).
+                                 E.  Tuberous organ type IIC (Electrophorus).
+
+                         Fig. 35.  Tuberous organ (electroreceptor) of
+                                   Gnathonemus petersii.
+                                               4(3
+
+       types are mechanic;xl receptors. It seems that the fish  utilize  the  electrical
+       receptors for communication  and  object  recognition  and  the  mechanical  re-
+       ceptors for swimming and for proximity feeding.
+               There is a correlation between the electrical and the mechanical
+       stimuli and a differentiation at the higher  nervous  levels.  The  investigation
+       of the roles of the different receptors in mormyrids for object detection,
+       locati2on and identification, may help to elucidate their function.
+               Hagiwara,  Szabo   and   Enger (54) studied the effect of local conductivity
+       of the external environment of the electric fish Sternarchus  albifrons  on  its
+       electroreceptors.  They found that the information about the local conductivity
+       is transmitted through the sensory nerve fibers innervating the electroreceptors
+       to the higher nervous centers.  Sternarchus albifrons has a high frequency2
+       electric organ discharge (650-1000 Hz).  "The impulse frequency of the
+       electroreceptor nerve fiber increases when the control  edge  of  a  metal  plate
+       (conductive object) or the control edge of a plastic plate (nonconductive object)
+       is above the receptor of the fiber.  ,(54) (Fig. 36)
+               Both phasic and tonic electroredeptor response is determined first
+       by the rate of change of the current intensity and second by the intensity of
+   2    the current. Movement of the  object  affects  the  phasic  electroreceptors.  If
+       a constant-voltage pulse field is applied between the head and the tail  of  the
+       fish the increasing or decreasing of the signal rate in the nerve fiber  of  the
+       electroreceptor is conditioned by the  polarity  of  the  stimulus.  Synchroniza-
+       tion of the electroreceptor nerve fiber frequency and the frequency of the
+       electric organ of Sternarchus albifrons exists only at a high inte0nsity  of  the
+       field potential.
+               Szabo and Fessard   (39) investigated the electroreceptors in mormyrids
+       and Belbenoit(") studied the ability to locate objects by similar fish species.
+                                            47
+
+                                            A                                       B
+                        200
+                       /SEC
+                                                                500                      Metal plate
+                        loo  -                                                          Plastic plate
+                                                                400 - I
+                                          2                                      2
+                   iAZ  300  -
+                                                                300 -
+                   to
+                        200  -                                  200 -
+                        loo -                                   loo
+                                              L
+                             0   5     10    15   20     25         0         1         2 2        3
+                         POSITION   OF THE ROSTRAL EDGE            DISTANCE FROM THE LATERAL
+                                OF  THE PLATE (cm)                     SURFACE OF THE FISH (cm)
+                       Fig. 36.      A: relationship between the steady-state nerve
+                                     impulse frequency and the position of the plate
+                                     along the long axis of the fish; upper diagram for
+                                     (4x22 cm) metal (dots) and plastic (circles) plates,
+                                     lower diagram for a (6x2 cm) metal plate. Arrow
+                                     indicates location of receptor. B: relationship
+                                     between nerve impulse frequency and distance
+                                     between plate and lateral surface of the fish.
+                                     Curves 1. 29 3. were obtained with three different
+            4                         positions of the plate along the long axis of the fish.
+                                     (After Hagiwara, Szabo and Enoer
+
+          They found that some electroreceptors have a continuous autorhythmic
+          activity which could-surpass 2000 Hz.  This activity could be modulated by
+          an alternating current present in the aquarium.  These electroreceptors
+                                   (56)
+         .are similar to the Franz      "tuberous organs.     They concluded  that  the
+                                                                       ignals by vari-
+          electroreceptive function c2onsists in encoding peripheral s
+                                         d latency of the electroreceptor units and by
+          ations in frequency; phase an
+          changing the number and distribution of the activated or inactivated re -
+           ceptors. A pacemaker seems     to control the autorhythmic activity  of  the
+           receptors.
+                  The author has performed simultaneous recordings from the electric
+           transmittincr organ and from autorhythmic ampullary tonic e2lectroreceptors
+           of Sternarchus albifrons (see Figs. 37a and b).  The transmitting organ was
+           discharging at a rate of  approximately  680  cycles/sec;  the  autorhythmic
+           activity discharged at a rate of approximately 900 cycles/see and an am-
+           plitude of about 2 mV.
+            2.2.4 Active ElectroreceE!im
+                   Lissn-an and Machin(39) studied the behavior of Gvninarchus niloticus
+            and2 concluded that the detection and location of objects by the fish is due to
+            both the transmitting electric organ and the electroreceptor array. Any ob-
+            ject that wcald come in the proximity of the fish would constitute  a  dis-
+            continuity in the electromagnetic field generated by- the electric transmitting
+            organ.  This discontinuity would  affect the electroreceptors.  The informa-
+            tion transmitted by these electroreceptors to the highe9r nervous centers
+            would determine the behavior of the fish.
+                                          (38, appendix)
+                    Lissman and Machin                  attempted to explain this phenomena.
+             The authors suacrested that the fish is integratina the second derivative of the
+                                                 49
+
+                                                     Figurc 37a.,Rccordin,, from an
+                                                                 d, curarizcd Stcrn,2@rch,,.s
+                                                      anaestlictizc
+                                                                 ecimcn. I-lorizontal:
+                                                      II)ifrons Sp
+                 2                                       graduation             ertical:
+                                                                    1 mscc. V
+                                                                    10 mv.
+                                                     I  graduation
+         Fic,ure 3'7b. I\Iicroelectrode recordin,,Or of
+         the autorhythmic electrical activity of
+                                2  troreceptors of
+         the an-il)ullarS, tonic elec
+         Stei-narcli  @ nll)ifrons. The spilzes seen
+                                 C almost
+         on the top of the rliythmi
+                                  the electric
+         sintisoidal wan,erorm are
+         sic.nials from the electroreceptors.
+         Horizontcil: 1 gradtiation = 2 msec.
+         Vertical: 1 graduation = 8500 MV.
+         Amplification xlOO, effective 1 gradua-
+         tion  5 m V.  Spil@c app. 2 to 2. 5mv.
+
+       the received signal and thereby increasing significantly the signal-to-noise
+       ratio of the signal.
+       2. 2. 5  Passive Electroreception
+              Previous and actual investigations have shown that certain electric
+       fishes cease transmission when objects which could represent a threat are
+       brought in close proximity.  The fishes continue to react to the presence of
+       these objects even after their transmissions have  ceased.  This  could  indi2cate
+       that they are still able to detect the presence of these objects by usino- their
+       electromagnetic sensor array in a passive mode.  There is evidence in the
+                                                                xa               57)
+       literature which tends to support this conclusion.  For e  mple   Bullock(
+       recently mentioned that sharks, fresh-water catfish and electric fish use low
+       or hic,                                                      2                (58)
+            ,,,h frequency electroreceptors for passively detecting objects.  Kalmijn
+       published an article on the electric sense of sharks which have no  transmittinc,
+       electric organ.
+                    (59)
+              Szabo     denervated the transmittina electric organ of Gymnarchus
+       niloticus and made it inactive. He recorded the autonomic  activity  of  electro-
+       receptors in the skin (3-12 mV) at a frequency2 of 310 to 340 Hz.  The fish
+       with the denervated transmitting electric organ will react normally  to  metallic
+       objects brought close to it.  This result suggests that the electric organ dis-
+       charge may not be essential for the localization of objects in close proximity
+       to the fish.
+                               (60)
+              Szabo and Sakata      used curare to block the electric transmitting
+       organ command-center in the brain and  found  that  the  3mesencephalic  potential
+       depends on the impulses transmitted by the electroreceptor system  of  the  fish,
+       and not on the rhythmic activity of the trans mittinaargan.
+                       (46)
+              Agalides     reported in 1963 to the  ONR  that  lemon  sharks,  Negaprion
+       brevirostris, have very sensitive electi-oreceptors, but no  transmittin-  organ.
+                                          51
+
+               This evidence emphasizes the importance of the electrosensory
+        array in the identification and location of objects.  Under certain conditions,
+        the fish may not need a transmitting organ in order to navigate, detect, lo-
+        cate and identify objects.  On the other hand, it has been demonstrated that
+        if the electrosensor array is incapacitated, the fish cannot navigate correctly
+                    (60)
+        or find food.
+        2.22.6  Coding of the Electrical SiTnal of Electric Fishes
+                                       - - 1-1@
+               Investigators of electric fishes proposed different kinds of coding
+        schemes for their electric signals.  Lissman and Machin (38) proposed a
+               1.  "Pulse-frequency-modulation" (like in Gymnarchus nilotic'us);
+        Watanabe and Bullock 1(62) proposed a
+               2.  "Pulse-phase modulatio2n" (like in Eigenmannia vireseens);
+                           (61)
+        Szabo and Hag3.,w-ara  analyzed and suggested three other kinds of codings:
+               3.  "Number coding mechanism" (like in Hypopomus artedi).,
+               4.  "Probability coding mechanism" (like in Sternarchus albifrons),
+               5.  "Latency coding mechanism" (like in Gnathonemus petersii).
+               According to the first hypothesis "Pulse9-frequency modulation" sen-
+        sory information should be conveyed by the frequency of the sensory impulses
+        dependent on the pulse of the electric discharges,
+               The second hypothesis "Pulse-phase modulation" the sensory coding
+        is the result of time relation (the phase) on the sensory impulse follo,.vin'T the
+        electric orcran discharge.
+                                          52
+
+            The third hypothesis called the "Number coding mechanism" supposes
+     that the intensity of the electric potential field is coded through a single electro-
+     receptor fiber by the number of nerve impulses produced by each electric
+     organ pulse.
+            In the number four hypothesis, called "Probability coding mechanism.,
+     the coding is provided by the probability that each electric organ impulse might
+     initiate an impulse in the nerve fiber.
+            Fina2lly the fifth hypothesis: "Latency coding mechanism" is explained
+     by the fact that certain mormyrid electroreceptors permit a change in latency
+     of the electric organ impulses related to the intensity of the  current  flowing
+     through the receptor.  Therefore, the intensity of the potential field can be
+     coded by the time relation between electric transmitting organ discharge and
+     sensory impulse, the time ranaing being as much as 8 milliseconds.  For
+     variations in the s-upertlireshold field intensity this would be the only  mech-
+     anism for a sensory organ producincr single spikes.  The place where the
+     latency-shift of the sensory impulse is taking place has not  as  yet  unquivoc-
+     ally explained.
+            It is worth mentioning that there are electroreceptors connected to
+     nerve fibers which would not transmit any impulses without a specific stimulus.
+     Other electroreceptors are related to  nerve  fibers  discharging  continuousl2y.
+     Some., when presented with stimuli, increase their electric activity and
+     others decrease it.
+     2.3    EXPERIMENTAL FINDINGS
+     2.3. 1  Methods
+           Figures 38 and 39 show two African fresh water weakly electric fishes
+    Figures 40 and 42 show two South-American fresh water weakly electric fishes.
+    Figure 41 shows an African fresh water strong electric fish and Fig. 42 shows
+    a South American fresh water stroner electric fish.
+                        9                53
+
+                Fig. 38. Gymnarchus niloticus.  African fresh water, weakly
+                          electric fish.  45 cm long, weight: 600 g, land of
+                          origin - Congo.  Repetition rate of the-signal: con-
+                          stant medium rate     300 per second.
+                 Fig. 39. Gnathonemus    petersii.  African fresh water, weakly
+                          electric fish.  15 cm long, weight: 19 g6, land of
+                          origin - Nigeria.  Repetition rate   of the signal: vari-
+                          able low rate:  2 to 150 per second.
+                                              54
+
+                                                                 es,,-water
+                                                       erica-li ir lit -
+                                ,s cara.PO-  South           weig  . 180 g;
+                                            -h 22 cla IO'laot
+                                           i            tition rate 0, the
+                           2                s
+                       SY- -@@.O@i@ctric
+                        ,v e zLt@l,-j electr3-c    pepe         150 per sel.
+                        land of.oric-in - "razi"  rclte      to
+                        signal'. variable rnedium
+                                                                                   trong
+                                                                        .,,-water S
+                                                                    fres
+                                                      us     AIric
+                                                                             'Bursts of
+                                           Lls electric          ht- 215 9-@
+                     Fig. 41. lllqp
+                                    0 @e_   'hi         2oo   volts
+                                              is cra lontt
+                               electric  iis
+                                 to 15 pulses'. 150 t
+
+                                                                   A"
+         4tn
+                     Fig. 42. Sternarchus albifrons. South American fresh vrater weakly electric fish,
+                              17 cm long, weight: 32 g; land of origin - Brazil. Repetition rate of the
+                              signal which Is constant with constant water temp.: 760 per see at 230C.
+
+                 Figures 43 to 49 show the electric signal of five fresh water weakly
+         electric fishes.
+                 A corner of our laboratory with aquaria is shown in Fig. 50. In Fig.
+         51 different restraining cages for the fish is shown. In Fig. 52 a self-built
+         microelectrode amplifier is shown and in Fig. 53 the instrumentation used
+         for recording and playing back the electric fishes electric sianals is shown.
+         2. 3. 22  The Electromagnetic Field Generated by Sternarchus albifrons
+                 T Soutli American FresE Water Weakly Electric Fish
+                 The 12 foot diameter, 4 foot high fiberglass water tank fill-Bd with ap-
+         proximately 1000 gallons of fresh water of pH 7. 1 has been used for the
+         electromagnetic field measurements.
+                 The water is heated by 2xlOOO watt heaters controlled by a IIYSI"
+                 0
+         to 0. 1 C temperature controller.  The water in the tank is normally held
+              0
+         at 25 C.  The heaters are in a separate 30 gallon (Iheater'l tank and are
+         connected to a relay switching them on and off and controlled by the tem-
+         perature controller.  Two 9 gallon per minute pumps circulate water from
+         the large tank to the heater tank and return.
+                 The silver-silver chloride-platinized-silver-chloride e2lectrodes are
+         attached to rails of nylon string, allowing them to be moved from one end to
+         the other end of the tank.  The electrodes are connected to a remote con-
+         trolled differential amplifier (anipl. fact. x 4200) suspended over tha tank
+         and from the amplifier to the oscilloscopes Tektronix type 555, or type 502
+         with differential input.
+                 An electric fish was suspended on one of the restraining devices shown
+  3       in Fia. 70.  The fish restraining devices were provided with stainless steel
+              Z>
+         end-electrodes which were connected to an audioainplifier (ampl. fact. = 400)
+                                            57
+
+                                                                                                                       Wit
+                                                                              n fresh water strong electric
+                                                              South America                             -100
+       co                                   rus  electricusv                   ran discharge about 70
+                 2     Fig. 43.  FIectrophO'@              ic organs-. main org
+                                                                     organ of Ilunter: 1-7 volts used for
+                                                length of the fish;          and discharge of this organ
+                                volts  per  f              hs: the purpose
+                                            .I- organ of Sac
+                                navigatiol  i
+                                are not as Yet well established.
+
+                    Fig. 44. Gnathonemus petersii train of impulses 1/10
+                             sec per grad U. b V per grad.
+                    Fig. 45. Gnathonemus pe#Lersii single impulse 200 micro-
+                             seconas- ii5@'d I volt ad.
+
+                                                 j
+          Fig. 46.  Sternarchus albifrons electric signalg repetition rate: 760 per
+                    see water emperature: 230CY amplitude: 10 mV grad,, sweep
+                      0.P5 msec grad, carbon electrodes 8 inches apart.
+                                  -V--t t7
+                                      -4E
+        1    Fig. 47.  Gymnarchus niloticus electric signal, repetition rate: 320 per
+                                              240C, ampiitude: 5 inV grad, sweep:
+                           water temperature:
+                      see,
+                                                                  part.
+                      0. 5msee grad,  carbon electrodes 12 inches a
+                                             60
+
+                                                               'd U.
+                                                            RIP
+                                                ji
+                                                             tition rate: 9. 5 per sec,
+           -Fig. 48.                     lectric signaig repe   mV/grad sweep: .5
+                                          240C, amplitude: 100   e2ss steel electrodes.
+                                           lucite tray with stainl
+                                                                      t
+                                                                                 de: 100
+                        Gymnotus caraipo electric sigmi, single spike, amplitu
+              -Fig. 49.                           crosec/grad, special lucite tray witll
+                     6        --      W'e(TD-: 500 mi
+                         mv/gradt-S-Nvl  ,
+                         stainless steel electrodes.
+                                                 61
+
+                           ----------
+             'Fig. 50,  View of a corner in the electrophysiology laboratory R7ith the
+                        aquaria for electric fish.
+                                    IF
+                                                                  caaes for the fish
+               Fig. 51.  Different kinds of lucite restraining
+                               5                      62
+
+                                           lip
+                                        ;.Tek
+                                               0
+                                               pport and amplifier_ Bottom.
+                    Fio,. 52. Microelectrode  su
+                              L
+                                      r
+                                                          mametic tape recorder
+    2                        lifiers, oscilloscope and Revox       ical activity Of
+             Fig. 53.  Amp                             k the electr
+                        with Dolbi-filter) for playiig bac
+                        electric fishes recorded on magnetic tape-
+                                               63
+
+                            7t     -N
+                                  4z-
+           Fig. 54.   Electrical activity of Sternarchus albifrons. Fish in lucite and
+                      nylon fish line fixture; the pick-up electro7es were parallel with
+                      the fish, distance: 40 cm, amplitude: 0. 2 V/grad, fish at 00,
+                      amplifier amplification factor: x 4200.
+            Fig. 55.  Electrical activity of Sternarchus albifrons. Same as Fig. 54
+                      but the pick-up electrodes were parallel with the fish, amplitude:
+                      0. 2 V/grad, fish at 22. 500
+                                            64
+
+              Fig. 56.  Electrical activity of Sternarchu@s albifrons.  Same as Fig. 54
+                         but the pick-up electrodes we@re@pa-r-a-l-l@e-I w@ith the fish, amplitude:
+                         0. 2 V/gr@d, fish at 450.
+                Fig. 57.  Electrical activity of Sternarchus albifrons.  Same as Fig. 54
+                           but the pick-up electro es were r)arailleel -@%wv-ilth the fish, amplitude:
+                            100 mV/o-rad, fish at 67. 50.
+                                                     65
+
+            Fig. 58. Electrical activity of Sternarchus albifrons. Same as Fig. 54
+                      but the pick-up electrodes ,vere parallel with the fish, amplitude:
+                      50 mV/grad, fish at 900.
+            Fig. 59.  Electrical activity of Sternarchus albifrons. Fish in luc'lte and
+                      nylon fish line fixture, pick-up electroaeg-perpendicular to the
+                    2  fish, distance: 40 cm,, fish at 00, amplitude: 100 mV/grad,
+                      sweep: 1 msec, amplifier amplification factor: x 4200.
+                                             66
+
+              Fig. 60.  Electrical activity of Sternarchus albifrons. Fish in lucite and
+                        nylon fish line fixture@@-up electrodes perpe
+                                             ,, pick                   ndicular to the
+                        fish, distance: 40 emi fish at 22. 50, amplitude: 100 mV/grad,
+                        sweep: 1 msec, amplifier amplification factor: x 4200.
+8
+              Fig. 61,  Electrical activity of Sternarchus albifrons.  Fish in lucite and
+                        nylon fish line fixture, pick-up electrodefperpendicular to the
+                        fish, distance: 40 cm, fish at 450, amplitude: 100 mV/grad,
+                        sweep: 1 msec, amplifier amplification factor: x 4200.
+                                                67
+
+                                        .n4
+             Fig. 62.  Electrical activity of Sternarchus albifrons., Fish in lucite and
+                        nylon fish line fixture, pick-ud electrodes perpendicular to the
+                        fish, distance: 40 cm, fish at 900, amplitude : 100 mV/grad,
+                        sweep: 1 msee, amplifier amplification factor: x 4200.
+         3    Fig. 63.  Electrical activity of Sternarchus albifrons.  Fisb in lucite and
+                        nylon fish line fixture, pick-up electroc7es perpendicular'to the
+                        fish, distance: 40 cm, fish at 900 amplitude    100 mV/grad,
+                        sweep: 1 msec, amplifier amplification factor: x 4200.
+                                                68
+
+                                                  RAILS                            RAILS
+                                                        NILON L I)IC-
+                                                             LUCITE' CONE
+                                                           :14ARKt-q@  IDDLE OF771
+    ,too                                                   0
+                                 2                                   FISH                                                                
+MPLIFIEP,
+                                                      PA-RALL.rLPItK-M? ELECTRODE.
+                                                                                                                    PERPEAfbl(ULA)Z
+PI(X-UPEL&MOPef
+                                                            F169EP,6LAgS TAMK
+                                 qo,
+     To IROF DIFF@AMPLIFIEP,
+                                                                   KA ILS
+                                                                                     th a fish positioned in
+                         Fig.  64. Diagram of the fiberglass water tank wi
+                                     the middle of the tank and pick-up electrodes.
+
+        CD En
+          (D0
+           CD
+           C-t.
+           En
+          (D (D
+          U)
+          P(D
+           CD
+
+                                -4     220'                                                                  F I
+                                                                                                                   XC    tj
+                                                                                                                                     AL
+                                       230'
+                                                 2                                                     @7
+                                --4    240'
+                                                                                                                                               
+iin,
+                                       250
+                                       tio
+                                                                                                        2                                      
+icn.
+                                       260'
+                                       27Cr
+                                       90
+                                       2--3
+                                                                                                             0
+                                                                                                2                                              
+.51
+                                       310'
+                                       50,
+                                                                              To  !Ck@-TICAL   @@136 @A L;
+                                                                                       ti p
+                                       320,
+2
+                                                                                                                       77@
+                                                                                                                          lo-
+                                                                        20,               to,                             3W'             3 40@
+                                                      I TT,-,  2     r     I .7T=. -[-i-t7           -n                1-71 f
+                             Fig. 66. Electroniagnetic field-pattern of the freshwater weakly electric
+                                                 fish Sternarchus albifrons. Pick-up electrodes perpendicular
+                                                 to the field.
+                                                                                                   71
+
+                                                                                                                                               
+HILLI"L.TJ  AT   Tifil  picle-up                  ItL4'C'rADbC$  IAJ4PL-IF$eP  OOO)T
+                                                                                                                               ik
+              2                                                                                                                 p       I      
+o a                                                                                           CO,
+                                                                                                                                         7- -7
+                                                                                                                     2                         
+iiit
+                                                                                                                                               
+Tl'
+                                     2          CD
+                                               ,.t.  M      CD
+                                         CD
+                                         CD    n     CD
+                                               0--   CD
+                                         C)
+                                                                                                                                               
+2          t-J-
+                                                            cn
+                                               CD                              J.
+                                         CD
+                                               txj
+                                                     (D
+                                  II-    W                                                I     i. i.:  i,!:           :      .         2      
+.   -      -   I        . I   .. ,     .                   , .   il,  i;           .      .  .,[  ,  .    I.I
+                                                     En
+                                  CD     C:)   (D
+                                               0
+                                  0
+                                  C+
+                                         CD                 En
+   2                                                  tn
+                                  pcl    fn
+                                  0      0
+                                  (D     CD
+                                                            (D
+                                         (D
+                                                     CD
+                                               p
+                                                     I---   CD
+ 2                                                    En     (')         %          .      .   ; I : '      .                                  
+:   .
+                                         CO                                        6.1
+                                                                                                                                               
+E     4       6s rAN           WIA.
+         2                                CD
+                                         o     o
+                                                            cn
+                                         p     0
+                                                     CD     00
+                                                                                                                                               
+2                                                                               r
+                                               CL
+                                                     0      ('D
+                                         CD    0     :3,
+                                         (D    ::$   CD                                                         ....  ..
+                                                     4r+
+                           9              0           CD     e+
+                                         0,          0
+
+              Fig. 68.  Permanent magnet (500 g) wrapped in polyethylene foil.  It
+                         was submerged in the water to assess the ability of electric
+                         fish to detect magnetic fields.
+                                                       i,7
+              Fig. 69.  Different objects (cylinders of n@etal) used to test the ability
+                        6f electric fish to detect them. A lucite cylinder (not shown)
+                        was also used.,
+                                                 73
+
+                  70. Electric fish in lucite tube with holes and stainless steel end
+                      electrodes in the large fiberglass tank used to establish the
+                      threshold of  detection of different objects (before lowering
+                      the tube in the -water).
+                                                74
+
+                 and to an oscilloscope. During the measurement@, of the electromagnetic
+                 field generated by Sternarcilus albifrons, the -fish was confined in the fixture
+                 of lucite and nylon fish line with an open area of 827o.  The fixture was free
+                 of conducting materials.
+                       The fish in the restraining fixture was located in the middle of the tank
+                 and could be rotated 18002.  The center of the tank was constantly fixed using a
+                 lucite plumb bob suspended from the ceiling (Figs. 70 and 71). Measurements
+                 were repeated at 001 22. 502 450 67. 50 $ 900$ 112. 50 $ 1350 157. 50 and 1800
+                 of rotation. All measurements were replicated five times.  The fish was sub-
+                 merged to a 10 cm depth.  The fish's own signal was too weak to take m2ea-
+                 surements at distances over 40 cm from the fish.  Therefore, the discharge
+                 of the fish was amplified by an audioamplifier 400 x and fed into the tank by
+                 means of silver-silver chloride electrodes about 12 cm apart (equal to the
+                 length of the fish).
+                        The fish could discharge a signal of about 22 mV at a repetition rate
+                 of 720.  The resistance of the water was around 900 ohms between ele2ctrodes
+                 (12 cm distance). We amplified the fishes original signal to 7 volts when we
+                 recorded from the electrodes.- In this way, we improved the signal-to-noise
+                 ratio by a factor of 7/.002 or 350.
+                        Measurements were made with the electrodes parallel and perpendicula,
+                 to the electromagnetic field of the fish. Data was plotted on graph paper.  Phu.
+                 were taken with the oscil2loscope camera.  Figures 54 to 57 show the signal
+                 picked up by the silver-silver chloride-platinized-silver-chloride electrodes
+                 when parallel to the electromagnetic field.  These oscilloscope data show the
+                 signals amplified x 4200.  The smallest readable value was around 6 microvolt
+                 at the origin.  The noise level was very low considering that the tank is in an
+                 open area and the room was not shielded.
+    2                                                 75
+
+              Fig. 71. Fish in a restraining cage submerged in the large tank, the
+                       lucite cone indicates the middle of the tank. Arrow indicates
+                       an object moved in the direction of the fish.
+                                                 76
+
+                   Figures 59 to 63 show the signal picked up by the electrodes being per-
+           pendicular to the electromagnetic field of the fish. All these measurements
+           were taken with the pick-up electrodes at 40 cm distance  from  the  fish.  The
+           fish was rotated from 0 0 to 900 making measurements at 0   0i 22. 50y 450t 67. 50
+                   0
+           and 90  . Figure 64 shows a diagram of the fiber2glass tank including positions
+           of the fish and of the pick-up electrodes.  Figure 65 and 66 shows the electro-
+           magnetic field of Sternarchus albifrons plotted and compared with the normalized
+           theoretical cosinus curve of a dipole, for pick-up electrodes parallel to the
+           electromagnetic field.
+                   Figure 67 shows the EMF values for different distances from the
+           center of the tank.
+                   The fish had to be restrained from mo2ving  during  the  electromagnetic
+           field measurements, so as not to chance the dipole direction.  We experi-
+           mented and checked different fixtures like: tubes with holes, lucite  endplates
+           and rods and lucite endplates and nylon fish line. They are shown in  Fig.  51.
+           The tube had 207o open surface., the lucite endplates and rods about 407o open
+           surface and the lucite endplates and nylon fish line 82% open surface.2
+           2. 4    BEHAVIOR EXPERIMENTS FILMED ON STANDARD 8 FILM
+           2. 4. 1 Experiments Needed to Assess Sensitivity, Range and Effectiveness
+                   of the Electric Fishes to Detect Objects and  Communicate  Under-N@a7er
+                   We considered it necessary to perform a number of experiments de-
+           signed to quantify some of the electric fish properties.  Four different species
+           of electric fishes have been considered for these e2xperiments because of their
+           basically different systems used as transmitters and electroreceptors.  These
+           fishes are:
+                                              77
+
+                     a.  Gy=arclius niloticus
+                         An African weakly fresh-water electric fish with a medium fixed
+               frequency (260 to 300 Hz) and a composite waveform.  Frequency does not
+               change with temperature. It has about seven kinds of electroreceptors plus
+               displacement, acoustic and chemical sensors located on or near the skin.
+               Electroreceptors are located on the whole body but are more numerous near
+     2          and on the head and near its very pointed tail. Countries of origin are Sudan.,
+               Nigeria and Ivory Coast and the two Concros of Africa. It can grow to a maxi-
+               mum size of 5 feet and has a life span of about 40 years.
+                          The electric organ is located caudally occupying about 1/2 to 2/3's
+               of the fish length.  Electric organ is derived from modified muscle spindels.
+               Difficult to obtain and to keep a2live. Has strange parasitic diseases affecting
+               the spinal cord.  The fish is practically blind and has only vestigial eyes.
+                     b.  Sternarchus albifrons
+                     A South-American weakly fresh water electric fish with a high, re-
+               latively fixed frequency (700-800 kHz) and a composite waveform.  The rate
+               of discharge is temperature dep -endent at a rate of between 40 to 60 Hz per
+               degree centigrade. Has at2 least three kinds of electroreceptors plus dis-
+               placement, acoustic and chemical sensors located on or near the skin.
+               Electroreceptors are located on the whole body and preferentially on or
+               around the head.  Countries of origin: Brazil, Columbia, Venezuela, Guianas,
+               Argentina, Bolivia, Ecuador, Peru in South-America and some parts of
+               Central America.  Can grow to a maximum size of one foot.  Life span is
+             0  at least 10 years.
+                      The electric organ is located caudally occupying about 2/3 Is of the
+               fish's body length.  The electric organ is derived from modified nervous
+               tissue. It is a hardy species, easy to maintain and easy to procure.  This
+               fish is also practically blind and has vestigial eyes.
+                                                 78
+
+                     c.  Gymnotus carapo
+                     A South American weakly fresh water electric fish with a medium to
+             low variable frequency (30 to 150 Hz) and a composite waveform.  Has multiple
+             electro and sensory receptors located on or near the skin. Electroreceptors
+             are located on the whole body and preferentially on or near the head. Countries
+             of origin same as for Sternarchus albifrons. Can grow to a maxim2um size of
+             on.e and a half feet.  Life span is several years.
+                     The electric organ is located caudally occupying about 1/2 of the fish's
+             body length.  The electric organ is derived from modified muscle spindels.
+             It is a hardy species but is not as easy to procure as Sternarchus.
+                     d.  Gnathonemus petersii
+                     An African weakly fresh water electric fish with a low variable pulse-
+             2form repetition rate signal (5 to 170 pps). Has multiple ampullary and tub-
+             ,erous electroreceptors and sensory receptors located on the body and pre-
+             ferentially m or hear the head. Countries of origin located in the subtropica4
+             tropical and equatorial Africa.  Can grow to a maximum size of one foot.  Life
+             span may be several years.
+                     The electric organ is located in the tail and is de2rived from modified
+             muscle tissue. It is relatively easy to procure, but is very difficult to maintain
+             it for longer periods of time in captivity.
+                     For all experiments we used a fiberglass water tank of 12 foot diameter
+             and 4 foot height.
+                     Experiment #1
+                     This experiment was designed to assess the capability of electric fishes
+             to use their navigation system to avoid obstacles like fine nyl4on thread. We
+             used fishes of the species m@ntioned under (a) and (b).  Gymnarchus niloticus
+                                               79
+
+            is an air breather and cannot be confined in a tube but it can be used in ex-
+            periments with free swimming fishes.  This fish was put in the tank at the
+            point "All (see Fig. 72). A double net divided the tank.  The fish eventually
+            moved toward point "B" and crossed the nylon maze.  The reaction of the
+            fish and the avoidance of the maze was observed and filmed.  The fish species
+            type (b) Sternarchus alb2ifrons usually reacts with an escape to a metallic ob-
+            ject. In this case a metallic object was used to force the fish to cross the
+            double net. Its avoidance to the obstacles was noted and filmed. Both fishes
+            are practically blind. The experiment was repeated using a grounded aluminum
+            foil along the inner wall of the water tank.
+                  Experiment #2
+                  This experiment was designed to establish the abiuty of an electric
+  2          fish of the species mentioned under (a) and (b) to detect metallic or non-
+            metallic objects having different masses and introduced in the water tank at
+            different distances from the fish.  The fish was put at point "A".  The object
+            was introduced at position "B".  The time until the fish detected the object
+            was noted by observing the fish when it retracted or advanced in the direction
+            of the object.  The experiment 2was repeated after lininc, the interior of the
+            tank with aluminum foil (see Fig. 73).  The objects were made of iron, stain-
+            less steel (non-magnetic), brass and plexiglass., all of the same volume and
+            form (cylinders of 1 in. diam. 1 in. long).  The objects were fixed to a nylon
+            thread and introduced vertically into the tank.
+                   Experiment *3
+                    This experiment was designed to demonstrate the 1ability of electric
+            fish to detect a magnetostatic field.  The arrangement was similar with
+            Experiment #2 but instead of using an object. in the water we used a per -
+             mnent niagnet inside the tank. Magnets of 1 KG wrapped in polyethylene
+                                               80
+
+                                                                   E, lectric r, iF;h
+                                                                     osition
+         @,ventu,-,l direction of
+                                                                                    Vvla'cr  Ta-Til-,
+         fi,qli n,.,ovin- toi,/Prd".B
+                                 2                                                Fiberc;-Iass  12ft   x 4 ft
+                                                                                              'lets
+                                                                                     Nylon 1
+                            I   f  I
+                                                                  Position of NVire llets
+                                                    00  igure 72
+                                                        81
+
+                                                Electric  j-,isli Positioii "ti"
+                                                Nylon
+                                                                   Vvrate L- T,,iiilc
+                                                              12 R @ and 4 ft high
+                                                              made of fiberglass
+                                             3               -0b,iect to be Introduced
+                                                             Position "B".
+                      Fig. 73.  The reaction time of the fish will be plotted
+                                 against the same mass of different kinds of
+                                 object materials.
+                                                   82
+
+              foil were used.  The reaction of the fish to the magnet was noted and filmed.
+              The threshold of detection of the magnet by different fishes was noted.  The
+              magnet was also moved toward the fish and its reaction observed and filmed.
+                    Experiment #4
+                    This experiment was designed to assess the ability of electric fish to
+              detect DC, signals (Fig. 74).  The fish was positioned behind the nylon maze
+   2           in the tank. Carbon electrodes were put in the tank on the other side of the
+              maze.
+                    Experiment #5
+                    This experiment has been designed to relate a quantifiable parameter
+              of the electric fish like its electric organ transmission rate to different stimuli.
+              We used species of fish mentioned under (e) and (d).  The fish were put in a
+              restrainino- device and introduced i2n the middle of the tank      straining
+                       t5l                                             .  There
+              device was provided with two stainless steel end electrodes, connected to an
+              amplifier, an oscilloscope and a frequency counter.  The results were    tt
+                                                                                    plo ed,
+              relating object, materials and distance versus repetition rate of the signal
+ 2             (Figs. 75 and 77).
+                    Experiment #6
+                     This experiment was designed to relate the ability of electric fishes
+              to communicate underwater and the distance at which they can manage it (see
+              Fio,. 76).  The .,ic-,,nal strength of the fish was measured.  The original signal
+              was recorded with carbon electrodes on a magnetic tape recorder and mon-
+              itored on an oscilloscope. 2 This signal was played back with the same elect-
+              rodes in the tank.  The reaction of the fish to its own signal or to a signal of
+              another specimen of the same species Nvas observed and eventually filmed.
+              Moti:on pictures were taken with a "Standard 811 camera, on color film (120 ft
+                9 min.) and black and white film (40 ft 3 min.) for all behavioral experi-
+              ments.
+                                                823
+
+                                              0
+                                    p                Sli:'Lelded Cable
+                                     2
+                                            3
+                     -=B                                C "Lrbon Electrodes
+                                                        I ft apartIciii free ends
+                                         R
+                              R          2                  Oscilloscope
+                              2
+                         B    Battery (OpLimuin voltage was determined by e-xperl-
+                              ments and set to 6 volts)
+               p I., P2,   P  Polentio.-,Tieters calculated to have constant impedance
+                              together N,,.,ith RI = resistor to correspond to the im-
+                              p--odance of the ca2rbon electrodes inweler. measured
+                                  -lie AC liquid iml)edance bfidc,
+                              with t                        ,e
+                  C and  R    capacitor and resistor to suppress sparlis -%vlien the
+                         2
+                              key is manipulated
+                         k    key (telegraph t5,pe)
+                                Fig. 74. DC sic0rnal syste
+                                         84
+
+                                                                                      Plexiglass tube
+                                                                                      with fi.sli in it
+                                                                                      and electrodes
+                                                                                      at. the end
+                                                               2                            Fibergl-.is's
+                                                                                           VI,-Lter Ta
+                                                                                                      n..
+                                                                                      12 ft  x 4 ft li@igh
+                               Aiiiplifier
+   co          Oscilloscope
+                        j.-equency
+                        Center        Object to be                          ctrodes for Exl)eriiiieiit
+                                      detected.
+                               Fig. 75.  Quantifiable  experiment  for  assessing   the
+                                         reaction of electric fish to objects  of  dif-
+                                          ferent materials.
+
+                                                       j@-,Iec'Lric Fish
+                                 ..l,letwork
+                                                                 Fibergl,-,ss lll,,tter T,-,.nk
+                                                                 12 ft  x 4 ft h-J.,ah
+                               a 0  0
+                                   2                                            'odes
+                                                          Transmittina- Electi
+                                                         Acr
+                                                              AgCl,   Posi@,ion E
+               Oscilloscope         Imp.-d,,ince   AmDlifier   r@kii Tq-l)e Recorder
+                                     Ne5twork
+                        Fig. 76.  Experiment devised for observing the reaction
+                                  of electric fish to its own or to another speci-
+                                  m .en of the same species electric signals.
+                                                    86
+
+                         Approximately 3 minutes of film (from 120 to 75f       45  ft)  analyzes
+                 the ability of Gymnarchus niloticus, an African fresh water weakly electric
+                 fish, to swim through a double row of parallel nylon  fishing  lines  set  at  3
+                 inches distance without touching them (Fig. 78).  -This species has vestigial
+                 eyes., and is blind.  The movies show that the fish can pass through the2 lines
+                 swimming  sometimes  at  relatively  high  speed  both  forward  and   backward.
+                 The  Gymnarchus  niloticus  peculiar  way  of  swimming  can  be  seen  and  how
+                 it uses its dorsal fin  in  an  undulating  screw-like  movement.  This  way  of
+                 swimming enables the fish to hold, if necessary, the body in a straight
+                 position and make good use of the navigational  and  detecting  ability  it  has
+                 due to 2the electroreceptors array, in its active or passive mode of reception.
+                 Another electric fish Sternarchus  albifrons  was  introduced  in  the  tank  to
+                 demonstrate its ability to detect and interpret the electric signal of another
+                 fish of the same species (75 ft mark on film).  Sternarchus has a ventral fin
+                 and  uses  a  similar  swimming  technique  as  Gymnarchus.  The   fish   seemed
+                 to be very disturbed at the be2ginning by the electric  signal  it  received.  It
+                 looks like it is attracted and then repelled. The  fish  undulated  its  ventral
+                 fin but it did not move becausd the ventral  fins  were  moved  back  and  forth
+                 in a sequential backward and forward propelling action.  In this way the fish
+                 is staying in a fixed position and it looks as if it ponders to  advance  or  to
+                 retreat: the problem it has is to decide if the sign2al is from  a  bigoer  or  a
+                 smaller fish. The  siomal  of  Sternarchus  No.  5*  was  recorded  on  magnetic
+                 tape and played back in the tank with the h  elp of two 8 inch  long,  3/8  inch
+                 thick carbon electrodes placed in  the  middle  of  the  tank.  The  signal  was
+                 amplified to a slightly hiaher amplitude than the original signal (100 to
+                 500 mV).
+                    8The same species different specimens were numbered for statistical
+                    purposes in the order we received them.
+                                                      87
+
+                                                                                                                                               
+----------
+                                                    -------------
+                                                                                                                                               
+2                    ----------
+                                           10
+                                                                                                                                               
+--------              -------
+                                                                                                                                               
+LLI
+             2                                                                                                                                 
+----------
+                  co
+                  co                                                                                                          - -- - - - -     
+-- - -- - - - - - - - - -
+                                                      2                                                                                        
+-I r+       -I
+                                                                                                                oil
+                                                                             1-i       .14
+                                                                                                           2                -itttt
+                                                                                                                            144-F-F
+                                                               i4@ iri
+                                               0                      10                    20                                           *0    
+60                    701
+                                              Fig. 77.                 Effect of different objects                                       (I In.
+by I in. cylinder) on the electric signal
+                                                                       repetition rate of the electric fish Gnathonenius                       
+petersii.
+
+                                                     v 4i
+                                                             ,11 2uiT4z)no4 4nogiTm
+                   azmu gull xIsTj uolau Tq2noatll sessed snzilollu snqDjeutu.&D         '2!a
+
+                       The fish finally moved close to the electrodes to investigate the dis-
+                turbance (at point marked -, 65 ft).  It moved directly under the electrodes.,
+                turned around them, went on the other side of the net, returned to one of
+                the electrodes and retracted to a far corner of the tank (,:. 55 R point).
+                       Gymnarchus niloticus No.  7  was  introduced  in  the  tank.  The-  bounda2ry
+                conditions were changed by lining the inner wall of the tank with heavy aluminum
+                foil (Fig. 79). The fish is investigating the  tank  and  swimms  irratically  from
+                one side of the tank'to the other side (,--- 40 ft point). Because the fish  seemed
+                too nervous we took it out of the tank and put it back into  its  normal  aquarium.
+                       Another specimen of Sternarchus albifrons (No. 5) was p2laced in the
+                tank. A magnet covered with two layers of  polyvinyl  was  lowered  in  the  tarik.
+                The fish obviously avoided the magnet (Fig. 68) and tried to escape its n-lag-
+                netic field.
+                       A piece of nylon rod about the size of the magnet and wrapped in the
+                same polyvinyl was introduced into the tank.  The fish did not appear
+                frightened.  The nylon rod could be brought very close to the 2fish before it
+                slowly retreated.
+                       A Gymnarchus niloticus No. 9 was put in the tank and the experiment
+                with the magnet was repeated with similar results as for Sternarchus albifrons
+                (25 feet to the end of the color film).  Both fishes reacted to the magnet
+                   1000 gauss) at over I meter distance.
+                        The electrical signals of two specimens of Gymnarchus niloticus and
+                2one specimen of  Sternarchus  albifrons  and  of  Gnathonemus  petersii  have  been
+                recorded ona magnetic tape as follows:
+                        Gymnarchus  niloticus  N  =  9:     from 50 ft to 350 ft
+                        Gymnarchus    niloticus N =  7:     from 375 ft to 710 ft
+                        Sternarchus albifrons N  =  5-.     from 725 ft to 925 ft, and
+                        Gnathonemus petersii  N  =  5.-     from 940 ft to 1250 ft
+7
+                                                     90
+
+                                                             Li
+            Fig. 79.  Fiberglass water tank lined with aluminum foil to check out
+                      effect of boundary conditions.
+
+                     The signals of both specimens were played back from the tape, am-
+             plified to its original value, and connected to two electrodes (silver chloride
+             or carbon) immersed in the water of the big fiberglass tank.  The Gymnarchus
+             niloticus No. 7 was introduced in the tank and its behavior was filmed.  The
+             fish sensed the signal played back from every corner of the tank (maximum
+             180 cm).  It swam under the electrod2es and remained there for a while (Figs.
+             80 and 81).  The experiment was repeated with the inner walls of the tank
+             lined with aluminum.  The fish seemed to react faster.  When the signal was
+             keyed the Gymnarchus reaction was very quick.
+                     The two electrodes can be clearly seen at the beginning of  the  film.
+             The tape-recorder can also be seen near the tank.     The fish seemed puzzled
+             at the onset of th2e signal and criss-cros'sed the tank.  Then it came close to
+             the electrodes, moved away, came close and again moved away.  We played
+             the signal at their original level and then attenuated it by 40 dB and the fish
+             would still react to the'recorded signal.
+                    From the first and the second film we found that  the  electric  fishes
+             can use their electric system to navigate  and  communicate  with  each  other
+             if they are2 of the same species.  We did all our experiments in a closed
+             room and the electrical wiring system in it produced a very high noise com-
+             apred with the received signals. The fishes were not  disturbed  by  the  high
+             noise, because their receiving sensory system would average the noise, but
+             not the repetitive siaml of an electric fish.  If the electric signal of an
+             electric fish of a different species was played back, the signal had t9o be  of
+             a high level to be noticed by the sub-ect (over 5 V at the electrodes) if the
+             subject was far from the electrodes: < 1. 5 m, and if the signal was gradually
+             increased in strength from say 100 mV to 5 V. If the signal was keyed, the
+             fish sometimes reacted to 1 V.
+                                                92
+
+                                                           t7-=
+                               ;Lz-               64..fl #WA
+           Fig. -$O.   Gy=archus      niloticus senses  signal of another fish of the
+                       same species and directs itself toward the electrodes
+                       (carbon electrodes).
+           Fig. 81.    Gymnarchus niloticus stays under the electrodes (sil8ver-silver-
+                       chloride) during replay of its own signal.
+                                                  93
+
+                 We also tried keyed direct current and observed that Gymnarchus
+         niloticus would react to impulses of less than 1 V,, but it showed some
+         habituation after ten or fifteen keyed signals at the same level. If we doubled
+         the amplitude the fish would react again.
+         2. 5    BEHAVIORAL     EXPERIMENTS     USING      PHYSIOLOGICAL      METHODS
+                 Some electric fishes have a variable rate of electric signal beside
+         2changes in their amplitude.  Gy=otus carapo, a fresh water South American
+         weakly electric fish, Gnathonemus petersii and Alarcusenius sp.., both fresh
+         water African weakly electric fish, belong to these species.  When an object
+         is brought in their roximity they will usually increase the rate of their signal;
+                            p
+         this increase depended on the distance from object, its  size,  composition,
+         acceleration, 2etc.  If the object comes too close to the fish, the fish may stop
+         to transmit electric signals altogether.  Cessation of signal transmission may
+         last for seconds or minutes; if the fish does not sense any danger it will re-
+         sume after a while signaling at a very low rate.
+                 The effect of a magnet on the signal repetition rate of  Gnathonemus
+         petersii was studied.  The fish was confined in a lucite tube with electrodes
+         at each end.  The fish in2creased the rate of the signal at a distance of 90 cm
+         from the magnet from 2 per second to 10 per second.  When it reached 20 cm
+         from the fish, the fish stopped transmittino,. Objects of stainless steel iron
+         brass, aluminum and nylon., all 1 in. x 1 in. cylinders were immersed in
+         the 12 ft fiberglass tank and their effect on Gymnarchus niloticus and
+         Gnathonemus petersii recorded.  Gymnarchus niloticus was swimming freely
+         8in the tank (Fig. 78), but Gnathonemus petersii  and  Gymnotus  carapo  have
+         been confined in a tube as described above (Figs. 70 and 71).  The electric
+         signals of the fish were picked up by shielded cables, amplified and displayed
+         on an oscilloscope,, the repetition rate was recorded with a frequency counter.
+                                             94
+
+                    The brass cylinder was detected by Gnathonemus potersii at a distance
+             of 100 cm.  It increased its frequency from a resting activity of 2 per second
+            to 9 per second.  When the object was brought close to the fish (between 10
+            and 20 cm), it stopped transmitting.  The iron cylinder effected the repetition
+            rate of the signal at 30 cm, raising it to 8 per second.  The stainless steel
+            did not affect t2he repetition rate until it was at 20 cm distance and then it
+            raised it at 8 per second.  The nylon cylinder was detected at 5 cm distance
+            and then it raised the repetition rate of the input to 14 per second, it did not
+            stop transmitting even when the nylon touched the fish.
+                   Our findings have been sumniarized in Fig. 77 showing the initial in-
+            crease of impulse transmission and then their cessation, using brass, iron.,
+           stain3less steel and nylon.
+                                             95
+
+                      3.  CONCLUSIONS AND RECOMMENDATIONS
+                 In the previous chapters the transmitting organs, the electroreceptor
+          system and behavior of some African and South American electric fishes was
+          examined.  Electricalsignalstransmittedbyelectricfishesareveryspeeffic
+          to species and subject.  Coding is in many cases very complex, having two
+          or three degrees of freedom.
+                 Electric fishes can use their elect2rorecep@or  array  in  an  active  or
+          passive mode for detection, location  and  identification  purposes  of  under-
+          water objects.  They use their transmitting-receiving system also for species
+          reco,mition and communication.  From our experiments and observations we
+          .concluded that electric fishes use their electroreceptors, the other sensory
+          receptors of the lateral line system, chemical and gustatory sensors and
+          their heari2ng ability in a hybrid cross  -correlating  and  integrating  system
+          for detection and location of objects. - The Mormyrids (African electric fishes)
+          add to this system their vision.
+                  It is reasonable to assume that under water which is an environment
+          difficult for communication, a cross-correlation between the signals re-
+          ceived from different sensors as a result of different stimuli, would be more
+          effective in a decision with regard 2to the nature, size, direction, speed, etc..,
+          of an object, than any of the senses taken alone.
+                  Accordingly we recommend that the sensory system of electric fishes
+                                           is not enoua
+          should be studied in detail.  It             ,h to find out what kind of receptors
+          are used in their detection ability of objects., it is essential to study  what
+          are the morphological, physiological and biochemical pro1cesses involved in
+                                               96
+
+             the detection of a particular object in a given environment; how are physical
+             properties of objects distinguished, their movement, form,, size recognized
+             and how is this information integrated in the higher nervous centers.
+                    It is also important to use a number of species  having  different
+             electrical transmitting and  receiving  system  characteristics.  Besides
+             the obvious advantages of such a detailed research f2or practical purposes,
+             the results would be beneficial in tracking down effects of different obnoxious
+             stimuli on the nervous and cellular system of man.
+                            (63)             (64)
+                    McGeer       and Axelrod     investigated the neurotransmitters in the
+             brain.  They mentioned dopamine, adrenaline, serotonin, octopamine, hista-
+             mine, gamma aminobutyric acid, glutamic acid, aspartic2 acid and glycine.
+             They dealt mainly with catecholamines, since more is known about these
+             compounds than about the others.  The catecholamines include noradrenaline,
+             dopamine and adrenaline.
+                    Acetylcholine and acetylcholinesterase also play an important role
+             not only in the brain, but in the whole nervous and muscular system. When
+             high quantities of acetylcholine and its ester were needed, electri2c eels
+             (Electrophorus electricus) have been used to extract the chemical from their
+             main electric organs where it could be found in high quantities. It has been
+             done at the Columbia University, New York, Department of Neuro.chemistry
+             by Dr. Nachmansohn, and more recently at NIH by Dr.  Trams  and  Dr.
+             Albers at the Department of Neurochemistry.  Professor Waser from the
+             Physiological Institute in Zurich is extrac4ting the acetylcholine and acetyl-
+             cholinesterase from Torpedo marmorata and I witnessed some of  their
+             experiments.
+                                                97
+
+                   Besides the bisquaternary phosphorus compounds which are potent
+           anticholinesterase it may be possible to produce anticatecholamines or any
+           antineurotransmitters with catastrophic effects on the nervous system and
+           mankind.
+                   Not all the electric fishes use a neurotransmitter or the electric
+           organs chemotransmitter acetylcholine-acetylcholinesterase. It can be said
+           for sure that Sternarchus albifrons an2d Malapterurus electricus use other
+           neurotransmitters.  These have to be investigated and identified because
+           they n-iay be a prime source of another neurotransmitter than acetylcholine-
+           acetylcholinesterase.
+                   Narcine braziliensis is the only marine electric fish having two
+           electric organs.  The main electric organ is thought to be similar to the
+           electric organs of other torpedos.  The use of the second elect2ric organ is
+           not known.  Because most research on location of objects and communication
+           between fishes has been done on fresh water electric fishes, an investigation
+           of the electric system of Narcine braziliensis may lead to very meaningful
+           findings for marine environments.
+                   Since we do not have all of the answers at hand with regard to the
+           conplex hybrid sensory system of fresh water and marine electric fishes,
+           it is impos2sible to desian and build an artificial system modeled on it. If
+           we desire to copy something, first we have to know wbat we intend to copy!
+                                               98
+
+                                       RE@FERENCES
+            1.     Darwin, Th, The Origin of Species., A variorum Text, Ed. by M.
+                   Peckman, University of Pennsylvania Press, Phil. (1959), pp.
+                   350-352 (original edition: 1860 to 1872).
+            2.     Dahlgreen.. U., 'Origin of the Electricity Tissues in Fishes" Amer.
+                   Nat. 44: 193-202 (1910).
+            3.     Gar2ten, S., 'Die Production von ElectriziUt" in Handbuch der
+                   Vergleichenden Physiologie by H. Winterstein (Ed.), Vol. 3.,
+                   Part 2 (1910).
+            4.
+            5.
+            6.
+            7.
+            8.     Szabo, Th., Nature, 194:4848:600-601(1962).
+            9.
+            10.    Nachmansohn, D. . Chemical and Molecular Basis of Nerve Activity,
+                   A2cademic Press, New York (19o9).
+            ii.    Meyerhoff, Otto, Zur Enercretik der ZellenvorF-,anae, Vadenhoech und
+                   Ruprecht, Gottinc,,erl, German@ (1913T.
+            12.    Vino(,rradov, A. P., The Elementary Chemical Composition of Marine
+                   Organisms, (Efron an-d--Set-low, translators) Yale TJiiiversity Press,
+                   New Haven, Conne4cticut (1953).
+
+             13.     Suyama, M. and T. Tokuliiro, Bull..Japan Soc. Sci. Fisheries 19,
+                     1003-1006 (1954).
+             14.     Hasson, A. and C. Chagas, "Purification of AUcromolecular Com-
+                     ponents of the Aqueous Extract of the Electric Organ (Electrophorus
+                     electricus (L)), 11 in Bioelectro,-enesis by C. Chagas and A. P.
+                     de Carvalho, Ed... Els2evier Publ. Co.., Amsterdam & New York (1961).
+             15.     Fahn, S., R. W. Albers and G. J. Koval, "Electrophorus Adenosine
+                     Triphosphatase, Science 143:283-284 (1964)-.
+             16.     Changeux, J. -P. J. Gautron, M. Israel et Th. Podleski, Neurobiologie
+                     moleculaire: Separation de Membranes Excitables a Partir de l'Organe
+                     Electrique d'Electrophor2us electricus, 11 C. R. Acad. Sci. Paris 269:
+                     178-1701, Serie D. (1969).
+             17.     Gautron,, J. . Microscope, Electron, Paris (1969).
+                                  "Les Organes Electriques, 11 Superclasse des Poissons,
+             is.     Fessard, A.
+                     Tome XM, Fasc. II, pp. 1143-1238  Traite de Zooloc,,ie (P. -P.
+                     Grasse Ed.) Masson et C2ie, Paris (i9-5ST.@@
+             19.     Keynes, R. C. and H. Martins-Ferreira, "Membrane Potentials in
+                     the Electroplates of the Electric Eel, J. Physiol.., London,
+                     315-351 (1953).
+             20.     Altamirano, M., C. W. Coates and H. Grundfest, "Mechanism of
+                     Direct and Neural Excitability in Electroplaques of Electric Eel.,
+                     J. Gen. Physiol. 38, 319-360 (1955).
+             21.     Fessard, A. et L. 'raue, "Determination Microdldctrome'trique du
+                     Potential de Repos de 1'Element Electroaene chez Torpedo marmorata,
+                     C. R. Acad. Sci. . Paris, @33, 1228-1230 (1951).
+             22.     Brock et coll. mentioned in Ref. 18.
+             23.     Fatt
+                          P. and B. Katz, J. Physiol. 118, 735 (1952).
+             24.     Radi-l-NVeiss, T. and N. Kovacevic, "Biophysical Parameters in the
+                                   "Mar. Biol. , Sprinoer-Verlacr, Berlin, 3  4 304-
+                     Electric Fish
+                     305 (1969).
+                                               100
+
+                                                       "Studies on the Morphology and
+           25.     Grundfest H. and M. V. L. Bennett,
+                   Electrophysiology of Electric Organs, 11 in Bioelectrogenesis by C.
+                   Chagas and A. P. de Carvalho (Ed.) Elsevier Publ. Co... Amsterdam
+                   (1961).
+           26.     Feldberg, W. and A. Fessard., "Cholinergic Nature of the Nerves to
+                   the Electric2 Organ of Torpedo,  J. Physiol. 1    200., London (1942).
+                                                               io-ill
+           27.     Albe-Fessard, D. and C. Chagas, Compt. rend. @39,, 1951 (1955).
+           28.     Albe-Fessard, D., C. Chagas, A. Couceird and A. Fessard, J.
+                   Neu.rophysiol. 14, 143 (1951).
+           29.     Albe -Fessard, D. I C. Chagas and H. Martins2 -Ferreira, Anais. Acad.
+                   Brasil CiencL3, 327 (1951).
+           30.     Martins -Ferreira, H. and A. Couceiro, Anais. Acad. Brasil Ciene.
+                   239 377 (1951).
+           31.     Keynes, R. D. I M. V. L. Bennett and H. Grundfest, "Electrophysiology
+                   of the Electric Organ of Nalapterurus electricus, 11 in Bioelectrogenesis
+                   by C. Chagas and A. P. de Carvallio (Ed.2), Elsevier PubL Co..,
+                   Amsterdam (1961).
+           32.     Johnels, A. G. . "On the Origin of the Electric Organ in Nialapterurus
+                   electricus, 11 Quart. J. Microscop. Sci 97, 455 (1956).
+           33.     Bennett, M. V. L. and H. Grundfest, "Electrophysiology of Electric
+                   Organs in Mormyrids, 11 in Bioelectrogenesis by C. Chagas and A. P.
+                   de Carvalho 2(Ed.), Elsevier Pubi. Co., A  terdam (1961).
+           34.     Aubert, X. P A. Fessard and R. D. Keynes, - "The Thermal Events
+                   During and After the Discharge of the Electric Organs of Torpedo
+                                     11 in Bioelectrogenesis by C. Chac
+                   and Electrophorus,                                 ,-as a-n-d-X.-P.
+                   de Carvalho (Ed.) Elsevier Pubi-.--2Co.-, Amsterdam (1961).
+           35.     Bernstein., J. and-A. Tschermak, Pfliio,,er's Arch. ges. Physiol. 1-1-2-,
+                   439-521 (1906).
+           36.     Albe-Fessard, D. et H. Martins-Ferreira, "Role de la commande
+                   nerveuse dans la synchronization du fonctionnement des elements de
+                   l'organe dlectrique dur Gymnote Electrophorus electricus (L).., J.
+                   1Physiol. 45  533, Paris (1953).
+                                             I r% i
+
+            37.     Agalides  E. , "The Lorenziiii ampulla: A Multisensory Receptor and
+                    its Possible Physical Analog, 11 Trans.- N. Y. Acad. Sci., H:31:8:1083-
+                    1102 (1969).
+            38.     Lissman, H. W.., and K. E. Machin, "The Mechanism of Object
+                    Location in Gymnarchus niloticus and Similar Fish, ?I J. Exptl. Bio-
+                    lom 35, pp. 451-486.
+  2                   t,Y
+            39.     Szabo, Th. and A. Fessard, "ElectrorC-c6pteurs chez les Mormyres.,
+                    J. Physiol.L7, pp. 343-360, Paris (1965).
+            40.     Agalides, E. . "Sensitivity and Behavioral Reaction of Sharks to
+                    Electric Stimuli, 11 Final Report ONR Contract No. 4773(00) No. 104-
+                    8632 1967.
+            41.     Dijkgraaf, S., "Electr2oreception in the Catfish, Amiurus nebulostm
+                    ExperientiaL4, pp. 187-188 (1968).
+            42.     Murray, R. W., "Electroreceptor Mechanism "J. Physiol. 1
+                                                                               L8 0-1
+                    pp. 592-606, London (1965).
+            43.     Roth, A. Z.. "Electroreception in the Catfish., Amiurus nebulosus.,
+                    Vergleich. Phys2iol. 61, pp. 196-202 (1968).
+            44.
+            45.     Dijkgraaf, S., In Lateral Line Detectors (P. Cahn, Ed.)., pp. 83-852
+                    Indiana Univer:iity Press, Bloomington, Indiana (1968).
+            46.     Agalides, E., "The Lorenzini Ampulla, 11 N. Y. Acad. of Sci. Trans.
+                    la LI, @, pp. 1083-1102 (1969).
+            47.     Harder, W., Z. fur vergl. Physiol. 59     -3218 (1968).
+                                                           272
+            48.     Dotterweich, H., "Bau und Funktion der Lorenzinischer Ampullen,,
+                    Zool. Jahrbucher 50 (1932).
+            49.     Barets, A. and T. Szabo, "Ultrastructure des cellules sensorielles,
+                    Proc. 3rd Reg. Conf. (Eur.) Electron Microscopy,, Prac,,ue, pp. 327-
+                    378 (19680).
+                                             102
+
+            50.    Lissman., HI W. and A. M. Mullinger, "Organization of Ampullary
+                   Electric Receptors in Gymnotidae., II.Proc. Roy. Soc. B 169p 345-
+                   378 (1968).
+            51.    Szamier, R. B. and A. W. Wachtel, "Special Cutaneous Receptor
+                   Organs of Fish, 11 M, J. Morph. 128, 261-290 (1969).
+            52.    Szamier, R. B. and A. W2. Wachtel, "Special Cutaneous Receptor
+                   Organs of Fish,," IV@ J. Ultrastruct. Res. 30, 450-471 (1970).
+            53.    Bennett., M. V. L. . "Electroreceptors" in Fish Physiology, Vol. 5
+                   by W. S. Hoar and D. J. Randall (Eds.), Acade  ic Press, New
+                   York (1971).
+            54.    Hagiwara, S. @ T. Szabo and P. S. Enger., "Electroreceptor Mech-
+                   anism in a 2High-Fre-quency Weakly Electric Fish, Sternarchus
+                   albifron    J. Neurophysiol. 28, 784-799 (1965).
+            55.    Belbenoit., P.. "Le Role de la Decharge Electrique dans la Localization
+                                                                    "J. de Physiol. 59
+                   d'Objects en Milieu Aqueux chez les Mormyrides,
+                   4 bis, 344-345, France (1967).
+            56.    Franz, V.,2 "Zur Mikroskopisdiea Anatomie der Mormyriden., 11 Zool.
+                   Jahrb. , Abt. Anat. Ontog. TiereL2t 91-148 (1920).
+            57.    Bullock, T. H.., "Seeing the World through a New Sense: Electro-
+                   reception in Fish, 11 American Scientist, Vol. 61, No. 3, pp. 316-
+                   325 (1973).
+            58.    I-Calmijn, A. J.,, "The Elect2ric Sense of Sharks and Rays, 11 J. Exp.
+                   Biol. 55, pp. 371-383 (1971).
+            59.    Szabo, Th., "The Activity of Cutaneous Sensory Organs in Gymnarchus
+                   niloticus, 11 Life Sciences No. 7, pp. 285-286, Pero,,amon Press Ltd.
+                   G. B. (1 62).
+            60.    Szabo, Th. and H. - Sakata, tIEtudes sur un tlfeedbacklt sensoriel
+               1    participant a la r6gulation du rythmic des influx e'le'ctrosensoriels
+                   chez des Gy=otides, 11 J. de Physiolgie T:59:1 bij, pp. 300-301.
+                   (1967).
+
+           61.    Szabo, Th. and S. Hagiwaraf "A Latency-Change Mechanism Involved
+                  in Sensory Coding of Electric Fish (Mormyrids)2" Physiol. & Behavior
+                  .@, 331-335, Pergamon Press, London (1967).
+           62.    Watawabe, A. and F. H. Bullock, Personal Communication to Szabo
+                  and Hagiwara in Ref. 61.
+           63.    McGeer, P. L., "The Chemistry of Mind, 11 American 8Scientist 59,
+                  2t 221-229 (1971).
+           64.    Axelrod, J. , "Neurotransmitters, Scientific American 230, 6" 58-71
+                  (1974).
+                                             104
+

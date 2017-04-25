@@ -1,0 +1,1871 @@
+                   PHYSIOLOGICAL INIC-CHANISNISP ANALYSIS AND BEHAVIORAL
+                       SIGNIFICANCE OF THE ELE, CTRODERMAL RESPONSE
+                                              -----------
+                                      FINAL REPORT
+
+             Section
+                                                                                                 Page
+               10
+               12         Va-sclilar P-ffects UPON Skin Potential
+                                                                                                  82
+               13        References                                                              89
+
+                     P@IYSIOLOGICAL i%IC-CHAiNIS.\IS, Ai\tALYSIS Ai\'D BE'-IAVIORAL
+                         SIGNIFICANCI',, OF q-@IE ELECTRODERNi4NL RESROLNSE-
+             1.    LNTRODUCTIOIN
+                   This project was directed toward exploration of physiological mechanisms
+             underlying the electrodermal response 2in the hopes of establishing a rational basis
+             for quantitative treatment of this measure as a behavioral indicant. A further
+             objective was to gain a better understanding of the adaptive function of electrodermal
+             activity. It was presumed that the role of such activity in our "psychological" life
+             can be understood if such behavior is regarded as essentially a biological adaptation,
+             modified to fit a social struc2ture. Thus, if electrodermal activity is associated with
+             profuse palmar sweating, and this can be shonvn to be defensive in function, one has
+             grounds for interpreting such activity as a sign of fear or anxiety. U, on the other
+             hand, other forms of electrodermal activity facilitate manipulation or exploration,
+             one would put an entirely different interpretation on its apfearance.  For example, if,
+             i2n a situation whic[-l is potentially threatening, one notes evidence of the manipulative
+             type of electrodermal activation, it would seem appropriate to conclude that ihe subject
+             is engaged in copl-ig behavior ratj-,ier than that he is beset with alarm.
+                    The first Fortion of this three-year program was devoted primarily to pliysiological
+             investigations. -An assortment of evidence, covered in the interim reports, hel4ped to
+             round out the partially elaborated physiological model of the electrodermal system.
+             Among these experiments were microelectrode observations on sweat ducts and the
+             areas ben,@een the ducts, confiriination of potential responses from the nail bed, study
+                                                         fiirthe-r examination of the effect of s-pecific
+
+                                                      2
+             elcctrolytes on o'leerrodermil responses, and finally continu ing studies on the sweat
+                              L
+             real)sorption mechanism and its reflex control. These v;@-rious findings, when
+             integrated witli other experimental evidence, lead to the formulation of a model in
+             which sweat reabsor2ption played a prominent role and Lft which such activity was
+             reflected in the recovery limb of the skin conductance or resistance response.
+                     According to this model the sweat g),Ia.nd has a dual function; if it secretes
+              profusely, the skin surface becom.--s well-hy&ated and resilient and is thus protected
+              against abrasion. In a biological sense the animal is now able to scamper over the
+      2        rough ground away from danger without undue mechanical damage to his contact
+              areas. For fine manipulation, 'however, as may be involved in e,.cploration and
+              -assessment of cbjects in the immediate surrounds, tactile requirements are such
+              that the optimum level of surface moisture is somewhere intermediate between dry
+              and wet. It was supposed that reoulation of surface mofsture at light to moder2ate
+               hydration is largely a function of the activity of the sweat reabsorption mechanism.
+               Observation of conditions under which reflex sweat reabsorption occurs led to the
+               conclusion that this mechanism goes into action in preparation for "manipulative"
+               tasks. This activity is reflected in increased positive-go:ing'skin potential responses
+               and in acceleration of recovery of conductance responses.
+                       2The major effort of this investigation was then directed to@vard the elaboration
+                of this recovery lin-Lb measure, in terms of its measurement, its relation to amplitude, t(
+                conductance level, and to behavioral state, and to the comparison of its discriminating
+                strength with -:hat of other electrodermal measures. 'niis report summarizes progress
+                to date. It is broken into a series of separate topics related to these ob1jectives.
+                                                              in -qc ,inn-rnnriate to render as complete a
+
+                    AdeL
+                                                       3
+              picture as possible widiiii this report. One full-length ptpcr, "'nie information con-
+              tent of the recovery limb of dic clcctrociermal response" (in press) has been in part
+              supported by this contract and is included as part of :his final report since it summarizeo--
+       2       the approach and findings in an optimal nianncr.
+                     Ii@ addi@ion to the val:ious sections on the 'recover@ limb, there is one on the
+              relation of vascular changes to skin potential shifts at the surface. Although some of
+              this material was described in an interim report, it has nonv beei-i completed and com-
+              posed as an integrated manuscript to be submitted for publication, and Is, 6therefore,
+              included in toto in d-iis report.
+
+                                                      4
+           2.      SU,\I,\IARY Or@' R-LNDINGS
+                   Scvcral iiietliods of nicasuring the recovery rate of an clec:trodcrrnal respoiisp-
+           have been assessed and compared. Tticse include several manual methods and one
+            electronic measure, all matficinatically derived from a,treatm2ent of tllc expon(.,nti@l
+            curve. All suffer from uncertainty witli regard to the asymptotic level approached
+            by the exponential portion of the recovery limb. One method of coping with this
+            difficulty is to use a logarithmic writeout in which case the slope of  the  recovery  limb
+            is an easily measured characteristic which is  proportional  to  recovery  rate  and  inde-
+            pendent of the necessity 2for deciding where the asymptotic level is.  Fven then, this
+            holds true only ff --he asymptotic voltage is zero, a situation which may be  artff  ically
+             produced by the use of capacitance coupling. For analysis of recovery rate of standard
+             DC recordings by manual.techniques, the  "D".  measure  is  the  method  of  choice.  This
+             is a simple measurement, along the extended  baseline,  of  the  distance  intercepted  by
+      2       the altitude of the response and its  steepest  recovery  slope.  This  measure  was  used
+             for much of the behavioral study reported here. An elecr-ronic method usina analog
+              computation of maximum slopes of the  ascending  and  descending  linibs  of  a  response
+              was highly accurate for "clean" responses, but suffered gross inaccuracies whenever
+              the ascending limb was composed of nvo or more slurre      d components.2 Another method
+              which should lend itself readily to automatic on-line computation is the amplitude-slope
+               method, but this has not yet been tested electronically.
+                      -An examination of the feasibility of using  capacitance-coupled  recordings  for
+               calculation of recovery rate shows that such a  procedure  is  acceptable  provided  one
+               uses a (-oupling time constant of 6 seconds or loncer.  This procedure 5reduces the
+                                                                           Iii@l-ilir rn.--related. At a
+
+                                                          5
+               coupling time constant of 10 seconds, the loss of sensitivity becomes negli-Lble for
+               all but the very slowest recovery limbs.
+                      Recovery rate was found to be capable of distinguishing between many be-
+               havioral states, even when response amplitude or resp6nse frequency2 could not.
+               lhus, to name a fenv, it distinguished: orienting responses to a light flash from
+               responses to the same flash when it took on signal properties, responses to arL
+               alerting signal from those to a task-execution signal, the resting state from various task
+               situations, mirror  tracing  from  back-viard  counting  or  cold  pressor  exposure,  problem
+               solving from perceptual or psych2o-motor behavior, a deception task from a reaction
+               time task. In the course of these comparisons it was found that recovery rate be-
+               came slower with habituation, even in a deception task, a--id that it was also slo@,,ed
+               by the entry of a 'Lric,,rht stimulus into a task situation. It failed to distinguish a decep-
+               tive response from a non-deceptive  response  in  a  given  series  of  queries  when  d2iffer-
+               ences were compared across the entire population, but individual- subjects did frequently
+               show a difference. The design of this experiment was unfortunately aimed at group
+               analysis and the @.iumber of deceptive responses for  a  given  subject  was  insufficient  to
+               evaluate this individual effect statistically.
+                      An overview of the effect of the various task and stimulus situations upon electro--
+   1            dermal recovery rate  indicates  that  acceleration  of  recovery  reflects  mobilization  'or
+               goal-oriented performance.  That the de     termining factor was not general activation
+               per se was evidenced by the slow recovery accompanying a cold pressor exposure,
+               shonvn by other electrodermal  indicants  to  be  as  activating  as  were  performance  tests
+               associated with rapid recovery.
+
+                                                    6
+                  The recovery measure for a given individual in a standard situation was
+            slion-m to be relatively stable over a pei:iod of 5 consecutive week-$. There were large
+            characteristic individual differences bctxveen individuals even though they changed in
+            the same direction when changing behavioral conditions.  Efforts to find a behavioral
+            trait associated wit@-1 recovery rate were generally unsuc@essful although fast recovery
+            in a standard task (reaction time) wag found to be associated with low anxiety (SAQ),
+            and with a tendency to maintain electrodermal response withoiit habituation during
+            a reaction time series. This was seen as further evidence supportiri,g the interpreta-
+            tion o'L fast reco2very as reflecting mobilization for goal-dlrected behavior, since these
+            same subjects 1-iabituated to a series of non-signal tones just as fast as did subjects
+            with slow recovery rate.  IE is still uncertain as to whether the difference in recovery
+            rate bet@veen problem solving and simple perception indicat@@s a specific difference in
+            the effects of coanitive and perceptual behaviors on recovery, or whether this simply2
+            means  that the problem-so-lving task was associated with higher anxiety.
+                   An examination of the relationship of recovery rate to other parameters of the
+            response sho@ved it to have a low negative correlation with amplitude, that is, responses
+            of higher amplitlde in a given behavioral state tended to have slightly slower recovery,
+            When measured benveen different behavioral states, ho@v2ev--r, there was,often a tendency
+            for the reverse to be true. In vie@v of the evidence showing that mobill@ation for ,:,oal-
+            directed behavior 4-s associated with faster recovery, this observation probably reflects
+            the fact that mobilization for task performance frequently causes an increase in activation
+            resulting in electrz)dermal responses of high amplitude. This same consideration probably
+ 4           e,xplains the fact that recovery rate is related (positively) to skin conductance level in
+
+                                                        7
+                     During tllc course of a comparison of the discriminating strength of the
+              recovery rate measure with otlier clectroe@ert'nal nicasures, a new frequency measure
+              was devised. 'Il-is measure is diffcrcnt from other measures of !'GSR frequency" or
+              ficouiit" in that it examin2es, for any given task or epoch, not the total number of re-
+              sponses but rather the maxiniun-L frequency displayed in a "burst" of three consecutive
+              responses. This measure, termed f max, demonstrated a surprising strength in
+              distinguishing bet-@veen stimulus conditions,, althou,,,,,h not the same conditions as were
+              distinguished by recovery race.  Thus  f  max  distinguis2hed  the  deceptive  response  from
+              listening to instructions, but recovery rate was not able to do so.  Contrari@vise,
+               recovery rate d'.stiiio,,liislied perception from problem so'.,ving while f max did not.
+               The higi-iest. f max and the fastest recovery rates were both found during the reaction
+               time test, but the level of f ma:K reached by any subject during this task, unli@2-e recovei:y
+               rate,. bore no relation to his trait anxiety.
+                       A companion  study, one directed at the physiological basis of skin potential
+               levels and changes, demonstrated  that  a  one  minute  engorgement  of  cutaneous  vessels
+               produces a slow negative shift and upon release of the cuff a sudden positive shift.
+                With arterial occlusion these potential shifts were opposite in direction and2a,-reater  in
+                magnitude. Although changes were generally not over 0.5 mv they raise the possibility
+                that vasomotor responses may be accompanied by surface potential waves. Whether
+                these shifts were mediated by an effect of the vascul,@r state on sweat  gland  potentials
+                or whether they represent changes in vascular potentials remains to be determined.
+
+                                                       8
+                                            'TT OF ELECTRODE-r,,,\4AL Pf-,'COVERY PATE-:
+              3.     ON TIIE \IEASUREi%,IE,',,
+                     RATIONALE@
+                                                                                           in several
+                      The measurement of clectrodermal recovery rate may be approached
+                                                                     'tliere is an intrinsic recovery
+              ways, all of which have in common the assumption that
+              rate characteristic which may be the same for waves of greatly varying amplitudf,.s.
+               An example of such a condition is that for the exponeitial curve in which a characteristic
+               time.constant or rate constant may be common to all mz!ni2bers of a family of curves of
+               different amplitudes. Darrow (1937) concluded that the recovery limb of the skin
+               resistance resoonse (SRR) is exponential in form, and additional evidence, to be pre-
+               sented here, supports ttxis interpretation.
+                       Methods for evaluating the rate constant of the electrodermal recovery limb are
+                suggested from examination of the differential equation describing the exponenti2al rela-
+                tion. Tne process described by this relation is one in which a variable changes at
+                a rate, dE/dt, which at any instant is a linear function of the magnitude of that variable.
+                Thus, for the case-of voltage chanoe in a condensor discharge.
+                 which may signify, for example, that the voltage drops by 5c7 per second, in which case
+                                                                       1     /0
+                  .05 is the constant characteristic of such a process.
+                  Rate Constant
+                         The Lntegral of the above expression provides the common exuression for
+                  exponential decay, namely
+
+                                                  9
+            Nvhere E0 is die starting lc%,cl and E is instantancous voltage at tine, t; k is the rate
+            constant (rc). If E is decaying to zero as its asymptote,
+                                              4@
+            3)
+            When t   1/k, 2   Fol   that is, it equals 37% of its original value. This t2ime, which
+                                  e
+             is equal to the reciprocal of the rate constant, is called --he time constant (tc) and,
+             like the rate con stant, is characteristic of the process and independent of amplitude.
+             All curves having this same characteristic regardless of their starting point may be
+             superimposed upon  the.same large exponential curve. Thus, to the extent that the
+             electrodermal recovery jimb2 is exponential, it may be matched to an exponential
+             curve of the same rate constant. This is the basis of the use of an overlay method
+             for determining the time constant by curvc.mitching as described in section 6.
+             Half-Time
+                    From equation (2) it can be shonvr,@ that decay half-time, that is, the time taken
+             for decay to become 500,70 completed, is equal to 0.7 tc and is a cons2tant for all waves
+              having the same time constant, independent of th eir amplitude. This measure, the
+              recovery half-time, represents a second means of expressing recovery r-,te and is
+              also described in section 6.
+                     Equation (2) represents a means of determining the degree to which the -recovery
+              lin-ib fits an exponential curve. Fxpressed in common logarithmic form,
+          1     4)
+
+                                                   10
+        from @vllict, it fOIIO%vs :Iiat a @vritcout having lo.-al:itliiiiic vcrtical compi:cssio-,i should
+        give for exponential curves a strai-lit line N'@IIOSC SIOI)C is a - k/2.3. Tbc upper trace
+         in Figure I is a writeout of an exponontial curve obtained by c2apacitor discharge ind    I
+         a recording of a fe,%v skin conductance responses. 13ascline of the skin conductance
+         trace has been adjusted so that responses  are  recoverin(,  to  approximately  zero  voltage.
+         Below are the same waves recorded through a logarithmic cor-ipression circuit.  Note
+         that the portion of the recovery limb which is exponential in form starts about one
+         sec2ond after response peak-. The slope of the linear portion of the logarithmic
+          recovery limb is proportional to the rate constant provided the asymptotic voltage is
+          zero. Since this is not so, such a method  cannot  be  used  dir-actly.  One  may,  honvever,
+          apply the second derivative to achieve this end.
+                  -The time derivative of equation (1) is
+                               C2/
+           which may be w3@itten,.
+2
+                               4..
+            Integrating,
+            which indicates tl-tat the first derivative of an exponential curve is also exponential  as
+            is its second deri-,@ative.  The slope of the log-compressed wri-,eout of the first
+             derivative is then proportional to k and unlike the case for the primary (DC) write-
+             out, the curve, as required, decays to%vard zero because  of  the  cauacitativ1e  couplino@
+                                                 olf--c--rronic coavcrsion.  Since
+
+                                                    loa
+                    'CAP
+                                                                   s c
+                                                       1
+               Figure 1. Upper trace:  direct writeout of a condensor discharge (CAP) and skin
+               conductance trace (SC). Paper speed I mm/sec. Lower trace: same as upper
+               but with logari--hmic compression1.
+                Figure 2. Diagram   of method for me@@surin(r the rate zonstant by tan A/H.
+
+                                  O/ -LL                     2, '3
+                 one is tempted to produce a writeout of d log E'/dt to obtain an amplitude reading
+                 directly proportional to ti-ie rate constant. Unfortunately, d log E//dt often has such
+                 a low magnitude in the exponential portion of the recovery limb that its analog form
+                 cannot serve reliably as the expression for the2 rate constant. A similar problem
+               .arises if one attempts to determine the rate constant from the loa-compressed first
+                 derivative curve (loc, d E/dt) by manual measurement of the tancent of the acute
+                 angle produced betnveen the linear portion of the recovery limb, and baseline.
+                 Second Derivative
+                       Yet another method may be    derived from the second derivative form.  From
+                 eq2uation
+                 'Ehus, one may determine the recovery rate constant by calctilatin- at any point on the
+                 recovery limb the quotient of the second derivative   the first derivative. In practice
+                 the method is not too feasible because ti;,-- magnitude of E& is so low in the exponential
+                 region of the recovery limb that it frequently is exceeded by the noise level of the
+                 t-race, which becom2es rather high for the analog second derivative.
+                 Amplitude-Slope Method
+                        Another solution is one which requires an amplitude measure as well as a slope..
+                 From equaticn (1), it is seen that
+
+                                                            12
+                                                                                       ression.  rrom it.,
+                the slope of E, or its first dcrivative.  'Iliis is a most use).Ul cxp
+                one can obtain the value for k by taking the slope and amplitude of any point On the
+                exponential portion of the decay (Figure 2). 'llic slope  is  tan  A.  Tn  practice  it  must
+                be chosen at a point at or beyond the inflection point on the recovery limb. Because a
+                measurement of wave amplitude would  seem  to  be  more  precise  and  because  such  a
+                 measurement could be used independently as an index of responsivity, a test was
+                 made of the relation of H to h (Figure 2), i.e., of peak amplitude to the amplit2ude at
+                 the inflection point, 'Die product-moment correlations for  20  responses  on  each  of
+                 6 subjects were: .97, .99, .99, .99,       .99, and .96. 'Ibus a convenient substitute
+                 measure for &,c rate constant is
+                 6)
+                  This method showed a correlation of 0. SI with measurements made by the template
+                  method on the same 66 responses. In mak2ing the slope measurement, a line is drawn
+                  parallel to the recovery lin-ib at its inflection point. The acute angle at the intersection
+                  of this line with the horizontal is measured and its tar,.-ent obtained from tables       Anothe
+                  relation in conjunction with this method pertnits a relatively simple approach to auto-
+                   mated calculation of the rate constant. The peak slore of the ascendina- 2lin-Lb is found
+                   to be linearly related to the maximum amplitude of the primary writeout (Edelberg, 196,
+                   A validation check of this relationship in the present investigation confirmed  this.
+                   Measurement of 44 responses having uncomplicated ascending limbs gave a correlation
+                   of 0.94 benvee-ri the nvo measures. Hence one may substitute for H the maximum first
+                    derivativ5e o-' the- ascendincr lin-Lb, and for tan A the maxi@-inum first deri,,,ative of the
+                                                                                                  c;pnaratelv
+
+                                                          13
+                 4.     ON THE \IC- ASURE.\IEiN'T OF ELECTRODE- r,,,\IAL RECOVI,:RY RATE BY
+                        PRE- FERRE- D ,\,IE, T@@"ODS: TESTI',\G ALND CO,@,IPARISON
+                 A) Lo,-aritlim4.c Compression
+                        In the discussion of the various        of2 computing clectrodermal recovery
+                 rates it was stiown that the first derivative of the logarithmic writeout of the recovery
+                 lin-Lb is directly proportional to the rate constant. This is true when logarithmic com-
+                 pression is accomplished by electronic means, but only if the wave is rec@)vering to
+                 a zero voltage level. In such cases, the reaion of the recovery lin-Lb immediately
+       2          following the peak (by about 1 second) is linear, and it is this portion which should
+                 reflect the ratz! "constant. " Unfortunately the DC- recorded trace  rarely  recovers to
+                 zero voltage as its asymptote. Since the first derivative does have essentially a zero
+                 voltage asymptote, logarithmic compressiotl of such a writeout should offer a linear
+                 section of the recove.7y lim-b whose slooe i2s proportional to the rate constant. LJn-
+                 fortunately, &.e electronically -differentiated recovery slope is often of such low
+                 amplitude that log compression and manual measurement pose a problem in accuracy.
+                        It has been shown, however, (Section 5) that the rec,@very rates of electrodermal
+                 responses recorded with capacitance coupILno- are highly correlated with those computed
+         2        from a DC record provided the coupling has a time constant of 6 seconds or lono-er.
+                 Such condenscr-coupled records do approximately  satisfy  the  requirement  that  the
+                 asymptotic voltage is zero.  If a record of this kind is subjected to logarithmic com-
+                 pression, the recovery limbs should show a linear portion whose slope is proportional
+                 to the rate constant (Figure 3).  This study examined su5ch records to determine the
+                 degree to whiz-h the rate measure, computed from t@,eir slopes were correlated @vith the
+
+                                                                     ...........                                                               
+cd      @.4
+                                                                                                  2                                            
+Qj
+                                                                                                                                               
+2                                                                         14
+                                                                                                                                               
+Ef)
+                                                        2                                                                                      
+Cd      r
+                                                                                                                                               
+2                                                                                                                                 0
+                                                                                                                                               
+I   pit
+                                                                                  2                                                            
+bo
+                                                                                                                                               
+0
+                                                                                              2                                                
+ID
+                                                                                                                                               
+4                                                                                              r,4
+
+                                                                            w
+                                                     14
+                                                  Mctliod
+              Instrumentation
+                   Skin cotiductaiice was recorded on a Beckman Dyno&,raph with direct coupl-
+              ing (channel 1). The pen (1) output was coupled to the 2 mcgohrii input of another DC
+              channel throug2h a 3-microfarad condcnsor to obtain the 6-second time constant, The
+              pen (2) output of this second channel was placed in series with a 220 K resistor and a
+              -silicon diode (Texas Instruments G-129). The voltage developed across the diode is
+              a logarithmic. representation of. the pen (2) output (Kahn, 1962). This voltage was fed
+              iito a third channel of the Dynograph and, with zero input into channel2 (1), and the
+              recording completely restored to baseline, the zero position of pen 2 was adjusted
+              until the voltage across the diode was for-ward biassed by 3.25 volt.' Polarity was
+              arranged so tliat an electrodermal response produced increasing forward bias on the
+              diode.
+              ,Measuriiia- Techniqu
+                    A straight line is drawn parallel to the linear portion of the recove-2ry slope in
+              the region immeb-ately after the peak of the response (Figure 4). On can then
+              measure the acute angle (A) which this line makes with the horizontal, and obtain
+              its tangent from tables. This value. is directly proportional to recovery rate constant.
+              An alternative method is to use the L-shaped scale shown in Figure 4. 'The vert,,,al
+              limb is set so that it passes through the intersection1 of &-e slope with the upper edge
+              of the paper channel. The horizontal distance from this point to the intersection of
+              the slope with the bottom edge of the paper channel can be read dirdct ly off the metric
+              scale on the foot of the L. Since t,@n A is proportional to the rate constant, 1/tan A
+                                                                                 iq ,i ronstant).
+
+                                                      "la
+                   Upper edge of
+                      Scale
+                   Bottom edge of
+                      Scale
+                                                              1         2         3,
+               Figure 4. Measurement of recovery rate by measurement of anale A or intercept d.
+
+            Also,  since  tan  A  Ii/d where H is the scale heiglit and d i@i the liorizontal distance
+            measured, J r                            Since H and b are constants, d is directly pro-
+                             +,4 vi A
+            portional to the tirr-c constant.
+                                                      Results
+                     The recovery time constants of 66 r2es@---nses recorded on magnetic tape were
+             read by the electronic method described in Section 4C.  This method consists of
+                                       'tive and peak negative first derivatives of the electrodermal
+             meas'uring the peak pos-,
+             response and dividincr one by the other. The same populat-'-on of responses %vas sub-
+             jected to the template measurement (Section 6), t2o the amplitude-slope method
+             (H/tan A), and also to tffe locr-compressed AC recording as described here.  Produrt-
+             moment correlations were determined between the values obtained by the logarithmic
+              method and those from the three other methods.  Values were as follows:
+                               Log/ E'           v,3. electconic computer               0.59
+                               lx2g t E           vs. amplitude-slope                    0.87
+                               Logi E            vs. template                           0.86
+               The range of d in the log method was 3 to 47 mm which corresponds to an 8:1 range
+               in time constants.  The correlation of the log measure ,vith response amplitude was
+               like many of the other measures  low  and  positive  (r  =  0.37,  R  -<.01).
+       2                Because of the simplicity of the manual measurement involv@-,d in the measure-
+                          0                      because of its independence from laiowled,,a
+                ment of  loaf  E,  and  especially                                             ,e of baseline
+                level, this seems to be a measure of ctioice.  It has one &aw-back, namely the neces-
+                                                            6                      nt-inn in n@)r,-LiTiing its
+
+                    AMN,
+                                                        16
+               B) N,"icasuremcnt of the Altitudc-SIOI)c Intci:cct)t Aloi,.rr f@aseline
+                                                                                   leads to yet  another
+                      The notation H/tan A, that is, the amplitude-slope measure,
+               approac2h to time constant measurement. In Figure 5 it is seen  that  tan  A  is  approxi-
+               mately equal to H/D where D is the distance along  the  dxtended  baseline  included  be-
+               tnveen the altitude aine @1) and the extension of the recover-I limb slope. As a  result,
+               H/tan A reduces approximately to D. The measurement  of  D  in  practice  is  not  unlike
+               the task of measuring t/2, the time for half 2recovery, but it has the  advanta-e  that  D
+               is about 75c7 larger than.t/2 and, therefore, incurs a smaller relative error in measure.-
+                          /0
+               ment.  Furthermore,  it  allows  measurement  of  a  considerable  number  of   responses
+               which fall to recover by @O@'7 prior to the onset of the subsequent response.
+                                           /0
+                       To test -.he u2sefulness of this method the values of D were measured for the
+               same 66 responses used to compare the other methods.  Values of D ranged from 1.2
+               to 8 secon&-. Because the paper speed was only 1 mm/second, measurement was
+                not very precise, but the correlation with the measurements obtained by H/tan A was
+                neve-,-@ll,@--@3less 0. 90, and with those obtained with the curve-matching 2method, 0. 82.
+                Correlation with the electronic method was 0.63 and w,'-th log/ E 0.86. At a somewhat
+                higher paper speed, e.g., 2 to 2,5 mm/second, this  is  a  very  satisfactory  r@iethod,
+                especiauy since the value of 1), when expressed in seconds, can be readily converted
+                 to the time constant by the use of a constant factor. The use of  a  standard  notation
+                 i6s highly desirable in making comparisons between results at different laboratories,
+                 and the use of the time constant or rate const-,int seems a reasonable choice for such
+                 standardization. To derive the conversion factor for 0, one  must  keep  L-i  mind  the
+                  fact that in precise terms, tc = h/Tan A wl-Lich is equal to d in Figure 5.  From this
+
+                                                     16a
+                                                     e
+                 Fi,o-ure S. Veasurement of recovery rate by altiwde-slope intercept, D.
+
+                                                17
+                                               o r'           -  --------
+           Measurements on 40 responses gave a mean value of 0.74 for h/H + c, whence
+           7)                         O.
+                  To convert H/tan A to tc, one must consider the re"-ation of H/tan A to
+           h/Tan A. Since
+                                         a- ti  A      H              2A
+           the conversion factor h/H must be determined. Calculations of h/H from 20 responses
+           on each of 6 subje.:ts gave mean values of:
+                                                0.84
+                                                0.86
+                                                0.76
+                                                0.84
+                                                0.89
+                                                0.85
+                                                0.84
+            From this
+                                                         H
+            8)                -LL              O,
+                                                        -t -Dill A
+                   'Ihe acrreement of these two relations were tested on 65 respons es, with results
+            as follows:
+             ,Notation                                   Factor                 4  Comt)uted te
+             D                  2.70                     0.74                      2.00 seconds
+             H/tan A            2.34                     0.84                      1. 97 seconds
+
+                                                                                          0
+                This agreciiient is surprisingly close and gives confi(.Icnce in tile reliability if not
+                the -validity of these measures.  'nicir agreement N,.'itil tc values obtained by curve-
+                matching  is  not  nearly  as  impressive,  the  mean  of  that  measure   being   2.529   seconds.
+                The possible cause of this discrepancy is described bcl'ow.
+                The Positio a of the  Asymptotic  Level  and  Its  Effect   upon   Recover-v   Rate   %Icasurement
+                        All methods    described,  whether  curve-matchin-,   t/2,   D,   or   H/tan   A,   depend
+                for their validity upon the accurate choice of the asymptotic level to which the exponea-
+               2 tial portion of the recovery limb is decayincr.  The only exceptions to this are cases
+                in which E '/E// or d aoc, F,)/dt are used to determine tc.  In the other four measures,
+                the conducta  nce or resis  tance level at point of response onset has been used as the
+                asymptote, but it is clear from inspection that in numerous cases such an assumption
+                is erroneous.  Uncertainty  as  to  the  lev2el  of  the  asymptote,'  and  in  fact  a  systematic
+                error in estimating it may explain the fact that recovery rate is found to have a
+                correlati-on with response amplitude.  This correlation though low is consistent for
+                different methods of measurement and is significant.  Examples of the correlation
+                for measures on the same population of 65 responses are:
+                                                                              r2                    p
+                                  Amplitude vs. Electr(,,-..;Ic tc           .37              <.Ol
+                                  Amplitude vs. Template tc                  .35              <.Ol
+                                  Amplitude vs. log E                        .37              <.Ol
+                          True  asymptotic  level  may  be  determined  in  the  following  way.  In  4 Figure   6,
+                 tan(-,ents to the recovery lin-Lb have been dra@,in at points  I  and  2.  It  has  been  shon@-n
+                  Pirlit-r that the time  constant of an expone,,itial curve = h/tan A or  d  in  Fi,-,lrc  5.  If
+
+<<OCR Error  --  Unable to read TIFF image>>
+                                                    19
+            from either point should be identical. 7lic correct asymptotic level will be that at
+            which di = d
+                       2'
+                  When this method was applied to a nun-Lber of skin conductance responses, the
+            asymptotic level was found to vary, sometimes falling 41.most on the baseline, but -
+            more often considerably above it, oc2casionally near the pea'.%- of Ulle wave. As a
+            consequence, the values for tc calculated from curve-matching, t/.2, D or H/tan A,
+            are usually too laege, but since all are altered in the same direction by this effect,
+            the inter-correlations are not seriously disturbed.  Moreo,,,er the error introduced
+            after conversion of eidier D or H/tan A to tc is the same, hence the  agreement  of
+          2  the mean time constants obtained from these t@vo measures. Such is not the case for
+            the curve-matching technique. In this case the error is  considerably  greater  and
+            is a likely e,-,.planation for the discrepancy shown in the previous section. Since the
+            other methods are less subject to this error, it argues in favor of the abandonment
+            of curve matching in favor of D, H/tan A, or t/2. Since me@Lsurement of D a2llows
+            measurement of more responses than does t/2 and  entails  no  more  work  than  for
+            t/2 and less work than for H/tan A, it is considered the method of choice. More-
+            over, it is faster than curve matching, requires less training, and the one judl-ement
+                                                                                            0
+            to be made, namely the placin- o f a straight edoe parallel to the recovery linib at its
+            steepest point is a simpler one than is curve fitting.
+                   To reiterate, the most advantageous mediod for measurement of tc is to
+            measure D, using the conversion:
+                    tc = 0.74 D
+
+                                                       20
+               or, for rate constant:
+                           1.35
+                      rc
+                      It will be recalled that LNvo alternative metliods for measurement of recovery
+               rate are inherently independent of any knowledge of baseline or asymptote. The
+               first of these is E/Ell , i.e., the ratio of the first to second derivative at any2
+               point on the exponential portion of the recovery limb. The difficulties with this
+               approach have already been discussed. It does -,iot appear to be feasible at this
+               time. The seccnd alternative, d aog E)/dt, that is, the slope of the linear portion
+               of the logarithmically-compressed recovery lin-Lb does appear useful, but only with
+               a condensor-coupled recording and,,,iith loa-com2pression circuitry.
+               C) Electronic Computation
+                      As discussed in Section 3 the notation H/tan A forms the'Dasis of an approach
+               to automatic on-line calculation by an analog computer. The analoo- approach takes
+               advantage of the high linear relation of the peak first derivative of the ascendino, limb
+               of the DC elect:rodermal recording and          amplitude of the wave (Pearson's 2r -
+               close to 1). Also convenient is the fact that tan. A ;.-. the maximum first derivative of
+               the recovery limb. Hence:
+                                                   H
+                                                      - =
+                                               -L@)v) A
+               where E@ is the maximum first derivative of,the ascendin- limb, E-   is the same for the
+8               recovery limb, and g is a constant.
+                       There are several complications in the use of this expression for computino-
+
+                     0
+                                                         21
+                so that a storage requirement e,%ists. The use of Ii/tan A (Figiir,.,,, 5@ @-;ould be more pre-
+                cise and because h and tan A are taken simultaneously, would be easier to program,
+                but it would require measurement of li in terms of its distance above the baseline or
+    2            preferably above the asymptotic level. This becomes a problem in DC recording,
+                because of expected baseline shifts, and such an approach does not lend itself readily
+                to analog computation without cumbersome programming.
+                       Secondly, because responses in close sequence interact, contingencies must
+                appear in the program for selection  of  waves  meeting  standard  criteria.  These
+                cr2iteria  are:
+                        (a) 'Ihe time of onset of any measurable response must be at least 7
+                             seconds after the onset of the previous response. This is neces-
+                             sitated by the fact that -recovery rate of a small  wave  superimposed
+                             upon the recovery of a preceding larger one is spuriously rapid. The
+                             effect is shown in Figure 7a.
+                        (b) R2esponses which do not last at least 4 seconds prior to  the  onset  of
+                             a successive wave must not be accepted for measurement. This
+                             requirement prevents  measurement  of  a  wave  whose  peak  negative-
+                             going first derivative is cut short by the orset of another wave (Figure 7b).
+                                                        Method
+                         A corrlbination of analog computer 2and digital logic circuitry Is used to meet
+                 the conversion, storage, and contingency gating requirements of the computation.
+
+                                @i         o
+                                           (/I
+                      (D
+                                (D         0(D
+                                (A         0   4
+                                           0
+                      o
+                      p         OQ
+                                           (D
+                      0
+                                (D         (D
+    2                            @j
+                      0         0          <
+                      10        '          (D
+                      (D                                                                                                                       
+LO
+                                           E3
+                      p
+                                           0   Fi
+                             2   0
+                      o         r-
+                                Cl)        (t)
+                                           En
+                                           (D
+                                           cn  (n
+                                               Id
+                                           cn. 0
+                                               En
+                                               (D
+  5                              0          It
+                                           ct
+                                           0
+                                           0   0                                                                           07
+                                ('D        H   rt
+
+                                                      22
+               .@n4l2E- olqi@zial Cor@ crl@@ n@_ SL2i -,C, and@Cop,@p,,,-,Ii@on
+                     The skin conductance rcsponsc is recordcd Nvith a constant voltage bridge
+               whose output, p-zoportional to skin conductance, is fed in*lo a Beckman Dynograpti
+              2 amplifier. 'nie voltage at the I)cn output is fed into two cther channels, each using
+               a 0. I-second couplin- time constant, thereby achieving e--.rivation of the trace.
+               The output of one of these is used to fire a Schmitt trigger to start analysis at the
+               onset of a response. The output of the other is sorted into positive-going and
+               negative-going components by fhe use of diode c2lippers which feed their respective
+               signals to storage capacitors. This storage is arranged as a peak memory circuit
+               so that after a response is over, one of the nvo capacitors is charged up to the peak
+               voltage of the positive first derivative, the otlier the negative. Upon a command
+               signal from the associated logic circuitry, both capacitors are read simultaneously
+               by two separate voltage-to-freq,ue2ncy converters. These feed into a preset counter
+               programmed to divide one frequency by the other, thus accomplishino- the computation
+               of E@/E- or its reciprocal. The quotient is fed into a dio,,ital printer and at the same
+                                                                  is pr'--nted out on another
+               time the value of the positive-goino- derivative (E                          printer
+            2   to furnish amplitude data. Details of the arrangement are shown in FigiLres Sa and Sb.
+               Control Loo,,ic System
+                      This system must recogni7.e the onset of a response, must screea out responses
+               which fail to meet the t@,vo time criteria, must time and command readout and print,
+               and must reset the storage can,-icitors. It must also decide, on the bas--i's of a minimum
+  4             amplitude crit erion, which responses are large enough -o measure. @-,iti@,out inc,-lrring
+               unacceptable error because of low si.-iial-to-noise ratio. These demaads are,met by
+
+                                        22a
+                                                             -7 5
+                                              PEN
+                                            OUTPUT           7,5 k
+                                   REED
+              CONTROL
+                                   RELAY
+               LOGIC
+                 REED
+                                                       0-
+             2    RELAY                        STORAGE
+                   2
+                                                       0-
+                                               0 0 0                    2
+                            STORAGE RESET
+                              PRINT COvIMAiND
+                                                                     PF'
+                                                                       ESET
+                                            4                        @COUINTER
+                                               PRINTER
+                                                                       A/B
+         Figure 8a. Diagram of electronic programmino@ for automatic analysis of recovery
+          rate.
+
+                                     22b
+                                                                        NEG
+                                         POS
+                                                                        OUT
+                                         OUT
+         PEN                            2-Z K
+         RQFUT
+                                   colm
+                                 STORAG2E
+                                  RESET
+         Figure Sb. Storare circwt.
+
+                                                       23
+                   A free-running pulse generator (,c\) is set to fire at a rate of one per  second.,
+              Its output is fed into a binary counter (Figure 9). The onset of a response  serves  to
+              zero the counter sc tl-iat tin-ie gatin(, of subsequent operations may be standardized.
+              This is accomplished by using the first dcri2vative signal from peii 2 of the dyno,,rraph.
+              This signal is fed to a Schmitt trigger which fires @viienever a positive-going wave
+              occurs in the first derivative trace.  Firing of the Schm'itt trigger not only resets the
+              binary counter to sta.ct counting at the next second, but also fires a one-shot  having
+              a 4. I-second output pulse.  The-ascendinc, lin-Lb of this pulse fires a2 second one-
+              shot whose 0.5-second output is used to trip a reed relay to discharge the storage
+              capacitors (reset). The primary purpose of the 4. 1-second one-shot, however,
+              is to act as a gate to prevent processing of the response.if a second wave starts with-
+              in 4. 1 se6onds after onset. This is accomplished  by  feeding  these  one-shot  pulses
+              into a quadruple and-gate: the othe2r three inputs of which are fed from the 0-0- I
+              terminals of the b4-nary counter. When 4 seconds of counting are up, the and-gate
+              can fire only if the one-shot has not returned to its off-state. If this condition is
+              met, the and-gate output acts as a command to the pre-set counter to take the quotient
+              of the two storage outputs.  The preset counter, after finishin- the division, sionals
+              the printer to prir-t. The quadruple and-r-te also fires a one-shot whi'ch advances a
+              decade counter used to number the responses on  the  printout.  U  a  second  or  third
+              response occurs during the initial 4-second period, the 4. I-second one-shot is reset
+              and its off condition output serves as an inhibit signal to the and-gate.
+                     The requirement for at least  7  seconds  benveen  processed  waves  is8  met  by
+              the use of a triple and-gate and two flip-flops interposed bet@Nveen the Schmitt, tri@Ser
+              and the 4. I-second one-shot.  The triple a,,id-gate is led by a I- I- 1 output frori Llie
+
+                                                                                   AMIL
+                      F r-o- -m
+                       Pen                                   One                           Reed
+                                                             Shot                          Relay
+                                                             0. 5 Sec                         2
+                     Sclunitt
+                2     Trigger
+                                                                 In        One.
+                                                                           Shct
+                                                                            4. 1  Sec
+                                                               Reset
+                                                                                              IrNbit
+                        Reset
+                     2      Pulse
+                        Generator
+                                                                                    Preset
+                                                                                    Counter
+                                                                                                        Decade
+                                                                                                        Counter
+                         1    0               1  4                                   Printer               BCD
+                                                                                                        Decoder
+             Fio.ure 9.  Control lo,,7ic c;,.rcuitr-y.
+
+                                                       24
+               biniry counter so that it fires at 7 seconds after the Schmitt tri,,,,-Icr lias signalled
+               start of the response. Its output resets the two flip-flops and allows a subsequent
+               firing of the Scli-nitt trigger to fire the 4. I-second one-sliot. Until this triple and-
+               gate fires again seven seco2nds later, any pulse coi-nin(- through after the 4 seconds
+               of processing cannot fire the one-shot and therefore canhot initiate -tnodier computing
+               sequence  The -LNvo flip-flops are connected in such a way that the 4. 1-second one-
+               shot cannot be fired again until the triple and-gate fires again. Thus no computation
+               can be started u--iless t2he binary counter has been allowed to count for seven seconds
+               after the start of the last response. Any response occurring during these seven seconds
+               starts the count over again..
+                                                    Results
+                      This system proved to be very accurate, the prir-t-out data ag-reeing very
+               closely with values obtained by hand measurement of the positive and negative peaks
+               o2f the first deriiative trace.  Values of Eland of the time constants obtained by the
+               t%vo methods for each of twenty solitary responses of a Nvriteout are plotted against
+               each other in Figure 10. From this standpoint the system is very reliable. The
+               major source of error is caused by responses in which the ascending limb is in fact
+               a slurring of tnvo responses into a single one without an intermediate p7eak. In such a
+               case the Schmitt trigger fails to recognize the second response because the derivative
+               has not recrossed baseline (Figure 11). The maximum slope is that of one of the two
+               slurred components rather than beina additive and is not consistent with total H. The
+               value computed electronically is, therefore, considerably less than that computed
+                     II--  T-
+
+                                                                                                                                               
+Cd
+                                                                                                                                               
+4-)
+                                         2                                                                                                     
+(n
+                                                                                                                                               
+4-4   i
+                                                                                            2                                                  
+0
+                                                                                                                                               
+Cd
+                                                                                                               LLI
+             2                                                                                                                   Cd
+                                                                                                                                Cd
+                                                                                                                                               
+2                         Cd
+                                                                                                                                               
+Cd
+                                                              OTUO.110;Dl a                                                                    
+2                                                                                                                      'O
+                                                                                                                                               
+r4
+                                                                                          6                                                    
+@T4
+
+                                                                                AMNL
+                                                        24b
+                Figure 11. BreakdoNvn of linear relation bet@veen primary amplitude and first
+                derivalk-ive amplitude in duplex response F. Simple responses D and E show linear
+                 relation.
+
+                                                     25
+                    The above clcficicncy may explaiii the relatively 10%@,rcorrelation of ti.-le
+             constants derived electronically from those obtaiiicd by the various manual methods.
+             The (-6.rrelations with od-ior measures for the same population of 65 responses
+             analyzed elsewhere in this paper w2ere as follonvs:
+                           Electronic vs. Log' F,               0.59
+                           Electronic vs. H/tan A               0.68
+                           Electronic vs. Template              0.42
+                    Another problem with the  electronic method lies in the selection of the minimum.
+             threshold for trigc,,,erino, the Schmitt trigger.  If this is chosen too low, many clean high
+             ampl2itude waves are lost because of the occurrence of a miniscule wave in the previous
+             7 seconds. If set too high many perfectly useable waves are lost. The compromise
+             between these t@vo conditions is difficult. With the particu[ar threshold used in this
+             test (16c7 of half scale), the system accepted 63 of 86 responses which met amplitude
+                    /0
+             criteria, the remainder being rejected because of temporal conting2encies. The total
+             aumber of responses, however, was far greater than the 65 having adequate amplitude.
+             For a threshold 8"7 of half scale (i.e., 407 of full channel width), the total number of
+                              .,O                    /0
+             responses reachir..g amplitude criterion would have been 188.
+                    While this automatic system meets minimum requirements for an operationally
+    9         satisfactory system, its susceptibility to spurious readings of relative wave amplitude
+             when multiple responses fuse in the ascending limb is a rither serious disadvantage.
+             It appears possible to construct an on-line analog system lsi.'Io, one of the other
+             approaches and in this regard the measurem--,-it of the slop-- of ulic log-compressed
+
+                                                    26
+          D) Sun-ini@in, oi' Coni-)arison,5 Bct,,@,cen ',\Tcisures
+                  For convenience a summary of  the  various  intercorrelatiol,,s  examined  is  shown
+          in the matrix in Tablz- 1.
+          Table 1. Correlations bet-,veen time constants  measured  in  different  ways  2on  the  same
+                    63 responses.
+                                  Template        Electronic         Log /E         H/tan A          D
+          t/2                        .94
+          Template                                   .42               .86            .81            .82
+          Electronic                                                   .59            .68            .63
+          Log.*E                                        2                              .87            .86
+          H/tan A                                                                                    .90
+                  The overall t igh correlation bet@veen the various manual measures gives conf idencc@
+          that a fundamental form characteristic of th  e recovery limb :-s in fact  under  examination.
+
+<<OCR Error  --  Unable to read TIFF image>>
+                                                          28
+             various couplin-s into a Beck-iiia,-i Dynograpli equipped with rectilinear ink
+                                                                                            writers.
+             Time constants of 1, 2, 3, 4, 6, S, 10 seconds and DC were used. Time constants
+             were measured by the amplitude-slope method described elsewher2e.  Forty responses
+              were selected wizh tlic,@ qualification that they must start at least seven seconds  after
+              the start of the previous wave, must have an amplitude at  least  5  mm  (full  scale  was
+             .40 mm) and must not be interrupted by a successive wave until at least 50@o recovery
+              was completed.  In each case the rate constant was calculated from tan A/H.  Values
+              for each coupling condition w2ere matched with those from the DC record       to    compute
+              a Pearson  s   pro@Llct-moment    correlation.
+                                                        Results
+                        The correlations found at each value of coupling  time  constant  are  shown  in
+               Table   2.
+               Table   2. Correlation betnveen recovery rates (tan A/H) computed      from IDC records
+                          and t.-iose from- ca2pacitance-coupled  records  taken  with  various  coupling
+                          time constants.
+                     R-C                                                                        Slope Of
+               Time Constant                          Pearson's r                                Line Of
+                  (Coupling)                                                                   Regression
+                        ISeconds                           .33                    2                  .32
+                        2                                  .51                                      .44
+                        3                                  .72                                      .27
+                        4                                  .80                                      .59
+                        6                                  .86
+                                                                               7                     .43
+                        8                                  .90                                      .68
+                       10                                  .86                                      .86
+
+               Note that Iiigii correlations are found for 6, 8, and 10 second couplin-
+                                                                                        constants,
+               Lliat is wlien the coul)ling time constant approaches the time constant of the ,;Io%vest
+               waves in the population (see Sections 6 and 8).  The correlation reaches a relative2ly
+               conslant level at coupling coil'St'ants of 6 seconds or longer. This constant lcv-!  is
+               less than 1, and is in part indicative of the departure of the relation from  linearity
+               and in part of tile repeat measurement reliabUiLy.  By comparison the repeat measure-
+               ment reliability for the template measure found in the earlier study was 0.93 (co2efficient
+               of concordance).
+                      The DC values of the recovery Iii-nbs are plotted against  tile  rate  constants  found
+               with each coupling constant in Fiaure 12.,  As  expected,  rate  constants  are  increased  as
+               compared %vith th@-, DC value, with greatest acceleration fcund when shortest coupling
+               constants were used.  '\Ioreo,.,er, at any given coupling2 constant, those recovery limbs
+               having the sho:etest rate constants Gongest tifne constants) are affected the most.  Be-
+               cause of this, the relationship benveen DC rate constants and those found with capacitance
+               coupling is non-linear. Short coupling constants  not  only  cause  a  greater  scattering  of
+               points, making the measure less sensitive, but also affect the slope of the relation as
+               seen in Table 2.
+                       Since, as discussed elsewhere, the rate constant of  the  first  derivative  is
+               the same as that  of  the  primary  wave,  one  may  wonder  why  intermediate  coupling  con-
+               stants, e.g., I second, do not give as good a relation.  The answer lies in the fact
+               tl-,at the time constant for obtaining the first derivative must be so short that all
+               responses,  long and short, are affected similarly.  Witi t3he
+
+                                                   29a
+              RC    I Sec
+                       0                                                             C A @D
+                RC    3 Sec
+                                                                  0
+                                                00              0
+                                                             0
+                            0    0                     0
+                                           0
+                                        0
+                                 0
+                                                                                        c     p
+                              0    0 0
+              Figure 12. Relation of rate constants of direct coupled responses to rate constants
+               r,omputed on same waves recorded with capacitance couplinc,,.
+
+                                                        2 9b
+                      RC    4 Sec
+                                                                                            CAt
+                       RC     6 Sec
+
+                                                      29c
+                                    RC    8 Sec
+                                                                                  CA?
+                                      RC    10 Sec
+
+                                                        30
+             Lntcrmcdia te coupling constants used licre, tile slower waves N,;ill be differ  ciitially
+             affected and the relationship breaks do,.Nrn.
+                     These results imply that  the  use  of  a  capacitance-coupled  system  having  a
+             time constant of 6 seconds or longer is  suitable  for  the  de-.erminati0on  of  recovery
+             time constants. Though values obtain     ed from such recordings are not directly
+             comparable with tjlosc from DC  recordi-rigs,  they  have  similar  capacity  to  reflect
+              changes incidental to shifts in behavioral state.
+
+                                                        31
+             6.      TFIE- IiNFOr,.,%[.,\TIO,\' COiN-A@-EiNT OF TIIE- l@E-CO%'Ei\Y
+                     ELr-'CTRODEr\,\IAL rE-SI"ONlr'>E
+                                                         t@sliowed that during an clectrodcrmal res
+                     A previous 2study
+             poiise (E-DR) there is frequently a sudden decrease in tllb hydration of the covered
+             skin surface, and that this plicnoi-nonoii occurs mucli more often during co.-iiitive
+             activity such as listeiiing to instructions than N@,itli startle responses. These liydra-
+             tion responses, Nvhicli are attributed to absorption of water from 2the surface, commence
+             at about one secord after the onset of the skin resistance response (SRR) and reach
+             peak in about three to four seconds.  Their occurrence is not determined by the ampli-
+             t-ude of the SRR but is associated Nvith the presence of positive waves in the skin po-,
+             tential response (SPR).  @Vhere pure ne(rl-)tive SPRs occur, hydratioli under the electrode
+             e2ither increases (Figure 13) or remains  unchancred.  These  obsery@ations  sur,  est  that
+                                                                                            .9
+             two different kinds of EDRs might be occurring,    a supposition consistent with con-
+             clusions drawn in an earlier study                                 Moreover,   since   skin
+             conductance is in part determined by the level of2 fluid in the sweat ducts and by the
+             hydration of the corneumi
+                                                                                   an  absor-otion  res-
+             ponse micht be expected to speed return of resistance or conductance to base level
+             and thereby steepen the recovery limb.  An indication of t@is is seen in Figure 13,
+             where recovery rate of SCRs in the second panel averages twice that of the first2.
+                    The absorp-tion response appeared to-hold promise as a useful qu    alitative  index
+             O.' behavioral set, bull- there are serious d4.j'ficult,.es in its dire--t quantitative measure-
+             mer,it due to the conplicating effects of simultaneous sweat secre@Lion.  It was hoped
+             that the recovery limb of the SRR or SCR micht carry tl-,e iTLformLi4lion reflected i-,l
+             the absor@,",'c@n rcs:Do.,isc ard at *the same time be more ame-iabl-- to qua,-,@icati%,o measure-
+
+<<OCR Error  --  Unable to read TIFF image>>
+                                                      32
+          mciit.  This scctioii is concci--licd @%,itli tl-c          of c,,ua,itit;-,tivc methods for
+          examining the rcco%,cry rate of the L,;DR ird witit an o.,-aniina@ion of its relation to
+          other measures and its sc,isitivity to 2behavioral state.
+                                                    Method
+           t@,,.iluatioii of the Rccg@v r@R,,te
+                                                  had developed a measure called the Recovery
+           Quotient for describinc, the rate of return of skin resistance to base line after re:s-
+                                   0
+           ponse to stimulation.  They did this by 2determining the percent recovery reached in
+           five minutes after peak displacement.  Their measure ordirarily was applied to a
+           complex toncr-lasdrcr response and they interpreted it as an i    ndication  of  the  capacity
+           of the central nervous system to reestablish homeostasis follo%ving a disturbance. The
+            Recovery Quotient did not deal Nvith wave form and theoretically should be unrelated to
+            2the measure of concern in this paper.  For the present purposes, the recovery limb was,
+            as a first appro%imation, assumed to be exponential, a conclusion also reac!aed by
+                              One fundamental characteristic of such a curve, its rate constant,
+            or i.,i reciprocal terms its time constant, is inde-endent of amplitude and was selected
+            as a best first appro-.i,mation of recovery rate. It is viewed  as  a  2useful  reflection  of
+            this rate, but not as indicatina, a truly exponential form for the recovery limb.  Exami-
+             nation of the exporential  equation  reveals  numerous  methods  for  evaluating  this  con-
+             sta.nt, but t-,-io convenient ones were adopted for use in tl-ds study.  For either one,
+             I)C recordings are mandatory.
+                     Half-time measure.  To determ. inc,@ the tiric constart (tc), one should measure
+             the time reaji red to attain 631 recovery (i.e. , 1 - lllc), b,"t     rcco%,e.-N  haLf-ti@-,Ie
+
+                                                            33
+                                      1 - 43 t/2) and is more cas ily measured. It can  be  cluickly  dctcr-
+                 relation to cc (tc
+                 mined by ttic use of a transparent overlay containing  a  series  of  parallel  horizontal
+                 lines bisccted by a single vertical line.  The central parallel line is made longer
+                 tha2n all the rest and contains a metric scale on the rig'it side of the  vertical,  with
+                 zero at the intersection. The vertical line is made to pass  throu-h  the  peak  of  the
+                 wave perpendicular to the base line. The  template  is  moved  up  and  down  until  the
+                 central line is midnvay bet@veen onset and peak of.the wave, as  indicated  by  the  short
+                 parallel lines. The 2distance from the ver-Lical line to t[ic intersection of  the  central
+                 horizontal line with the recovery slope is read from the  scale  and  converted  to  half-
+                 time by the appropriate Qalibration.  This method ca-a only be usea on responses Nvmch
+                 recover at lear-t 50/10 before a second response occurs,
+                        Curve-matching.  A  second  method  is  based  on 2 curve-matcEn,-.   As   seen   in
+                 Figure 14a, if zhe members, of a class of  responses  of  differing  amplitudes  all  have
+                 the same recovery time constant, it is possible to superimpose them on a single
+                 exponential curve.  One may use a transparent overlay bearing a family of exponential
+                 curves of k-no@va time constant (obtained, for example,  by  recordin,-s  of  a  condensor2
+                 dischar e through various resistances).  Thb tc for any resp@)nse mav be quict-,Iy deter-
+                        9
+                 mined by placirg the overlay such that its base line (asymptote) Is horizontal and passes
+                 through the point of onsell- @@)f the response.  A straightedge is then held against the loi@-er
+                 margin of the overlay, which should be parallel to the b0ase line,  and  the  overlay  is
+                 moved horizo-,itally until one of the standard curves coincides %vith  the  recovery  limb
+                 or a best i@-iterpolatio:i is made (Figure I'llb).
+                        '@@",ch of the
+                                    a@-,ove methods has its advantages and disadvanta(@,es.  Tle half-time
+
+                               -a,uno I-epuauodxa u-e uodn p,?soduluadns Z)I-C.1 laDA00al @ures
+         inq sopmt                                                        @o     C[
+                  .IdLur 3uaiapTp jo sasuodsax Iruliopoiloala aailla ;o lui,-A-c-i        a-i
+
+                                                       33b
+                 Figure I'zb.  Illustrat-ion of curve-matching to deterrni-ne the "time constatit" of
+                 the steenest por-don of the recovery Umb.
+
+                                                        34
+                                                                                    bc evali,,aLed. The
+             not recover by 50@" prior to oiisct of a subscqtient %@.,avc aiill cai,,,,iot
+             curvc-matcl,ilig MCLI10d is SOIIICW',Iat MORC (liffiCUlt; it soon becomes clear t2hat many
+             N%,aves depart from the cxtoiiciitial sliapc and niatcliiii- is -anibi,(,,-tious.  HoNicvc r,  by
+              using the early portion of recovery just arter the steepest slope has been reached,
+              satisfactory matcliiii- can be made for practically any  response,  Since  tl-ds  can  be
+    2          done on a portion wliicli reaches only Z5 to ')01/'o of rccovc::y, many more waves lend
+              themselves to tWs  measure  than  t.)  the  half-time  measure.  As  might  be  expected,
+              curvilinear recordinm  produces  a  distortion  in  the  recovery  limb  which  becomes  appre-
+              ciable if the writeout extends beyond the middle tl-iird  of  the 2 scale.  The  half-time
+              measure is therefore recommended for curvilinear recordings since it is possible to
+              make objective corrections for this effect, for example, using an overlay Nvith an appro-
+               priately curved -vertical line.  Corrections for the curvili near  effect  in   curve-matching
+               is considerably more difficult and more approximate, and it is recommended that the
+               use o2f this method be restricted to rectilinear recordinas or to the middle third of
+               the curvilinear scale.
+               Procedure
+                        Subjects were 106 normal adults of both sexes, ao-es 17 to 45. The number used
+                in each experiment varied and is indicated in the presentation of results.  Each e%-peri-
+                ment was run on  a  different  population.  Electrodes  were  silver-silver  chloride  pl2ates
+                applied to masied sites, 1/4-inch diameter, Nvith a thickenina agent in 0. INl 'L\aCl as
+                an electrode  paste.  A  constant  current  brid-e  (current  density  8  niicroamp/cm2)  was
+                used to obtain SRRs and a constant volta-e bridge (0.7':-@ V across t-,vo active  sites)  for
+                 SCR'                     All exosomatic electroderrr,-6@l placcmen@,s @@.,erc on the volar
+
+          hand.  For polcn';al              the reforence clo-trocie %vas over the ulziar bone,
+          onc-fiftli t!ic distance from cll)ow to %,irist,  Fl@,clr,-Lioii was nicasured N@,,itli the contact
+          device described clsc%@,licrc                  the placement bcin- on the volar sur-
+                         2                                                   C-1
+          face of tllc fin-crtip.  Rccor(lin(-, of the above variabl es was accomplished using a
+          dircetly-coupled Boc'%-man Type R Dynograph. In on(-- series of runs, a reflectance
+          plethysmo-r,ipli unit was applied to the tlicnar eminence of the non-preferrcd hand
+          and finger pulse volt.,2me was recorded using capacitance-cou-.)Ied amplification
+                 The subject was- seated in a small room and after a 15-minute st,--biLization
+          period was exposed to stimuli which differed for each experiment as described below.
+                  ExiDeriment 1. This was a replica of an experiment by
+                       ',--,,ihich was run for another purpose. In this the subject is given a 3-mi2nute
+          rest period  followed by a 1-minute task in which he is frustrated by the experimenter
+          in his attempts to count back--@vards.  He then participates with the experimenter in a
+           guessin- game in w-dch the experimenter attempts to guess the number which the sub-
+           ject selects. If he fails, the subject presses a button which supposedly shocks the
+           experimenter.  Follo%vin2- this t@vo-minu,Le "agoressive" game, he is criven a second
+           rest -period.
+                   Ex-oerimeTit 2. A mixed series oi'L eight tones and eicht light flashes of moderate
+           intensity is presented to the subject who has been instructed to relax @vith his eyes open.
+            Follo%,,-ino- this he is instructed as follows: "This time, when you hear a tone it will be
+            a warnina- signal fcr a second one which will occur at any time up to a half-minute
+                    C)
+            later. At the sound of the second tone you are to press tl-ds footswitch as -apidly as
+            poss-@ble so l@;c can measure your reaction time.  In the same way a lirht flasli    be
+
+                         to C..-.pcct I sccoiicl lil-IIL fllsh at tinle @-ou arc to 10',.C tilc FOSitiO.-I Of
+               the nio%,in- pointer.  A ti-dr(i ilasli %,;ill occur sliorlty after tliit, at which time you arc
+                        0
+               to repor-t the letter izidiciti2n- its position. " The inter-stiniulus interval for each task
+               ranged froi-n 10 to '00 seconds. The pointer rotated at 60 r.p.m. This series @vas
+               continued undl eight trials of each task- had been run in randomized order.
+                      Ex2criment 3.  The subject was told to rclax Nvitli his eyes open and .was ex-
+               posed to a series of five tones (approximately 75 db at the subject, I second duration)
+               presented throu(,,Ii a speaker at a varying intcr-trial interval (10 to 25 seconds). As
+               soon as tl,,is habituation series ended, he was instructed for the next sequence which
+               followed immediately. In this series, tones of the sai-ne intensity and ranoe of inter-
+             2  trial intervals as for the-first series co-,istituted signals for a reaction time efforl
+               (fin-er-press) -without a foreperiod.
+                      ExiDe-Liment 4. The subject is criven two reactior- dme t-,4Lals with a foreperiod
+               of 4 to 10 seconds.  Both warrliii r and execution signals are 0. 5-second tones delivered
+               f2rom a  speaker (approximately 65 db at. the subject). Tliiese trials were intermixed in
+               ra-,idom order with t@@vo word association trials to form a block in which the inter-trial
+               interval varied between 20 and 60 seconds. Blocks were repeated Nvith t,.vo-minute
+               interveril:-,io- res,6- periods.
+                       Ext)eriment 5.  In tMs series, run ea2rlier for another purpose
+               the sub ect wore a contact hydration detector as well as skin resistance and potential
+               electrodes. Stimuli were a mixed series of sounds and lichts of moderate intensity
+               i.-iterrupted at intervals Nvith a period of conversation.
+
+                                                   37
+                                        Results and Discussion
+            Characteristics of the Rccovcrv \Icastire
+                  ReliaLl!!Iy. Inter-scorer reliability of the more subjective of the t@vo  methods
+            of measuring recovery rate, namely curve-matcllin-, was  dt-,termined  by  having  each
+            of three ind2ividuals score the same 30 isolated rcsponses chosen at random by a
+            lottery method from a population of 100 useable responses. Time constants ranae,_l
+            from 2.2 to 7.2 seconds. The Ke-,idall coefficient of concordance  among  their  scores
+            was 0. 93.  The time consumed in making a single measurement was appro,-,Imately
+            seven seconds. Despite the high inter-scorer reliability in2dicated in the measurement
+            of Isolated responses, i.e. , responses whichoccurred at least five seconds  after  the
+            peak of the Iast previous response, there is an apparent source of error in the measure-
+            ment of recovery rates of responses which themselves fall on the steep portion  of  the
+            recovery limb of a previous larger wave.  For this reason, scoring of responses is
+            best accomplished on waves which otcur at least  2ten seconds after the peak, of the
+            preceding wave.
+                   Relation between tc and t/2. The reliability of  the  balf-time  measure  should
+            be even greater than that of the curve-rnatcl-dng measure, in view of-the -rigorous method
+            by which it is obtained. It does, however, frequently demand the reading of very short
+            time Intervals with precision, a chore which can be difficult when for  conven2ience  in
+            making other measurements, slonv paper speeds are used, -e.g., 1 mm- per second.
+            To see how the two measures compared, 22 consecutive responses'recorded with
+            rectilinear pens were analyzed by t@vo persons, each using one of the t@%ro methods.
+            Time constants ran-ed from 1.6 to 8.7 seconds. The mean values -Lor tc and t/2 res-
+            nectivelv we re 5. 40 and 35. 83 sccorlds. The ratio of these values, 1. ' )9, a,-r--es rather
+
+                                                    33
+            i@-ell Nl,,itli the theoretical ratio of 1.43. The product-monient correlation be,@,,,Ccn tc
+            and t/2, 0.94, can be regarded as a combined test both of the accuracy of measure-
+            ment and of the validity of the exponential treatment. 'fli-is result, together with the
+      2      1.39 ratio, implies that either measure is acceptable, dnd that the portion of the curve
+            used does not deviate appreciably from an exponential form.
+                   Resistance vs. conductance responses. In some instances responses were
+            measured concurrently from nvo sites, one Nvith a constar..t'Voltage bridge, the other
+            with constant current. Recovery half-times %vere det@,-n-ni2ned for corresponding SCRs
+            a.nd SRRs and found to be highly correlated, though different in absolute magnitude.
+            Correlations between 20 pairs of responses on each of three subjects were .33, .82
+            and .95. Mean values for measurements on SCR and SRR respectively were: subject
+            A, 4.9/6.3; subject B, 3.6/7.3; subject C, 3.6/3.8. Thus although either SCR or
+     2       SRR may be used for studying chan-es in recovery rate, if individuals are to be com-
+            pared it would be desirable to Standardize on one of the nvo systems. Differences be-
+            tween the mean SCR and SRR values, however, may well --eflect differences between
+            sites rather than between methods of recordin-, since despite high correlations,
+            appreciable differences are found between measures tak-e2r. from simultanous palxnar
+            and dorsal SRRs as seen in the example in Figure 18.
+                    Relation of rEERI@@@@ to amulitude. The assumption of an exponential form
+            for the recovery limb implies that the rate constant should be independent of amplitude.
+            This assumption was tested by an examination of the relal,-,io-.i of recovery rates to
+            ainplitude using the half-time measure on 20 SCRs from each of six subjects. The
+            -product-morrient corre lations were .21, -.20, .28, 62, @7 4 and .19. These results
+
+                 AWL
+                                                    ^9
+                                                    0
+          t,,@,o may for sorne sLI)jccts be related tilrou,,Ii a co,,iinioii irLRticlicc. Tile Positive
+          sigi,is for the- t-,vo si-idficant correlat-ioiis (.62 and .71112) @voulct inciicatc ti,at there is
+                                   cct s for responses of 1-dgllcr amplitudes to I)c
+          a tendency in some stibi                                                associated with
+          slower recovery rates.
+                  Relation to Positive SPR - From the relations described in the introductory
+           secti2on, it was predicted that positive SPRs shoulcl be associated with fast recovery
+           rates.  Out of "30 subjects run in Experiment 2, 13 showed both clear positive SPRs
+            biphasic) and "Pur3" ne-ative SPRS.    These were used for -he comparison, Since
+           the magnitude of positive-@oing activity associated with a negative SPR cannot at
+           present be quantitatively evaluated                    2              a test of associadon
+            rather than correlation was made.    In each case two clearly utiiphasic nefative res-
+            ponses and two bi@hasic rosponses N@,-ith a pronou-,iced posit:ve deflection were selected
+            from the skin potential record. The ti-ne constants of the corre@pondinc, sMn resis-
+            tanc& responses were measured and for 12 of the 13 subjects the ave2rage time constatit
+            associated with positive SPRs was shorter than that associated v.-Ith "pure" negative
+             SPRS.  Tne respe--tive group means were 3.7 and 7.4 seconds @p < .005). Amplit-@.,des
+             in the t@vo categories were not si-gmfic-,,ntly different, although responses accompanying
+             positive S?.Rs tenied to be somevihat2 larger, the mean log ratio being 0. 126, equivalent
+             to an amplitude ratio of 1. 34: 1. If anything this would reduce the differences bet%,,,e'en
+              time constants rather than account for them.
+                     The relation of recovery rate to occurrence of absorption responses was also
+              exa,-nined l'or an associative relationship rather than a correlazion be--ause absor-@-,"ion,
+              Li'lle the        SPR, is Oifficult to measure quan@,italivelv                   Data
+                                                                                       e@n -'Hp lik@cl-@--itiorl
+
+                                                       10
+                                                      -3
+                   slio%@.,ing mar@-c(J z)j)sorptio,,i and t-\,.-O siio\,.,iii- an i-,lcreasc in li,'d,-atoti were
+              selected in a randz)niizccj niaiiiier, @,.,itliotit regar2d to stiniu(its. The time constatits
+              of the recovery limbs of the corresponding SRRs %vere measured and an lntor-ilidi@vidual
+              comparison made between the two categories. In 12 of,tlio 13 subjects examined, recovery
+              was faster in association with absorptioii (p < .001). The group means were2 6.0 and 9.1,
+              The association of faster iccovcl-y rate with the occurreiic'c of absorption responses
+              a.nd with positive SPRs is consistent with the third combination of these variables,
+              narnely that between occurrence of absorption and of posit-.vc SPRs previously reported
+              Sensitivitv to 13chavioral'State
+                     Both me-,2sures, t/2 and te, proved highly sensitive to change in behavioral set.
+              In some cases, for example in the comparison of a rest period @%,ith a task period, the
+              conventional ampit-ude or frequency measures would discriminate just as well, but the
+              sr.-en-gth of the recovery rate in differentiating between ccriditions did not de'Dend upon
+              an. plitude. 'ivforeover, in many cases, it distin-,ruished between conditions when a-Tiipli-
+              tude per se could not. In this initial examination of the resolving strength of this
+              measure, t/2 has been sampled in some experiments, tc in others.  Each clearly
+              demor.strated its value, and the choice of which to use is lar-ely a matter of preference.
+              The results of the variou2s experiments are presented belo%v.
+                     ExDcrirrient 1: Rest vs.-ai@,,gressive game.  In examining differences between
+              the recovery limb lialf-times of spontaneous waves in the rest period and those durincr
+              the a,(-,rcrressive g-@me, an effort was made to minir.-iize anv intrusion of an amplit-ude
+              effect.  The fi9rs.' three rosponscs of at leas*6 5 mm an, p',-itude   met the liall-tim, e
+
+                    0
+              subjects thcsc were taken from the pro-task- resc pcriw, for the other half from the
+              Post-tasL, period.  'flic first tlirce responscs from the game period wliich fell in the
+              same amplitude range as those of the rest period were used for comparison.  Figure
+              15 sh2ows representative strips taken from each of these periods. The pre-task and
+              post-task relaxa'ion periods (upper and lower panels) both show responses which re-
+              cover more gradually than those during the task period. As for the other subjects,
+              t/2 in the pre- and post-task periods are rather similar. It is significant that the
+              sharpening of the recovery limb started dur2ing the instruction period. A portion of
+              the instruction period is shonvn in the section of the middle strip to the left of the
+              arrow designating start of the task. The group mean t/2 for the rest period was 5.6
+              seconds and for the task-'period 3.3 seconds (p < .001). All of the 12 subjects showed
+              a reduction durino- the aggressive game, the mean decrease being 411/70 (Tables 3 and 4).
+          2    The amplitudes of the t@vo groups of response samples were well  matched  and  the  small
+              mean difference of 1270 Nvith the task, responses being larger fell far short of significance
+              (t   87).
+                     Experiment 2: Sim2le stimuli vs. _@!zna.1s. The half-time measure was also
+              used in this comparison made on 16 other subjects. Here the responses  to  light  fla2shes
+              during the relaxation period before instructions were con--pared with responses to the
+              warning lights (not the execution signal) for the perceptual task. The last three useable
+              responses during the.rest period were compared with the first three useable responses
+              during the task period. An acceleration of recovery rate occurred 4tv 13 of the 16 sub-
+              jects (Table 4) when the light flash took on signal prop4erties. The average decrease
+              in t/2 was 291 (p < .05). The amplitudes of the response samples avera-ed 9-' less
+                          ,,O                                                               /0
+              durirg t@e task period (t = 1. 14, NS).
+
+                                                  41a
+                                                                  CAL
+                                          REST                     10,u
+                                         TASI(
+                      s PTtTASr%
+                                               F,' S T
+                                  T/2
+          Figure 15.  Recordinrrs of skin f-o-cL%,,',uct-,,-nce during pre-task rest (upper),
+                                a
+          instr,,jctions and task (middle) and post-task (lower), showing acceleration
+          of recovery rate durinor instructions and task-. Illustration o-F half-time
+          measure is shown in lower trace. Time line is 10 seconds.
+
+                     ANIL
+                                                            '2
+                                                           -i
+              Table 3,  Comparison of a,,-crage values of reco%,cry lialf-tir,-ic (t/2) for resting state
+                          and gucssin- game task- in 12 subjects.
+                                                   t/2 (seconds)2
+              Subject                  Resting                           Tas<                   % qhange
+                   I                   6.7                               5.6                         -i6
+                   2                   5.0                               3.6                         -28
+                   3                   4.9,                              3.i                         -33
+                   4                 2  5.7                               3.1                         -46
+                   5                   5.3                               2.9                         -45
+                   6                   7.5                               2.8                         -63
+                   7                   3.6                               3.1                         -14
+                   8                    10.0                            2 5.0                         -50
+                   9                   3.9                               3.2                         -22
+                   10                  3@9                               2.9                         -26
+                   11                  2.2                               1.7                         -23
+                   12                  8.1                               3.i                2         -63
+              Table 4.  Summary of results from three experiments shdwino, change in recovery
+                                                                                   0
+                          rate Nvith change in stimulus condition,  S@-mbol "n" designates number of
+                          subjects who showed a decrease,
+                                                                                           Mean
+                      2       Measure                                                      Change
+              N        11       Used           Condition A          Conditior- B           A to B        P-
+               12      12       t/2          Rest                Aggressive Game           -2.3         <.001
+                                             5.6 sec             3.3   sec                 (-4170)
+               16      13       t/2        8  Liiht Flashes       Perceptual Task           -2.3         <.05
+                                             7.  sec             5.6   sec                  - 2 9
+               35      32       t.c.         Tones               Reaction Time              5.5         <.001
+                                             10. 4 sec           4.9   sec
+
+                                                     43
+                    Ex-octinient 3: Simole tones v@, reaction time cffo.-rt. The cur,,c-matcldng
+            method was used to dctcmliiie tc on the 35 subjects used in this experiment. The
+            largest response to the five tomes presented durin,-, the habituation series  was  Com-
+            pa2red ,vitli the response which was nearest in amplitude during the five reaction time
+            trials. Of the 35 subjects, 32 showed acceleration of the@ rec overy limb durin-Y the
+             reaction time series, as seen in the representative example if Figure 16. The mean
+             decrease in recovery limb tc for the group was 53 percent (p  <  .001).  Tne  mean  tc
+             presentation of non-signal tones was 10. 42 seconds for this po@ulaticii (Table 4).  In
+             Experiment 2, the mean haif time for responses to non- signal li-ht  flashes  was  7.9
+             seconds. Convertincr this to tc by multiplying by 1. 43 gives 10. 3 seconds, in remarl,-ablc--
+             ag-reement %%,ith the results of Experiment 3, This similarity though perhaps fortuitous
+             provides an added degree of confidence in 2the measure.
+             Change in Arousal
+                     So far this section has been concerned with the power of the recovery rate in
+              discriminating bet-%veen responses in t@@o qualitatively different stimulus situations. It
+              can a parently also distinguish benveen t-,vo similar stimulus periods in which the state
+                   p
+              of the su7oject is different. Representative examples may he2lp illustrate this  point
+              without statistical treatment.  Figure 17 shows strips from two consecutive blocks in
+              Experiment 4. In trace A, the subject is exposed to his first block of reaction time
+               and word association stimuli. In trace B taken from a later block, the  subject  has
+               apparently habituated to the situation, as indicated by reduction in response arnputude
+               and by the fact --hat2 he has ceased respondina to the alertina- signal for the reaction
+                                                           0               0
+               time trials. The slowincr of the recovery limb @@rith reneated trials is espe--ialiv marked
+
+                                                                           R T
+              Figure 16. Representative skin conductance recordings from Experiment 3
+              sho%ving acceleration of recovery rate during reaction time trials. Time line
+              is 10 seconds.
+
+                              RT          W- A                             RT
+                                    RT                    VJA                   RT
+                   Figure 17. Recordinas of skin resistance from blocls I (upper) and 2 (lower)
+                   of Experiment 4 showing slonvincr of recovery rate with adaptation. Stimuli are
+                                                  0
+                   reaction rime trials (PT) an7d word association trials (WA). 'Vertical caubratio,,i
+                   line is 25 K; time line, 10 seconds.  '@Resistance of unper trace is 200 K, lo%@ier
+                   trace 190 K.
+
+                                                  ,14
+        tendency, only 7 of tli,2sc sl,,owcd an increase of o%,,cr ')O,;'O-
+                                                stiiguisli bct@,.,ccn respo,-,scs to dissimilar stimuli
+                'Me recovery Limb may also di
+        in the sm-ne task pericd. An example is shown in Figure 18, taken2 from E,%periment
+                                                from the dorsal and paimar surfaces of the fin-ers
+        2. It shows simultaneous recordings                                                     0
+         of nvo individuals.  'Me letter A indicates an alertin- signbLI for a forthcoming  reaction
+         time trial and E, the execution signal. S denotes  a  spontanco-as  wave  occurrin-  during
+         the f2oreperiod. The number below each respclnse is the value of its time constant.
+         For the first subject, the spontaneous response has a-bout the same time constant as
+         does l@ie alerting r4@sponse, but the execution response is considerably faster. The
+          dorsal and palrnar surfaces reflect this same pattern despite absolute.differences in
+          their recovery rates.  For the second subject, tl-ie constant for the spontaneous res-
+  2        ponse is over twice as Iona,, as that for alerting; the constant for the execution response
+          is also longer.  The difference between recovery rates of responses to alerting and
+           execution responses is in general not a reliable one, but six of the 19 subjects did show
+           an appreciable difference bemeeti the nvo. Two Nvere si --nificant at the . 005 level  of
+                                                     2                 IT
+           corlffdence, three at the .025 level and one at the .03 level. In five of these six cases,
+           the shorter tc occurred Nvith the ececution signal.
+            Individual Differences
+                    Tae sensit!N-ity of the recovery rate to differences in stimulus condition and in
+             state of the subject sLLgaested that inter-individual differences in recovery rate, seen
+             for example in Tabl5e 3, might be associated with differences in characteristic behavior
+             pati,erii. 'Me behavioral index chosen to test this idea, namely rate of habituation to
+             tones or to reaction time trials, was derived from Experi ment 3. The qi,,otient of t-he
+                                  40
+
+                Adlilk
+                                               4-lia
+                   A               S
+                                                                               7.2 5,p
+                                                                3)
+                    49              5.0 2.8
+                                                                                       4.1
+         2                                                                      5.7
+                     3@              3P
+            Figure 13.  Simultaneous recordin(Ts of skin resistance from dorsal surface of
+                                              0                     ub;ects.  Stimuli are
+            the finoer (ijpper) and palmar surface (lower) from t"vO s
+            ale-,ting tone (A) and executio2n tone (E) for a reaction dme trial.  S denotes a
+            spontaneous response. Numbers denote recoverv limb tim-a constants in seconds.
+           'Tirrie line is 10 seconds.
+
+                                                                link,
+                                           45
+         of habiwation rate, hi(,Ilcr values indicating faster habituation. Time constant measures
+                           0
+         were talen only from tlic.rcaction tinic series and for ')5 of the subjects were the same
+         as obtained for the earlier analysis of this experiment2. In 18 other subjects who showed
+         no responses to the tones, the response of median amplitudc was used. The group
+         correlations bet-,keort this time constant and the various measures of habituation are
+         shown in Table 5. Comparison of tc N@,itli rate of habituation of the reaction time res-
+         Table S. Summary of results from Experiment 3 sho%ving product-moment correlation
+                 bet@2veen recovery rate and habituation rate.
+                               Habituation
+         N                      Measure                     r                  P-
+         53                    SCR durino,                 .33                <. 05
+                                        0
+                               Reaction Time
+         32                    SCR during                  .13                NIS
+                               Tones
+         51      2              FPV Change                  .30                <. 05
+                               durin- Tones
+         ponses (r .33, N   53, p <05), shows that individuals @@,ith fast recovery rates tend
+         to habituate more si-owly during the reaction time series.
+               Of these 53 subjects there were 32 whose records permitted analysis of habitua-
+         tion rate of the SCR during the tone series, The correl6atio-P between this measure of
+         habituation and the -ime constant was very low and not si.-nificant. However, when.
+         instead of SCR, fincer pulse volune chan(re was used as the response measure, the
+         rate of habituation to tones sho%ved a si.-nifican'L correlation tc (r l')O, iN = 51,
+
+                                                        46
+               gression.  T'he tvo positive correlations found bet%,,,cen r-2covery limb tc ard different
+               habituation measures indicatc that individuals with fast rccovery rates tend to habi-
+               tuate more slowly (Table 5).
+                                                   Conclusions
+                      It has been demonstrated th2at the time constant or the half-time  of  the  recovery
+               limb of the exosomadc electroder'mal response can be used to distinguish bet@,ieen a
+               restino, state and a task state, between responses to the same physical stimulus under
+               qualitatively different sets, bet@veen responses to the same stimulus at different  stages
+               of habituation an;i finally between individuals2 Nvho habituate at different rates. In some
+               cases, significant discrimination would also have  been rrade by  treatment  of  amplitude
+               data but in other cases, amplitude could not have distinguished between the r@,;o condi-
+               tioris. The rate of recovery accelerated markedly under three  conditions,  all  of  which
+               involved activatioii from a resting state for performan2ce of a  task.  However  activation
+               per se does not imply acceleration of the recovery limb.  Bursts  of  stroncr  spontaneous
+               activity during "relaxation" periods were composed of EDRs showing the gentle recovery
+               Limbs characteristic of isolated responses elsewhere in -.he  rest  period.  A  reasonable
+               interpretation is that fast recovery rates reflect a mobilization for goal-directed be-
+               havior2.  Spontar-eous activation during rest does not possess this quality. To the
+               extent that slow habituation represents longer maintenance of a set to respond, the
+               inter-indin,idual relation between fast recovery limbs and slow habituation rates is
+               consistent with such an interpretation.  For the electrodermal (but not the vasomotor)
+               response the difference in the relationship ben@reen7 tc and lia:oiti-,ation rate for the reaction
+               tl-ne se-.ics, where it %,Iras appreciable, and for the tone se@ries, where it was.nccrL,.-ble,
+                                                                                                 0 0-
+
+                     T',,,csc        also      ai impo,,:-Lart iiiii)lica,,io,-i in to the nature of
+              cicctrodc-.rlat -activity.  'llic rccovcry Liiiib time coiistaii@@ is a reslioiise cli-,ractcris-
+              tic by which two exosomatic clec@Lrodcrnial responses nia,,- bo qu@,.Utatively differentiated
+                                                                         .V
+              according to the nature of the stimulus. Another nictliod is by comparison of relative
+              amplitudes of palmar and dorsal finger respoiiscs                                 This
+              stimulus specificity, to(,ctlier with the independence of tli:a recovery rate from a d2irect
+              amplitl,de effect, its relation to the occurrence of positive components in the SPR and
+              its relation to the occurrence of absorption waves suggests the C.'@-,istence of a second
+              component in the EDR undar independent control. The steeper recovery slopes apparent-
+              ly associated with goal-directed activation are viewed as representing the activity of
+              a s-6%,,,eat reabsorption medhardsm which in some way serves as an adaptive process
+              duripo- such beha%-ior,
+
+                                                     v
+         7       TI-IE- ELECI'I',CDERNli@L r,,T-CONIE-l@Y LL.%IB AS -,@N 1:\DL-X OF, COAL-DIRT--CTED
+                 BLflj%VIOR
+                 It was demonstrated in Section 6 Lliat the rate of rceovery of an cxosonlatic clec-
+         tr2odermal response varies as t function of the state of behavioral activity of the in-
+         din-idual, becoming faster when the subject clianaes from rest to any- of a variety of
+         tasks.  The rate of recovery, %vliicli was expressed in terms of the time constLT',t (te)
+         of the exponential re,-,ion of. the recovery limb, is faster in the presence of positive-
+         going skin potential responses, -and in the presence of the recently discovered sweat
+         reabsorption response                       Although observations in the initial study
+         appeared to indicate that acceleration of recovery rate indicates a mobilization for
+         goal-directed behavior, the evidence Nvas sug,-,estive rather t@an definitive. The tasks
+         and stimuli used generally caused an increas2e in activation level as reflected in ele--tro-
+         d--rmal activity or fir-crer vasomotor activity, and an equally t:anable hypotl,.ests would
+         be that acceleration cf recovery rate merelk reflects @@ncreased general activation'.
+         The obvious experiment needed is one in which activation is a--bieved in one instance
+         by task perfori-nance, and in the other by a none-tas2l,, conditio-.i, for example, noxious
+         st:imulation.  Such an experiment was one of the key aims of t-'ds experiment. iln
+         addition fur,--her data to'evaluate the de-ree of the deperdence of recovery upon such
+         things as response amplitude and base level were needed.  Information was also i--eded
+         in regard to the stability of this measure in a given individual over a period of time.
+         0This section deals with additional findings relev-lnt to some of these questions.
+                                                     od
+                 In one -hase cf this experiment a group of 16 m-,Ie medical stL:doi-,'Ls @,,-as -,:,I on
+
+                                                          49
+                 N@,cre monitored. Twelve of tl,,csc subjects @,,,crc tested on four successive occasio-,is
+                 one week apirt, under the same stimulus  schedule,  Five  additional  subjects  were
+                 run only on selected tasks from this list.
+                        2Electroden-nal electrodes were applied, after iil-dch the subject was  seated
+                 and a stabilization period of 12 minutes allowed,  The follonving schedule of conditions
+                 was followed %%,itliout randomizincy the order. Constant order was used to allow maxi-
+                 mum similarily of the 5 repeat sessions despite the danger of an uncontrolled order
+                 effect.2
+                 Sequence                Duration                                  Situation
+                     1                   2 i-nin.                   Relax (eyes open)
+                     2                   1 1/2  min.                Cou-it by ones at own  ace
+                                                                                         p
+                     3                   1 1/2  min.                Cou-it backward from2 500  by  7s.
+                                                                    A new startino, point near 500
+                                                                                 0
+                                                                    was used on each successive week.
+                     4                   1 1/2  min.                Take deep breaths on command
+                                                                    (3 at app2roamately 30-second
+                                                                    intervals)
+                     5                   1 1/2  min.                Read aloud
+                     6                   2 min.                     Mirror tracing
+                     7                   2 min.                     Relax (eyes open)
+                     8                   40 sec.                    Cold pressor  (hand  immersed  to
+                                           0                            ct in ice water)
+                                                                    wri.
+                        Time constants were measured with the curve-matcmn(r overlay technique
+                 described earlier, the farst useable @vave follo,,vir.9 the first 15 seconds of each pro-
+                 cedure bei-ir taken as the sample. One req,,iiremert was that the wave  used  should
+
+                                                               50
+                 their recovery rates.  'nic an,cra-c of the initial and final rcsistance lc,,,cls for each
+                 of the ei-ht procedures was coriiputed for each subject.
+                                                            Results
+                 Effect of Task, and Activation on Time Constan      t
+                      2   The d-me constant (tc) was  found  to  vary  considb--ably  as  a  function  of  task-
+                 situation, as  found  in  the  earlier  study,  The  range  of  time  constants  ran  from  an
+                 average of 3. 1 seconds in the mirror tracing task to 7. 8 seconds for resting with eyes
+                 closed.  The time constants for the 8 task conditions @vere ranked for each of 16 siib-
+                 jects and the average rard,- for each task computed.  Results are seen in Table 6.  The
+                 Table 6.  Averaoe ranks and standard deviations for each of 8 task, conditions on 16
+                                   0
+                            subjects..
+                 ConditLon                     Order Run                      Rank                         S.D.
+                 Rest (eyes closed)                   7                       2.5 (2longest tc)             1. 5
+                 Rest  (eyes   ooen)                  1                       3.2                          1.5
+                 Cold Pressor                         8                       3.3                          2.3
+                 Deep Breath                          4                       4.2                          2.2
+                 Count Fonvard                        2                       4.8            2              2,0
+                 Count  Bac'zi@,,ard                  3                       5.2                          1.9
+                 Read Aloud                           5                       5.9                          2.0
+                 lurror      Tracing                  6                       6.4                          1.5
+                 average ranks have b-ten arranced in order Nvith the longest tc a7t the top.  ne order
+                 in wldch these procedures were run is also shown, and a Spearman's rho test irdi-
+                 cated no sio-nira:--ant relarion benkeen the rarl',s of  the  time  constants  and  the  order
+                 rim (rho =  -.05,  N.  S.).  AWilcoxon  signed-rar@,zs  test  sho@ved  that  many  of  t.Liese
+
+                  0
+                                                      51
+               test) are shown in Table 7. Slo\vest recoveries were associated with the two rest
+               conditions and with the cold pressor exposure. 'Dic remainin- conditions appear to
+               rank themselves essentially in order of iiicreasing task complexity.
+                     In view of the fact that recovery rate during the ice water exposure was not
+ 2              significantly different from that at rest, although that of.the last 4 tasks was, it
+               appears that activation per se is not an adequate condition for acceleration of electro-
+               dermal recovery. One may challenge the contention that the cold pressor was as
+               activatin- as mirror tracing, but the report of stron(- pain by 14 of 16 subjects would
+               suggest that there at least occurred the kind of arousal associated with 2strong noxious
+               stimulation.  Moreover, mean skin conductance levels fcr the test population were
+               very similar'for the col(f pressor and mirror tracing corditions, being 28.1 and
+               27.6 micromhos/cm2 respectively (t = 0.36, N.S.). The rate of chan,-e of skin
+               resistance during these two tasks also did not differ (t = 0. 12, N. S.), nor did the
+               frequency of spon2taneous responses (t = 0. 12, N. S.). Thus, at least according to a
+               few so-called el--ctrodermal activation measures, activation levels during ice water
+               exposure and m-'-rror tracing were not demonstrably different, although both differed
+               from the resting condition.
+                      Twelve of the above 16 subjects were run once per week for 5 weeks a,-id an
+               analysis of variance was performed 2on the time constants (Table 8). This also Oemon-
+               strated a signif[cant difference between tasks (p <.001).
+                      A final test of the sensitivity of tc to differences in task situ,'Ition was by
+               analysis of the similarity of rankings of these tasks across the 16 subjects, using
+               Kendall's Coefficient of Concordance. This confirmed the si,-nificance of the dlfferen-
+       5        tiation (@V = .31, X2 = 34, p <.001).
+
+                                                             52
+                Table 6.   Averige ranks and starciarcl, deviations for cacti  of  S  tas'.@  conditicrs  on
+                           16 subjects.
+                Condition                   Order Run                          Bank                          S.D.
+                Rest (eyes closed)               7                             2.5  Oongest tc)           2    1.5
+                Rest (eyes open)                 I                             3.2                            1.5
+                Cold Pressor                     8                             3.8                            2.3
+                Deep Breath                      4                             4.2                            2.2
+                Count Fon%,ard                   2                             4.8                          2  2.0
+                Count Backivard                  3                             5.2                            1.9
+                Read Aloud                       5                             5.9                            2.0
+                Mirror Tracing                   6                             6.4                            1.5
+                Table 7.  Levels of significance of Wilcoxon signed-ranks test for various con-Lbinations
+      2                    of task situations.
+                                            Back-@vard        Deep             Cc-Id     Rest (Eyes Rest (Eyes
+                Condition                    Counting        Breath         Pressor         Open)          Closed)
+                ,Mi-rror Tracing                .05            .02            .01           .002           .005
+                Reading Aloud                                  .203            .03           .02            .005
+                Back-%%,ard Counting                                                                       .005
+                Deep Breath                                                                                .1
+                Stability of the Time Constant in Receated Trials
+                        Not only did the tc offer a stable  index  of  differences  bet'Nveen  task  s2ituations,
+                but also of differences bet@veen  subjects.  The  analyses  of  variance  of  the  tc's  of  12
+                subjects run in t:ie eight task  situations  on  each  of  5  consecutive  weeks  (Table  8)
+                demonstrated a significant  difference  between  subjects  (p  <.001).  In  add,,tio,-.i  there
+                was a si-0, ificant task-by-subject interaction  Co  <.005)  as 2 well  as  the  difference  be-
+                t,,veen t--s':'-S al4-eady noted.
+
+                                                                              0
+                                                    53
+             Table S. Analysis of N-arian,cc of time constant data from 12 subjects, run in 12 task
+                       situations on 5 consecutive wecks
+                                                  Mean
+             Source                 df           Square             F                 p
+             Subjects              2 11           109.7            14.5              <.001
+             Ta s k.9                1           355.0            47.0              <.001
+             Subjects x Tasks       11            28.4             3.&              <. 005
+                   An indication of the stability of this measure on repeated trials was obtained
+             by examining the de-ree to which the 12 subjects maintained the same rank for2 a
+             given task, over the 5 sessions. The KendaLl Coefficient of Concordance for the
+                                               2
+             Backivard Counting task Nzas .53 (,X= 29, p < . 01) and for the cold pressor exposure
+                  2
+             .65 (,X= 36, p< .001). These results indicate that a given subject may show variation
+             in time constant accordino- to the 2task, but the magnitude of his time constants takes
+             a characteristic position in relation to the rest of the population. 'The 5-wee@,, data
+             for the backward c-@-,Lnting task are presented graphically in Figure 19.  Each vertical
+             line represents the 5-week mean and + I standard deviation of one of the 12 subjects.
+             They have been ranked in order of their mean time constants (upper series) and rate
+      2       constants @ower series). The rate constant scale increa-.es downnvard.  L\Tote that
+             fast recovering subjects are consistently fast and slow recovering subjects are con-
+             sistently slow. Note also that the rate constant shows less dependence of variance
+             i,non mean (r = -D. 2 1) than does the time constant (r = 0. 34). Tne solid circles
+             represe.,it the mean rate constants fo3r the cold pressor ccndition over the five weeks
+             aud in everl case they are slower than those for backivard countino,. An e.--,amole of
+                                                                                p           I
+             the range of time cons'Lant means over the S conditions for the 5 weeks for a single
+
+                                                        a
+               Figure 19. i%leans and + 1 SD of recovery limb time constants (uppet group) and
+               rate constants (lower group) for each of 12 subjects tested over 5 consecutive
+               weeks.  Vertical line data are for the backward countinc, task. So@d circles
+               represent the correspondin(r means for the cold pressor rate9 constants.
+                                          0
+
+                                                      5
+               subject chosen ac ranc!om is given in Figure 20.  Eacli @y,ertical line represents the
+               mean time constant + 1 stan(iard deviation.
+                     Thus the recovery limb measure, preferably its rate constant, constitutes a
+               rather stable measure of differences in behavioral situations, and appears to reflect
+               the l2evel of involvement in goal-oriented performance., Tt is capable of discrimination
+               under conditions in which base conductance level and (from the earlier study) skin
+               conductance response amplitude do not.
+               Relation of te to Conductance Level
+                     Although conductance usually increases when a resting subject becomes activated
+               for a task, there is no reason to suspect a necessary correlation between co2nductance
+               and tc, i..e., that the t@vo are causally related. If the type of activation which produces
+               a rise in conduc:ance does not entail mobilization for a aoal-directed task-, it is to be
+               expected that the correlation would break down. Thi.s predictio.1-was tested upon a
+               o-roup of 21 subj--cts. Two tasks were chosen, both activatincr, but only one of em
+                   2                                                         0                 th
+               involving a cognitive task. The first was a Cold Pressor exposure, the second, the
+               BacNivard Counting task.  Correlations were essentially as predicted.  The Pearson's
+               r between SC and tc during Cold Pressor wa@ -. 23 (,N. S.) whereas that for Bac-l,-@,,,ard
+               Counting was -0.49 (p < .03). The @bove determinations are in themselves inadequate
+               to justify the conclusion that ic is independent of skin conductance level. Another
+               an.-ilysis does, however, point toward such a conclusion. The data for the above cor-
+               rel,@ion-il analysis was subjected to a t-test for differences betveen tas't,-s. The time
+                         were si@,milli7cantly different (p <.01), but the SC levels were not.
+
+                                                                                       JF
+                                    REC RI-0       CP      DB     CF     CB     RA     MT
+                  Figure 20. %4eans and + I @D of recovery limb time constants for a single subject
+                  for each of 8 conditions over a series of 5 consecutive weeks. Abbreviations are:
+                  REC  resting (eyes closed); REO, resting (eve1s open); CP, cold pressor; DB, deep
+                  breaths; CF, countin(r fonvard-, CB, countincr bact,-\vard; RA, reading aloud, @\IT,
+                  mirror tracino-.
+
+                r-',clation of   Co,-sLar.L to
+                      The earlier intcrprctitioii IliLt the re.-OverY lin,,b ciiilc co;istiit rclaEC(i to
+                mobilization for goal-dircctect activity implied a relation between the degree to which
+                mobilization occurred an(I the level of pcrf-,-niince. The relationships bcc%,Iccn tc
+                and two measur-2s of performance in ttic r>ack--",ard Couiitin ' (by 7's) task were examined.
+                                                                           9
+                One measure was the nuiiiber of errors made, the other die rate of counting. 2The
+                number of errors was determined by determining the number of times subtraction of
+                seven from die Drevious nun-Lber was in error. 'I-he rate was expressed in terms of
+                total span for die back-@%,ard count in the 90 seconds allowed.  Results on a population
+                of 12 showed that subjects widi sliort'er time constants tended to count faster (t = 1. 96)
+                and to make f2ewer errors (t = 1. 82).  Lev--Is of confiderce for these, using a t@vo-
+                tailed test, were at the 0. I level.  (Note: Althounli the direction was predicted, this
+                investigator has discontinued the use of one-tailed tests).
+                Functional Interpretation
+                       In loo.Ung for a functional interpretation, one may point to the results of
+                experiments over the last sever2al years which show the relation of the recovery limb
+                to rate of reabsorption of sweat.  In some rec6nt experiments, a iew method has been
+                utilized for demonstratilig this relation.  If a prisni is illuminated for maximum internal
+                reflection and placed on the skin as was done by                     sweat droplets
+                adoear as black points on a white field. 7bis method may be carr'ie@ to its looical
+                next stage, namely, the placement of a photocell at the proper point in the light path
+                to irtegra-,e and follow the field of punctate sweat droplets.  Fig,,ire 2.1 shows such a
+                re--ordin-. The abbrc,.,iation OSR refers to N@.,Iiat I call :he oc-tical s%@.,eat resoo.,is--, the
+
+                  C)       F--l
+                  ;A       (D
+                           cn
+                  El       ".
+                  0
+                                                                                                                                               
+4C)
+                           CD                                                                                2                 -0
+                                                                                                                                               
+cn
+                           0                                                                                                  (A               
+m
+                      c@,
+                      0          6CD
+                                 Z3
+                                 C-L                                                                                                           
+qp
+                                 0
+
+                                                      36
+              covered by a glass plate, do not simply accumulate on die surface during and follow-
+              ing a response, but are immediately reabsorbed, so that d2spfte continuing activity,
+              the moisture content of the surface remains relatively constant. 'Me second point
+              of interest is that when the skin conductance trace shows slow recovery limbs a2s in.
+              the upper pair, so does the optical sweat response as compared with the lower pair
+              in which electrical and optical recovery rates are rapid. Such demonstrations, along
+              with those already reported using other methods, imply that changes in the recovery
+              limb are at least in part indicative of a change in the rate of the reabsorption process.
+                    Because differences in the state of hydration of the 2skin surface are known to
+              influence tactile and manipulative performance, one is tempted to hypothesize that
+              control of reabsorption, like control of sweating, may be part of the  adaptive  prepara-
+              tion for these'types of behavior. This may explain the apparent relation of recovery
+              rate to mobilization for goal-oriented performance.
+                                                 Conclus ions
+                     The time co2nstant measure appears to be capable of reflecting differences in '-e-
+              havioral s,.tuations with a relatively high resolution. it h,7s been demonstrated to dis-
+              criminate when the base level measures did'not, and in the earlier study when amplitude
+              did not.  It is rel-atively stable over tl-ime, at least insofa-r as the position of an individual
+              in a group is concerned.  Finally, since te is l0o:@gest with the subject at rest or exposed
+              to a cold pressor task, and becomes   progressively shorter  as  the  task  becomes  more
+              goal-di.rected fcalculat-ion, reading, and mirror tracing), the findings support the
+              earlier interpretation of tc as reflecting mobili@zation for goal-directed performance.
+
+                     0
+                                                       S2
+              12.    @',,Sr'Ul 4R EFFE-.CTS t'PON SL,'IN FO'rl'%
+                          -   @:,%            I
+                     Altllou-h'
+                                                                            -Iproduced    experi-
+              mental evi(iance 2rjiat vascular clian,,,,cs play oiily a ne-ligible role, If any, In
+              "CcOunting for clectrodermal activity,  tllc focus of these Oxperinic-nts was upon
+              conductancc clian,cs. The possil)ility that vasomotor effects could account for at
+              le.ast some skin potcntiil clianri-es remained. Tne observation that2 potential  re-
+              spctt.ses could bc- recorded from the nail bed which is devoid of sweat giands
+                               su<-r,rested that blood vessels mfght indeed account for some pot-
+              enEL'al shilrts observable at the skin surface,
+                     TWs studv examines the possible      le of -vasomotor chan,,es in producing
+                                  2                      ro
+              change of surface potential. The approach was to ixiduce alterations in  the  state
+              of peripheral vessels by  mechanical  means  And  to  observe  any  corc@)mitant  potential
+              changes not ascrib'able to central reflex effect.  Venous  occlusion  was  used  as  a
+              -iethod for engorgl-ig the veins while maintaining flow  and  arterial  occlusion  for
+             2 inter-zupting flow %vithout engorgement.  A  simultaneous  recording  of  a  no.'I-occluded
+              homologous con@alateral s      ivould ser,,,e as a control fo2: centrally induced  changes
+              la potential.
+                                                     ivethod
+                     St.@bjects v@,ere 11 males and 2 fe,-nales in t,ie age range from IS to 42.  Ski0n
+              poter.cial (SP) was recorded from the palmar and the dorsal surfaces of the middle
+              phalan,x o'L tlie mfddle finger of each hand. Each site  was  recorded  with  reference  to
+              an inactive skin site above the ipsilateral clavicle. This  -reference  was  chosen  to  be
+              oi.itside Llic occluded re-ion so that comr-.on-mode effects %%@ould ror cancel out elicited
+
+                                                     83
+               changes. A direct-couplecl reflectance pieLh),sii,.ogral)li was attached to the d,)rsurn
+               of the middle segment of the index fin,,cr of the experinicntal arni, I.e., the arm
+                                                   0
+               around which the blood pressure cuff was placed2.
+               Procedure
+                     The pressure cuff around the upper part of the experimental arm was rapidly
+               inflated to 60 mm Hg or to 180 mm Hg and kept at that p:essure for one minute.
+               Following deflation at the end of the one minute period oil inflation a rest period of
+               one to two minutes preceded the next inflation. Each S received at least 5 trials at
+               60 and at least 4 at ISO mm Hg. The experimental arm was alternated from one S
+               to the next. Lfflation of the cuff to 60 mm Hg prevented venous return from the arm
+               and lead the arm to become engorged distal to the cuff due to the unimpeded arterial
+               flow. Inflation to ISO mm Hg collapses both the arterial and vecous systems, thereby
+               completely occluding blood flow to the arm below the cuff. Plethysmographic record-
+               ings co2nfirmed these differential hemodynamic effects associated with the t-,vo levels
+               of pressure.
+               Data Treatment
+                       The analysis was guided by the need to answer two experimental questions.
+                                                                               ations of SP at
+               -.First, does e,.ther of the two inflation pressures result in fluctu
+               experimental sites and not at control sites? Se7cond, if shifts of SP level are demon-
+                strated for the experimental sites, are these shifts different for venous engorgement
+                than for arterial occlusion?
+                        Each of Lic four SP channels was scored identically. Since it appeared that the
+                neriod of zreatest change in the t-,,,7o exper,,rre.@ital char-nels occurred about 5 seconds
+
+                                                       4
+                                                      -Z
+              after the release of pressure, this point was chosen as an arbitrary reference.
+              The slope of SP 6uring tile 10 seconds precedin- t[iis point was determined by
+              measuring the difference in potential between the ref2erence point and a second point
+              10 seconds earlier.  I,ikewise the SP slope was also found between the reference
+              point and tjic level of SP at a point" 10 seconds later. If tJ-;e change during any 10
+              second period was towards increasing pos-Ltivity the slope score was also assigned
+              a positive sign, and conversely. A change score (,6-slope) was calculated from
+      2        the tnvo slopes by taking the absolute difference between them. Thus, each     slope
+              score represented the magnitude of the aloebraic change in slope bet-@,veen the first
+              and last 10 seconds of the 20-second scoring period, independent of the direction of
+              change.
+                                                    Results
+              Comparison of ExT)erimental Versus Control Sites
+                  2   It was predicted that either engorgement, occlusion or both would lead to
+              alterations in SP levels at the experimental sites but not at control sites. This
+              assumption was tested by a bet,.veen-S comparison of A -slope scores between
+              experimental and control s ites . Analys es N@ere ac'compl [shed s eparateli for the
+              180 mm and 60 mm conditions and, within each of these, palmar and dorsal compar2-
+                                             -ately. Irt each of these four conditions, the average
+              Lsoi-L-s were also exam,ined sepa3.
+                 -slope score of the control site was computed for each S. These average n-slope
+              scores for experimental and control sites across subjects were subsequently sub-
+              jected to analysis by t-tests for correlated means. The results of the four bet-,veen9-.S
+              t-tests are summarl-ed in Table 15.
+
+                                                                                   0
+              Table 15. Change  in  slope  of  SP  after  release  of  pressure:  between-S  comparisons
+                          of experimental vs. control sites.
+                                                                Pressure Level
+              Site                             60 mm Hg                                180 mm Hg
+         2     Dorsal                              3.30*                                   5.74*
+              Palniar                             3.40*                                   5.25*
+              *p < .01
+              The significant levels of these t analyses indicate that, for the group as a Nvhole, there
+              were la-rger shifts at experimental sites than at control sites. This was true for both
+           2   palmar and dorsal regions and for both 60 and 180 mm Hg.
+                     An effort was also made to examine the intra-subject reliabilittl of this effect.
+              This was accomplished, for each of the 13  Ss,  by  computing  four  t-rests  for  correlated
+              means, based on the distribution of his t@, -slope scores  across  trials.  Table  16  in-
+              dicates how many of these 52 coi-nparisons were significant (2i.e., magnitude of SP
+              change greater at experimental than at      ntrol sites), and at what level of  significance.
+              Table 16. Change in slope of  skin  potential:  within  S  comparisons  of  experimental  vs.
+                          control sites. Values are in terms of the frequency of each  level  of  sigiiifi-
+                          cance obtained by t-test.
+                                                                 Signi2ficance    Level
+              Condition                          .01             05                .10           Nlons ig.
+              60 mm H  -Dorsal                     7              1                2                  3
+                       9
+              60 mm Hg - Palniar                   5              I                1                  6
+              180 ,nm Hg - Dorsal                 10              0                1                  2
+              180 mm Hg - Palmar                   9              2                0                  2
+
+                                                       S5
+              Table 15.   Change in slope of SP after release of pressure: bct%@,,ccn-S  comparisons
+                          o.f experimental vs. control sites.
+                                                               Pressure Level
+              Site                            60 riim l@Ig                          180 mm Hg
+              Dorsa2l                             3.30*                                 5.74*
+              Palmar                             3.40*                                 5.25*
+              *p <.Ol
+              The significant levels of these t analyses indirate that, fDr the group as a whole, there
+              were larger shifts at experimental sites than at control sites. This was true for both
+              palmar and dorsal regions and for both 602 and 180 mm Hg.
+                     An effort was also made to examine the intra-subject reliability of this effect.
+              This @%,as accomplished, for each of the 13 Ss, by compu:ing four t-tests for correlated
+              mee.ns, based on the distribution of his A -slope scores across trials. Table  16  in-
+              dicates how many of these 52 comparisons were significant (i.e., magnitude of SP
+              change greater at experimental 2than at control sites), and at what level of significance.
+              Table 16.  Change in slope of skin potential: within S comparisons of experimental vs.
+                          cont::ol sites.  Values are in terfns of thifrequency of each level of sig-Liifi-
+                          cance obtained by t- test.
+                                                               Significance Level
+              Condition                         .01           2.05              .10            Nonsig.
+              60 rr,,m Hg - Dorsal               7               1              2                 3
+              60 mm Hg - Palrnar                 5               1              1                 6
+              180 mm Hg - Dorsal                 10             0               1                 2
+              180 mm Hg - PaLmar                 9               2              0    5             2
+
+                                                       86
+              As can be scei from this table, at least 8 of t!ic 13 Ss in cacti grol.,p, except
+              60 mm Hg-Palmar, demonstrated t values si(,-,iificant at the .05 level or better.
+              In addition, the physiological recordings for certain comparisons which were not
+              significant, clearly appeared to show the experimental,effect, but due to variability
+              of the control site significance was not obtained.
+              iolarity of SP Shift as a Function of Venous vs. Arterial Occlusion
+                     The first two analyses confirmed the existence of a shift in SP slope at a  point
+              approximately 5 seconds after release of pressure. The two sites on the experimental
+              hand exhibited significantly greater SP fluctuations than control sites2 for both 180 and
+              60 mm Hg. . However, the pattern of change in SP seemed different for these two degrees
+              of pressure. Typically, with the initiation of venous  occlusion,  SP  became  gradually
+              more negative during occlusion and upon release reversed this trend and became more
+              positive beginnin- about 5 seconds after release. 7bis cont'rast@d with the  pattern  of
+              SP change induced by 2arterial occlusion. In this condition SP dipped sharply towards
+              increasina- positivity about mid@vay through the in flation p2riod and then changed to a
+              more negative level, again beginning at a point about 5 seconds followincr deflatio.,i.
+                     These distinct response patterns for 60'and 180 mm Hg may be illustrated
+              simply by counting the number of Ss whose SP tended to s.ii2ft in a positive direction
+              following the termii-lation of venous occlusion and in a negative direction upon the
+              conclusion of arterial occlusion. Table 17 contains these figures,  In three groups
+              there was nearly complete congruence; all Ss but one shifted in parallel directions.
+              Five Ss in the 6'ul mm Hg-Dorsal cell shifted in a negative direct,-on, but for only
+              two of these Ss was this paradox,.c4al reversal -,t all proncunced.
+
+                                                87
+             Table 17.  Fre-luency and averige niagiitudc of positive and nc-&,@ative SP sllifts
+                       after release of pressure (experfniont,,il sites o.,ily).
+                              Pos. Shift  Neg. Shift         Pos.            X ineg.
+             60 mm ILiz
+      2       Dorsal                8           5           0. 3i niv
+             Palmar               13           0           0. 17 mv
+             180 mm-!!g
+             Dors'al               0          13                             0.73 mv
+             Palmar                1          12                             0.56 mv
+                   The average magnitudes of the positive shifts occurring at the offset of 60 mm
+     2        and of the negative shift following the end of a 180 mm trial are listed In the last two
+             .columns of Table 17. The five subjects whose mean che-nge was negative were not
+             included in the 60 mm Dorsal mean; likewise, the one subject foi whom a positive
+             sliift appeared after 180 trials and not added to the 180 mm Palmar group for this
+             analysis. As these magnitude figures indicate, chan2ges of SP levels that occurred
+             in relation to 180 mm Hg trials were more salient than 1-he less marked shifts assocfateii
+             with the 60 mm Ho- conditio,-i.
+                                              Summary
+                    It has been demonstrated that certain changes in surface potential are consistently
+             brought about by manipulation of vas cular state. These changes are particularly marked
+           6  during the sudden return from the altered state and may iridlcate a local reflex involving
+             compensatory changes in smooth muscle of the blood vessels. This exideriment does
+
+               not demonstrate that s-,tc!i clianges are also produced by central ei'^ccs but such
+               a likeliliood is rnade pliusiblc by dicsc findings. Wltitc sccon(!.Iry alterations,
+               of sweat glands, could explain ttiese data, the most parslinonious explanation Is
+               that they rcflccc local vasoniotor alterations.
+

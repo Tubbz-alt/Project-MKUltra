@@ -1,0 +1,796 @@
+                                                          TIltS DO(-,UMFNT CONTAINS
+                                                          __ILPAGES. COPY NO.
+                                                          OF  -R'   COPII!-,S.
+                                         ELEC'I'RIC CURRENT
+                                                 AS AN
+                             AcE,4,r FOR ?RRSONNEL INCAPACITATION
+                                      -______@lrepared  by:
+                                            22 Octobcr 1971
+
+                                is report has been prepared by
+                              Th
+                              as a part of a Government Contract,   @he views expressed
+                              are those of            personnel and not necessarily those
+                              of the United SLates Government.
+
+                                                 TABLE OF CONTENTS
+                                                                                                pa
+                     Prf-ttocol 91.,itemc,.nt . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  i
+                     Li,st >f Figures and Tibles   . . . . . . . . . . . .  .  .  .  .  .  .
+                     Problem    . . . . . . . . . . . . . . .2 . .  .  .  .  .  .  .  .  .  .
+                     Discussicn    . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .
+                         1,  P.:)tential Applications .  .  . .  . .  .  .. . . . .  .  .  .
+                         11. P:iysical Variables of Electric Current    . . . . . .  .  .  .      3
+                        Ill. P--iysiological Considerations    .  .  .  . . .  .  .
+                             A.  Effects of Electrical Curren2t on Hurr-ans     . . . .  .  .      5
+                             F, -The Human Body as an Electrical Conductor       . . .  .  .    10
+                             C.  Skin Resistance  . . . . . . . . . . .  .  .  .  .  .  .  .    11
+                             D.  Burns and Other Thermal Injuries      . . . . .  .  .  .  .    12
+                             E.  Pulsed Current      . .  .  . I . . . . . . . .  .  .  .  .    13
+                      2       F.  Overcoming   Skin    Resistance . . . . . . . .  .  .  .  .    14
+                             G.  Path of Current Flow Through    the Body   . . . .  .  .  .    is
+                             I-f. Physiological Conclusions    . .  . .  . .  .  . .  .  .  . . .17
+                        IV. Other System Factors    . . . . . . . . . .  .  .  .  .  .  .  .    20
+                         V. Equipment State of the Art   . . . . . . . . .  .  .  .  .  .  .    23
+                       5 VI. Recor):imendations  . . . . . . . . . . . .  .  .  .  .  .  .  .    25
+                     References   . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .    27
+
+                                              LIST OF FIGURES
+                  Figure I     Approxirnate Thrcsliold of I-leart F'.brillation
+                                                                I
+                                 Ilazard for Single 13rief Current Surges
+                                 (AC or DC)  . . . . . . . . . . .  . . . . . . .      9
+                 rigu-re 2    Diagrarn of 2Body Area Cornbinations for Current
+                                 FtOw Througli Chest   . . . . . . . . . . . . .      17
+                                              LIST OF TABLES
+                 Table I      Definition of Basic Electricity Terms  . . . . . .      3
+                 Table 11     Sensation.and Effects on Heart and Respiratory
+                                 Muscles of Currents Lasting I to 30
+                                 Seconds    . . . 1.   . . . . . . . .   .             8
+
+                                               ELECTRTC CTJRRENT
+                                                        AS AN
+                                 AGENT FOR PERSONNEL FNCAPACITATION
+                                                      PROBLEM
+                   To evaluate, especially frorn the pi-iysiologic point of view, electric  current
+                   as an agent for personnel incapacitation.
+                              2                       DISCUSSION
+                                     1.  Poteritial Applications for Incla@@@
+                   Electric current possesses  a  number  of  possible  advantages  when  compared,
+                  .to other proposed agents for personnel incapacitation.  Controlled electric
+                   shock offers, not necessarily simultaneously, the following possibilities.
+                       .Droad spectrum of  2incapacitation:  annoyance,  fear,  intimidation,  pain,
+                   muscle spasm, mincr burns, paralysis, suffocaticn, unconsciousness,
+                   severe burns, death.
+                       Relative predictabilit)r of physiologic effect.: reliable relationship be-
+                   Lween dose and responses.
+                       C-ontro'-Iability- of dose and on/off fimes.
+                       Directivity: with respect to person to be inca2pacitated and bo@ly part(s)
+                   to be affected.
+                       Effecti,.,en(-ss on a wide range of subjq_cts.: re,ardless of  determination
+                   or level of consciousness.
+                       Rapic'iity of inca]2acitation: onset of action witliin a second.
+                       Rapi(lity of recov=.-  only a few seconds for the milder effects.
+                       Safety.   f2or b@tli the operator and t-he subject,*if de-5ired.
+                     Througliout tt.s r,@port, stibjects irL- i.@,stimerl lo be lic,,ilthy, .1('Itllt 11LIrnanS
+                     in tl-se 45 to 90 kilogram weight range.
+
+                       Covertne-ss: quiet -tnci t;nt)l)triigive, cLn be clirnotifl.-Igerl.
+                  Aside from tcclinir,,i] detiiis of the delivery system, tl-t(@ oiil,,r I)ro.-Icl limita-
+                  tions to use of electric current as an i-.icapacita2tion agent liave to do  with
+                  the number of stii)jects and the duration of incapicitr--tion,  It is diffictilt to
+                  conceive of realistic circumstances th,-Lt would perrnit a safe and  ti-niforrn
+                  dose to be administered to a n@imber of subjects at one time, altbotigh current
+                  would be as effective for the entire group as it is f2or an individual.  In this
+                  report, current is coi-tsidered as an incapacitating agentf for individuals only.
+                  Elec'.ric ciirrent can be quite safe for periods of incapacitation of a few
+                  seconds only) hazards become much greater if current is used to ry)aintain
+                  incapacitation for a minute or  longer,  unless  special  techniques  and  pre-
+                  c2auti.ons are used.
+                  W'ithin these limitations, current could be used  as  an  incapacititing  agent
+                  under virtually any circurnstanc,@s.  Power can be su-pplied from permanent
+                  supply lines, temporary generators and lines, or portable supplies (includ-
+                  ing pocket-sized battery packs in some cases).  Delivery systems might be'
+                  p4@,,rmanent in5tallations, tem2porary traps, hand-held instruments or long-
+                  range project--le devices.  Automatic controls would suffice for systems
+                  designed for brief incapacitations, but  systems  main-.a,'ning  incapacitation
+                  for rnore than a. few seconds should be controll-ad by an operator who has
+                  some training in the methods of safeguarding the hea'th of the subject.
+
+                                            II.  Pliasicti  Variibles  of  1--lectric  Ctirr(,nt
+                        The performtnce ind suitibility of electric shocir for persoi-inet inc,,ip;icita-
+                        tion may be affected by several variables which characterize the incapaci-
+                        t,iting current.  The more important electrical 2parameters are voltige,
+                        current, power (or energy) and frequency.  For familiarity, these and
+                        other ter-ns used in  this  stud),  are  briefly  defined  in  Table  1.
+                                                                TABLE I
+                                          DEFINITION Or 13ASIC ;'LECTRICITY TF'-'@@AS
+                        Characteristic                     Brief Defiriit,oii                bymbot      Unit
+                        Voltage                      E,:Iectrical  pressure  or   the        E           volt
+                                                     electromotive force tending
+                                                     to move electrons, potential
+                        Current                      Volume of electron flow                 I           arnperp
+                        Direct Current  2             Current  that  does   not   vary        DC          a-rnpe re
+                                                     in direction or magnitude
+                                                     with time
+                        Alternating Current          Current that has continuous             AC          arnpere
+                                                     sinusoidal variation in direc-
+                                                     tion and magnitude xvith time
+2                        Frequenc-,r                  Rate  of  alteration  of  an  AC        f           I-Te rtz
+                                                     current                                       (cyc te s / sec)
+                        Resistance                   Opposition to the flow o--' di-         R           ohm
+                                                     -rect or atterilating current
+               2         Impedance                    Opposition to the flow oi               z           ohm
+                                                     alternating current
+                        Pulsed Current               Current that flows inter-
+                                                     mittantly, but repe@tedly
+                        Energy                       Capacity to do work                                 jokile
+                        Power    4                    Rate  of  delivery  of   energy,        p           watt
+                                                     the product of voltage and
+                                                     current
+
+                   Electric cii-rrc-nts are most often supplicci from b,-Lttel-ics (direct clir -C-.nt) or
+                   from rc)titing F-ener-itors (either altc!T-niting or dirc-ct ctirrer.1). The ctir-
+                   rent is tistially cai-ried from one locale to ,inother ley low r(,,si.9tince concluc-
+                   tors, s!Lich as noi-i-fc-rrotis metils, or by ionizc,.cl liqtiicl.,-, or gases. and is
+                   prcventeci f-orn leaving the desireci path by high resist@tnce inskilators,   Tllc
+                   application -)f ctirrent or volttge to 1),;iqic elc-c-tric-LI devici--s, inc-.Ititling
+                   resistors, coils, and capacitors, permits a wide range of ftii-ictions to be
+                   performed by electricity,    These basic electrical 4@evicc-s cotipled with rnore
+                   cornpticated devices, such as vacuurn tubes and transistors, form the work-
+                   ing components of all electrical and elect-ronic sys@e2ms which generate,
+                   tr,-tnstiiit, store, amplify, modiiiate or otherwise ck)ntrol electric-, ti@rr(,nt.
+                   PkirposefuL control of the variables of electricity can be accomplished
+                   through the use of these basic devices. For exarnl:ple, a  coil  or  incltictor
+                   ,.Vill tend to conduct direct current and lo,.v frequencv alternating citrrent,
+                   while irnpe@ing high frequency alternating current.  Similarly, a capacitor
+                   or condenser acts as  a  conductor  for  high  frequency  alternating  current,
+                   but impedes direct current and low frequency alter-nating current,
+                   The spectrum of physical and physiological effects produced by the varia-
+                   tions of volca-e, current and frequency is probably familiar to2 many read-
+                   ers: the tingle of a mild electric shock of low amperage, the appearance
+                   of a high volt,,ige arc discharge, the accidental bur-i from I 10 volt, 60-1-Tertz
+                   "house current" or the painful shocl@;. from the high vol-,@age of an automobile
+                   ignition system-
+                   In terms of incapacitation and biological effects on living sy8stems, ctirrent
+                   not voltage - is the most important variable of electricity.  The frequency
+                   of the ckirrent may also be a factor in deterr@inirig the dcl(-teriotis effects of
+                   electric current, especially with regard to the sensit-ivity of the hklman
+                   heart.
+                                                             4-
+
+                                        III.  Pli -.;if)lo icit on.@id@erati(Dns
+                 A.   Effects of Electrical Ciirrent on  I-Itimans
+                 With the exception of inconsequential effects such as the feel'Ing of 'hair.-
+                 standing-on-end, high voltages without current flow have no knowii effect
+                 on human 2welt-being or performance,  Polarity of a dir@ct current or
+                 brief di@charge rnakf-s no apparent difference with regard to the incapaci-
+                 ta.ting effects of flowing current.
+                 As it relates to the incapacitation problem, electric  =urren@,  has  only  three
+                 significant e-EfeLts on human tissues:
+                      1.  Dep,31arization, of nerve and mus2cle tissue, @-ausing  the  "firing"  of
+                 nerve or brain cells and coritraction of muscle fibers.  Depolarization
+                 causes the subjective ti,-igle, involuntary muscular contractions and several
+                 other side-eff2cts of an electric shock.
+                     2.   Channe in sensitivity of cei-tain irritable tissues, such as increas@d
+                 heart irritability and s,.tnsjl&-i 2it-y to fibrillation. t Fib-illa'@ion is an uncoord-
+                 inated "bag-of-worms" contractile activity of the heart, and is a major
+                 threat to life which may ensue when moderate electrical currents pass
+                 through the heart.  Death can follow because a fibrillating @zart c@,-nnot
+                 pu,mp blood.
+                     3.   Heating, to the pl@int of coagulation and burniz2,g if ctirrent flow is
+                 large enotigli or concentrated in a  small  atea,
+                 All three of the above effects  could  contribute'to the pain of a  severe  shock,
+                 although a laz- e part rnav be pain due to  mlisc       M.
+                                                                  le spas
+                   Unless otherwise attributed, the material presente-J in  this  section  is  de-
+              3   rived from Re-'erence 1, which also provides a biblicigrapliy of the basic
+                 publications on the physiologic effects of electric cui-rent.
+                 t In this report, fibrillation rneans ventricular fibrillation,
+                                                          5-,
+
+                    Detiilc-d effic@cts c,-iri bc prcdictcci if the @LT-np(, rage, rotit(- i-lirokigl,. tli,4, 1.)Ociy.
+                    dliration of current flo,@v anr3 freqtiency of t]-ie power supply are known.        De-
+                    liberate exectition in an el(-2ctric chiir is an extreme examplc- in which
+                    approxirrately 10 @Lmperes  of  50  to  60  Hert7,  current  are  passed  from  'head
+                    to both feet for longer than  a  minute.  Such  a  lethal  curr(-nt  citises  imnied-
+                    i,ite  tinconsciousness,  immediate  and  continuot:ts  Ilt-6t@xnic"  contriction  of
+                    all  rnajor  rntiscles  including  the  heart,  thereby  arresting  respiration  and.
+                    all  useful  heart  activity,  and  severe  heating  effects  most  pronounced  where
+                    the .,D-@@cial electrodes  make  contact  with  the  ski-,i.  The  colloquial  phrase
+                    "frying in the chairl@ seems apt.
+                    A less drastic but equally  dramatic  ,  -,a  of  electric  current  is  in  electro-
+     2               convulsive  therapy  or  "shock  treatment"  for  mentLI  illness.  In   this   case,
+                    50 to 60 ho--rtz currents on  the  order  of  I  ampere  &re  passed  from  one  side
+                                                                              z ,
+                    of the head to the other for one-half second or less.         @he patient  irnriiedi-
+                    atei)r  loses  consciousness  and  ha2s  a  generalized  convulsion  that  appears  to
+                    last  longer  than  the  duration  of  current  application.  The   patient   usually
+                    regains cor-sciousness  'Within  a  few  minutes  and  may  be  phys-ically  able  to
+                    walk  promptly.  There  is  likely  to  be   residual   muscular   soreness   and   a
+                    confusional state may  persist  for  any  pz@riod  of  time  from  seccnds  to  days.
+2                    The patient retains perrnanert amnesia for the time of the shock and usually
+                    makes  no  serious  objection  to   repeat   treatments,   Therapy   personnel   tale
+                    great  care  to  make  large-area,  low-resistance  ele,7.trical  contact   on   both
+                    sides of the  head  to  prevent  current  burns  on  the  Facitnt's  scalp.  It  must
+                    be  emphasized  that  cur-ent  flow2,  and  hence  all  direct  effect,  of   electro-
+                    convulsive therapy, is  confined  to  the  head.  Thu@  depolarizing  action  of  the
+                    current  on  the  brain  causes  convulsive  stimuli  to  flow  out  to  the  muscles
+                    through  the  normal  channels  of  the  nervous  system;  there  is  no  significant
+                    current flo,.v through the  trunk  or  extremities  althotigh  they  6move  violently.
+                    Only organs in the pati-k  of  the  current  flow  can  be  affected  directly.  This
+                    is wh-@ there is  no  risk  of  direct  electrical  interference  with  betrt  action
+                    during properly conducted electro-convulsive therapy.
+
+                    (,-iirrents passing t,,.Totigh the torso can cakise spas:ic -,2arilysi5 of I:Iic.-
+                    respiratory, baclz and abdominal rnuscl(,,s.  Contin--ious pir,-Llysis of Llie
+                    re-qpiratory mtiscles for several mintitc@s cin lead -a stiffocition  rei,,ardl@2-ss
+                    of other consequences.  The most imr-nediate and potentially lethal threat
+                    posed by a ::tirrent passirg through  the  chest,  however,  is  electricl]  inter-
+                    tercnce wit-i heart activity.  Table 11 outlines the hizards of currents xppl'cd
+                    c.-cternally to tile chest for several seconds.
+                    Inspect2ion of Table 11 reveals several key points.  For a given curr(,nt level
+                    in the 0 to 3, 000 milliampere range, alternating current has greater physio-
+                    logic effect and is more ha@.ardous than  direct  current.  Fibrillatic)ii  of  the
+                    heart is rarely caused by direct current regardless ul arnperage-.  Vent-
+                    ricular fibrillation is almost always fatal unles2s given special treatment
+                    within minutes, but hearts that have bfen completely paralyzed for short
+                    periods usually resume normal activity spontaneously after the current
+                    stops.  This difference accounts for the apparent Faradox in the dose-
+                    response  relationships  shown  for  alternating  currents:  other  factors   being
+                    equal, a current greater than 3 amperes is less litzely to b2e imrnediately
+                    fatal than currents in the 80 milliarr@pere to 3 ampere range.  It must be
+                    ernphas-'-zed that the approximations indicated by T3Lble :11 are  valid  only  for
+                    current applied externally acros,,z the chest  and  for  the  indicated  durations.
+                    The voltage required to produce a given current, cf course, is highly depel-
+       2             dent on the nature of the electrodes, skin resistance, and olher factors.
+                    The fibrillation threshold rises for  current  durations  sliorter  than  one  sec-
+                    ond, at least for non-repetitive pulses of curre,,,it.  Figure 1 indicat,?.s an
+                    approxii-nate "worst case  hrc-shotd for fibrillation hazard in terms of tile
+                    current-tirrge factor for brief ex2posures to any type of current, including
+                    60 Hz AC and capacitor discharges.  For shocks lasting less than one second,
+                    the thresho'-d shown by Figure I is for constant enc-rgy ptilses of 1. 6 joule
+                       The stardard inethod of "closed" defibrillation -,s to apply abotit 300 joules
+                    of electrical energy in 0. 2 seconds yr less through large electrodes held firn0-i-
+                    ly on the skin of the anterior cle3L.    One joule is <)ne watt-secoiid.
+                                                               7-
+
+                                                                           TA13    LE    11
+                               Sr--iNSATION AND EFFECTS ON 14FART ANT) RRSPTI@ATORY MTTSCI,E@
+                                                 Or CURRENTS               LASTING I TO 30 SECONDS
+                                                           (THRESliOLDS APPROXIMATE)
+                           Current        2         Sensation                          Heart                  R@s iratory Muscles
+                             (rna)             ACt              DC            ACT            DC              A                       DC
+                           0-1                none         none          none             none              none             norie
+                           1-5                tingle       none          none             none              none             none
+                           5- 25              pain         tingle        none             none              sligh@           none
+                                                                                                            contraction
+                           Zs-ao              pain         pain          ncfc             none              P&ralysii        Slight
+            2                                                                                                                 contraction
+                           80-300             p-in         pain          fibrillation     none              paralysis        paralysis
+                           300-3,000          pain         pain          fibrillation     paralys--.s       paralysis        paralysis
+                           over 3, 000        pain,        ptin,         paralysis        paralys@.a        paralysis        paralysis
+                                              burns        burns
+                             For  curren,s  applied  externally  to  the  chest;  currents  smaller  than  0.   I   miltiarni:,tr?,   can
+                             cause fibrillation  if  applied  directly  tc)  the  heart.  3
+                             IO- 1,  000  He0rtz
+                             .-xpoeuve  longer  than   30   seconds   may   cause   fibrillation
+
+                                                                               CURRENT
+                                                                               ioo
+                        ....... . . .
+                                                                                    VI
+                             j@;
+                                             FIBRILLAT.  A4AHO
+                                                        2                       10
+                                                                 14
+                                                                                    $4
+                                          IVELY SAFF:
+                                  !II RE!Lr                                     iuu
+                                                                                lo
+                                71
+                     2      10      100       1      10     .100      1       10
+                         rnicxoseconds       I     rnilliseconds      5econds
+                                        DURATION OF CURRENT
+                                   (Continuous, Non-Repetitive Flow)
+               Figtire 1.  Approxii-nate Threshold of I-leart Fibrillation Hazard for
+                           Eingle, Brief Current Surges (AC or DC).i
+
+                      Adak
+                   each.  Scvcrti atitharities suggest that 1-iazard threshold might well be at
+                   ent-rgy levels an order of magnitude higher Li-lan that shown; thus the thres-
+                   hold shown I)y r,'igiire I may be quite conservitive-I                   -
+                   Currents of stiffir-ient magnitude will cause pain2ful involuntary contraction
+                   of muscles as the currents pass through an extrem.ity.  The motion made
+                   by the extremity as the muscles contract will depend upon. (1) the rnuscle
+                   groups stirnulated, and (Z) the relative Strengths of contraction of the
+                   various muscle groups.  A person "thrown" or "knocked down" by electric
+                   shock has been moved by his own muscle cont2ract--ons rather than any
+                   direct T)ropulsive effect of the current.  Relatively weak movements caused
+                   by sinalkl currents can be overcome by voluntary muscle control, especially
+                   in large po-.verful people.  A "no-let-go" current thresho'd can be determi-
+                   ned by measuring progressively larger currents f'-owing through a person's
+                2   arm frorn an electrode grasped in his hand, up to the current at which he
+                   can no longer voluntarily release the electrode with the current flowing.
+                   The no-let- go threshold for adults is in the 6 to 3C rnilliampere range for
+                   60 Hz AC.  Current values will be similar for other AC frequencies in the
+                   10 to 1, 000 Hz range, but DC currents would have to be about five times ag
+                2   large for s--milar effect.1
+                   B.  The Human Body as an Electrical Conductor
+                   From the standpoint of electrical shock, th-- normal human body can be con-
+                   sidered as a bony framework encased in a protein get with some lipids, all
+                   of which is permeated with an aqueous salt soltitio-,i and encased in a water-
+                   proof skin.  The electrical resistance of organs generally varie2s inversely
+                   with water content.  Tissiies such as blood and muscle display resistances
+                   in the order of 1, 000 ohms per cubic centimeter while dense bone, fat and
+                   nervous tissues have resistances several times hicyher.  Whole body resis-
+                   tance, exclusive of skin, is on the order of ZOO- 1, -DOO ohms.  TI-ie trunk has'
+                   a lower resistance than the extremities 9with their smaller cross section
+                   and high proportion of bone.  Current inside the bc-dy appears to spread in a
+                                                          to-
+
+                 fairly uniforrn manner through tl-ie available volume between the point of
+                 entrance and the point of exit rat)-ler than being noticeably conc(-ntrated
+                 along any sp-2cial low-reSiStATice pith.
+                 The sicin usually presents the rnajor resistive barrier to electric ctirrent
+                 flow.  Most Df the skin resistance is in the opider,-nis, the dry, horny outer
+                 Layer withotit blood vessels.  Thickness of the epidermis, and hence the
+                 resistance of the skin, may vary widely between different parts of the body,
+                 Thin skin behind the knee or in the axilla may offer less than a thousand
+                 ohms resistance, especially if moist.  At the other extreme, a tllick, dry
+                 callous may offer resistance approaching a rnill-lon :)hrns.  Skin that is rela-
+                 tivety moist, such as on the palms, soles or axi',Iae, will be more conduc-
+                 tive than drier skin of the same thickness elsewhere on the body. 1 During
+                 sound sleep, all skin resistance rises greatly.4
+                 C.  Skin Resistance
+                                                                                         1
+                 The major factors in electrode-to-bod2y resistance through the skin are:
+                     1.  Thickness and intrinsic moisture of the skin, as noted above.
+                 Range: about 1, 000 - 1, 000, 000 ohms (dry contact).
+                     2.  "Wet" or dry contact.  Presence or absence of an electrolyte solu-
+                 tion providing a conductive pathway between electrode and skin.  "Wet"
+                 contact can be proveded by special preparati2ons suc@'i as electrode paste or
+                 fluids such as sweat, blood, saline solution or even tapwater.  Conversion
+                 from a dry contact to a "wet" one usually drops the :,esistance one or two
+                 orders of maffnitude.
+                     3.  Intact or damaged skin.  Any thinnii-g, scratching or penetration
+                 of the epidcrmis can drastically reduce skin resistance.  In addtion to any
+      7           reduction due to a wet contact, painless, gentle sandpapering of the skin
+                 can also redtice the resistance one or two orders of magnitude.  Even a
+                 tiny penetrating burn, such as that caused by a small area of contict witl-i
+                 high voltage, will cause a near-instantaneous drop in skin resistance to a
+
+                 few Iiiindrcd ohms or less.
+                      4.   Area of contact.  Otl-Ler factors being cqtial, resistance is inversely
+                 proportional :o the area of contact.  A large area of Liniforn-I dry contact is
+                 difficult to ac-hieve in practice.  Significant and predictable redtiction in
+                 rcsist.ince by lirge area contact is ordinarily achie2ved  only  with  wet  con-
+                 tact such as immersion of a bod-,r part or wet clothin-,Y.
+                      5.  Pressure of contact.  Increased pressure on a dry contact with
+                 intact slizin can reduce resistance, but the effect is usually not  pronotinced
+                 enough to cause dry electrode-to-skin resistances lower than 10, 000 ohms
+                 untit the contact pressure exce2eds 10 kilograms per square centimeter.
+                     6.   Frequency of the electric power.  Skin in-ipedence, or total tenden-
+                 cy to obstruct the flow of electric current, is inversely proportional to
+                 increases in the frcciuenc-)r of the applied electric power.  The relationship
+                 ii not sufficient to lower the effective skin impedance two orders of magni-
+                 tude until the power supply 2frequency  approaches  100  kHz.  This  repo--t  is
+                 not concerned with such radio frequency currents because "skin effect" .
+                 keeps most of the current o-i the body surface where it is  ineffective  as  an
+                 incapacitating agent.
+                     7.   Skin :zovering.  Dry hair and most dry cloth-.ng can increase the
+                 electrode-to-body resistance by millions of ohms.
+                 D.  B2urns and Other Therni@ I@nu@jLies
+                 The beating effects of electric current are dependent upon the amount of
+                 electrical ene.-gy being dissipated per unit time in a given volume of con-
+                 ductor.  About four joules of eiectrical energy must be dissipated in a gram
+                 of water in order to beat the water one  degree  centigrade.  In  general,  the
+                 tempe-rature rise of tissue being heated 2by electric current varies:
+                     1)  directly with the square of the current
+                     2)  directly with the resistance of the tissue
+                     3)  directly with the time of current flow
+                    4)   inversely with the effective volurne or cross-section of the conductor
+                                                          12-
+
+                 Consider,-ition of tl)csc f,'Icts Ic,"fls to the conclusion th,-Lt the highest temper-
+                 attire rises in most cases of electrical sliocie will occur in the skin at one or
+                 both points of electrical contact -,vith the body.  For significant current flnws,
+                 skin burns of some degree will rel-Liain a hazarci unless spe2cial precautiolis
+                 are taken to avoid high skin r@sistance and small effective cross-sections
+                 of electrical contact with the sirin.
+                 Conversely, the large effective cross-,,ection and lo-.v resistanci-. of the body
+                 beneath the skin means that n-iany amperes of current flowing for prolong-
+                 ed periods would usually be required to "cook" organs other than the ski2n.
+                 An electric arc in air at one atmosphere has a temperature of 2500' to
+                 3000' C and can cause local heat effects other than those due to current
+                 passing through skin resistance.
+                 E.  Pulsed Current
+                 Repeated brief pulses would seem to offer several decided advantages as a
+                 form of delivering electrical energy for incapacitatiz)n purposes.  At a
+                 pulse 2repetit-'-on rate of one per second or faster, pulsed currents should
+                 be able to cause as much pain, paralysis and incoorjination as continuous
+                 current, per,iaps even rnoi,e than continuous direct current.  Very brief
+                 pulses and a sr-nail duty cycle would mean low average power levels, resul-
+                 ting in: (1) reduced burn hazard to the subject; and (Z) reduced drain on
+                 the power supply 2system.  For example, a one ampere pulse lasting one
+                 millisecond (0. Z5 joule of energy, assuming internal body resistance of
+                 250 ohms) cculd be repeated at 10 pulses per second with a time-average
+                 power of oniv 2. 5 watts, one hundred times less than a continuous current
+                 of one ampere.  If such pulses passed throug@% major portions of a man's
+                 body, they should be 5completely incapacitating with onlv minor burn hazard
+                 and low drain on the power supply.  Figure 1 might be misconstrued to
+                 suggest that such a pulsed current is known to be safe as fkr as the 'heart
+                 is concerned.  It must be emphasized that the figure relates to a single
+                                                         13-
+
+                                                                                    AgMk
+                        w
+                     non- re petitive pkltse only, a,d that ha7ard thre,,ho"6s
+                                                                                              pulses
+                     1-c-i-nain to be determined.
+                     Worki2ng will-i data from studies LiSing I-iurnans and expe-rirriental anirnals,
+                     Zoll and cc-woriers found that: (1) 3 millisecond pulses of abokit 100 rnil-
+                     liamperes (energy 0. 06 joule and less) applied across the @--host would
+                     trigger a 1-ieartbeat; and (2) pulses repeated 8 to Z) t2imes  per  second   for
+                     periods on the order of a minute could cause fibrillation in some cases.      5
+                     Thus a one ampere pulse lasting one millisecond lenergy 0. 25 joule) would
+                     be likely to trigger a heartbeat each time the pulse passed through the
+                     chest, and a fibrillation hazard could  exist  in  normal  hearts  subjected  to
+                     rapid rates of such "external heart pacing" for 2prolonged periods.  From
+                     the information presented by Zoll et at, there would appear to be little
+                     danger of fibrillation or low cardiac output if the external pacing -is @arried
+                     out aL a rate within the normal heartbeat range.      Thus a repetition rate of
+                     about two pulses per second might prove to be well tolerated for prolonged
+                     periods, at least as far as direct cardiovascular hazard is concerne2d.
+                     Incapacita--"Lng pulses passing through the chest at a rate  of  about  two  per
+                     second are likely to interfere seriously with breathing, and might prevent
+                     loud vocalization, along, with a-ay otl-ier coordinated action.  If   breathing
+                     were stopped by the pulses, the subject could eventually suffocate,
+                     The safety of repeated brief pulses for incapacitati2on p6rposes has not been
+                     proved by the                                     Ireport dated 25 Sune 1971.
+                     The longert reported test period was four seconds and no evidence is pre-
+                     sented with regard to the subjects' cardiac or respiratory stattis durina the
+                     test period, the t-Lme required for functiona'i recovery after delivery of the
+                     last pulse, and the th3resholds for "no-let-gol   I status and skin burns.
+                     F.   Overco@@@@@
+                     As previously noted, hum,-in skin and hair often present a trajor resistive
+                                                                14-
+
+                     barrier to delivery of electric current for incapacitation purposes. 1%4cthods
+                     of overconniiig the skin resistince problem may be summarized as follows:
+                        Avoid tl-ie slzin. ?vlale cox)t,-Lct with moist mucosal surf,-Lces such as
+                     mouth and rectum.
+                                  ],in.  Make conta(,@t with sl;.in sui-faces that are already wet.
+                        u S@e Wt@5 I'@ @.
+                     or deliberately'moisten the eloctrode pi-,tcernent sitals.
+                        Use damac:ed sl<in.  Make wet contact with skin previously or deliber-
+                     ately scratched or abraded, as with an abrasive electrode paste.
+                      2  Penetrat                       :rodes.  Make direct contact with struc-
+                     tures beneath the epidermis by means of electrodes in such forms as
+                     needles, splinters, burrs and slivers.
+                        Use 1--iah voitage.  Sufficiently high voltages will force any required
+                     current tl--rough the skin regardless of high skin resistance.  Iiigh voltage
+                     cannot be considered a simple all-2purposed solution to the skin resistance
+                     problem because high voltage is likely to cause extremely rapid changes in
+                     skin characteristics.  A voltage- high enough to force an incapacitating cur-
+                     rent through two high resistance dry skin contacts may well cause small
+                     burns that result in a drastic fall in skin resistance; if 'high volt-,age-. is main-
+                     tained in -he face of rapidly declining res2istance, an enormous and hazard-.
+                     ou.9 current flow develops.  Variot,-s electrical techniques are available to
+                     limit current flow in such cases.  Use of high voltages also requires that
+                     special precautions be taken to avoid short circuits that bypass the slib-
+                     ject's body.
+                     G.  Path of Current Flow Through the B.qdy
+                     The complete loop of curre8nt flow must be considered in every case of
+                     electric shock, and any changes taking place  during the shocl-,ing process
+                     must be borne in mind.  The locations of effective current entry and exit
+                     from the body are all important with regard to F-hysiologic effect, consid-
+                     ering that current has direct effects on only those organs through which it
+                     flows.
+
+                         T%%,o .2lectrodp-s closely sp@xccd.  Current entry and exit points within
+                    a fcw cencimctcrs of each other on the body surface can cikise local pain,
+                    n-itiscle spasm tnd btirns only.  Thi- only 3ignific.!int excet)t-ion would be
+                    electrodes on the front of the chest where pa2rt of the current could flow
+                    through the heart. Closely spaced electrodes colild be  used  to  cause  limited
+                    incapacitation by pain and, if properly used, could be quite safe.
+                         Two electrodes widelv spaced.  Widely 'spaced electrodes on the body
+                    siirface offer a great variety of possible physiologic consequences, depend-
+                    ing on ful' details of the rnethod used.  In all2 cases, there will be local
+                    effects near the electrodes as  noted  above.  Large  currents  passing  between
+                    electrodes on opposite sides of the head may have effects  similar  to  electro-
+                    coxivulsive therapy, at the risk of severe scalp b,-irns unless the electrodes
+                    provide large areas of good contact; similar effe--ts, along with others,
+                    might be expected with current flowi2ng from the :op of the head to another
+                    electrode at neck levet or lower on the body.  Current flowing only in one
+                    extremity can have direct effects ovi that extrqmity only.  There are many
+                    possibilities for widely space(! electrodes to cause significant current flow
+                    through t@e chest with resultant posribility of interference with  cardiac  and@
+                    or respiratory activity.  Figur2e Z illustrat.-s the possibilities of placement
+                    of contacts that cause a significant proporti3n of the current to flow through
+                    the chest.  Electrode pairs offer such a possibility if they: (1) are on oppo-
+                    site sides of the plane AU; (2) are on opposite sides of the plane BC; cc (3)
+                    are on the front and back of the chest or .ipper abd@)i.-nen.  Figure 2 shows
+                    that the only path from one extremity to another, not threatening chest acti-
+                    vities, is from one lower extrernity to another.
+                         One electrode and "ground".  This situation must be considered as two
+                    electrodes, the second electrode being whatever is considered "ground" in
+                    contact with both the subject's body and the other part of the essential  closed
+                    2circuit for current.  The siiigle electrode problem rray be ori,- thing if the
+                    subject is standiiig barelr>ot in a rice paddy, and entirely differevt if he is
+                    standing in diy she -,s on a d-ry wooden floor.  An,,r change in the --Libject's
+                    body contact with "ground, 11 such as falling onto or away from llg:-otind, 11
+       5             can radically alter the current flow situation.
+                                                            - 16-
+
+                   AML
+                                                                            Heart
+                                                                        U   Umbilicus
+                      Figure 2.  I)iagrarn of Body Area Cornbinations for Current
+                                       Flow Through Chest.  (See Text)
+                  H.  physio
+                  It is possible to u4se electrical current as an agent :o cause a whole spectrum
+                  of human in-zapacitation from minor distract;on through muscle sp.-Lsm, pain,
+                  contortion, minor burn,3, x@espiratory arrest and perhaps vocai paralysis,
+                  cardiac arrest, unco-4@sciousnes@, xitli convulsion, severe burns and death.
+                                                         17-
+
+                 The approxirnate degree and duration of incapacitation can, within lin-tits.
+                 be predetermined by appro-)riate selection of curren: type, amount, dura-
+                 tion, and patlt ira tl!e body,  In generzli, electrical tc-cliniq@ies tc-.nd to he
+                 tirne-tirnited if safety is a consideration-, prolonged use of electric current
+              2   to i-naintiin incapacitation may present grave hazards to the subject in thi-
+                 forrn of burn:i, inadequate heart output or inadequate respiration.  On the
+                 other hand, a brief "knock-do%vn" incapacitation can be achieved with rela-
+                 tive safety by almost any large current flowing for an extremely short
+                 period of time (less than a mi.Ilisecond),
+                 Several t2echniques can be,used to increase the safet-i factor of current
+                 being used to incapacitate for longer than the "knock-down. 11 A current
+                 large enotigh to cause extremely painful paralysis of the extrernities pre-
+                 sents no danger more serious than burns if t does not pass through the
+                 chest.  In this respect, optimum safety with severely incapacitating currents
+                 could be achieved with the current flo2wing: (1) from one lower extremity
+                 to the other; or (2) from a distal point to a proximal point on the same extre-
+                 mity.  Over such paths continuous AC current of rn,)re than Z5 milliamperes
+                 or DC currer-t of more than 80 milliamperes should keep at least one extre!-
+                 rnity of a man painfully paralyzed for the duration of current flc, ; currents
+                 larger t2han an arnpere could cause severe burns, especially if the current
+                 flows continuously for many seconds.
+                 If the current path is through the chest, the use of direct current will vir-
+                 tually obviate the hazard of heart fibrillation although the likelihood of res-
+                 piratory and cardiac arrest remains with direct currents in the effective
+                 range.  Cardiac arrest causes unconsciousness within a few seconds and
+               2  death after severa" minutes.  Complete respiratory arrest usually causes
+                 unconsciousness in iess than four minutes and death in about ten minutes.
+                 Both kiqds of arrest would be likely with direct currents larger than 300
+                 milliampv-res passing through the chest, so incapacitating direct current
+                 would usuallv have to be kept in the 80 to 300 rnilliampere range if it is to be
+                 used9 for prolonged periods.
+                                                         18-
+
+                                                                                       Ask
+                         w
+                      The safety rn.-Lrgin  for  incapacitating  levels  of  alternating  current  flowing
+                      Llirotigh the cliest is ntrrow for periods as short as a few seconcis and
+                      tbc!rc is no m@irgin of  safety  if  the  clrrent  flows  for  more  than  30  se2conds.
+                      All such shocl-,s should be considered potentially, lethal.
+                      C.-Lrefully chosen piitsed currents,  perhaps  brief  surges  of  one  jottle  or  less
+                      delivered  once  or  twice  per  second,  may  offer  effective  and  relatively   safe
+                      incapacitation when flowing between.Lna two widely zpaced points on the
+                      body.  Several  key  questions  regarding   the2   safety   and   effectiveness   remain
+                      to  be  answered  by  direct  investigation,  but  indirect  ev@,idence  suggests  that
+                      such pulses would  offer  the  following  ad,iantages;  (1)  no  direct  threat  to  aL
+                      normal heart for any  duration  of  incapacitation;  (2)  only  minor  ski-.i  burns
+                      at worst; and (3) low average2 current requirement for the paver supply.
+                      The  facts  remain  to  be  verified,  but  such  pulses  passing  from  any  point  on
+                      the upper extremities  or  the  upper  body  to  any  poi-nt  below  the  waist  may
+                      well be  ca@-able  of  preventing  respiration  and  effective  speech  in  addition
+                      to  causing  conip,ete  imrnobilization  by  muscle  spasm  and  pain.  If  this  is2
+                      the case, an operator could be equipped with a system enabling him to:
+                      (1) knock P. subject down rapidly; (2) keep the subject incapacitated and          un--
+                      able to make an  effective  outcry  for  perhaps  a  minute;  (3)  turn  the  pulses
+                      off for long enough to allow the subject  to  take  a  breath  or  two.  (4)  turn  the
+                      pulses Lack  on  unti2l  the  subject  becomes  blue  or  passes  out;  and  (5)  repeat
+                      steps 3  and  4  for  a  reasotiable  length  of  time.  Pr;Dperly  handled,  the  sub-
+                      ject  should  recover  promptly  after  the  pulses  have  been  turned  off  for  sev-
+                      eral seconds, and have no permanent ill effects aside from probable small-
+                      area skin burns.
+                      Electrical  currents  are  not 1 lil<ely  to  cause  the  immediate  coma  and   convul-
+                      Sion of cle@-tro-convulsive therapy without: (1) severe burns about the
+                      'head or (2) tl-e use of techniques very similar to those used in ECT.
+                                                                   ig-
+                      4*
+
+                                                IV.  Other System Factors
+                                 .5@ Libsvstems
+                                      Information presented in the preceding section of this 'report
+                      indicates that: (1) one large non-repetitive pulse lasting less than a second.
+                      mir,ht be appropriate as a "knockdown" technique; and (Z) longer incapacita-
+                2      tion will require continuous power in the I to Z50 watt range, quite likely
+                      less than 25 watts, depending upon the technique.  A  large  capacitor,  pre-
+                      viously charged from a primary source, could supply the single    brief burst
+                      of power.  Systems requiring longer duration power could draw     upon perm-
+                      anent supply installations, temporary gercrators, or batteries,   as   appro-
+       2               p'riate in terms of power drain and anicipated'duration.  lpower  supply
+                      reliability should approach 100% in a properly designed system.  Power
+                      conditioning equipment is needed to rriake the re!quired changes, such as
+                      voltage step-up, temporary storage,  current  limitation,  and  modifications
+                      with respect to timing.  The reliability of power co-iiditioning equipment
+                      should also approach 100'7o.
+                      Controls,  Except in special circumstances where sorne degree of variability
+                      or automaticity of current delivery would be desirable, the current control
+                      mechanism probably should be a reliable manual on-off switch.
+                      Deliverv Conductors. Properly designed conductors should present few
+                      probt2ems in systems where the electrical supp"y  cc,mponents  and  the  elec-
+                      trodes have been prepositioned before the arrival of the subject, wl-to is
+                      expected to move himself into appropriate contact with the electrodes.
+                      Similar,ly, short-rang43 conductors, as for a hand-held device, should be
+                      quite rel--able.  A conductor.-propulsion combination suitable for swif2t
+                      long-range deployment will require extremely careful design if it is to be
+                                                             Zo-
+
+                          AIM6
+                       re@iab@e witli regard to open-circiiit and short-ci:-cu;' possibilities tincier  a
+                       variety of field conditions.
+                       Electrocles.  Electrode design and placement will           to allow for alt the
+                       variables to be presented by the siibject and the eivironment in the fi(-Id.
+      2                 The subject variables are litrely to include location  in  space..  body  posture,
+                       motion before receiving current, motion and posture after receiving cur-
+                       rent, clothing, moisture of skin and clothing, nature of surrounding objects,
+                       proximity and actions of companions.  Subject variability is likely to deter-
+                       mine the path of current flow in the body of a subject wl-,o 2moves himself
+                       into contact with previolisly placed electrodes.  Pgain, hand placement
+                       should be easy,  but  swift  long-range  placement  of  adequate  electrodes  will
+                       r-@quire expert design in order to be reliable under a  variety  of  field  condi-
+                       tions.  Electrodes are subject to open-circuit and short-circuit failure
+                       modes, in addition to dangers or ineffectiveness2 which might rest-Lit frorn
+                       inappropriate current pathways through the body.
+                       B.  C)perator Risk
+                       Standard electrical safety precautions, built into the system, should be ade-
+                       quate for operator safety so long as the operator avoids electrical contact
+                       with the electrodes or the subject white current is flowing.     A-he operator
+                       colild h2ardle the subject if he; (1) turned off the current; or (Z) wore insula-
+                       ting gloves of an appropriate thickness.
+                       C.  Covertness
+                       Aside from the actions of  the  subject,  electri'cal current system activity
+                       should be inapparent to an observer except for the possible faint snapping
+                       noise, smell of ozone or burning and dim light o-2 small high-v5oltage arcs.
+                       As discussed previously, the subject may or may not be able to scream,
+                       shOLIt or signal. 'A severely incapacitatc-d subject is lil@ely to fall down,  and
+                       might thr-ash abotit or je@--k kinder some circumstances,
+                                                               -zi-
+
+                   D   Cou@termcasures
+                   Onl)r limited r-otintermeastires would be available to protect a stil-)jcr-t  from
+                   a properly designed electrical incapacitation systerr@.  In  general.  cc,)"inter-
+                   measures wculd fall into the fotlowing categories:
+                       Avoidance.  Stay away from the electrodes.
+                       Minimize 2current flow.  Current penetration of the body can        be  effect-
+                   ively reduced by: (1) interposing an insulat-ing layer between the       electrode
+                   and the body: or (Z) providing a low resistance short-circuit path     between
+                   electrodes so most of the current flow remains outside the body.  Insulating
+                   footwear could often be aL reliable countern-ieasure to any systern    using a
+         2          single electrode with "ground. 11 Insulating gloves might enable a     subjecl to
+                   remove electrodes delivering currents above the "no-let-goll threshold 'if
+                   initial electrode placement does not provide a completely incapacitating
+                   path oi current flow through the bocly.  Protective clothing could have a low
+                   resistance (short-circuiting) outer  tayer  and  a  high  resistanc9e  'insulating)
+                   inne r laye r.
+                       Interrupt current flow.  Once a'truly incapacitating current flow has
+                   been established in the subject's bc,,dy, deliberate irterruption of the current
+                   could be accomplished only by the operator or a thiz-d party coming to the
+                   aid of the subject.
+                                                            -22-
+
+                                             V.   r-clui,3nicnt Stite- of- tl-.c- Art
+                                          system is the only electrical incap.-tcitation tinit for
+                     which the authors of this report  have  detailed  inf@rrnation.  The
+                     concept  may  be  summarized  as  a  self-contained,   hand-carried, battery-
+                     powered unit2 designed to project one or two insu.ated delivery wires at
+                     high velocity to a subject who may be at ranges up to 100 meters; delivery
+                     wire(s) may terminate at electrode(s) that may be bare wire, net, dart,
+                     barb, burr, adhesive or some other form; current is passed through the
+                     subject in brief 0. 1 to 3 joule pulses at about 30, 000 volts repeated 2 to 220
+                     times per second.  Data are presented from test-s involving a small number
+                     of experimental animals and human volunteers.  During these tests, inca-
+                     pacitation periods were limited -to four seconds or less.
+                                                                                        concept
+                     In view of the information presented in this repo.-:t,  the
+                     appears bas2ically sound provided that a reliable wire delivery and elec-
+                     trode emplacement system can be proved satisfactory under field conditions.
+                     From the physiological standpoint, safer and more rapid incapacitation
+                     might have been achieved with larger energy pulses repeated more slowly
+                     than the ten per second indicated in most of the          Itests.  Available
+                     test infor-nation is n2ot conclusive with regard to:  (1) incidence of skin burns;
+                     (2) respiratory and voc-it status during shocks; (3) whether or not           I
+                     personnel knew that they were llp.?--ing" the hearts of th4i subjects; (4) effects
+                     of prolonged exposure to the pulses; and (5) results when electrodes are
+                     projected to the subjects rather than carefully tap6ed  in  position.
+                     Incornplet-e descriptions of other systems for incapacitation by electric cur-
+                     rent are also available.  One is a patent application for a pistol that would
+                     produce "artificial epilepsy,' by firing a small projectile with tw'o trailing
+                     wires, the projectile to be equipped with two forward-facing needle etectrodes
+                                                             -23-
+
+                  to penetrate Llic skin of the subject.  The only way for such a device to catise
+                    trkic gencrali7,ed convulsion wokild be for the necjlcs to penetrate the
+                  sub ect's brain$ Closely spaced electrodes cAn cause only local direct -
+                  effects.  E'-sewhere on the body, such a device could cause annoyance, pain
+                  and possibly I)tirns before the subject 2removed the projectile.
+                  Streams of conductive fluid, such as impure water, have been suggested as
+                  alternatives to conventional metallic conducting wixes and electrodes.  Suc'h
+                  suggestions have merit so long as practical considerations of raiii,c, time,
+                  and open-circuit and short-circuit problems are kept in mind.
+                                                         264-
+
+                                               VI.  Recommenclitions
+                  1.  Arrange to have necessary experimental work done in order to estab-
+                  tisli appropr-.ate thresholds of effectiveness and safety for pulsed  currents.
+                  The physiologic effects and ha7,ards of selected  pulsed  currents  could  be
+                  substantially proved by appropriate observations wil-h a small se2ries of
+                  experirnental  animals.  Corymon  domestic  animals,  such  as  pigs,  sheep,
+                  and calves tl-at weigh about 70 kilograms,  provide  good  models  for  adult
+                  men as  far  as  electrical  effects  are  concerned.  Audio-cinematographic,
+                  electrocardiographic and,  pneumographic  recording  5hould  be  carried  out
+                  with emphasis on the time of  onset  of  apparen2tly  incapacitating  muscular
+                  contraction, cardiac and respiratory status during incapacity, the recovery
+                  phase, and e.-,camina.tion of the sites of electrode placement.  Tirne-to-
+                  incapacity, ability to make an outcry and time-to-rr: cover would  have  to  be
+                  investigated with a small series of  unanesthetized  animals-P  other  phases
+                  could use animals breathing spon2taneously under light anesthesia.  Judicious
+                  increases in duration of the incapacitation period and the energy and frequen-
+                  cy of the pulees should yield useful approximations of the desired thresholds
+                  for burnans. Other studies on the operation  of  electrodes  and  power  supply
+                  could be conducted at the same time.  Once burn thresholds have been estab-
+                  lished, the "no-let-go2ll threshold could be docurnent2d with  a  brief  study
+                  using a palm-to-shoulder current path in human volunteers.
+                  Z.  Encourage development of systems  'to  fit  specific  needs.  Any  single
+                  electrical system is unlikely to prove optimum for. all situatioris in  which
+                  incapacitation is desired, especially with regard to  -naking  two  appropriate
+                  electrica2l contacts with the subject's body and maintaining them '@f prolonaed
+                  incapacitation is required.
+                  3.  High voltage is likely to prove the most practical way to overcome the
+                  skin resistan::e problem in many situations; if high voltige is used, the
+                                                          25-
+                                                                                          6   of
+
+                 lil@eliliood of small-area third degree skin burns must be accepted.  I-figh
+                 voltage systems will need special provisions to avoid: (1) delivering ex-
+                 CCSSIVC Current to the subiect after a fall in sl<in resistance; (2) shocking
+                 the orerator; or (3) short circuits that could destroy effectiveness of the
+                 system before or aft2er the start of incapacitation.
+                 4.  A shoit-range (arm's length) electrical current incapacitation device
+                 could be operational in a few months.  The device cculd be a "pain dispen-
+                 ser" carried in the hand, and could consist of a modified surgical towel
+                 clip with battery- powered electronics to provide painful shocks.
+                 5.  Proposed systems should be examined critically, especially with re-
+          2       gard to the resistance problem and the location of the entry and exit points
+                 for current flowing through the body.  Unless a system has a reliable rneth-
+                 od of preventing current flow through the subject's chest, it should be
+                 assumed that current will flow through the chest in some cases.  A single
+                 electrode with "ground" system is likely to be dependable in special situa-
+                 tions only.
+                 62.  All systems intended to maintain incapacitation for more than a few
+                 seconds shou:d deliver currents well above the "no-let-goll threshold in
+                 order to insure that the subject will not be able to break contact manually.
+                 7.  Operators should be aware that a subject's gun is likely to be fired if
+                 the subject has a finger on the trigger at the moment electrical incapacita-
+                1 tion starts.
+                                                        Z6-
+
+                I   Finkelstz!in, S. and E. M. Roth, "1--,Iectric Current" in NASA-CR- 1205
+                (1)                     Responses to the Aerospace Evnivronment, ed.
+                E, M. Rot 1-1, o ume   ational Aeronautics and Space Administration,
+                Washington, November 1968, pp. 5-1 to S-Z3 (UNCL).
+                2.  Maxwell, R. D. H. , "Electrical Factors in Electroconvulsive Therapy,
+                Acta                     vica. Vol. 44, 19'c8, pp. 436-448 (UNCL).
+                3.  I-lopps, S.A. , "Tile Systems Approach to Prcjte::tion" in r-lectric
+                I-laza               ed. C. W. Walter, National Academy of Science,
+                Washington, 1970, pp. 49-52 (UNCL).
+                4@  Correll9, E. G. , personal cornmunication, Albucluerque, N. M. . October
+                1971 (UNCL).
+                5.  Zoll, P. M. , M. H. Paul, A. S. Linenthal, et al..  "The Effects of Ex-
+                ternal Electric Currents on the Heart," Circulation,_Vol. XIV, November
+                1956, pp. 745-756 (UNCL).
+                                                     27-
+

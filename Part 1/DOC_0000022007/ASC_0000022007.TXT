@@ -1,0 +1,961 @@
+                                                 BIO-PO%VER
+                                              RNTERIM REPORT
+                                               October 15. 1966
+                                              Contract
+                                                 Prepared by.-
+
+                                                 TA 13 LE OF' c o.N,-rE' iT S
+                                                                                               P! ste
+                                 STATE,VENT OF OBJECTRVES                                          I
+                           IL    SUMNIA RY                                                         2
+                           M     CE14E2RAL I)ISCUSSION                                              3
+                                 A.    Directly Obtained Electricity                               3
+                                       1.   Neurornuscular Potentials                              3
+                                            a.    Nerve Potentials                                 4
+                                            b,    Muscle Potentials                                5
+   2                                         C.    Cardiac Potentials                               6
+                                       2.   birect Current Syste=is                                7
+                                            &.    Physiologic'al Electrode CeU                     7
+                                            b.    Fue'6 Cell                                    11
+                                 B.    Therr2noelectric Converter                                12
+                                 C.    Mechanoelectric Converter                                14
+                                       1.   Sources                                             14
+                                       2.   Transducers                                         19
+                                            a.    Piezoelectric Crystals                        19
+                                 5           b.    Permanent Maonet Generators                   24
+                                       3,   Previous Work                                       25
+                          ,rV.   BIBLIOGRAPHY                                                   28
+
+        AM
+                                F oBjsCTr4ES
+                      STATEMENT                         lie area of
+                                is study is to Sur.Vey past wor@ in tur,-, develop
+                      The olject of th Cal power as reported i@n the literat
+                  body,pro(Il,iced electri I ods and approaches which ha.ve
+           2                      e various meth        information in
+                  a,% urderstandng o"th     and present this
+                        gested as Ossible sourcess rls the geno-ral probleta
+                  been Sug             directed tO"-v3,
+                   a useful foL-.M. -mis report ir- electroilic devices, SUCII
+                   ,Df providing elpctri@al poer to implanted lessthan 200 micro,
+                                        @s requiring
+                         cial cardialc pacerrLaXe 9 oty self cOnt2- iied internal
+                   as artili                  E@,ete
+                       for an indefinite time from a
+                    S.ystern.
+
+                                                                                         AIML
+                                  IT-.
+                                        A general literature review was first undertaken to both dis-
+                                  cover  previous  experimental  work  and  to  gather  general   impressions
+                                  of thinking on this subject.  The review  indicated  that  there  were  few
+             2                     well documented conclusions available  and  that  although  a  fresh  start
+                                  rnight be duplicative, it is ne'eded  for  a  systematic  study.  Conceiv-
+                                  able sources were listed  and  each  has  been  -briefly  considered  from
+                                  the physiological and  instrumental  viewpoints.  In  trying  to  evaluate
+                                  potential usefulness of a source  it  w2as  sometirnes  necessary,  to  form
+                                  conceptual designs of mechanical s@steins which could utilize that
+                                  source. Comixfents  on  these  designs  are  included  in  the  discussion
+                                  as contextual information because theiillustrate those aspects of
+                                  the systems which were consider@d and the design problems en-
+               2                   counter4d, not because t@ese designi. are fe'Lt to be the proper
+                                  .solution. We concur  with  recent  statements  'dy  investigators  active
+                                  in experimental work that  the  physiological  Galvanic  @.-eU  and  mech-
+                                  anoelectric conversion are the t,.Yo most promising systems, although
+                                  much work Is ne2cessary before either is useful for practical pur-poses.
+                                  Throughout this 6tudy we repeatedly encountered unanswered questions
+                                  of '.ne possible effects of biological adaptation on the  total  implanted
+                                  system.  These effects need not be entirely neg-ative.  Adaption in
+                                  a direction tending to increase power output is a possibility deserving
+                                  of serious attention.
+
+            AIM==
+                                        R,ENERAL DISCIIS.SIO".1
+                                        A.    Directly Obtained Electricity
+                                              slnce our  goal  is  electricity  prodvced  from  an  energy
+                                                                                             ally and  the
+                                        within the body. the si2,-iiplest system instrument
+                                 sou.-ce
+                                 first which should be evaluated is the direct electrical tap.  The
+                                 systems under consideration in this section are all those that contain
+                                 electrodes that are in physical cont'act  with  the  biological  environ-
+                                 me-it and in which electrical potentials betweerk elec2trodes can be
+                                 measured.  These potentials are due to. or at least intirne.,,ely
+                                 associated with,  time  and  space  variations  in  ionic  concentrations
+                                 and flow.  The ultimate descriptions and explanations and definitions
+                                 of these potentials are within the science of irreversible therrno-
+                                 dynamic2s and the su@ject of cons7iOerable controversy.  (19) For
+                                        r-pose of this discussior, we Yiill  gene.rally consider these
+                                 the   pu
+                                 potentials operationally, that is, according to what you do to obtain
+                                 a -neasurable potential and the characteristics of that potential.
+    2                                            1.     Neuromuscular Pote    ntials
+                                                                                -aical electrochemical phenomena
+                                                       The most   studied biolc.
+                                                     'cular action potentials.  At the cellular level micro-
+                                   are the neuromus
+                                   electrodes o2f several microns    diameter inserted through neuron or
+                                   rmuscle cell membrane indicate potentials of tens of millivolts between
+                                   points within the cytoplasm and between cytoplasrn and extracell@ilar
+                                   ,-Luid.  The time course of variations -.n these potentials is from 2
+                                   millisecond to hours.  These 'Ornembrane potentials" in themselves
+                                   are of no use for our purposes becau    se of the fantastically low currents
+                                   and shrrt life of a cell damaged by p  erforation of its rne-nbrane.  But
+
+                         ASk
+                         Nam
+                                                                      associated with the Surrlrnated
+                                                         r ph,2nomena.
+                              the    gross    ellr2l'Ilula          . e cell secti0fis  in nerve and
+                                          ofthousanas 2   of nearby ac@"v
+                              effects                                              a rnetal wire QC disc
+                               muscle bundles deserve Consideration.  Whell          tlais" are ob served
+                                                         es if compound action poten
+                               is  placed  near   a   nerv . and another placed in the body, and wlerl
+ 2                              between    that    electrod                  " is observed.
+                                a  muscle   is-ueedo   the it electromYOgran,
+                                                    2.     I;er-ve Potentials
+                                                                                                 an energy
+                                                              e use of neural electricity as
+               2                                            Th                         grounds that dra,.vi-ng
+                                                         issed as pot feasible on Lhe
+                                         can   be    disrn                                       ne@s and di-%-
+                                 source                                         itable    rnernbra
+                                                   2      stimulation of the exc         I        ra observing
+                                 curtent                                            results    fro
+                                         s   will   cau;;e          is Conclusion
+                                                         unction.  'M                                  ural
+                                 rup-tion  of  norrnal   f                       d is the result o2f ne
+                                                                      is produce
+                                                                      %          -               i Curren,., Eau
+                                 that whatever electric.al energ    at-                   lectrica            St
+                                                         ion) and th   that level of e
+                                  activity  (by   assurnpt          Use rtimulation since    it was generated
+                                         essity be sufficient to ca                              Way to avoid
+                                  of nec                                           rhere   is   no
+                                  in   order   to   produc e (natural) stimulation'              en the voltages
+                                                            e  electro2de  whicl@  supplied  it  wh
+                                   r,,turning current 11 i-h                                  aniunk diodes, a-nd
+                                                                         lnini.gnurn for germ
+                                                         than the . 4 Volt
+                                   jrvolved    are    less                            0             i2t seems
+                                                                                        ill differ.
+                                                                    nt distributions  w
+                                   while the  twO.electr6de curre .    -  .     units  -will be stin-julated.  The
+                                                                    east some
+                                                                  2                               ,so, r
+                                    reasonable to exvect   that at I                                   ince neural
+                                                                                 desirable.  @ I
+                                         of even a few units in the   pNS is un                   esistance of
+                                    loss                       er of  100 millivolt, a source r
+                2                    potentials are  of the old   -               tts.  This requirernent is not
+                                                                 - 200 rnicronva
+                                    .12 ohm is needed t( obtaln                          npIL-, the, input "'n'
+                                     cornpatible withthe source.  Consider for all"
+                                                    7a              amplifiers tY-P ically required to rneasure
+                                     pedances (1(  ohm) Of the
+                                                         action potentials..
+                                     nerve        compound
+
+                       Aift@
+                                                          -5-
+                                              b.    Muscle'Potentials
+                                                    With muscles the situation differs in several
+                               respects @hat make power pick up frorn this systern at least COn-
+                               ceivable. Namely, the volume of musdle is large 2compared with
+                               neural tissue and stimulation of a7 few units should not seriously
+                               disrupt normal function.  The large niuscle areas may allow many
+                               electrodes to be used simultaneously in order to provide a lower
+                               electrical source resistance.  For example. if one pair of electrodes
+                               prcvides a source resistance of 500 ohm, 402 pair will provide 12
+                               ohm.  In order to utilize this low volt@-5:e ac rxource a minia@.urp- trans-
+                               former can be used to step up 'le voltage befe@:-e rectisication. From
+                               a power standpoint it shou7id I."@;'fiore efficient to u--@- one transformer
+                               and recti2fier with each pair c,,.' eii'@'7c-.-trodes and s-,irn -.,e dc outputs.
+                               Sir.ce skeletal muscle EMG signals <-,ontain most of -.@heir power in
+                                                                                                     3'
+                               frequencies above 100 cps, submlniatvre traa_sforrners (i-, oz. v.2 in.
+                               can be used.  Answers to important biological questions were not found
+                               in -the literature. No reports describing investigation of EMG signals
+                               as power sources were discovhred, although use of EMG signals for
+                               controlpurposeshavebeerkfrequentlystudied.  Whetherornotalow
+                               en,ough source resistance can be achieved and main2tained and what
+                               'type of electrode and implantation is best are questions which will
+                               probably have to be answered by experiment.  Careful technique may,
+                               prevent electrodes embedded in muscles performing large movements
+                               from causing irritation and pain but this will ;also require study.  Judginer
+                                                             1                                          to
+                               from the experience of clinical workers with implanted cardiac pacemakers.
+                               small electrodes can be tolerated but dislodg-3ment and lead breakage
+                               rray be serious problems.
+
+               Ann
+                                              t
+                                                     Card@ a Potentials
+                                                          ta
+                                                     The strong rhythmic contractions of the myo-
+                               cardium attract irhmediate attention but the characte ristic s of its elec
+                                                2               ar difficulties.  Unlike skeletal muscle
+                               trical potentials present particul
+                               v.-hich maintains contraction with a high frequency train of "spikes".
+                               car-diac muscle fibers depolarize and repolarize only once per heart-
+                               beat.  Thus, the energy is contained mostly in low frequency compoll-
+                               ents (1-20 cps).- Since the contraction of all areas of the muscle is
+                               synchronized, large electrode areas can be used without the losses
+                               which would be associated with large electroces on skeletal rnuscle.
+                               (Current from active non-synchronized   skeletal muscle fibers could
+                               pass t-iru a large electrode to inactive'tissue without passing to the
+       2                        second electroae of the pair.) B@t while this allows only one  tr.ans -
+                               former to be used on the heart withone pair of large electrodes, trans-
+                               for7ners which are designed for very low frequencies are relatively lar Ye.
+                               hegvy and inefficient.  Recardless of the differences in waveform, the
+                               ECG on the he2art is less than 100 mV (possibly only 10 mV) and thus
+                               a maximurn source 'r@'esistanc@ of 1.2 ohm is again required for 200
+                               UV,' power yi&ld (hssuming the 100 rnV peak figure). TJnless a radically
+                               i,mproved electrode material is developed this resistance is not likely
+                               to be achieved.  Effective so0urce resistance figures for common elec-
+                               trode materials directly on muscle have not been found in the literature,
+                               and an experiment appears necessary to determine what resistance can
+                               be easily obtained and how this ml-,ht change -.vith time.
+
+                                                             -7-
+                                            2.    Direct Current Systems
+                                                  These systems are all those that produce electron
+                                flow in one direction only between the two electrodes.  This is un-
+                                like the neuromuscular potential electrode system in which a
+                                capacitor wo2uld be placed in the circuit to insure that no net charge
+                                flows from one electrode to the othe.r.  Ir. the neuromuscular system
+                                the electrical energy or interest is " I#ernatin& current" in that charge
+                                flo@vs from electrode A to electrode j3 and then, milliseconds later.
+                                returns to A.  In the neuromuscular electrode system net current flow
+                                would provide no liseful work and undesired reactions might accumulate
+                                products on or near the electrodes, that result in "polarization" and/or
+                                electrodedeterioration',,vhlch interferes with the desired action.  This
+                                type of electrode activity, howe.ver, c-in- become the desired 'activity in
+                               2 direct c-urrent'systems.
+                                                  a.    Physiolocrical Electr-,@de Cell
+                                                        The Galvanic cell in its simplest and classical
+                                forn-t consists only in two difierent metals (cr other conductors) dipping
+                                into a common.tont4@,solution! An electric p@tential, characteristic
+                  2              of the metals. 'iernperature, ionic species and concentration, can be
+                                measured between the non-immzrsed portioris of the two metal
+                                electrodes.  Since the fluids existing within the body are ionic solu-
+                                tions inter-electrode potentials can be prgdl@ced by inserting two
+                                dissimilar conductors anywhere.  Because of the2 complexity or the
+                                body flu,&d composition, variation in compos:tion at different points,
+                                induced efrects from the presence of foreign mate@ial, presence of many
+                                membranes with unk-now.,i properties, active processes, etc. , etc. , the
+                                actual chemical reactiot-is and inter-electrode potential can not be pre-
+  4                                cted, in rzkct such potentials are not strictly defined.  (Nims, p. 3).
+
+                                                                                    Ankh,
+                                                                    two general types Of reaction
+                                     Nve can consider that there are
+                                                                        The first, which we will
+                                 which occur with in,&planted electrodes.
+                                 call typ2e i, is like that iri the classical Galvanic cell described above
+                                 in which one or both electrode materials enters into the reaction and
+                                 b-2comes irreversibly altered or lost. The second type of - reaction
+                                 is possible when membranes are present and the chemical environ-
+                                 ment differs at the two electrodes. In this type 2 reaction, which i2n
+                                 its simplest form is the classical concentration cell, irreversible change
+                                 to the electrode surfaces need not occur and the electrodes need not be
+                                 dissimilar. The rate of the -chemical reactions may be much improved
+                                 by dissimilar surfaces@ however, for exampli! by catalytic action, in-
+                                 creased effective area, inducem2ent of local environmental change, etc.
+                                 This second type of activity can be con! idered as a fuel cell with the
+                                 phydiological system malp,@).,ning i-11 the reactants and removing the'
+                                 end products.  A special ir p-.ication'of the type 2 system is when sirnuar
+                                 electrodes of "Iner-t metals" or of 2"non-polarizable" liquid fuled tubes
+                                 are used in conjunction with very hi,,rh impeda-nce voltage measur.Lng cir-
+                                 cuits which insure that the potgntial chexnicalreactions do not occur
+                                 :at the electrode's. T@is arrangernent is used for investigating so called-
+                         2        natural de potentibil gradients within and on the surface of the body (4).
+                                 Such measurements necessarily rnust draw virtually no power from-tfie
+                                 chemical energy sources responsiblbi for the electrode potentials. for
+                                 as soon ar current is drawn reactions occur and the natural concentrations
+                                 change.  Thus any dc 2current producing electrode generator scheme use-
+                                 ful- for our purposes will have inter-electrode potentials which are more
+                                 or less unnatural physiologically. That is. the potential difference be-
+                                 tween electrodes of any type drawing current will be different from that
+                                 rneasure,J between "non-p6larizable" electrodes drawing 0no current, and
+                                 the local chemical environment surroundingthe electrodes maybe grossly
+
+                                dl(ferent.  ]@or these reasons- the type 1 systern in which electrode
+                                mat-2rial change occurs and the type 2 system in which it need not
+                                are considered here as two special cases of  the  general  physiological
+                                electrode cell system.
+                                    The general case or which the type 1 and 2 systems are ex-
+      2                          amples, is when dissimilar metals, which produce a potential when
+                                dipped into a common ionic solution,  are  placed  in  a  nonhomogeneous
+                                environment that produces a potential between :simnar electrodes.
+                                This is probably a fair description of the situation prevailing in the
+                                electrode materia-1, electrode placement comb-2Lnations with which
+                                Dr. Tohn Konik'off and others produce the  best  results,  The  Konikoff
+                                work is a significant source of e'xperimental  data  and  has  stimulated
+                                much of the recent intere st in the,yhysiological  electrode  cell  power
+                                source.  For these reasons a brief summ   ary of the  work  reported  in
+                         2       reference 12 is included here.  The  reader is referred to the ori&al
+                                paper for details.
+                                     John Konikoff and  Luthe.r  Reynolds  were  the  principal  workers
+                                at the General  t:lectric  Companylq  Space  Sciences  Laboratory   under
+                                a c-ontraet with 14ASA in 1963 - 64 to investiora t-e the@ use of what is
+             2                   re:erred to here as physiolocdeal electrode cell- potentials as a
+                                biologically  derived  power  source.  Many  combinations  of  electrode
+                                materials in several anatomical locations in several species of labor-
+                                atory anirnals were tried. Their final choice  of  electrode  material.%
+                                was "high speed steel (751@ Fe. 6179 2Cr,. 1819 W, .341a V, .719 C)" and a
+                                specially prepared  platinum platinurn-black" combinition.. The fihal
+                                c@.oice of location was as follows,      the PPb electrode was located in
+                                the abdominal cavity dorsal to the peritoneal membrane -- and HSS situited
+                                @-.ibeutaneously 8but physically adjacent to the abdominal incision.    The
+
+                         Agak
+                  7           longest conlinuous implant was'123 days, electrodes and sites were
+                              as above.  'The animal was ;r. rabbit, and a coristant resistive load of
+                              10, 000 oh-i.-i was applied between electrodes.  After 15 days the output
+                              stabilized and thereafter rema2ined at 24 microwatts 'and . 5 volt.  The
+                              highest power reported in short term studies was 308 microwatt.  ITo
+                              ne-m work from either Konikoff or Reynolds has been published since
+                              1954.  Telephone conversations with both men indicate that work is
+                              co-itinuing, and that recent improvements in the platinum-black elec-
+             2                 trode material have increased the po,.ver output threefold for the same
+                              electrode area. - Reynolds who is now at Hahnemann'Medical College,
+                              Philadelpiii3 reports that 2 00 mi.c r6wal,.ts -has'been obtained when each
+                                                   2
+                              elecirode is of'1/2 in  area.  2This ele@trode power generat,.oti scheme
+                              .has the advantages. "according t@6the o'riginatcrs, of simple surgical
+                              pr:3cedure and no harmful tissue @eaction or loss of output at least for
+                              4 months in the ono- loig term rabbit experiment.
+                                    Accordini to the data in the Koni,koff report and especially !2he
+                              recent report of Strohl et. al: (29), wh'en "biologically iner-t" metals
+                              such as plattnurn and type 31 S., stainless are iinplant@-d, power levels
+                              greater than 10 uW have not been obtained and the output dr-ops signifi-
+                              cantly below this after a few days.  Strohl's comments on the inevitable
+                     2         growth of a fibrous membrane around implanted electrodes suagests that
+                              the electrodes become isolated from the original, diss"ilar ionic
+                              ,@-i,ivironments as this membrane grows.   The better po%ver outputs and
+                              longevity have been obtained in coniuncti-on with an electrode which
+                              actively reacts with species present in the extracellula3r fluids.  Even
+                              when covered with (hypothetical) cells tending to maintain identical ionic
+                              concentrations around the two electrodes, a reactive e'Lecti-ode can
+                              continue to provide rurrent.  In evaluating an electrode cell svstem con-
+                             -tainbig reactive electrodes importint conside:-ations are toxicity of_
+
+                                                                                                         LA
+                            P-oducts and deterioration of performance with time.  As Strohl
+                            notes, Faraday's first law predicts the electrode weight  loss  due  to
+                            ionic solution when the electrode reactions are  known  quantitatively.
+                            For example, .91 of iron will be needed to supply 100 uA for 1
+                            year. But at least as important are the hard to  predict  effects  such
+                            as loss of effective surface area "catalyst poison-ing", uneven surface
+                            deteric>ra',ion and long term local tlssue reaction. Li conclusion,  it
+                            appe ars that there is a reasonable possibility that physiological elec-
+                            trode cel2ls can provide 200 uW for extended periods, but careful
+                            long term studies.and an understanding of the ac4ive phenomena,
+                            which, hopefully, will provide the @asis for @ptirnizing the  electrode
+                            materials, are-necessary.  But the s'  ple surgery in low risk areas
+                            which has been use,@, the mechallics -'n--o moving part2s, the non-
+                            dependence on any bodily motion. 'the inherent freedom froin en-
+                                                               -t term  results  already  achieved,
+                            capsulation problems, and the shor
+                            combine to make this a most promising system at this time.
+                                           b,,   Fuel Ceii
+                                                "Sophistic2ated direct current systems have
+                            been speculated on for producin-, relatively large quantities of
+                            electrical power for running proposed artificial tear-ts.  These systems
+                            are usually referred to as fuel cells and usually are considered in ref-
+                            erenca to known chemical energy sources such as glucose- or ATP.  These
+                            systems are very appeal2ing, largely because the proposed energy source
+                            is fai.-ly well understood.  Molecular energy yields. available concen-
+                            trations and naturally occuring reactions can be stated.  The develop-
+                            ment of physical systems to t%tilize these sources then'appears to be a
+                            problem amenable to present technological capability since fhe avail-
+                            abl8e raw materials -and necessary operations are knonvn. at least
+
+                                                              -12 -
+                                 in broad outline.  This is in.contrast to the simpler Galvanic ceU
+                                 sy-tems discussed earlier in which the present -qtate of the  art  ha$
+                                 been reached largely by trial and error without  benefit  of  thorough
+                                 un:lerstanding of the detailed  processes  involved.  Ap2proaching  the
+                                 problem from basic principles and proceeding in accordance with
+                                 established theory wiU no doubt achieve  practical  success  in  time.
+                                 The National Institutes of I-lealth recently circulated a Reque:it For
+                                 Proposal to,undertake feasibility studies of in- plalnted biological
+                        2         fuel CeUs. When these initial studies are completed we will have
+                                 a statement of the problem and outline of needed research.  For
+                                 the immediate future, ho-wever, the simpler ;It  proposed  system  is.
+                                 the greater appfars its chance of success.
+                                      S.    Thermoelectric Converter'
+                                            Temperature gradi2enti    within the body theoretically
+                                 can be exploited as a source of electrical  energy.  In  recent  years
+                                 considerable research on thermoelectric compos'&tions for use with
+                                 nuclear reactor: heat sources has produ-ced materials with thermoelectric
+                                 properties much improved ov@r those of conventional t,%ermocouples.
+                             2    For example, a' conventional copper-constantin couple will produce 23
+                                 microvolt per fahrenheit Zegree temperature difference while a material
+                                                                                                         0
+                                 of Bismuth-Antirnony-Talluride composition produces 77      microvolt/F
+                                 (II, 8).  Simple calculat2ions using this second figure indicate that with
+                                      0
+                                 a 5 F  temperature difference and I ohm resistance for every element
+                                 2500 elements connected in series will yield 200 uW at  .  5  volt.  A
+                                 Japanese group (32) has published a report of a 150 element thermoelectric
+                                 generator for use on the ext7ernal body surface.  Their device used the
+                                 Bi-Sb-Te rnate rial and the size of the thermoelectric array appears.to be
+                                  bout 2. 5 crn x lcm x.-Scrn,  The data presented in their report arehot
+
+               .ARM="
+                                                                    3-
+                                    clear and well organized and therefore the following calcuiations
+                                 -based on that report may, not be com
+                                                                        pletely correct.  A maximum
+                                    voltage of about 450 millivolt (open circuit?)2 is repoeced. 'A serie3
+                                    array of 150 elements of a material producing 77 uV/F   .will   produce
+                                    450 mV at a temperature difference of 39 Fo'  Since some of their
+                                    work was at 10  0C (530F) air temperature with evaporating alcohol on
+                                    the cold junction, this temperature difference is  possibl2e.  The  only
+                                                                               2
+                                    power output figure mentioned is 20 uW/cm. .  If this was obtained
+                                    under conditions which produced a . 45 volt open circuit voltage and  if
+                                                                                2
+                                    their device contacted a si(in area of 2. 5 cin then the indicated. internal
+                                                   eir devi e is 2000 ohms, oi- roughly 13 ohm per element.
+                                    resistance of th       C
+                                    If this resistance figure is realistic for thermopiles composed of ele-
+                                    ments of 2mm x Imrzi. x 5mm s Like therf the 2500 element array mentioned
+                                 2   above would produce only 1,13 of the assumed 200 uW or only 15 uW.  A
+                                    total resistance of 13 ohm per element appears unnecessarily high, how-
+                                    ever, according to the following calculation. - The resistivity of Bi-Sb-
+                                                   -4
+                                    Te is only 7 x 10  ohm - cm (8). Hence an element of the above2 dimensions
+                                    should have only 17 malohrn kiter-nal resi--tailce.  Therefore the actual
+                                    electrical resistance is almost entirely contributed by the contact @e-
+                                    tweeft the ther-mdelement ar,.d the heat sink conductor and is largely a
+                                    problem in technique.  According to reference 26. contac2t resistivity
+                                    ill elements used in thermoelectric power ginerators rriay vary between
+                                                               2
+                                                                          ,her fiaure indicates a contact re-
+                                    3 and 4500 microohm - cm       The hi.
+                                    sistance of .23 ohm for an area of .02 cm  and,  since  the2re  are  two
+                                    contacts per element, a total contact resistance of . S ohm for elements
+                                    the size of those in the Japanese device.  This last calculation was the
+                                    basis for our original assumption of I ohm per element.
+                                          The conclusion we reach is that a 2500 element array operating
+                                                                           7   0                                2
+                                    between a temperature difference of 5 F      with a surface area of 42 cm
+
+                                at each heat sink and a depth of .5cm will produce 200 uW at 5
+                                volt.  By comparison, 25 cm 3 of medical grade mercury cells
+                                (S ';%Iallory RM CC - IW) (20) has a capacity Df 8 AH -,which.
+                                r-.eglecting age derating, will supply 200 uW for 5 years at 1. 4
+                               2 to 10 volt.  Since the failure of any one of 5000 contact points ia
+                                t'ne series connected array will cause system failui,e, and since a
+                                5 F0temperature diiference between two 42 cm   2areas.. 5 cm apart
+                                does not naturally and reliably exist within the body, Lhe thermo-
+                                couple systezn is considered 2to be not corrpe.titive-..ivith conventional
+                                batteries for at implanted power source.
+                                  C.    Mecbarioelectric Conver-ter
+                                        In this section possible. mech'an--ical energy sources w,@'ll be
+                                considered  togeth.er with mechani.cal couplir-g schemes.  An arbitriry
+                      2          criterion of 1 milliwatt net mechanical work in the coupling system was
+                                chosen as a practical minimuri power level for a final electrical output
+                                of 200  microwatt. Brief consideration-,of actual mechanical to elec-
+                                trical iransducers, namely, Riezoelectric crystals and permanent
+                                maomet generators, is included.  We make2 the provisional assumption
+                                tn this section tkat if a mechanical system can be implan'.ed which
+                                will perform I mW work, for example in winding a spring, for over
+                                a year, then a transducer can be desianed to utilize this energy.  (>ther
+                                han work based on electrode cell potentials all known experimental im-
+                       6         :)Iant power generation has been with piezoelectric crystals.
+                                         1.   Sources
+                                              The obvious mechanical sources are.-
+                                                    6     Voluntary muscle, joint and limb move-
+                                                          ments
+
+                                                        a   Peristalsis  (dismissable  on  grounds   of
+                                                            insufficient power)
+                                                        a   ftespira-.,ory systern  rib  cage   motion,
+                                                            diaphragm muscle. thoracic and abdominal
+                                                            to pressure variatioa"
+                                                        a   Cardiovascular system - heart motion, aorta
+                                                            and large artery pulse expansion, blood flo.w
+                                                        a   Gross body acceler-ation (self winding watch
+                                                            pr-@ncipje, "random motion power")
+                                    Moven@en.ts associated with voluntary activity in some cases offer
+                              large quantitie.-; of  mechanical power..' The intermittant cha racter of
+                              this  :activity  m@ans,  however, t h%a.t an energy storage system muzt @e
+                              included in the design to supply powl%r during periods of inactivity.
+                              Rechargeable batteries are the obvious storage device, espe2cially since
+                              they are designed for and requi--e relatively hil@--i current, short duty
+                              cycle char&g..    These batteries require 50 to 10017a more charge current
+                              than they retur@, ho:w'eve r.  l@he refore, any inte rmittant gene rato r will
+                              have to supply 300-400 microwatt average elect2rical charging power if
+                              the tattery-undergoes 200 micro%vatt constant drain.  It may not be un-
+                              reasonab'te to dept.@nd upon or require some particular v6luntary move-
+                              ment  being  performed  at  some  minimum  rate  for  many  months,  -but
+                              unless a particular application requires  power  oniy  dvring  a  certain
+       2                       type of activity, it seems more straightforward to couple a motion
+                              generator to a continuous activity, such as respiration and blood flow,
+                              in which the rate and other operational norms and limits are predictable
+                              and unavoidable.
+
+                                                                                           consider is
+                                      The first continuous rnotion source which we will
+                                respiration. Since the ob@ect  of  respiratory  mechanical  motion  i-S  to
+                                purnp air- a fluid flo%,, system-operating on the pressure volume changes2
+                                         t
+                                found in th e thoracic and abdominal cavities during the respiratory cycle
+                                                                            ons af quiet rest the variation
+                                is an obvious possibility,.  During conditi
+                                in  pressure  within  the  human  adult  thorax  is  approximately  3mm  Hg
+                              2                             2
+                                (4 cm R 0) or! .04 Nt/cm       At a breath rate of 30/ min, work of 2
+                                         2
+                                                    ath must  be  done  for  an  averaae  mechanical  power
+                                millijoule per bre                                  12
+                                 of I milliwatt.  If we approxirftate the phase lag to be expected be-
+                                 tween pressure and volume by assuming no phase 12,g but with only
+                                 one half the pressure variation.(i.e.'.q2 Ntlcm        then the-volume of
+                                 fluid k'silicon oil-, gas isotonic ialine-, etc.)  which  must  be  pumped
+                                                                                 x 163 Oule
+   2                                                                                            s 10  cn%3.-
+                                 each breath according to the relatlion PV a 2                             Since
+                                 the volume calculated in this inannei is inversely proportional to breath
+                                  rate and- intrathoracie' pressure. the'volume required in most experiniental
+          2                        animals will be less.
+                                        An elenrentari-non-diff4rential system,responsive to resplratory
+                                  pres5ure variations of 3mm lig'wo'uld proba-Dly be disabled by normal
+                                  atmospheric pressure variations of one or two inches of mercury. . In-
+                                2   sensitivity to ambient "dc" pressure is inherent in a disferential system.
+                                  however, and because the intra-abdominal -espitatory pressure variation
+                                   is out of phase with the intrathoracie, two bellows, one in each cavity.
+                                   .connected by a tube would comprise such a systern.  It appears that this
+                                   system can provide the necessar7y mechanical energy without obvious
+                                   size and weight objections.   A simple iml),antatioa procedure with a sub-
+                                    cuianeous tube tunnel is conceivable, although all surgical questions as
+                                     ell as those on materials, size, shape and irritation require extensive
+
+                                                            .17-
+                                  design and ex perimentation. In summary, a respiratory fluid pumping
+                                  system is recommended as deserving of further attention.
+                                     Direct mechani@al coupling to respiratory motion remains as
+                                  a-nother possibility. The change in dimension of the rib cage an2d
+                                  diaphragm are attractive. The method of coupling might be sornething
+                                  working on the principle found in retracting tape measures. A cable is
+                                  wound on a drum and a spring tends to keep -.he cable wound up.  if
+                                  the drum package is firmly attached in some convenient location and the
+                                  cable held against the under side of the diaphragm 2or in a subcutaneous
+                                  tunnel around the chest with the far end of the cable attached. then the
+                                  drum would rotate back and forth d4r,:ng eucl@breath.  A ratchet drive to
+                                  wind a second ipring would allow for any zero position" of the cable-
+                                  ex-tension with the s6cond sl>ring.driviaifthe actu2al transducer.  Perhaps
+                                  placing the cable inside a silicon @ubber tube filled with silicon grease,
+                                  -the tube being of the beL' ows type to'auow it to lengthen easily. would
+                                  improve the sealing and tissue irritation situation.  While quantitative
+                                  da-ta on the diaphragm has not. been sought, it ce r-tainly appears2 that
+                                  sufficient power is available from dfapbragm inotion and also from chest
+                                  expansion.  The main probler-iis are expected to be in materials, packaging
+                                  and surgical technique. Apar-t from matei-ial fatigue and sealing, tissue
+                                  erosion and cell destruction from too great applied pressures must be
+  2                                avoided', for even livina tissue applying pressure unnaturally (e. g. an
+                                  aneurysm) can erode its way through other tissue.  The experience with
+                                  bone plates, wires and other prostheses which have been used for manv
+                                  years shows that direct mechanical attachments to internal structures can
+                                  be accomplished, however.
+        9                          Cardiovascula
+                                        The other continuous mechanical source is the cardiovascular systei-n.
+
+                                The work of Doctors   Parsonnet 2-kd.Ke-iredy 4ernonstrates, at
+                                least for short periods, that the expansion of the great arteries and the
+                                irovement of the heart can be tapped for rriec'hanical power.  Specific
+                                contmcnts on these sources are ineul'ied iii 1.1-ie discuss-,ons of tl-@eii itz-
+                                periments.  In general, however, a significant design problem is con-
+                                cerned with accomodating long and short term variations in the proper-
+                                ties of the system being coupled to.  With the arteries some of these
+                                variables are changes, whether natural or induced, in the artery cross
+            2                    section, arterw wall elasticity. average blcod pressure, systolic-
+                                diastolic differential pressure, postural configuration and relative
+                                direction of gravity.,
+                                Random i@Tot, n
+                                             io
+                                      Gross body acceleration   operating on a mechanical system
+                             2   similar in principle to the self winding watch refers to voluntary,  motion.
+                                especiauy walking, and the critirism  of  non-coniinuous  sotirces  applies.
+                                The only detailed consideration of this tyste.m is found in Dr. Long's
+                                article (14). The ad.@rantage of this system iz;that aU the operating  parts
+                     2           can -be enclosed in a hermetically se;Lled rie-d box.  Except for the
+                                weight involved this box could be attached to the diaphragm or heart to
+                                take advantage of the continuo@s motio@ in these  locations.  But  in  order
+                                to demonstrate that the weight is prohibitive, consider a m,,iss of M
+                                kilograms being forced to move back and fo2rth over a distance of lcm
+                                accordirg to the sine law at a frequency of  I  per  second.  The  rna-vimum
+                                velocity achieved .vilj be Tr 162 meters/second.  Tl-.e kinetic energy at
+                                             1     2.     m
+                                t,lits point is i iNW        16   oule.  If we could somehow utilize all
+                  2              t-iis energy each cycle,the mass for I millijoule is approximately 2kg.
+                                %Vhile the force necessary to accelerate this mass Is only . 2 Nt. which
+
+                                   could probably be provided by the diaphragm, the force necessary to
+                                   support this mass against gravity is 20 Nt. which the diaphragm could
+                                   not support.  The artificial heart discussants are seriously considering
+                                   weights of this magnitude for long term implantation: thus we cannot
+                              2     a priori dismiss a random motion system as unworkablesbut it does not
+                                                                                                ies in power
+                                   appear to be competitive with conventional mercury batter
+                                   pe r pound.
+                                              2.    Transducers
+                                                    a.     Pietoelectric Crystals
+       2                                                    The mechanical energy to cie-.trical energy
+                                   transducer.most often considered for @se in biological power applications
+                                   i!s the piezoelectric crystal.  Manufaqfured crystals of lead zirconate,
+                                   lead titanate (PZI,) composition    b.ive far superior properties for p<jwer
+                     2              transduction than do natural crystal@s, such as quartz and rocheue salt.
+                                   These manufactured crystals are produced in a form Icnown as "ceramic
+                                   bimorphs".  Quantitative data on the relevant characteristics of these
+                                   petzoelectric ceramics have been developed 4s part of this study frorn
+                                   ,@aorrnati2on aviilable from the Clevite Corporatio,-t (9, 10, 22).  Data of
+                                   this sort are nec@ssary for evaluating the practicability and design require-
+                                   rnents of this method of- power generation.
+                                   Efficiency
+                                         One of the inost appealing characteristics of these transducers is
+                                   an attaina2ble conversion efficiency greater than 50,1*.  This efficiency
+                                   refers to the ratio of net mechanical enerqr supplied to the er-istal to
+                                   electrical energy supplied by the cryst'al umer optimum conditions or
+                                   mounting and matching.  The simplest syst-arn for driviiig a crystal    is
+                                   to have the mechani6cal source directly coupled. that is, whl-n the source
+                                   (e. g. expanding aorta) moves.the crystal is deforrned.prr)portionately.
+
+                                                                                     7
+                                                             -20-
+                          With this type of mechanical cot@.oling a differently defined "efficiency" La signui-
+                          cant.  Net mechanical work means total work done on the crystal to deforin it
+                          rninus ihe total work done by the crysta2l as it relaxius to its unstressed state,
+                             00
+                               F,'t)v(t) dt] -  Since with direct coupling the source has to be ca'pable of
+                            0
+                          supplying enough work to deform the crystal, and since as far as the ttansducer
+                          is concerned any work it does on the source (d-iring the relaxation phase) is lost
+          2                forever, the ratio of total work done on the crystal
+                                                 flIF(t)V(ti + F(t)V(t)
+                                                  0,
+                          to total electrical work done by the crystal-is a rneaningful figure. The usual
+                          model for these cry5tal@ is:
+                                                     Ce
+                          2                               N
+                                       Electrical                              Mechanical
+                          The Clevite literature contains tables for calculating- Ce. an electrical caoici-
+                          ta.nce; W, the transaucer ratio in volts per ',Ve%vton; Cm, the mechanical compliance;
+                          and M, the mass. in terms of: the dimensi@ns, L, W. T; specific crystal 2type,
+                          PZT-SB, PZT-5ff.. etc. ,'-type of connection -,%,ithin the bimorph. series or parallel;
+                          method of motiriting t@nd drive, e. g. cantilever mounting with driving force at the
+                          free end.  With the above model. the internal stored electrical energy under short
+                          circuit conditions is We c 1-2 CeV2  where V a NF with F  the  f.orce in 'L\le,.v-tons.
+                                                     2
+                          If an e.,rternal capacitance Cis connected and the crystal deformed by a force F.
+                          e.\-ternal work will be done in charginr this capacitor. It can be shown that for
+                          the greatest e.%-ternal work, the external capacitor must be equ2al in value to Ce in
+                          which case   I We  joules are supplied. Since in actual use a bridge rectifier
+                                       4
+                          would be used which allows an equal quantity of elt.-ctrical work to be done as the
+                          crystal relaxes,  1 We  is the theoretical maximum electrical eneray avaflable.
+                                           2                                                 0        1
+                          The moc%anical work done on the crystal in deforrration is appro-,imately - FDa
+                                                                                                     2
+
+                                                               -2i.
+                                 where d. the deformation, is'CmF, thus Wm        1 CmF2.  The ratio
+                                                                                  2
+                                              We             2 2
+                                                        Ce LX F        which for a PZT - 5B parallel bimo,-ph
+           2                                Wm
+                                                        2CmF
+                                                      9  LW)        L
+                                                2 x 10           3
+                                                                    WTJ
+                                 cantuever   is                     3         -which reduces to
+                                               (2). (22. 8 x 16@   11
+                                                                  WT  3
+                                 .032 or 3. Zdlo.  Of great signlficarice is that all dimensions and the
+                                 magnitude of force drop out! Also, a series-connected cantilever
+                                 bi.-norph, and an end - suppoc-ted - center - driven  mounting  of  either
+                                 se2ries or parallel connection can bp. sh-own to have the same efficieticy,
+                                 and the PZT - SH material differs.,only slightly.  Thus. while eloo:fing
+                                 diznensions, mounting, etc. wU'L certainly effect the quant,"ty of elect.@ital
+                                 energy produced in a direct-coupled system, -this ent.,,gy can never be.
+                2                 greater than 3. 2179-of the mechanical work supplied (as  defined  above).
+                                 Itlustrations of the significance of these figures will be found in the
+                                 discussion of previous experi;nental work.
+                                       It was shown above that the maximum electrical energy which can
+                                                                                 . 2  2
+2                                 be produced  in one deformation cycle is 1 CeN F      .  The value  of  F,
+                                                                            4
+                                 of course, can not exceed the force necessary  to  fracture  the  crystal.
+                                 For a cantilever beam of len,,qh L and thickness T, the strain is
+                                                            S   -IT-  D4
+                                                                 2 L2
+                                 where D is tiie distance the free end is displaced.  NIaximum strain
+                                 before fracture is an intrinsic material parameter and one value holds
+                                 (approxi.mately) for any confi,-uration.  lvfr. Carnen Gerr.@-no oil Clevite
+
+                                                                 jumjlil  -ilk
+                                                               -22.
+                                has recommended 5 x 15't (50'io of the fracturing strain)as the riax-
+                                imurn  strain  to  apply  in  a  real  system.  We  can  assume  a  maximum
+                                                              22  L2  5 x 164
+                                deflection, then, of Dmax c     3T            for  a   cantilever   mounted
+                                                                 f  F  ax  x  Dmax  (D  in  inches  implies
+                                crystal  and  a  maximum  force  o  m      -Iff-
+                                                                              m
+                                Cm in in/Nt).  Electric2al output per deflection is, therefore, for a
+                                PZT - 5B parallel bimorph cantaever:
+                                                                                 2                )2
+                                                      ,z X 169 L%V                   1 163     L2
+                                       2'     2                            3
+                                    eN Dmax-                   -LTL2-)        LW-T) (3
+                                    4 Cm  2                                3     2
+                                                                    -7     L
+                                                               I x 10
+                                                     (4)                 IVT3
+                                                     420  LWT  micro'jou7,e.
+                                       2                                    t
+                                with L, W, T in inchis.  Since t"ne bimqrp@hs are only ava,,Iable in thick-
+                                                                  3L
+                                nesses close  to 2 0 m i.1, the maximum output per deflection is S. 4 micro-
+                                joule per square inch of area.  Again,     it can be shown that this figure
+     2                           is obtained for series as well as parallel connection, for center drive
+                                as well as cantilever.
+                                      The uni@ area output  per  deflection  can@be  increased  four  times
+                                by allowing a "ileflec:'tion"to b@.e from - Dmax to + Dmax and back again,
+                                thit is. by including a spring 2so that with  no  "external  force"  applied
+                                the crystal is deflected in the ooposite  direction  from  that  which  the
+                                exter-nal force produces.  This  variation  in  mounting  does  not  effect
+                                efficiency since four times as much mechanicat work is required.
+                                                                  -4
+                                At the maximum stiain o2f 5 x 10  with a spring loaded crystal, the
+                                absolute minimum surface area necessary to proiuce 200 uW is         6
+                                square inches, where N is the number of deflections per secon(i, and.
+                                according to our previous definition of 3. 217a efficiency, at least  .5250
+                                uW mechanical  power  to  deform  the  crystal(s)  is  required.  In  order4
+                                to extend the lifetime of the crystal by reducing fatigue it will probably prove
+
+                                                            -2 3-
+                               necessary to use smaue r deflections than we re assumed in the output
+                               calculations above. The output varies as the square of the  strain
+                               however, so that at a maxirnum strain of 25% of the fractv-ring point
+                               24
+                                  square i2nches of area are -required.
+                                     If added mechanical complexity is introduced (e.g.  springs,
+                               ratchets, escapements, etc.) all of the work during the active phase
+                               (e. g. systole) can be retained in the crystal transducer pack@ige.
+                               v@'hue extra mcving parts will cause losses themselves, sorn(- im-
+                               pro2vement in efficiency'can be expected and the mechanisms can
+                               allow other important fea4.ures to be incorporated, such as a improved.
+                               Crystal mounting and drive with a fluid-free environment.  The diagram
+                               below will illuttrat6 tYe type of system we had in mind.
+                                                 Ratchet
+                       2                             &                  it
+                               A box of suitable material is fitted with a f7.exible metal "window" of
+                               the corrugated.metal bellows type seen in wall  barometers,  which
+                               allows both mechani@tal motion transmissionand the poss@@buity  of
+                               rnatntaining a fluid barrier. The bellows' morvement winds a sp2ring through
+                               a ratchet, which prevents aity loss of energy back through the bellows.
+                               T@,e spring drives a wheel with fingers that deflect the end of a can-
+                               til-2ver mounted crystal.  The alignment is such that when the crystal
+                               is deformed a pres-L-lected distance, the fin-er slides off and the crystal
+                               is set2 in oscillation at its natural frequency.  All of the work done in the
+                               original deformation thus must be dissipated within the crystal, and
+                               electrical energy is available during each cyc'.e of osciuati.on.  The
+                               escapement prevents the next finger from engaging the crystal until
+                                'ficient t-L-ne has passed for the oscillation to damp5 out.  SLnce several
+                               su-
+
+                                                            .24-
+                                 fingee-pushes per second are possible, a relatively sy-nan area of
+                                 crystal can be used. This arranifement also provides the desirable
+                                 feature of allowing input energy to accumulate in the spring until
+                                 sufficient force is developed to drive a f@nger over the 2crysl-al in
+                                                                            If excess input energy
+                                 the event that the. tnput falls below nor7inal.
+                                 i,s available the crystal is driven more often, but. since its maximum
+                                 deflection is always the same, it can not be broken.  E. V'an Haaften
+                                 of Bulova Watch has designed 2a system similar in some respects to
+                                 the above.  (18)
+                                              b.        Permanent Magnet Generators
+                                                        A transducer not generally considered in
+                                 discussions of iinpianted power is the per-manent magnet ge@era*or.
+                                 Because ot' the intrinsic weight@'of mignet 2and core materials, and be-
+                                 cause the usual mechanical input is :,otational, this type of generator
+                                 '@,ias little immediate appeal.  Eowev'er, if as has been suggested above.,
+                                                 ,-ealing in a total enclosure and drive through spiring
+                                 crystals require
+                                 and gear mechanisw s f2or oitlmura re'sults then rotational input is not a
+                                 relative disadvantaie. If an.implanted syst-dra must function for many
+                                 years a p. rn. g!nerator shodld be satisl,'actory, while the fatigue lifetime
+                                 of a crystal is not well understood. That weight is not an impossible
+                                 obstacle is demonstrated by a generator 2manufactured by Rotating Com-
+                                 ponents, Inc. and advertised in the 1966-67 Electrical Engineers
+                                 Master catalog,  This unit is 1. 31" long by . 95" diameter, weighs 2. 5 oz
+                                 and, we calculate, can produce 100 milliwatt at 60 revolutions per
+                                 second.  A device especially dest@.med for 200 uW output and low rotation-
+       2                          al speeds, therefore, should not be objectionably large, heavy or in-
+                                 efficient.  We recommend that a p.m. generator not be dismissed until
+                                 -further data on the practical tequirements and liniitations of crystals
+                                 become available,  If the physiological and instrumentation problcms of
+
+                                                            -25-
+                                o'Dtaining mechanical work in the 10 milliwat-t range can be solved, a
+                                p. m. generator may well be the better suited transducer.
+                                           3.    Previous Work
+                                D.-. John 'i. Kejr-edv
+                                     Dr. John H. Kennedy and Carl C. Enger at the Cleveland
+                                %Ietropolitan General Hospital have published several repo--ts of their
+                                %v,ork .-.r"th a self-powered cardiac pacemaker.  6,7 he  evices
+                                     r-ucted and implanted by this group corisist partially in a'piezo-
+                                electric ceramic crystal mounted beneath a tlexible plastic co2ver.
+                                The package containing the crystal-generatoeas well as the rectifier
+                                a.nd pacemaker-electronics is sutured to the rib cage in a position
+                                %vhe re the beating heart applies essilre- through the cover to the
+                                crystal.  This lystem has, for s@ort periods, pro,@,ided effective
+                                facing via stimulatin2g electrodes in'several experimental trials with
+                                dogs.  Since our inte rest- is in the power generating aspects, we will
+                                concentrate our attention on the crystal.
+                                      In the mo@st re6ent pape (7) the crystax dimensions reported are
+                                3. 75 x 1. 87 x .05 cm and dri%ie parameters are described as,      the
+      2                          mechanical energy needed to operate  the  self-powered  pacemaker  is  200
+                                newtons or 21. 4Cm. " Let us assume that %%hat was meant is a mech-
+                                anical force of 2. 0 newton.  Usiner design equations supplied by Clevl:te.
+                                                                 tD
+                                the manufacturer of the ceramic crystals, it can 2be shu%v-n that for an
+                                end supported, ceriter driven crystal of the quoted dimensions, the  force
+                                necessary to produce a strain of 5 x 164 (the recommended maxixnuxn)
+                                is 2. 3 Nt. According to our calculations a PZT-SB crystal of  the  quoted
+                                dimensions deformed by a 2. 3 Nt force will produce no more than 9. 1
+                                microjoule, and only 7 microjoule at 2. 0 Nt.  With a spring loaded crystal
+                                (and 4. 0 Nt. 28 microjoule is possible. Kennedy mentions  the  figure  of
+
+                                                                 -2 S-
+                                  29 microjoule, but his reference is technically ambiguous.  In order
+                                  to provide a low ripple electrical source, it appears a larger capacitor
+                                  than the optimum for maximum efficiency.was used, however.  An
+                                  output voltage of 1. 75 volts is 'mention2ed.  The maximum energy which
+                                  can be supplied into a 1. 75 volt source by a PZT-5B crystal with the
+                                  above dimensions and 2. 0 Nt driving force during a deformation -
+                                  relaxation cycle depends on whe-ther a series or parallel type of crystal
+                                  btmorph was used.  The  best  choice  is  parallel  which  can  provide  S.  4
+   2                               n--Icrojoule.  With a heart rate of 120/min the maximum power that
+                                  could be produced is therefore 11 uW.
+                                        It is worth-noting that the mechanical power necessary to deform
+                                  a directly   coupt.ed c@ystal that @r6vides'.1-1 uW of electrical power Ls
+                                                          2         if !he transducer package ea
+                                  at least 340 uW-.  Therefore,                                   n be designed
+                                  to provide 201* efficiency rather than   3.2'lo, 68 uW could be obtained with
+                                  no change in the mechani.cal power input.  Ar-d if the displacement is
+                                  increased  from  .2mm  to  .6mrn,  enough  mechanical 2  power   is   available
+                                  to produce 200 u W at 2017,o efficiency.  Even if only 1017* efficiency is
+                                  attainable, a deflection of 1. 2z@nrn to increase'the power  -input  does  not
+                                  appear unrea@onable.  Dr. Kennedy repor,.j that after a one year im-
+                                  plantation no damage to the adjacent myocardium2 was found.  Electrical
+                                  output apparently has not been maintained beyond a few days because
+                                  of leakage of fluid into the package.  Improvements in the crystal mount-
+                                  in.g and drive, in materials and packaging, and in surgical technique
+                                  s'r.ould be undertaken.
+                                  D@. Victor Parsonnet
+                   0                     Dr. '%'-'.ctor Parscn.-ic@@, and his co-workers at the Nrewark. 1'%"ew
+                                  Jersey Beth Tsrael liospital have published several papers describing
+                                  their e)rpei-irr.4,.n,,s with ceramio- bi-norphs mounted on the aorti. (e.   18, 21)
+
+                           AMh
+                                                                .2 7-
+                                  Their latest device contal-is two PZT-5 crystal siabs as the arms
+                                  of a spring clothespin-like device which clamps onto the aorta.
+                                  Each slab is I    by I 1 inches, an area which. according to our
+                                       2                  2                   1
+                                  previous calculations for unidirectional stress, can produce 31
+                                  microjoule per  deflection.  This  group  has  chosen  a  maximum  stress
+                                                                        2
+                                  of 20'7o of the modulus of rupture or g of the stress necessary  to  pro-
+                                  duce the 31 microjoule 2output (and a better choice from the fatigue
+                                  lifetime viewpoint).  At this stress about 5 microjoule can be produced
+                                  per deflection or about the same  output  as  Kennedy  has  acbieved.  As
+                                  did Dr. Ker-iedy, Dr. Parsornet has ex-per,.eiced difficulty with  fluids
+                                  leaking through his silicon rubber @2ncaps:ulation which has  limited  the
+                                  electrical lifet"=e to a few hours.
+                                        For an artery clamp of theclothespiii  ty-pe  the  mechanical  work
+                                  done by each expansion of the artery is,roughly proportional to: systolic-
+                                  diastolic pressure dlfferential, normal variation in arterw diameter in
+                    2              each cycle, art@rial deameter,and length of artery  used.  For  the  fol-
+                                  lowing set'of parameters, 20 mm I-1g, 2mm, lcm, 4cm,. we calculate an
+                                  ene rgy yield of .500 rhicrojould pe r beat, which is I milliwa" at 22 0 beat3l
+                                  minute.  Aortic e@xpansion does 'appear to be capable of producing the
+        0                          necessary, quantity of mechanical work, but it remains for improved
+                                  mechanical designs to meet the sealing, efficient drive, -and adaptatioa
+                                  requirements which are demanded of a successful long term system.
+
+                                                                  -28-
+                                   -V.
+                                         BI13LI00RAPHY
+                                   1.    Becker, R. 0. , et. al., "The  dir-6ct:  current  control  system."
+                                         N.Y. State J. Med.  vol. 63, pp. 1169 - 1176, 1962.
+                                   2,    Belove,  L.,2  et.  al.,  The  Sealed  Nickel-Cadmium  Battery   Cell.
+                                         BA112.  Sonotone Corporation
+                                   3.    Be rkle y, C. . "Lon g-te rm e ffe cts, " A m. J. Med. Ele c. , vol. 3,
+                                         pp. 7 - 8, No. 4.
+                                   4..   Del Duca, M.G. , et. al.  ,  The  rrnodnarnies  and  Applications  of
+2                                         Bioelectrochernical  Ene  ro--y  Conversion  Systems.   NASA   N65-
+                                         352 42
+                                   S.    Desin  and  AP2li6ation  of  Permaneht   Magnets.   Indiana   Steel
+                                         Products Division Indiana General-Corp.
+                                   6.    Enge r,    C.   and Kennedy@.- J. H.. "An   improved    bioelectric
+                                                                      0
+                                         generator,"  Trans.  Amer.  Soc.  Artif.  Int.  Organs   vol.   10,
+                                         pp. 373 - 377, 1964
+                                   7.    Enger, C@. C., Kennedy, J. H.,    Michel.   A.G.,   "A   subminiature
+                                         implantable  sel2f-powered   cardiad   pacemarer:   circuit   design."
+                                         Trans. Amer.'Soc. Artif. Tnt. Oraa         vol. 11, pp. 148       151
+                                         1965
+                                   a.    Evans, W.G.,    "Characteristics   of   thermoelectric    materials,"
+                                         Semiconductor Products, pp. 34 - 39, April 1963.
+        2                           9.    Germano,  C.  P.,  Useful  Relationships   for   Circul@r   Ceramic
+                                         Bender Bimorphs, TP - 230, Clevite Corporation, 1965
+                                   10.   Cermano,.  C.  P.,  Useful  Relationships  for   Retancular   Ceramic
+                                         Bender Bimorphs. T? - 22 3.  Clevite Corporation, 1961
+                                   11.   124andbook  of  Chemistry  and  Physics,  44th   Edition.   Chemical
+                                         Rubber PublishLng Co., 1961.
+                                   12.   Yonikoff, J. J. , Research Study of the  Utilization  of  Bioelectric
+                                         Potentials.  NASA N65 - 17947.
+
+                                                           -29
+                                 13.   Lewis, K.  "Sy-rnposiu 'on Bioelectro-chemistry, of Mici@0-
+                                                            M
+                                       organisms, rV.  Biochemical Fuel Calls," Bacteriological
+                                       Reviews, vol. 30. pp. 101 - 113, Mar. 19626.
+                                 14.   Long, F. M., "Biological energy as'a power source for a
+                                       physiological talemeluering systein, " IRE Intl' Convention Rec.
+                                       ptg, 196
+                                 15.   Massie, H. , et. al. . "Cardiac pacemaker without batteries,
+                                       ProceedinEr of the 18th Annual Confer2ence on Engleeering-in
+                                 16.   Medical Physioloe
+                                                        _y and Biophysics, T. C. Ruch and J. P. Fulton,
+                                       Ed. Philadelphia: W. B. Saunders Co., 1960
+                                 17.   Mowbray, A. Q., "Standard rnate@rials for surgical implants,"
+                                       Am. J. iaed. Elec., vol. 4, pp.'.19 - 21, no. 3.
+                                 18.   Mye rs,   H. ' et-. al. . "Etolog[caUy ene rgized cardia c pacemake rs,
+                                       A m. J. @,led. Blec.  vol. 3@. pp. 233 - 236, No. 4.
+                                                          J
+                                 19.   DTims, L. F., Calvant, Volta aiid BicEli2EIEISI!Z. NASA N 66 -1717S
+                                 20.   One Hundred MUlion Heartbeats.  Mallory Battery Company
+                                 21.   Parsonnet, V.   et. al. "The potential@ty of the use of biolo  c
+                                       ene rgy as a po@we r sourde for implartable pace make rs, " Ann.
+                                       N.Y. Acad. Sci. , vol. Ill, art. 3, pp. 9215, June 1964.
+                                 22.   Piezoelectric TechnoloV Data for D-esigners.  Clevite Corporation.
+                                       1965.
+                                 23.   Potter, M. C. , "Electrical ef'A'ects azcompanying the decomposition
+                                       of organic compounds, " Proc, Royal Soc. London, vol. 84 (B)
+                                       pp. 960, 1912.
+               2                  24.   Rehm. VV. . "Stomach production of electrical energy," Am. J.
+                                                 vol. 154, pp. 148 - 154, 1948
+                                 25.   Reynolds, L. W. , "Utilization of Bicelectricity as power supply for
+                                       iinplanted electronic devices," Aerosoace Medicine. vol. 35, pp.
+                                       115 - 117, 19645.
+

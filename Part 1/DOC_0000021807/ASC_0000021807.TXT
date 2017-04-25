@@ -1,0 +1,542 @@
+                                          latiuary 1.1, 1966,
+                  Dear Dr.
+                  As a follow-up to our conversation             i am atta ebin- an
+                  outline of a proposed research project designed (a) to elurijate
+                  th'e phvsiological mechanisri-l(s) underlying the electiodermal
+                  response, and (b) based on such information to d2eteri7nine
+                  procedure for maximizing the information content of recordings
+                  from this system.
+                  Since this represents only an informal proposal, I have attached
+                  only an approximate schedule of costs. I would expect these costs,
+                  includi,n- overhead, to amount to between
+                  one year.  The project would be handled a@r@i1nistratively zhr.ouc,,h
+                  the Business Office
+                                                                  Approved for c-al!2-2@a
+                                                                  I)ate   2 7
+
+                  Page' 11
+                  january.1-1, 1965
+                                                    'k Any official correspondence iii
+                  connection with pc)ssible negotiation of a                   r-i
+                                                            _grant or conti:act ay be
+                  addressed to
+                  If vou require clarification or modification of various aspezts of t2his
+                  proposal, please feel free to contact me furtl-ier.
+                                                      Sinc-erely yours,
+
+                                         Liforiiial Pi:oposal
+                            P@-'-YSIOLOGICAL MECHAiNlSivIS UNDERLYL'@G
+                                 THE ELCCTROI)ER,VIAL RESPOINSE
+
+                      Physiological Mechanisms LJnderlying the Electrodermal Response
+                  LNITRODUCTION
+                       The manifold uses to which electrodermal measurement has becn applied
+                  testify to the respect held by a large nurnlcr of investigators for its potential
+                  information content.
+                       Vari.@us measures of this exquisitely sensitive system have, in fact, been
+        2          used for several -decades, hopefully, as indices of "emotio-:al" activity.
+                       On the ot.her hand the highly controversial state of this area, and the
+                  distrust with -,vhiz:h it is viewed by an equal number of competent investigators,
+                  are indications of major lacunae existing in this field of knowledge.  In recent
+                  years several lines of evidence have to an exten2t revealed the explanation for this
+                  lack of ao-reemertt; namely that the electrodermal response amplitude and base
+                  level are multi-de@,ermined by a combination of relatively independent systems
+                  which combine in varying proportions according to the nature of the behavior
+                  takinc, place, A-nong systems experimentally implicated in this response are the
+                  sweat gland sec:7etory vlbule, the sweat gland duct, an epidermal barrier layer, the
+                  corneum and cutaneous blood vessels. Within these systen-Ls there are controversies
+                  over the nature of the physiological change giving rise to thE! electrical chan-C.
+                  There is, furthermore, much ar,-,ument over the relation bet@veen conductance
+                  measures and passive potential measures. Are these in fact i6ndependent as
+                  recently evidenced or are they different manifestation of a zommon process as
+                  claimed by a group of equally responsible investigators? If r-hev are independent,
+
+                                                                                       AML
+                                                      -2-
+                 how do they interacc? Is it possible that the slin potential response is in part
+                 of vascular ori-ini
+                       Besides the limitation on our capability for meaningful, quantitative
+                 conversion of elec@rodernial d-.ta presented by this in2adequate knowledge, it
+                 also prevents valicl interpreatation on a psychological basis. If  our  inferences
+                 regarding higher level nervous (and emotional) activity of an individual are
+                 &a@vn from obser,;aCLon of his adaptive behavior, we must  obviously  be  able  to
+                 recognize the type of adaptation he is using.  Cutaneous activity may biologically
+                 repres2ent a preparati6n for aggressive muscular action, defense or flight or for
+                 information intake. The recent demonstration that the GSR iE augi-nented on the
+                 side of the body involved in a muscular maneuver (33) lends further weight to its
+                 interpretation as adaptive behavior. The Ij-kely n-kechanisms involved in tfie
+                 various responses are vasomotor 2activity, thermal Eweatino, mechanical
+                 (moisturizing) sweating, water conservation  (reabsorption)  or  sensitization  of
+                 peripheral receptors. Recognition  of  the  particular  systems  activated  should
+                 enable qualitative identification of the gross behavior.
+                 STATEMENT OF THE PROBLEM
+                        In using electrodermal activity as an indicator of central nervous system
+                 response to e1xternal stimuli, one would hope that its output can be in some manner
+                 calibrated in terms of quality as well as intensity of neural activilv for use  in
+                 qualitative as well as quantitative evaluation of central state. Distortions or lack
+
+                                                       -3-
+                 of reliability in this indicator can arise as a consequence of unacceptable
+                 technique or error in "neural calibration", that is in failure to recognize the
+                 cbnsiderations tc. be used in transforming from changes in conductance or
+                 potential to changes in central outflow. While our understan-ding of the
+                 principles of technique of m2easuiement has already advanced to a point at
+                 which it need no Ion-er const@tute a major source of error, the same can not
+                 be said for our knowledc,,e of the underlying phvsiological system or systems.
+                 Insofar as each primary suspected component (i, e. sweat gland, epidermis or
+                 vasculature) implies a @iifferent type of adaptive behavior, a--id insofar as they
+                 may in2teract in @uch a way as to present spurious information regarding the
+                 behavior of the individual, it is proposed that efforts shall bz! devoted to
+                 elucidation of the responsible systems and the means of separation. Partcular
+                 attention will be paid to the potential measure which, because of its partially
+                 con-Lbiiied positive and negative components with their apparent stimulus response
+       2           )ecificitv, haxl a higher information than the conductance :7esponses which are
+                 al@,vays unidirectional. In general the project will be directed tonvard calibration
+                 of electrodermal activity in terms of specific tvpes and intensities of neural activity
+                 by el@ucidation of the various underlying mechanisms and their quantitative inter-
+                 relations.
+                        In the fo6llowing discussion the entire group of reflex responses, whether
+                 thev be chano-e of resistance oy@ conductance or a positive, iegative or biphasic
+                 change in potential, will be collectively referred to as electrodermal acr-ivit:y.
+
+               The galvanic skin response or skin conductance response will be abbreviated
+               SCR and skin potential response, SPR.
+               EXPERIMENTAL BACKGROUIND
+               Areas of At7reet'nent
+                      There are several areas in which ekperimental evidence is currently in
+               general a-reemerit. Only key references are cited for each. (ivlany other aspects
+               which have been experi2mentally demonstrated but not yet generally accepted are
+               omitted). Areas of agreement are as follows:
+                       1. That the electrodermal reflex depends on a sympethetic nervous
+               supply (1)
+                       2. That it is cholinergic, beiny completely blocked ty the iontophoretic
+                introduction of atropine (2).
+                       3. That the sweat gland is functionally involved, at least in part, in this
+                reflex (3).
+                       4.  That zhere is not a simple relation between sweat production and
+                resistance change (4).
+                        5. That amplitude of the resistance response falls off with increasing
+                frequency of the excitation current (5).
+                        6. That the resistance response can be potentiated or alten@iated by
+         3       various mild agents to which the skin surface is exposed (6).
+                        7. That skin resistance is an apparent resistance, .vhich in large part
+                 derives from a Dolarization pocential (7).
+
+                    S. 'niat the "resistincc" level falls witli increasinrr current strength
+            (6, 8).
+                    9. That the --esistarce respolise and tl-ic negative SPR persist for a
+            considerable period after arterial occlusion, while the positive nave is reduced (9).
+                   10. That skin resistance falls with increasin2- temperatures (10).
+                   11. That vascular reacxes have little effect on the skin iesistance
+             response (11).
+                   12. That tlie -GSR may be elicited by stimulation of area .5 of the pre-motor
+             cortex which utilizes the pyramidal tract as a descendincr patiiway, or by stimulation
+             of portions of the hypotha-Famus or midbraln reticular forrratior-.. These two pathxvavs
+             are separate (12).
+             Controi,ersies Posedbv Experimental Findinc,
+                     There are several basic contradictions or areas of uncertainity implied by
+              other e.\perimental data:
+                      1. Skin potential resoonses (SPR) and skin conductance responses (SCR or
+              GSR) had been considered by most workers.
+               2     as derived from the same functioning system. Both are eliminated by cliolinergic
+              block@@o- agents (1'-J) -I they are highly correlated and are of hit@.est amplitude on the
+              pal.-nar and plantar surfaces (11-11).  i,,Ievertheless, hich SPR activity, without any
+               SCR activity, has been found by               on the nail bed.  FurLherrnore,
+      4                      has provided electrical and pliarmacolo-ical evidence for the indepeident
+                                                                                                    MESON&-,
+
+                                                                   been able to abolish
+               origin of Lliese effcz:ts.
+               SPR but riot OSR by cx5ariguination.
+                     2. Tile swcat gland has long been considct,-d as the source of
+               electrodermal aceivity. Yet the nail bed noted above contaiti@- no sweat glands
+               but produces potential responses ver2y similar in form and occurrence to  those
+               from nearby skin. Furthermore, the output of sweat (vapor) from ti-le skin has
+               been shown under many circumstances to bear little relation to the level of
+               electrodermal activity (4). It has also been possible using microelectrodes to
+               obtain GSR's from slal5s of epidermis which ha%,-e been sur-ically and electrically
+               isolated 2from adjacent sweat glands (18).
+                     3. Both the positive and negative comr,,)nents of the SP-@ are abolished by
+               atrooine or hyoscvamine and are considered by many to be cornponents of a sinale
+               process (19). Ho@vever, the positive component is more sensitive  to  ischemia (9).
+                                     found only negative rf-sponses from the
+           2    In the cat,l                                                  sweat c,,Iands, positive
+               only from nearby epidermis.  imorcover, reflp-x absorption of water throuo-h the skin
+               (probably epidermal) is associated with the positive wave of the SPR (21). Tnere is
+               evidence for a stimulus response specificity in the positive and negative @vaves in
+               r-hat posizive respo2nses are associated @\,ith alert aoal-oriented behavior (22). The
+               negative wave appears to be relatively non-specific. The positive and necrative waves
+               also respond differentially to temperature cliange (23).
+                       4. The s@in conductance response h@is been renerally assumed to  be  a
+               single entity (12), but niucli evidence supports Elie vienv that iL 9depends on L-,vo
+
+                                                       -7-
+                 clifferent coiiiponc@its (24).  Wliilc the evidence for two coniporcnes under
+                 separate control is strong, the case for the epidermis as one of these is
+                 presently on shal,-y grounds, especially as a result of the findings on the nail
+                 bed. The most likel2y alternative is another type  of  sweat  gla7nd,  presumably
+                 tlieri-nal, since the palmar and plantar sweat glands are primarily non-ti-iermal
+                 (25).
+                       3.  The almost abandoned notion that the SCR is produced by the
+                 increased conductivity of the corneum as it becomes permeated by a coaductin-
+                 electrol@rtes (sweat) ha's been revived by, 2       @on excell-ent experimental
+                 4orrounds. Postula--ion of a water barrier within the  corneum  allows  retention
+                 of this hypothesis in the face of the observation that SCR's occur even in skin
+                 soal,-ing in NaCl.        has argued that the inability of his r-@iodel to explain
+                 many of the mernbraftl-like properties of the skin  is  easily  cixcumvented  by
+                 assuming that the corneum  itself  may  have  membrafte-like  pi-operties  which
+                 change -,vith hydration or electrolyte content (27).
+                 Alteriiative '.\,Iodels
+                        Several models of the electrodermal effector system are sugc@.-ested by
+                 the e%lderimental data and each of these wit'i be used as a tes!- v4ehicle for
+                 interp3:etation of experimental results in the proposed study.  'Die consistancy of
+                 experimental results with each of these models will be considered in an effort to
+                 arrive at the most probable system.
+
+                   The actual sys@,em may be, and likely is, a composite of t@,,o or more
+           functional systems which may be listed for convenience as follows:
+           A.  "lie Sweat Gland
+                    1.  'D-ie sweat gland body may undergo permeability cfiangcs ivhich
+            account for conductan-ce or potential changes.
+                    2. The sweat  gland  duct  may  undergo  permeability  chang:@s  which  account
+            for conductance change or potential change of the same or dif4@erent nature as in (1),,
+                    3.  The sweat gland duct may fill partially or completely and thereby create
+            a channel'of high conductivity. 'Mis in itself would normally cause only a concluctance
+             chanue, but in reducing the internal resistance of tike sweat cland "generator"2, v-,)uld
+             result in a crreat contribution of sweat gland potential to total sk:-n porential.
+                     4. There is likely an active  reabsorption  process  occurring  in  the  sweat
+             duct and tli'As may be associated with characteristic potential waves.
+                     3. Sweat gland secretion may function in moisturizing t@ie corneum to protect
+              it against abrasion durina anticipate2d activity.  It may alternatively function in
+              thermoregulation in anticipation of a heat load. :17he level of this latter  function
+              would in all likelihood depend on the general state of thermosta-sis.
+              B.  The Corneum
+                       The corneu-n may act as a series resistor whose value is altered by
+               degree of hydration occasioned by'sweat glands and possibly epidermal transp,,..-a2tion.
+               C. Tt@e Epidermis
+                       1. The epidermis  may  behave  as  a  capacitor  of  essentiallv  unchanging
+                structure in paralkel with the sweat c,rland.  Lealage of this capacitor n-iav be
+
+                                                       -9-
+                   insignificant or it could account for a conductance even exczedlng that of the
+                   sweat glands.
+                         2.  It.may behave as a barrier whose pertneability is altered relatively
+                   slowly by humo-ral mechanisms.
+                         3. It -my behave as a barrier whose permeability -s reflexly altered.
+                   Th2is alteration may
+                                a) function in insensible perspiration
+                                    function in reabsorprion of water secreted by the sweat gla-nds
+                                 c) be a- by-product of the,- release of a chemical mediator by
+                                    nerve endin-8 whose function is to sensitize tactile receptors (28).
+                         4. It rray behave as a double-lavered2  barrier,  the  outer  layer  contributing
+                   to the base potential and base conductance but static in nati-ire, the inner one also
+                   contributing but subject to reflexly induced changes in perrneability and therefore
+                   responsible in part for the GSR and SPR (23).
+                   D.  Blood Vessels
+                          1. Alteratio--i in blood volui-ne is known to contribute to conductivity2
+                   chane-es, though normally to an  insignificant  degree.  in  some  cases,  namely  when
+                       0
+                   electroderrnal activity is of low level and the i-issue is highly vascular, this  could
+                   represent a significant relative effect.
+                          2. Srn.:)oth muscle activity, either arterial, arteri-olar or venous2constitute
+                   another source of potential. 5Inhibition could cive rise to a different  potential  than
+                   contraction.
+
+                                                       -iO-
+                 E XPE R L\.[ E NTA L APPR OA CH
+                        AEtention will be given to possible resolution in the troregoing areas of
+                 controversy or uncerr-aincy.         primary questions may  be  used  as  the  basis
+                 for formulation of research efforts:
+                        1. Does the skin conductance response  depend  upon  activity2  in  the  sweat
+                 gland alone, or d,:)es it (in addition) depend upon activity in an epidermal laver or
+                 in blood vessels.
+                        2. Do the positive and negative components  of  the  skin  potential  response
+                 depend upon activity iri separate areas, e. @,-. sweat crland and epidermis (or blood
+                 vessel) or do they simply represent two phases of a process  in  a  single  2effector
+                 organ?
+                        3. Which comporient, epidermal or vascular     )most likely account:s for  the
+                 skin potential responses observed in a sweat cland-free area such as the nail-bed?
+                        4. What is the biological  (psychological)  significance  of  each  component?
+                 Are they qualitat-@vely different? Do they vary in sensitivity?
+                        5. How do separate elements 2in the  skin,cornbine  to  account  for  a  -iven
+                 conductance level or a given potential? To Nvhat extent  are  elements  in  parallel
+                 and in series, ar-d to what extent does the internal  resistance  of  one  component
+                 influence the manifestation of activity in another? What is the most rational approach
+                 to the correction of observed response amplitude for differe-@ices  in  base  level?
+                 ,8Meti-tod
+                         Each of the above postulated mechanisms represents a tar-et for
+                 exper,mental evaluation as to its actual role in the clectroclermal reflex. -\s
+
+                 the tenabilicy of each of these is experimentally indicated, attl-ntion will be
+                 given to the relative macmitude of contribution both to bas@- le,.rel and response
+                 amplitude, and to the manner in which its contribution interacts with contribution
+                 of the other components. Li each case skin conductance, skin potential, SCR and
+                 SPR will be simul:aneously observed for quantitative t2est of interaction effects as
+                 well as consistancy with eacti proposed model. Specific e plriments designed to
+                 aid in the answer to each primary question are outlined belo@v.
+                       1.  Is the sweat gland alone involved in the skin conductance response?
+                              a) Microelectrode experiments based on the isolated epidermal
+                 slab technique (18) will be continued in an2 effort to establish whether the observed
+                 SCR activity is real or is an artifact of sweat gland activity. This will primarily
+                 involve close examination of phase and wave-forrn reiacions of simultaneous
+                 recordings from the slab and nearby sweat glands.
+                               b) All sweat glands in aL micro field will be selectively inactivated
+                 by the iontophoret;-c introduction of silver ion (me2thod already established by
+                 principal investioator) and observations made of recordino-S from this area and
+                 from nearby intact areas.
+                               c) Efforts will be made to selectively reduce pick-up from non-
+                 sweat gland areas by infiltration of the upper layers of the corneum with paraffin.
+                 Preli-ninary experiments reveal that sweat glands continue to secrete after this
+          1       procedure. Thu; effect of this treatrnerit on conductance and on conductance response
+                 %@Fill be examined.
+
+                                                      12-
+                             d) Ttie average sweat glaiicl (microclectrode) respons,- amplitude
+              and resistance level- from a 0.3 cm  2 field will be compared with that from a
+              simultaneously recc-rded macroscopic site by a sarnpling tecliiiique. Total sweat
+              gland count will also be made in this delineate2d area. A gros-s electrode will @--lien
+              be applied to t[iis field and the magnitude of response and resistance level compared
+              with that calculated from the individual data.  Discrepancies  will  be  examined  for
+              indications of non-sweat activity.
+                             e) E.%-perimental milla'ria will be used to block sweat crlands
+              selectively.  This method,2                                involves stiin@alation of
+              keratin formation at the s@veat pore bv use of 1-iich currents. Affected areas will
+              be compared with a:ijacent sweating areas.
+                              f) Atropine has been shown to block all SCR activity  but  the  effect
+              is inconclusive for resolution of the present ciuestion since other effectors may
+              also be cholin2ercric. Pilocarpine induces  profuse  sweating  and  may  be  considered
+              to raise sweat gland output to a maximal level. Therefore any alteration in skin
+              resistance after iontoplioretic introduction of pilocarpine (')O), may  be  considered
+              as probably non-sudomotor. However, the complete abolition of electrodermal
+              response would be somewhat inconclusive for the same reasons as stated for
+              atr6opine.
+                              g) The sweat gland may be having  an  indirect  but  important  effect
+              on SCR amplitude hy virtue of the induced cliange in corneal hy:iration as postulated
+
+                                                  -13-
+                             if lie is correct, one should c%pect SCR aml)litude to be jtist
+            by:
+            as large with a cons@,ant current system as witli a conseant 'voltage system even
+            in,itli a relatively "dry" electrolyte such as 0. 1 i'\,--Cl in 90 per cent -lycerol; If
+            chanae in hydration is relati2vely minor the constant voltage system will result
+            in diminished ainplit-ide, owing to a si,-nificant loss of the "cons@ant" voltage
+            across the non-varyina corneal resistor.
+                    2. Do the positive and negative components of the SPR originate in
+             separate sites? Because of unavoidable electrical leak-s one can aINvays expect
+             contamination of signals in one area bv those in the adjacent area. Results of
+             microelect-rode surveys will therefore be su,,-estive rather than definitive.
+             Moreover, the positive and negative components, though slightly out of phase,
+             are to a crreat extent fused and subject to partial cancellation. In fact a positive
+             wave may occur N@,@ithout the combined wave ever croing positive (31). Resolution
+             of the t@,vo2 components is understandably difficult.
+                             a) Experiments on epidermal slabs (microelectrode) previot-,sly
+              confined to conductance measurements will be extended to potential measure-neats.
+              Wave forms from the t@vo areas will be examined for predominance of either polariey.
+                             b) The effect of Ag' i:,qctivation of the sweat gland on rnicroelecrrode
+              w0ave J'orms of response from various areas will be determined.
+                              c) The application of an e-,ternal load (shunt) will be used to determine
+               whea-ler the internal resistance of the positi-,,e and negative ge-icrators are different.
+
+                                                 -14-
+              If the two waves are diffcrencially attelluaccd wlicn a low resistance Sliunt is
+              used, this would be cvidence for diffc3:cnt internal resistances of these two
+              components and tiercfore for different sites. It would be important to rule out
+              tcmpc,ral ch@-an,z-,res in the impedance of a sin-le acnerator, as an alternative
+              explanation. This w.:)uld be done by comparing the magnitude of -any difference in
+              the' internal resistance with the maximum variation in total resistance observed
+              durin- the response. This latter can be determined by  a  simultaneous  writeout
+              of resistance using i 5 mv, low frequency AC source (32).
+                 2           d) The'report by.              that high current density differentially
+              affects the positive and negative components of the SPR will be @ollowed up by a
+              microelectrode study. Hi(,h currents will be applied selectively to sweat :,-Ian&-
+              and -,ion-sweat crland areas to determiiie whether the waves frorn these are
+              differentially affected by this treatment.
+                2     3. Are the potential responses observed from the nail bed epidermal or
+              vascular in oricrin?
+                            a) The nail will be exposed to electrolytes such as  1 "L\4 CaC'2' L-iown
+              to have a marked e-@fect on SPR amplitude on the skin. It is very unlikely that this
+              agent is exertinc, any effect on blood vessels.
+                             b) Vascular changes of short duration will be ir-iposed by the use of
+              ,venous and arterial cuffs and the effect on SPR will be noted. ',,Iaturally occurrina
+              vascular response in the nail bed, monitored bv the reflectanc- pler-Liysrno,-raph,
+              will l@e compared with the simultaneously monitored SPR. The same @vill be done
+              on cori,,.-citional skin sitc-s.1
+
+                                                                                             --7
+                             c) The plia):rnacologic cxpcj:illlents by
+                which discounted the role of vascular respoiises in tJ'c SCR will be c-,.@tended
+                to SPR measuremen:s.
+                             d) 2'r-ic nail bed will be punctured to determine -,vliether  SPRs
+                are still observable under the epidermis.
+                      4. What is the biological significance of each compotienr found?
+                              a) Does the sweat criand secretion represent ant-cipation of a
+                tliermal load or does it serve primarily for moisturizing the s@-in or are both
+                functions i2nvolved? T@e auidincr hypothesis in this case is that both types of
+                s,,ve,--t c-lands function separately and accordincr to the demands of the anticipated
+                act.  It is further hv
+                                   ,pothesized that in a well  inte-rated  orcaiiism,  thermal
+                s-,veatina should be associated with cutaneous vasodilatation. Special attention
+                wil2l therefore be given to areas or to instances in which  the  electrode-rmal
+                r@@spa,ise is associated with dila.tation as opposed to the vasoconstricti.on more
+                commonly occurring.  SPRs and SCRs respectii,ely associated with tiiese will be
+                examined for characteristic differences. The effect of ambient thermal conditions
+                on each will be examined.
+                               b) Is 0the positive ,vave of tl-ie SPR cavsally related to epidermal
+                absorption or transpiration of water as previously indicated (21)? Clarification
+                of this relationship will be obtained by observing tl-ie concomitant effects of ischemia
+                on ilie t)ositive SPR and reabsorption activity; similarly for ti-ie effects of Iii<,,-h
+                current density.
+
+                              c) What is die relationship of activity of specific electrodermal
+                components to tactile sensitization? In a previous study (28) althougii there was
+                a significant reladon between skin conductance response and change in tactile
+                threshold, there were many SCRs not associated with a tactiie chance. If there
+                is, in fact, a peripheral sensitizing mechanism as previously pos2tulated, it is
+                possible that the threshold chance is associated with one of the t-@vo components
+                of the SPR. Tactile thresholds will be determined in conjunction with skin
+                potential recordings. The separation of positive and negative potentials wiU be
+                aided by the use of a newly developed electronic analyzer.
+                      5. What are the principles of summation and interaction between compone2nt
+                mechanisms and what rationale is indicated for correction of response amolitude
+                for base-line differences?
+                              a) The approach to this ivill depend on future methods developed
+                to obtain separate measurement of the activity of each component. Such measure-
+                ments will be applied to test the validity of various physiolog-cal and circuit models
+                of tl,.e integrated syste2m. Among these methods, may be-
+                                      1) Measurement of SPR from the finger nail and from nearby
+                skin. The differential factor here would be sweat gland acti-v-ity.
+                                      2) Selective block of sweat glands by A -Lor experimental
+                                                                             9'
+                miliaria.
+                                      3) @&1croelectrode sampling of an entire skin field (sweat
+                gland and non-snveat gland areas).
+
+                                     4) Simultaneous measurement of SCR and SPf, from
+                nvo equal areas havin- a different sweat gland count.
+                                     5) Measurement of vapor under standard conditions
+                when the sweat alands are nonfunctioning, and when they are secreting.
+                Simultaneous observatioii of SPR and SCR would be made.
+                              b) The combined an2alysis of SCR and SPR data with the use of
+                enter-nal shunts to determine the respective cenerator impedances will be
+                used in an effort to build a unified model.
+                              c) The predicted peripheral relation of response amplitude to
+                base level under a variety of conditions will be tested. Relation to central level
+                of activation is a separate matter.  Frequentiv central activation is the variable
+          2      sought for the indicator being base-line-corrected reflection of neural outflow.
+                With this philosophy, it becomes clear that central variation must be avoided in
+                this phase. Two methods are sugo,;csted-.
+                                      1) Stimulation of the distal smmp of the severed planta--r
+                nerve of the cat.  This investigator has already done explorarory experiments in
+            2    which base level conductance of the foot pad was brought to a high level by
+                repetitive neural stimulation, followed by standard stimuli at 30 second intervals
+                as the base conductance gradually fell (recovered) over a thirty minute period.
+                These experiments will be continued.
+                                      2) Because human skin probably does not behave Qxactly as
+                the cat 4oot cad, similar experiments @vill be 3performed on human paraplecic
+
+                patients, using a standard electrical stimulus to the fdot and recording from
+                the opposite foot. This spinal reflex system has many of the properties
+                described in
+                                      3) A final preparation of this nature is the use of a
+                nerve block on the hand in the region of the ulna r nerve, with a standard
+                                                          stal to this block. using3 surface
+                electrical stimulus applied to the nerve di
+                electrodes.  Electxodermal responses will be measured from the tip of the fifth
+                finger.
+
+                                              References
+                                                                               and psycho-alvanic
+                   Richter, C. P.  A sCQdy of the electric skin resistanze
+                   'reflex in a case of unilaceral sweatina.  Brain,  927, 50:216-235.
+             2.    Leva, J.  Uebcr eini.-e ilrperliche Begleitersch@einungen psychischer Voriinge
+      2             nit besonderer Ber@&cksichti-ung des psychogalvanische7r Reflex pliinomens.
+                   l,funchen. Med.-I@schr., 1913, 60:2386-2389.1
+                                                                                     of Chicago
+             3.  Rothman , S.  Physiology and Biochemistry of the Skin.  Univ.
+                   Press2, Chicago@, 1955.
+             4.    Edelber-, R.  Independence of aalvanic skin response amplitude and sweat
+                                                      1964, 42:443-448.
+                   production.  J. Invest. Dermat.,
+             5.    Forbes, T. W. and Landis, C. @The limiting A.C. frequency for the exh-' ition
+                                                                                              @b
+                   2of the -alvani-c 'Sl@in ("psychIc-alvanic") response.  J, gen. Psychol.,   1935,
+                   13:188-193.
+             6.  Edelbercr, R., Greiner' T. and Burch, N. R.  Some me,,nbrane properties of
+                   the effector in the galvanic skin response.  J. App. Physiol., 1960,
+                   15:691-696.
+              7.  Gildemeister, X.  Der   sogen annte psycho--al2van4sche Reflex und seine
+                   physikalisch-cheriische  Deutuna.   Pfl. Arch. f. d. Ges. Physiol., 1915,
+                   162 -.489-506.
+              8.  Grings, W. W.    Methodolo-,ical considerations underlying electrodermal
+                   measurements.   J. Psychol., 1953, 35:271-282.
+              9.  Wilcott, R. C.  Effects of local blood      removal on the skin re0sistance and
+                   potential.  17. comp. physiol. Psychol., 1958, 51:295-300.
+             10.  @laulsby, R. L. and Edelberg, R.  The interre.lationship between the galvanic
+                   S'--in response, basal resistance and ternperatuie     J. comp. physiol. Psychol.,
+                   196C), 53-475-479.
+
+                11.  Lad'       F.  aid          J. D.   The                                     ological
+                                                             ?sycho-"@-lvanic rcf       a phar7@ac
+                     5tudy'of  rl-.e peripi-icral           J. @@ourol. Neurosur-. and Psyciiiat.,
+                     1962, @.5.1--,6-133.
+                12.  Wang, G@  H.   The galvanic skin reflc%: A review c@f old and recent works
+                     from a phy@iologic point of view.  Am. J. Physical ',,led., 1957, 36:295-320
+                     and 1958, @-:-7:35-57.
+                13.  @%lilcott, R.'..C. The partial independence  of skin pK)teTitial an  s ii res stance
+                     from sweatin-    Psyclio6physiology, 1964'   1:55-66.
+                14.  Woodworth, R.S. and Schlosber-, H.       Experi,7.ental Psychology.  Holt,
+                     Rinehart and Winston, New York, 1964.
+                19.  Lloyd, D. P. C.  Action potential     arkId secretory potential of sweat -,lands.
+                     Nat. Acad. of Sci. of the U. S. A. Proc., 1961,      4?:351-358.
+
+                                                             7,.iji-,.ori, B. St'-,dies on t'@IC
+          -@3.  Yoe-,OLa, T.,        i, T., gondo,       and
+                                                                                    urc)piiysiol.
+                diphasic wav e tor-n of -.lie galvan4-c skin reflex.  EEG  C14n. Nc-
+                J., 1959, 11:2687-696.
+          24.   Eclelberc,  R  -nd @,lri@lit, D. J. Two gaivavic skin iesponse efl:ector   oraans
+                                     p              Psychophysiolooy, 1964, 1-.39-47.
+                and their stiriulus  s  ecificity.
+          25.   Kuno, Yas.   Human   Perspiration.  Cliarles C. Thomas, Sp-rinefield, 1956.
+           30.2  Gibson, L. E. and Cool,@e, R. E.  A test   for concentrat@-on of electrolytes
+                 in sweat in cystic --ribrosis of the pancreas utilizina pilocarpine by
+                 iontovhoresis.  Pediatrics, 1959, 23:545-549.'
+           31.   -t@al-,-.iquest, D. and Edelber-, R. Probleris in the analysis of the endosonatic
+                 -alvanic skin response.  P2sychoDhysiolo-y, 1964, 1:48-54.
+            32.  Edelber-, R.  Electrical properties of the skin.  in Brown, C. C. (ed.)
+                 I.:,Lethods in 1?s-ychophysioloo.,y, @iilliaris & Wi-l@ins, Balt i--nore, 1965.
+                 Culp, @.I. C. and Edelber-, R.  Rec-ional response sdecificity in the electro-
+                 der,-,ial reflex.  Submitted for publication, 1965.
+                                                      of
+
+              Pcriod of Work
+                      This proposal would cover one ycar of effort. It is apparent that this
+              is an iiiadoquate pcriod to accomplish all of the experiments described but it
+              would be sufficient to complete over half of Jiem. It Nvatild be hoped that
+              con[inuation of sup?ort could be negotiated if appropriate, for a secon2d vear
+              of effort.
+              Amount of Support
+                      An approximate estimate of costs is itemized belcw. A fi-.ced fee arant
+              or contract would be most desirable but a cost-reinibursement contract on a
+              non-profit basis would be acceptable.
+              Facilities
+              Amona- equipment on hand is a complete microelectiode set-uT), a bigh-o-ain 6 chan7nel,
+              D. C. polygraph, free, however, only part-time, a neurophys-olo-ical set-up for
+              nerve stimulation and recording, animal surgical equipment ar-d diverse pieces of
+              accessory and test equipment such as oscilloscopes, oscillators, etc. Animal
+              sources are availaole
+
+                        qp
+             Costs
+                     I)rincipal ltivcstigator (part-tin-ic)
+                                                             including FICA
+                     Research A,-4sistant (full-time)
+                     Subjects
+                     Animals
+                     Scenographic Services
+                     Reproduction
+                     Expendables (Paper, Chemicals, E1lectronic Supplies)
+                                      Sub-total
+                                      Overhead at 20110
+                                                         Tota I
+

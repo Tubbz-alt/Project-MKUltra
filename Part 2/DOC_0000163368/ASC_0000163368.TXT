@@ -1,0 +1,1548 @@
+                                                                                     PROF.    DR,    HANS     LIST
+                ANSTALT FURVERBRENNUNGSMOTOREN
+                STAATLIC4 AUTORISIERTE VERSUCHSANSTALT - GRAZ - AUSTRIA - KLEISTSTRASSE 48* - TELEG*AMME PROFLIST  GRAZ
+                KONSTRUKTION UND VERSUCK 13AU VON PitOTOTYPEK  SOWIE  ELFKTP.CLNISCHEN  UND  MECMA#41S2CHEN  MESSGERATEN
+                                        GEBRAUCESANWEISUNG zum ELEXTROSCELAFGERXT
+                                                   E L E X T R 0 D 0 R M   I
+                                    I nhaltsvprzeichni8:                                    Seitet
+                                      1.   Einleitung                                             2
+                                      2.   Mechani2sch    - elektrischer Aufbau                    2
+                                           21  Prinzip3'.elle Funktionsweise                      2
+                                           22  Mechanischer Aufbau                                4
+                                      3.   Die Elektrbden                                         5
+                                           31  Aufbau der Elekt-roden                             5
+              2                        4.   Bedienun  des Geriites                                 7
+                                                     9
+                                      5 -  fiberpriifung des Gerdtes                              8
+                                      6.   Technische Daten                                       9
+                                                              -r den Elektroheilschlaf
+                                   2   7.   Indikationen fiL                                       9
+                                      8.   Elektrbschlaftherapi6                                  10
+                                           81  Allganeine Ridbtlinion                             10
+                                           82  DurchfUhrung der Einzelbehandlung                  10
+                  2                    9.   Schaltplan                                             12
+                                                                                                  13
+                                      10.  Literatur
+                                        bezieh6n durth:
+                                    zu
+                                    J.  0 D E L G A
+                                    Arztlich-technische Ina8ustrie Gesellsehaft m.b.H.
+                                    w  I  E  N      xvio      XoppstraBe 61
+                      G,02. pas&ch I!i                    T.L 94 1 71. 94 t 72, 32 0 77
+                                                                                                       Fortockm&wt Cvu i379
+
+                        1. Einleitun@-
+                        Die Tatsache, daL der Schlaf eine heilsame Wirkung bei ver-
+                        schiedenen  krankhaften  Zustdnden  besitzt,  wurde  von  der  Mensch-
+                        heit bereits vor  der  Zeit  Christi  Geburt  erkannt.  DaB  der  Schlaf-
+                        zu8tand auch im  Altertum  bei  6inigen  Vdlkern  bew2ust,  also  mit  dem
+                        Ziele  einen  Heilerfolg  zu  etreichen,  angestrebt  und  auch  exreicht
+                        wurde,  beweist  uns  eine  375  vor  unserer  Z6itrechnung  hergestellte
+                        Votivtafel, auf der -Uber einen erfolgreichen "Tempelsch    II-af"  berich-
+                        tet wird und die 2000  Jahre  spdter  aus  dem  Schutt  von  Epidaurus
+    2                    ausgegraben wurde. Der Tempelschlaf, herbeigef-Uhtt durch einen
+                        IIS6hlaftrunk", hat  diesem  Bericht  zufolge  heilende  Wirkung  gehabt.
+                        Dab Bestr6ben, Schlaf  auf  kiinstlichem  Wege  zu  erzeugen,  erhielt
+                        durch die beginnende Pharmakologie im letzten, besonderd aber in
+                        unserem  Jahrhund6rt  einen  gewaltigen  Auftrieb  und  der   pha=akoldgi-
+                        sche Heilschlaf  -wurde  eine  Therapieform.  Bald  jedoch  erkannt6  man
+                        daS der pharmakologisch  herbeig6f-Uhrte  Schlaf  nicht  immer  so  harm-
+                        los ist, wie urspriingl3'.ch angenommen  wurde.  Daher  war  es  wichtig,
+                        eine  Schlaftherapie  auszuarbeiten2,  bei  der  dem  Organismus  keine
+                        Schlafmittel zugefiihrt werden braudhen und welche den Vorzug
+                        vblliger  G6fahrlosigkeit  be6itzt.  Diese  Bestrebungen  fiihrten  neben
+                        anderen am  Markt  erschienenen  Gerdten  zur  Entwicklung  des  modernen
+                        Gerdte8 Elaktrodorm 1.
+                        22. Mothanisch - elektrischer Aufbau
+                           21 Prinzipielle,Funktions-weise (6iehe Blockschalibild und
+                                                              Schaltbild im Anhang)
+                        Das Elektrosdhlafgerdt@Elektrodbrm   1   ist   volltransiptorisiert   und
+                        besitzt prakt3.sch u
+                                            nbegrenzte Lebensdauor. 3)urch Verwenden 2von
+                        Transistoren und 6iner gedruckten Schaltung konnte der elektronische
+                        Teil sdhr klein und  stossicher  ausgefiihrt  werden.  Die  Schaltung  ist
+                        kurzschlubsicher ausgefiihrt, so daB die Elektroden auch bei max. Aus-
+                        gangsspannung  zusa=engefiihrt  werden  kbnnen.  Elektrodorm  1   arbeitet
+                       -mit Klei2nspannung  und  ist  dahor  voilkommen  ungefdhrlich*  Die  Hoch-
+                        spannung von 220  V  ist  durch  eine  Schutzwicklung  vom  Sekunddrkreis
+                        s-lureng isoliert. Die im Netzteil erzeugte Gleichspannung von ca-40 V
+                        speist den  nachgeschalteten  Ifultivibrator  mit  den  Transistoren  Ti,
+
+                                               2
+                                            -f]L
+
+                 T  und T   Dieser astabile Mult4-brator orzouit Rechteol:impulse mit einatell-
+                  2       3
+                 barer Prequenz durth Veratellon dos Potentiom3tdrs R  (.Drebknopf aii
+                                                                      3
+                 schw.ariem Einsatz) und einstellbarer 2Impuladaudr durch Schalten des Brah-
+                 schalters S  (Drahknopf mit griinem Eineatz)e
+                            2
+                 In aisthliesenden Verstirker 3 ward6n dises Impuloc siner Gloichapannung
+                 ,iiberlagert und mit Hilfe des PotenL,-iometars P,8(I)rabknopf mit rotem Bin-2
+                 sat2) kontinuierlich verstirkt (diehe Bila).
+                                                                     Learlaufspannung
+                                   tits tell             fill ... I
+                              .... .... .. 11 iiii !+i+
+                 Der Autgang dos Vetgtlxkers fiihrt tber sin skalonbolouchtetes MeS2gerSt 4
+                 auf sin Druoktastanaggragat, mit dom or wahlveise auf den eingebauten
+                 Prdfwiderstand R12 durch Bet'atigen der grunen Tadte odor die Xopfeldktto-
+                 de,6 hach Botdtigen der iot4h Ta6t6 geschaltet virde Zur Beobachtung der
+                 Impulakombination ist s2in Oazillographonanschlu.B vorgosehon. Die Oaxillo-
+                 graphatbuchse ist nicht angeschlosson, da die Forder-ang nach den OVE-Vor.
+                 schrift6h - Erdfreiheit deg Patienten - dadurch unter Umstinden nicht mahr
+                 erfullt wgres Ein AnsohluS kann auf tigene 2Veranttortung loicht durchgo-
+                 fuhrt warden.
+                 Im Ausgang zwischen dem Tast6nachalter und der Blaktroddnbuchoo befindet
+                 Bich eine Scbtltuhro mit der eine Behandlungodauer big zu 2 Stunden eings-
+                 st.llt.worden kann. Es itt zu beachten  dag an der Elekteodotbuch2at rat
+                 da= ih6 Spannung anlitgt, Vann mit der Behr-ltuhr ein6 Behandlungazoit
+                 votgewlhlt vurds.
+                    22 Mochanischer Aufbau
+                 Die fo=achbne'Gehduse-Kbnstruktion erfilllt slmtliobe lvorderangen der
+                 Praxis. Das Garlt besitzt aineh.AufatellbUgell wodurch es sorohl &us
+                 stehander als auch aus sitzender Position leioht bodi6nt und das MeBgortLt,
+                 einwandfrol abgelosen warden kann. Durch einfachas Rochklappon des Auf.
+                 atellbilgele verwandelt sich dieser in ainen bequemen Traggriffe
+                 Dos Elektr3odorm I int als Einschub aufgebaut und IdSt sich nech LUsen von
+                 zwei Schrauben an der Unters6ite des Gehduses auo diesen herauazithen.
+
+                 ])as Carlit ist ashr iibersichtliah und einfach aufgobaut, An der Proutplatte
+                 sind slatliche tauelemento auser dom Transfo=ator 12 und der geritantack-
+                 dose 13 direkt montiort. Durch diesen Aufbau konnten samtliohe Bodienungs.
+                 elements s2amt skalenb6lauchtatem MeOgetIt 9 sehi Ubersichtlich an der Pront.
+                 platte angebraoht warden. An der I=ehseit* der Prontplatt4 sitd su beidesl
+                 Beitat don MoSgerttes Lampahen 16 angebrtdht,; the llber izw Mo2Sgerlit singe.-
+                 bants Plaziglaastlbohen fiir eine schwache Belouchtung der Skala sorgene
+                 Uber vi*r Distanzhalter int die gedmokto Schalt=g 15, auf der sovahl das
+                 Netzgerlt &Is such der Multivibrator und der VerstArker aufgebaut sindg
+                                                                                        12
+                                                                                        15
+                                                                                         14
+                  10
+                  abonftlls an der Proutplatte befeetigt. Slatlicho Sauilemonts sind 1*i*ht
+2                  zugilnglich, so dag aino tlberprufung in einfachn'ter Weise  dur*hvfilkrt
+                  warden 'Jeann. Die RUckwaud des Gorltes enthdlt die Sahuko@-Geratesteakdoso 130
+                  Uber die des Gerit normal goordai wird, Dts Gorlt ',an" &Uoh iibor die &a
+                  der BUokwand befeatigto Erdungeschraube 14 goordat warden.
+                  3. Elektroden
+                     31 Aufbau dGr Slakttoden
+                  Die Blekttoden b4stahen &us ongmtechigen Kupfornatzeny'die ait 24wkargtigea
+  6                Gold vargoidet sind. Sit sind nit Soh&umstoffpdlst*r unterlsgt und in oines
+
+                 Gummiband gelagert, so daS sio sich an den kniagestall4n, an den Augen und
+                 im Backen des Pationten (sishe Bild)i bestans anschmisgen und ibm ke  in
+                 unangonehmes DruckgofUhl verursaehen*
+                 Feuchts Gazdatraifen kdnnon durch die dafur vorgesehenen Laschan Uber die
+           2      Elaktroden gezogen warden, um erstens durch Befouchten mit Leitungswasser
+                 einen guten Ubergan#s*iderstand zu orzielen und zweit4as  dem  Pationten
+                 das Gefithl eiter hyg:Lenischen und ungeflhrlichen Elaktrods zu verachaffen.
+                 Als Befestigungabiinder wurden sogenannto Klettenbinder 2verwendet. Durch
+                 die Krouzung derselban ilber den Ohren wird der Winkel zwi8chou deu Blndorn
+                 fixiert, so d&B such bei hliufiger Kopfdrehung wiihrond der Behandlung di*
+                 Elektroden in ih.T6r St6llung bleiben. Bin Verachiebon odor ein Abrmttchon
+              2   der Blektroden ist bei dieser 3efeatigungeart praktitch i.icht adglich.
+                 Uber *in 2.5 m langes und bis zur Abzweig=g zu den Elertrodehpaaren
+                 abgeschirmtes Kabel worden die Elektrod4n =it einer selbet-v4rriegelnd*n
+                 Priizisidne-Steckverbindung mit de= Schlafgardt varbunden. Durch die
+                 Abachi=ung wurde trotz des zarten Kabels eine hohe  mechanische  Peatig-
+                 keit erzieltg wodurch des Kabel such einer robusteren Behandlung  e%and-
+                 halt.
+                 Um das Anlegen der Elektroden am Kopf des Pationten zu vereinfachen  und
+           7      um die Reinig3xng der Blektroaen su erleichtern, wurde tin4 loicht Ide-
+                 bare Kupplung u=ittelbar vor der Nackenalektrode vorgeothen.
+
+                 4. Bedienuniz des Gergtes
+                 Die Bodienung des Gerltes ist von grdater Binfadhheit. Die Bag oblriftung
+                 W=do mit sinfadhan Svmbolen durchgefiihrt, damit &as G4r&t orstans ashr
+                 iibertichtlich ist und zweitens international verwoudet worden k2a=.
+                 Pitr clie Drshkndpfe und d-Ie Dracktasten wurden verachiedene Parbou ver-
+                 wendet.: um *in* V*rweeholung in der Bodi6nung zu vermaiden.
+                                                               8
+                                                                         w
+                       2                                    1         2
+                   1 Natzaabalter                              7 PrUftasto
+                   2 Prtquenzregler                            8 Pationt6ntasto
+                   3 W&hlschalter fUr Impuled&uer              9 str6=eBgerxt (dkilleaboleuchtst,
+                   4 Ausgan9geregior                           10 OazillographeitanschluS
+                   5 NOtzsicherung                            11 BlaktrodenanookluS
+                   6 Sohaltuhr
+
+                 4. BedienM& des G4thtes
+                 Die Bedienung des G6rlted Jet von grUSter Binfachheit. Die Beachriftuns
+                 wurde mit ainfachen Symbolen durchg6fiihrtg damit des Gerit oratens 66hr
+                 Ubersidhtlich Jet und zweitsto internation2al verwandet worden ka=.
+                 riir die Drehkndpfe und die Drucktasten wurden verechi6done Parben ver-
+                 wendet;, un *in* V*rwechalung in der Bodienung zu vemaidou.
+                                                   7
+                  1 Netzschalter                              7 PrUftast0o
+                  2 Prequenzregler                            8 Patiententasto
+                  3 WLhlschtlter ftir Impultdauer             9 Stro=eBgerlt (skaleaboleuchtat
+                  4 Ausgangeregler                           10 OazillograpbLetLanschluS
+                  5 Netzsicherung                            11 ElektrodenansohluS
+                  6 Schaltuhr
+
+                 T  und T   Dieser astabile Mult4.brator orzou't Rechtecl-.impulse mit einstall-
+                  2      3'                                  9
+                 barer Prequenz durch Verstellen dos Potentiom3ters R 3 (Drehknopf mit
+                 schwarzem Sineatz) und einstellbarer Impulsdauer durch Schalton des Dra2h-
+                 schalters S  (Drehktopf mit grilnem Eineatz).
+                            2
+                 Im &.nachliabenden Verstxrkar 3 warden these Impulse einer Gloichapannung
+                 Uberlagert und mit Hilfe des Potentiometers E8 (Drahknopf =it rotem Bin-
+                 B&t2) kontinuierlich verstdrkt (siehe Bil2d).
+                                                                    Learlaufspannung
+                 Der Ausgang des Ver8tgrkert fiihrt Uber sin skalonbolouchtetes MeBgerlt 4
+                 auf sin DrudktAatenaggregat, mit dem er wahlveise auf den eingebauten
+                 PrUfwiderstand R12 durch Betgtigen der grunan Taste odor die Kopf4l2aktro-
+                 de 6 nach Betltigen der roten Taste goachaltot vird. Zur Beobachtung der
+                 Impulskombinatiok ist sin OszillographonanschiuS vorgosehon. Die Ossillo-
+                 ,graphenbuchse ist nicht ang-eschloseen, da die Forder-ang nach den OVE-Vor.
+                 schriften   Erdfreiheit des Patie2nten m dadurch unter Umstbzdeu nicht m4hr
+                 erfullt wgr6. Bin AnschluS knnn auf eigeno Verp-n tvortung loicht durohgo-
+                 fahrt werden.
+                 la Ausgang zwischen dem Tastenschalter und dor Elaktrodanbuch3a befinddt
+                 sich eine Schaltuhr, mit der eine Behandlungodauer bis z2u 2 Stunden ainge-
+                 stellt-werden kann. Es ist zu beachten, daS an d6r Elekteodanbuchee orst
+                 dann oine Spannung anliegt, wenn mit der Schaltuhr eino Behandlimgszoit
+                 vorgewdhlt wurde.
+                    22 Redhanischer Aufbau
+                 Die fo=sch6ne GehtLuse.-Konstruktion erfilllt sdmtliohe rordor=gen der
+                 Praxis. Das Gerlt besitzt einen-Aufatellbiigel, wodurch as sorohl aus
+                 stehander ale auch aus sitzend6r Position leicht bodient und das MoSgeriit
+                 einwandfrei abgelesen ward6n kann. Durah einfachas Rochklappon des Luf@
+                 siellbiigels 8verwandelt sich dieser in sinen bequo=en Traggriff.
+                 Dae Elaktrodorm I ist als Einschub aufgebaut und IdEt sich nedh LUedu von
+                 zwei Schrauben an der Unterseite des dehduses aus diesom herauaziehen.
+
+                  Dan Gardt ist sehr iibtrsichtlich und einfach aufgobaut. An der  Prou+.platte
+                  sind slmtliohe Bauelemento &user dom Transfo=ator  12  und  der  Geritestook-
+                  dose 13 direkt montiort. Durch dies6n Aufbau  konnten  slatliche  Bodienungs.
+                  el2ements samt 8k&lenbelauchtatem Ite2gordt 9 sehr Ubersithtlich an der Prout-
+                  platte &ngebracht warden. An der Innensait* der Prontplatto  sind  su  belden
+                  S*iten des M@Sgerttes LA mpchou 16 angebttaht, die liber  ins  M*Sgergt  einv.
+         2         baute Plaxiglaaatlbohen fUr nine schwache Belauchtung der Skala morgen.
+                  tb*r vitr Distanzhalter itt die godrmckto:Schalt=g 159 auf der sovahl
+                  Netzgerlit &Is such der Multivibrator.und der Verstlrker &ufgebant sindg
+                       2                                                                12
+                                                                                       15
+                                                                                       14
+                  10
+                  abonfalls an der Prontplatte befeatigt.  Slmtlioh*  B&uilemente  sind  loicht
+                  xuganglioh2g so das sine UberpxiU'ung in sinfachoter Welso durohVfiO2rt
+                  warden kann. Die Ritakwand des Gerites enthglt die Schuko"Gorlteateokdoes 13t
+                  itb6r die das Gerit no=al goordat wird. Das Geriit ka= auah llber die
+            2      der Ritakwand befentigto Erduageschraubs 14 goordat word*a,
+                  3. Blektrodon
+                     31 Aufbau  dGk Elektrbden
+                  Die El*ktrod*n bestahen aus engmaschigen Kupfornatzen,'die   ait 24-karUtigam
+                  Gold vergoidet sind. Sio sind nit Schaumatoffpolot6r unterlogt und in einou
+
+                Gu=iband gelagertg so daS sis sich     den knlegestellon, an den Augen und
+                im Nacken des Pationten (siaho Bild), beetens anschmiegen und ihm  kain
+                unangonehmes DrackgofUhl verursachen.
+                Fouchte Gazestreifen kdnnon durch die dafiir vorgesshonen Laschen ilber die
+    2            Elaktroden gazogen werddn, um oratens durch Befouchten mit Laitungswassor
+                einan gutan Ubergangswiddratand zu erziolen und zweiteas dom  Patienten
+                das GefUhl eiter hygienischen und ungafghrlichen Elaktr'ode zu vtrschlffen.
+                Ala Befestigungsbiinder wurden sogena=to Klettenbgnder verwandet2.  Durch
+                die Krouzung derssiben ilber den Ohren wird der Winkel swischen den BiLndern
+                fixiert,, so d&B auch bei hwiger Kopfdrehung wilhrond der Behandlung die
+                Elaktroden in ihrer Stellung bleiben. Ein VeracbLieben oder *in Abrutachan
+                der Blektroden ist bei dieser Befeatigungeart prakti2sch nicht  m8glich.
+                                                          ----------
+                                                                   k
+                Uber sin 2,5 m langes und bis zur Abzweigung zu den El*xtrodenpaaren
+                abgeschirmiee Kabol werden die Elaktroden mit 6iner  selbstyerriegoluden
+                Prdzisions-Steokverbindung mit dtm Schlafgerit verbunden. Durch die
+                Abschirm=g wurde trotz des zarten Kabels sin* hobo  mechanisohe  Postig-
+                keit erzielt, wodurch das Kabel such siner robuoteren Behandlung  stand-
+                halt.
+                Um das Anlegan der Elaktroaan am Kopf des Pationten zu verainfachen  und
+                um die Reinigung der Blektrdden zu erleidhtern, vurde eine loicht  18s.
+                bare Kupplung ilmmittelbar vor der Nackenalektrode vorgesehon.
+
+                   Das Gerdt wird mit Hilfe des Notzschalters 1 (Drehknopf mit gelbem Ein-
+                   satz) eingeschaltet. Der Schaltzustand des Gerdtes wird auber durch die
+                   Bezeichnung am Drehknopf              aus,              ein, auch durch
+                   die Beleuchtung im MeSger,;It, die es auserdem gestattet den Belastungs-
+                   strom im verdunkelten Raum abzule8e2n, angezeigt. Mit  Hilfe  der  Dreh-
+                   knbpfe 2 (mit schwarzem Ei-nsatz) und 3 (mit griliem Einsatz) kann  die
+                   F=equenz                zwischen 30 und 230 Hz kontinuierlich  und  die
+                                L
+                   Impulsdaue,             in Stufen von 0,4 bis 1,2 ms nach folgende= Ta-
+                   belle eingestellt werden. So betrdgt
+                   die P2reqaenz bei einer                      die Impulsdauer  bei  eine=
+                   Potentiometerstellung                       Schalte=stellung
+                   auf  A         36    Hz                     auf      I        0,4   ms
+                        B         40  Hz                               II        0,5   ms
+                        c         50  Hz                              III        0,8   ms
+                        D         62  Hz                2               IV        1,0   Ms
+                        E         100 Hz                               v         1,4   me
+                        F         220 Hz
+                   Nlit Hilfe des Ausgangsreglers 4 (Drehknopf mit rotem Einsatz) kann de=
+                   Belastungsstrom kontinuiorlich verdndert werden. Vor joder Verwendung
+                   des Gerdtes ist darauf zu achten, daB de= Ausgangsregler am linken
+                   2Anschlag steht.
+                   Nach Anlegen der Elektroden und Anschlie3en des Kabels an das Schlafge-
+                   rdt Uber die Buchse 11 und Vorwdhlen der gew-Unschten Behandlungszeit
+                   wird die Patiententaste 8  ged2"U'ckt und der Ausgang des Gerdtes auf den
+                   Patienten geschaltet. AnschlieSend wird mit dem Ausgangsregler langsam
+                   ho2chgereg6lt bis der Patient ein leichtes "Prickeln" an den Augen- oder
+                                                                                         der
+                   den Nackenelektroden angibt.-Nach einer kleinen Gewbhnungspause,    in
+                   das Prickeln vergeht, wird eine weitere Steigerung um 0,1 bis 0,2 mA
+                   vorgenommen und sodann am Gerdt nichts mehr verdndert.
+             2      5. tibert)ru'fan
+                               _E des Gerdte8
+                   Durch Betdtigung der Pr-Uftaste wird der Ausgang auf einen  eingebauten
+                   PrUfwiderstand mit 4 kQ , der dem normalen  Kopfwi4erstand  entspricht,
+                   geschaltet. Bei einer 6ingestellten Ftequenz von 100 Hz 9und  einer  Im-
+                   pulsdaudr von 1 ms erglbt sidh bei der Endstellung des Ausgangsreglers
+                   ein Strom von ca. 1,5 mA. Da die Schaltung kurzschlubsicher ausgef-Uhrt
+
+                                                          m
+                                                      9
+                    wurde, kdtneh der Patientenausgang, das Elektrodenkabel und die Elektro-
+                    den durch Zusammenlegen der Elektrodenpaare leicht iiberpriift werden.
+                    Bei einwandfreiem Ausgang, einwandfreiem Elektrodenkabel und einwandfrei-
+                    en Elektroden erhdlt man bei kon2tinul_'erlicher  Verstellung  des  Ausgangs-
+                    reglers eine gleichmdb ig arsteigende Anzeige des Ausgangsstromes am MeB-
+                    gertet.
+                    6. Technische Dat6n
+                    Speisespannung                         220 V 50160 Hz,  durch  Umldten  such
+                                                           110 V
+                    Leistungsaufnahme                      52 VA
+                    Sicherung                              50 mA
+                    Ausaang
+                    Prequenzbereich
+                                                           30 ... 230 Hz kontinuierlich regelbar
+                    RechteckimpulsdAuer                    0,4 -.. 1,2 ms stufenweise einstallbar
+                    Leerlaufspannung                       Scheitelspannung   32  V
+                                                         2  Imtulsspannung     20 V-
+                                                           Gleichspannung     12  V
+                    AusgangssDannung bei einem
+                    Belastungswiderstahd von 4 k 2         Scheitelspannung   34  V
+                                                           Impulsspannung     25  V
+                                                           Gleichspannung      9  V
+                    Belastungsstrom bei einem
+                    Belastungswider2stand von
+                    Prequenz 100 Hz, Impulsdauer I ms      I   1,4 mA
+                    Abma2e des Gerlte8                     270 x 155 x 136  mm
+                    Gewicht                                325 kp
+                    Zubehbr                                2 Elektrodengarnituren mit 2,5 mg
+                                                            zweipolig gbgeschirmtem Kabel
+                       2                                    1Oszlllographenkabel mit 1 MP
+                                                            einpolig abgesch:lrmtem Kabel
+                                                           1Netzkabel flir SchukoanschluB, 2  m
+                    Elektrodo= wurde nach den OeVE-Vorschriften gepriift.
+                    7. Indikationen fiir den Blektroheilsohlaf
+           0         Auf Grund der zur Verfiigung stehenden Literatur, sowie der mit  dem  Elek-
+                    trodorm I gemachten Erfahrungen (Wagen6der) ist these Therapie bei fol-
+                    genden Erkrankungen von nachatehend angefiihrten Arzten mit Erfolg ange-
+                    wandt worden:
+
+                                                                         0
+                                                     -lo-
+                     Endarter3.tis obliterans           ROITENBURD, WAGENEDER
+                     Neurosen                           BANSCHTSCHIKOWT BOLOTOWA
+                                                                                  "@A@
+                     Bronchialasthma                    BULATOW
+             2        Schlafstdrungen                    KOEPPEN, 17AGENEI)ER
+                     Psychopathien                      KOWALL-WAI KOEPPEN, RUSAKOW
+                     Kopfschmerz                        KOEPPEN, WAGEITEDER
+                     Schwangerschaftstoxikose           PASTERNAK
+                     Hypertonie
+                     Juckende Dermatosen                KONOVIALOWAT SCHACHNOWSKAJA
+              2       8. Blektroschlafthera@pie
+                        81 Allgemeine Richtlinien
+                     Bei den oben atgefuhrten Indikationen itt eine Behandlungsdaudr
+                     von 3-4 Wochen, das heibt  es  sind  15-20  Einzelbehandlungen  er-
+                     forderlich. Die  Eintelbehandlungen  erfolgen  tdglich  und  sollen
+                     k6ine ldngere Untorbrechung als h62chstens einen Tag erfahren.
+                     Die Behandlung ist 6hne Gefahr filr  den  Patienten  auch  ambulant
+                     durchf-Uhrbar:
+                     Die Einzelbehandlung wird mit ca. 1/2 Stunde Stromeinwirkung be-
+                     gor@nen  und steigert sich in drel bis vier Tagen auf 1 1/2 - 2 Stun-
+                     den (einschleichon), sle i@2iird dementsprechend gegen Ends der Ge-
+                     samtbehandlung wioder auf die Ausgangs- Behandlungsdauer reduziert.
+                     Nadh den mit dem Elektrodorm  1  gemachten  Erfahrungen  wird  eine
+                     Impuls-Folgefrequenz von 100 Hz (Prequenzregler 2 aufpotentio-
+                     me Iterstellung E) und eine Impulsdauer von 1 Ms (Wahlschalter fiir
+                     Impulsda2uer 3 auf Schalterstellung IV) empfohlen.
+                        82 Durchfiihrung der Einzelbehandlung
+                     Sobald der Patient im Bett liegt, wird er mit einer leichten Becke
+                     zugedeckt, die Elektroden werden  nach  Eitf-Uhren  feuchter  Gate-
+                     streifen in die datu vorgesehenen Laschen, angelegt und die Sich4r-
+                     heitskupplung der Augenelekt±ode wird mit der Gogenk1upplung am
+
+                      PatientenanschluLkabel verbunden.  Es  hat  sich  als  zweckmdbig
+                      eri7iesen, bei vetschiedenen Pationteh, die sehr ldrmempfindlich
+                      sind, vor Behandlungsbeginn die Ohren mit einem Gerdusch-
+                      schiitzer, z.B. "Orop ax", abzudichteng um damit dubere Einfliisse
+                      akustischer Art fernzuha2lten6 Nach Einstellen der Zeituhr wird
+                      mit der Patiententa6te der Strom eingeschaltet und mit dem
+                      Ausgangsregler 4 (Drehkn6pf mit roten Einsatz) die Stromstdrke
+                      gesteigert bis der Patient ein  le3.chtes  "Prickeln"  unter  den
+                      Elektrodenflgchen angibt. Nach einer kurzen Gewbhnungspause
+                      wird ei2ne weitere Steigerung von 0,1 bis Ot2 mA  vorgeno=en.
+                      Wdhrend der Behandlung werden nach Mdglichkeit sdmtliche
+                      Reize vom Patienten ferngehalten, wghrend eine ijberN7achung
+                      nicht unbedingt orforderlich ist. Messungen jeglichdr Art fiir
+                      wizsenschaftliche Untersuchungen  erfolgen  am  besten  mit  MeB-
+   2                   gerdten, deren MeBf-Uhler boreits  vorher  angelegt  wurden.  Die
+                      Pulszdhlung wird bei den meisten Patienten nicht wahrgenommen
+                      und dieser Reiz im allgemoinen ohne Stdr=g des Schalfzustandes
+                      toleriert. Eine geringe Abnahme der Werte von RR, Puls- und
+                      Atemfrequenz sind normal.
+                      Nach Ablauf der Zeituhr wird der Pa2tient automatisch vom Strom
+                      abgeschaltet. Die Elektroden verbleiben in ihrer Lage4 Bei
+                      entsprechender Einrichtung (zwei L3'.egestellen fiir ein  Gerlit)
+                      kann nunmehr der zweite Patient angeschlossen werden, wobei
+                      der Nachschlaf des ersten Pationten, welcher bis zu 20 Minuten
+                      dauern kann, nicht unterbrochen wird2.
+
+                                                           @t  -Lk U  it
+                    3ALTSCHmLSCHIKOVI Vi.M. U. E.I.            3edeutung   des Elektroschlafes bei
+                    LEBEDI,'-TSKAJA                            der  Behandlung   von   Neurosen,   trau-
+                                                               matischen   Affektionen    u2nd    GefMer-
+                                                               krankungen des Gehirns in Verbindung
+                                                               mit dem Agrypnie-Syndrom.
+                                                               Arbeit6n des I.Moskauer Med. Inatl-@
+                                                               tutes, 25, 385 - 398 (1963)
+                    BOLOTORIA Z*2N. u. GiS.                     Wirkung des Elektroschlafes auf die
+                    KUDRJA7,ZDVA                               Dynamik der unbedingten GefEBreflexe
+                                                               bei der Behandlung von Neurosen.
+                                                               Da6  Gehirn   und   die   Reflexsteuerung
+                                                               KiOw, 1963, 2S. 93 - 95
+                    BULATOW P.K., P.I. BUL u. LoA.             Zur  Frage  der  Behandlung   von   Bron-
+                    T8CHET,TMIKOWA                             dhialas4.-hma mittelsElektro8chlaff
+                                                               Bronchialasthma, 3.Ausgabe Loningrad,
+                                            2                   1962t S. 246 - 257
+                    DIEMATH H.E4, P.M. W-KGENEDER,             Stromfelder  im   Gehirn   des   Menschem
+                    St. SCHUY u. R4 GEN8ER                     wdhrend des Elektroschlafes..
+                                                               Neurochirurgi,,v (im Druck)
+                    GILJAROWSKI W.A., LIWENZE.N N.M.,     2     Elektroschlaf
+                    Ju. Je. SEGAL u. S.A. KIRILLOVIA
+                                                               StaatsverlAg fUr med. Literatur,
+                                                               Medgis 1953  -  Mbskau.
+                    TT7'PPNER F.                               Der Elektroschlaf und seine physio-
+                                                               logischen   Grundlagen.
+   2                                                            11progress in Brain Research"
+                                                               (im Druck)
+                    KOEPPEN S. u. R. EICHTER                   Untersuchungdn iiber Elektr6heil-
+                                                               schlaf in der innerdn Medizin.
+                                                               Medizini2sche Klinik, S. 1492 - 1495#
+                                                               58. Jg. (1963)  Nr.  36
+                    KOEPPEN S. U. R. EICIILER                  Der   Elektroheilsohlaf
+                                                               Elektromedizin Band 5/1960, Nr. 1
+                                                               26 - 35
+                    KOWALEWA E. Ja.                            Ube5r die Wirksamkeit des Elektr6-
+                                                               schlafes in der Psydhiatrischen
+                                                               Klinik.
+                                                               Arbeiten des I.Mosk. Med4 Inst.
+                                                               Band 25, 1963, 407      411
+
+                     PASTERNAK M.D.                              Anwendung  doo   Impulssttomes   bei   der
+                                                                 Behandlung von Schwangerschafts-
+                                                                 toxikosen.
+                                                                 Geburtshilfe    und     Gyndkologie,-1964,
+                                                                 No. I, Seite 269 - 74
+                     ROITMTBURD S.                               Erfahrungen in der Behandlung der
+                                                                 obliterierenden Endarteritis mit
+                                                                 dem Apparat "Elektroson".
+                                                                 Neue chirur ische App. u. Instr=ente,
+                                                                 22, 77 - 82 f!958)
+                     RUSAKOV7 W.I.                               Elektroschlaf   in   den    Psychondurolo-
+                                                                                        or           ellen.
+                                                                 gischen Gesundheitsf  schungsst
+                                                                 Gesundheitswesen des Kasachstans,
+                            2                                     1961, No. 2, Seite 25 - 28
+                     SCHACMTOWSKAJA E.I.                         Anwendung des Impulsstrom6s niedriger
+                                                                 Frequenz  bei   der   komplexen   Therapie
+                                                                 von Phantomschmerzen.
+                                                                 Fragen der Bal2neolog:'Le, Psychoth6ra-
+                                                                 pie  und  Heilgymnattik,  1960.,  No.   2,
+                                                                 Seite 109 - 113.
+                     SEMANI)INI G. u. bl. TSCHTCALOFF            Der Elektrosohlaf
+                                                                 Medicine et Hygiene, G4nf,
+                                                            2     Nr. 356, Notes Th'erapeutiques
+                     SERGEJE'TV G.                               Elektroschlaf heilt Hypertonie
+                                                                 Die Wissenschaft und da6 Leben,
+                                                                 19630 No. 9, Seite 48 - 50
+                     IVAGENEDER F.14. u. St. SCHUY               Beitrag  zur   Entwicklung   von   Gerdten
+    2                                                             auf dem Geblot des    Elektroschlafes
+                                                                 in der Elektrbnarkose.
+                                                                 Zentralblatt  f.  Chirurgi6   (im   Druck)
+                     'IIAGENEDER F.M.                            Methodische   und   klinische    Erfahrun-
+           2                                                      gen    der     Elektroheilschlafbehandlung
+                                                                 "Progress in Brain Research"
+                                                                 (im Dru-ck)
+                     WAGENEDER P.Mi, P.L4 JENKNER u. H. t        Zur  Vbrdnderung   der   cerebralen   Hae-
+                     HAPNER                                      modynamik4   wdhrend   des    Elektroschla-
+                                                                 fee.
+                                                                 Deutsche8 Medizinisches Journal
+                                                                 (im Bruck)
+
+                          M-E)                xacr
+           -Ml ;,PM Sun;.tltJT40aln 'UOMO-Z.'@esTnd
+                                    -tap
+            U,T@TqeptmH Mt UoBtmesauTeT
+                                                             n I                       aas
+                            4                                     nHc)S                    Na-D
+                         MT)                 XOQ
+       -L'-T,3t[x oneu                 (M-zOTe -pd
+                                                             aaKTVH      -n
+
+                                                               nag SC                                      Q@'i       ;E e n                   
+u va
+                                          0 W)@;           1, I
+                                                                                                                                designer arch.
+dipl. -ing emo me isfer, Druz
+                                     AUS2 DER CHIRURGISCHEN UNIVERSITXTSKLINIK GRAZ, AUSTRIA (VORSTAND; PROF. DR. F. SPATH)
+                                    'THERAPIE- UND FORSCHUNGSZENTRUM FOR ELEKTROSCHLAF UND ELEKTRONARKOSE
+                                     NACH DR. FRANZ WAGENEDER
+              -4t
+                                     FROM THE DEPARTMENT OF S URGERY, THE UNIVERSITY OF GRAZ, AUSTRIA, SCHOOL OF MEDICINE (CHIEF OF DEPT.,
+PROF.@
+                                                     5                                                                        DR. F. SPATH)
+                                     THERAPEUTIC AND RESEARCH CENTER FOR ELECTRIC SLEEP AND ELECTRICAL ANESTHESIA
+                                     BY DR. FRANZWAGENEDER
+
+                             SCHON SEIT 2000 JAHREN                                                                           FOR THE LAST 20M
+                                                                                                                                               
+YE*S
+                             ist die h6iiiIame Wirkung des Schlafes bei   verschiedenen  krankhaften   Zusttinden   be-       the curative
+effect of sleep in vari2ous diseases has been known. This fact was recog-
+                             kannt. Diese Tatsoche wurde von  der  Menschheit  bereits  im  Altertum  erkannt.  Schon         nized by man in
+the time before Christ. In antiquity some people tried  to  induce  sleep
+                             damols wurde der Schlofzustand bei einigen Vijlkern bewu3t, also mit dem Ziele                   and use it for
+curative purposes, as is documented by a voti2v tablet dating to the
+                             ainon fleilerfolg zu erreichen angestrebt und  ouch  erreicht.  Dies  beweist  uns  eine         year 375 B.C. and
+which tells of a successful 'temple sleep". This tablet was dug
+                             37i v.Chr. hergestellte Voti    tafel, auf der Uber  eirten  erfolgreichen  "Tempelschlof"       up 2000 years
+later from amongst the remains of Epidaurus. According to this report,
+                             berielitel wird, und die 2000 Johre sputer ous  dem  Schutt  von  Epidaurus  ousgegroben         the temple sleep,
+induced by a sleeping drought, had a curative effect.
+                             wurde. Der Tempelschlof, berbeigefuhrt  durch  einen  Schlaftrunk,  hot  diesem  Bericht
+                             zufolge heilende Wirkung gehabt.
+            2                 Die Schlaflosigkeit stellte schon seit laher, besonders aber in der modernen  Zeit,  ein         lnsomnici has
+always been - and is more so in modern times - a medical problem. In
+                             avdizinisches Problem dar.  Um  sia  zu  bekdmpfen  bediente  man  sich  verschiedenster         order to overcome
+It, the most diverse resources have been called upon. Ti)e endeavor,o
+                             lil2ifsmittel. Dos Bestreben, Schlaf auf kunstlichem  Wege  zu  erzeugen,  erbielt  durch         to induce sleep
+artificially received considerable impetus in the post century by the
+                             .-ie beginnende Phormakologie im letzten, besonders ober in unserem Jahrhundert,                 appearance on the
+scene of pharmacology, but even more so in our century, when
+                             einen gewaltigen 2Auftrieb, und der phormakologische Heiischlof wurde eine Therapie-             
+pharmacologically induced sleep become a form of therapy. However, very soon it
+                             form. Bold ledoch erkannte man, dafl der phormokologisch herbeisefuhrte Schlof nicht             was recognized
+that this pharmacologically induced sleep was not always quite so harm-
+                             immor so hormlos ist, wie dies ursprun2glich angenommen wurde.                                    less as was
+originally thought.
+                             Dolier war es wichtig, eine Schlaftherapie auszuarbeiten, bei der dem Organismus                 Thus it becarie
+expedient to develop a sleep therapy dispensing with  sle--ping  droughts
+                             keine Schlafmittel zugefuhrt werden  brouchen,  und  welche  den  Vorzug  viiiliger  Ge-    2     and endowed with
+the advantage of beeing absolutely  harmless.  This  has  been  realized
+                             fahriosigkeit besitzt. Dies wurde durch die neue  Methode  des  Elektroheilschlafes  er-         with the new
+method of electrotheropeutic sleep, which is not c. ly used for  the  treat-
+                             relcht, der nicht nur bei der Behandlung der Schl                                 e
+                                        2                                         aflosigkeit, sondern ouch' b I verschie-     ment of insomnia
+but also of many other diseases, like endarteritis o'oliterans  neu-
+                             denen  onderen  Erkrankungen,  wie  z.B.  Endarteritis   obliterans,   Neurosen   Bronchial-     rosis, bronchial
+asth a, hypertonia, etc. Several implements have appzared on the
+                             astlima, H2ypertonie,,u.s.w. seine Anwendung findet. Um dieses Zeil zu erreichen                  market to
+achieve this aim, among fhem "Electrodorm I" which corresponds to the
+                             wurde  neben  onderen  auf  dem  Morkt  erschienenen  Gertiten  dos  "Elektrodorm  I"   ent-     latest st nd  f
+technical and scientific development.
+                                                                                                         2                             a   0
+                             wickell,  dos  den  latzten  Stand  der  technischen  und   wissenschaftlichen   Entwicklung
+                             entspricht.
+                                         Die  ideale  Anloge  einl-  Forschungs-  und  Therapiezentrums  in  einer  weitrdumigen  GrUnfldche 
+liegend.  Im  Vordergrund   ist
+                                         die Therapie2station zu sehen, und  in  loser  Verbindung  domit  im  Hintergrund  der  Prototyp  der 
+Forschungsstditen.  Sowohl  im
+                                         Therapiezentrum wie In den Forschungsstdtten kann stationdre und ambulante Behandlung durchgefuhrt
+werden.
+                                         The ideal layout of a research and therapy center located in  a  large  park  area.  The  therapy 
+center  in  the  foreground,  and
+               0                          loosely connected with it the research center in the background. In  both  the  therapy  and  the 
+research  center  sliitionary  as
+                                         well as ambulant treatment can be administered.
+
+          t-,! WC$ recog-
+          li,c;n&ce sleep
+          a.                                                                                                                                   
+.., 1,      v@           I
+           to the                                                                                                                              
+2                                                               tip
+          i was, dug
+              teport,
+          -,:blem. In
+          T.-    endeavor
+          @iry by the
+          Y, when
+           soon   it,
+          i quite so harm-
+          :;Pg   droughts
+          :i:en  realized
+          !':r the treat-
+          m,     neu-
+          :@ed on the
+          i to the  2                                                                               It
+                                                                                        tip                                                    
+T
+                                                                                                                                               
+'k
+                                2                                                                                                              
+r
+                                                                                                                                               
+-,SPEI'-.TIVE
+                                       1                                                                                                       
+PEP
+                             N;14TM
+
+                                                                                                                                               
+-I,iii regisi@,c-d its first@ ptjc,'ic0l                               -,-:tion
+                                                                           2                                                                   
+The
+                                                                                                                                             
+iind
+                                                                                             r
+                                                  i,                                    It                2                                    
+m        c;,    a n.                             St. t C C;                                                                                    
+in W:                        C!  C.,);j
+                                                                  Nv"u@                                                                        
+2                              in ',u@sia,               invest.@,,,;tecl   @y   a    number    of    scic,-
+                                                                                                    rt):@ci                      @ilic         
+L
+                                                                    %                                                                          
+2                     clieser                        the    Uttitc                                     @if II)est investig@;tioris wri
+                                                                  1:@r is ki'                                                                  
+Atif G-                                                          d                Tbu resul'
+     2                                                      '!iveil                     c:@.   \,)r   Iihron    von    c                       
+viewpoint.   r)to-   1,.,    iliosi,                      r(..plo-rts-I a team in Grci-,@,  i.u!trio,                         c'o;.-.-Oe    o@
+                                                           ---II li'u                                                                          
+the rr.2thc, i,  excii-iiii.@-ci  it                           broadened th@- iiiv(@,iiucitons on-,' expanc!@@2J
+                                                                                                         hurigen b@ if i c                Uii@'
+iie;                        uf C:,:     C
+                                                                                  aagadehntt.                                                  
+tbem i!l@@ it2)   fi -,el c-f e.!z.
+                                                                                                                                               
+-ni@  dc@@: I lcl,:i                                           According fc2 ile@.                      ';I.@                               
+ati thq                                                      am2@--
+                                                                                                                    i., di @- 7   11      i
+-,,i       %i                                                                   with                                           :-41:,;),  -1 7;
+-i.-.:-,y   wcis   ci;,,@licd   successfully    by    the    2fol-
+                                                                                                                                               
+n
+                                                                      @,!ieitd a..MfU"mte.-i- Atzten. mii                 El."-)Iij            
+l2owinri    pliyiicio,..-    lo    I.
+                                                                                  !kmns                                                        
+ololit:- -,.ftis           i
+                                                                                                              r   2                         
+1'41                                                                                                                                      K 
+O',  P  P                  -a I C D L P%
+                                                         IC
+                                                             C,.. !3.-fund)                                KOEPPE                              
+2                                                   evi,!.                                           KOFI,I,.':N,
+                                                                                                                                               
+Prog.)             laxic                       i    PASTEptl".,
+                2                                                                                           SERGEJLV.'                         
+SERG'C.lllo'l
+                                                                  z@n:6  I,'               n               K                                 
+SCt4ACP@IOWS'.@',AJ,                                                                                                               i   
+KOiNO.'/ALOVIA,                                         "'S'<AJA
+                                                             @n      o!),2n      c!:ig:,FSten       Indi'@ctibren       ;@i                    
+3 - 5 %Voc2liz.-I,                              For    the c:!'.,,va                          a tractmc!-'                  3   -   5   wc,@ks,
+0;-i               F@ti,-it's
+                                                                                                           Schwer-                             
+C!                20 - 33 Eii..z,;I-                                age and ses-iuj3n:ss of disec@so,  i.e.                                    
+30 sincle                         are reciuired. The
+                                                     I   n        IAltur d..@s F4ii
+                                                                                                           Pi;
+                                                                2                                                                              
+o'ilen t.2i-                          sii@;jlc tcjz::;iictits are aciniinistereci @n'ly and the                                            
+slio-ild rot exceed one
+                                                     t.                 Ulliol-br@@Amiq                                             T.7@-i     
+6ay at the
+                                                                                                                                               
+LEC-.iIDE:               2   0) Eiii,-on%;sl
+                                                                                                                                               
+Lobby
+                                                                                                                          of e@@,t.ttlich d    
+is t.@,r*7u d--@r ainzelren 1',oumgrun,,)en,  die tim d@-n eig--")tlichon                                                                      
+b)   S4r@:rvtoriot
+                                                                           Die                          Ltssung         ze'
+                                                                    2                                                                          
+tilr-lien                                                              "d",
+                                                                                                                                        c. e ni
+z L                                           jnd @7:.holist:                             -c)t -:.-)42t sitid.                                 
+5@@c(::Inry's office
+                                                                           Die ri.-,:.                                       P"  fulirt ;@.-i
+d@ii c:t)-.-aliien                                  u-.id                     die$:! wied-@.-turn mit
+                           2                                                de it fociiu,,             jiiian und Lcit-. -,,;;itorien "f".  Die
+,@tiiebsfinktion,:!ii dz-r Forscliunossttite  s;nd  cluich die-                                                                                
+C)   BUro
+                                                                           se     2                     .@psc6ldf.-ti  ijewtilivlaistut. 
+Patieiijn                                 in eiii- oder niehrbettiocri Zimm@-rii unterge-                                                      
+General office
+                                                                                                    2                                          
+d)   Zentroicc E@cttichlungs- und Schaltstand
+                                                                                                                                               
+2                                                                        Ce6tral control and switchboard
+                                                                                                                                               
+e)   Beh@iidlungsroum rnit Schlafkolen
+               2                                                            The bcik layout sfiemn clearly the arouping of the rooms,  which
+are -.et up                                                       c' round the actual center of
+                                                                           the bua,-ng - the mom For madicril                         -
+treatment (e) with the cantra'i coi,trol and switchloord (d). The cir-                                                                         
+Medical treatment - sleeping cells
+                                                                                                                    ti @he                    
+c:(!Its and lirls the    w
+                                                                           cular c                      2                                      
+ill    itli the rese@;rch rooms and laboratories.                                                                  f)   Forschungsrt!u,..ic und
+Lcboratorien,
+                                                                           For stobmry ti-eal.-ItIT11  .@ere                         sicl,
+ro2ori,s with one or more beds.                                                                                                                
+bz-.i.
+                                                                                                                                               
+Research rcons2 and laboratories,
+                                                                                                                                               
+or sick rc,@
+                                                                                                                                               
+2                                                                                                                                    !g) 
+Ringfd:mig--r Vei-Lindungsgang
+                                                                                                                                               
+Circul3ar connecting corridor
+
+        104 Ur:
+                     4"0
+         the fol-
+                                                                                                           f
+     ated. The                                                                                                                                 
+f
+            one      40-*
+    @d Schaltstand
+    'z)ocrd
+     fV,,@i2en                                                                                                                                 
+ft
+    Ing cells
+                                                                                                                                               
+ERUGESCHOSS
+                                                                                                 0                                             
+MAIN FLOOR
+      ng
+
+                          Die Behandlung  ist ohne Gefohr for den Patienten ouch ambul         durchfuhrbor,     ledoch       The treatment can
+be amij-'@tory without any danger for the patient, however, a
+                                                                                                                                               
+hieved with stationary treatment. The treat-
+                          ist ain besserer'Heilerfoig bei stationtirer Behandlung zu    erreip-.n.    Die    Behandlung       higher degree of
+curativeT,@.,rect  is  ac
+                                                                                                                              me            d
+by letting the current act for about 1/2 hour, which is then in-
+                                                                                               2                       e
+                          wird mit co   1/,2 Stunde Stromeinwirkung begonnen  und  steigert  sich  in  3  bis  4  Tog  n        nt is starte,
+                                                    e wird dementspre@hend gegen Endo der Gesumtbe                                             
+2 hours. Towards the end of the entire tredt-
+                          auf 1 1/2     2Stunden. Si                          2                                  handlun       creased within 3
+or 4 days to 1 1/2
+                          wieder cuf die Ausgangs-Behandlungsdauer reduziert.                                                 ment the duration
+is gradually reduced again to its initial period.
+                          lm Einzainen wird so vorgegangen:                                                                   The single
+procedure s as follows:
+                      2    Sobold der Patient im Bett lieot wird er  mit  einer  leichten  Decke  zugedeckt,  die  Elek-       As soon as the
+patient lies in bed, he is covered with a light blanket. After the in-
+                          troden  werden  nach  Einfuhren  feuchter  Gazestreifen  in  die  dazu  vorgesehenen  La$chen       sertion of wet
+stripes of bandage into the loppets provided for this pur ose, the elec-
+                          angelegt und  durch  dos 2 Pationtenonschluflkabel  mit  dem  Gerdt  verbunden.  Es  hat  sich       trades are
+applied to the patient and connected with the Electrodorm Ey means of the
+                          als zweckmtinig erwiesen,  bei  verschiedenen  Patienten,  die  sehr  Itirmempfindlich  sind,       connecting cable.
+Experience has proved it convenient to seal the ears of those pa-
+                          vor  Behand2lungsbeginn  die  Ohren  mit  einem  GertiuschschUtzer,  z.  B.  "Oroprix",  abzu-   I   tients who are
+very sensitive to noise, in or&r to protect them from outer acoustic
+                          dicliten, um domit duflare Eiiiflosse akustischer  Art  fernzuhalten.  t4ach  Einstellen  der       influences. After
+the clock has been set, the current Is turned on and its intensity 'M
+                          Zeituh2r wird der  Strom  eingescholtet  und  die  Stromsturke  gesteigert,  bis  der  Patient       increased until
+the  patient  registers  aslight "prickle" under the electrodes. After a
+                                                                                                                                               
+is Intensified further to 0. I - 0.2 mA. Dur'
+                          ein leiclites  "Prickeln"  unter  den  Elektrode2nfiticlien  angibt.  Nach  einer  kurzen  Ge-       short adjustment
+pause, the current
+                          wdlinungspouse wird eiiia  @-@-itere  Steigerung  von  0,  I  -  0,2  rnA  vorgenommen.  Wtih       the treatment all
+stimuli are ke Pt     "w y "Om the patient. A constant supervision is
+                          rend der Behondlung v.,erd,@n  nach  Ptaglichkeit  stimtliche2  Reize  vom  Patienten  fernoe-                       
+gain
+                                                                                                                              not  necessary 
+according  to  the  e-p,-r nce     ed so for. Any kind of measurements
+                                                                                                                                               
+M."
+                   2       holten.  Eine  dauernde  C'I;crwachung  ist  nach  den  bisher  gemachten  Erfuhrungen  nicht       for scientific
+purposes are best         by cnnecting beforehand the measuring imtru-
+                          not\vendig. Mcssungen  iegliclier  Art  for  wissenschaftlicile  Untersuchungen  erfaigen  am       ments to the
+patient. Most patients do not feel the pulse measuring an2d their sleep
+                          besten mit 1,AePgertilen, daren Meflfuliler  1,-cieits  vorher  angelegt  wurden.  Die  Puls-       is generally not
+disturbed by this stimulus.
+                          zijlilung wird von den Fralsten  Patienten  nicht  walirgenommen  und  dieser  Reiz  im  all-
+                          gemeinen ohne Sttsrung des Schlafzust2andes tolariert.
+                          Nach Ablauf der Zeituhr  schaltet  sich  dos  Gertit  automatisch  ob.  Die  Ele@troden  ver-       When the time set
+on the clock runs out, the Electrodorm turns off automatically.
+                          blei6en in ihre r' Laec.  Bei  entsprechendor  Einricktung  (2  Liegestallen  for  ein  Geriit)     The electrodes
+remain in thei2r position. With an adequate equipment (2 bed$ for
+                          kann  nunmeh,  der  zweite  Patient  angesclilossen  werden,  wobei   der   Naclischlof   des       each Electrodorm)
+the second patient can now be connected without interrupting
+                          arstan  Potienten,  welch6r  bis  zu  20  Minuten  dauern  kann,  nicht  unterbrochen   wird.       the first
+patient's aftersleep, which can lost2 up to 20 minutes.
+                                        Durch die Anordnung des LB-Kegelschalendaches wird die stutzenfreie Ausbildung des kreisfbrmigen Be-
+                                        handlungsroumes ermoglicht. Die Beleuchtungsfldchen zwischen den Doclifldchen Ober den Forschungs-     
+LEGENDE;  d)     Zentroler Beobachtungs- und Scholutmid
+                           2             rdunien "F" und d
+                                                         cm LB-Doch kunnen durch Jolousien abgcdunkelt werden. Im Zentrum des LB Daches        
+Central control and switchboard
+                                        ins eine Heizungs- und Klimatisierungsoniage angeordnet.
+                                                                                                   2                                           
+Forschungsroum
+                                                                                                                                               
+Rese@rch room
+                                        The LB roof provides a large circular room for thcr=d medical treatment without supports or distur-
+                                                                       2                                                                       
+9) Ringf;jrinigat Verbindungsg'ang
+                                        bis-,g columns. One single operator can control all        r@9 patients from the central coiitrol and
+switch-
+                                                                                                                            9                  
+Circular corridor
+                                        board (d). The windows between the roof above the research rooms (O and the LB roof can be darkened
+                                        by louvers. The utility box with air canditiot-wing and heating device is locate(,' in the center of
+the roof.
+
+      l,ver
+      ic trcf-
+      @t in-
+      1,r the in-
+      the eliec-
+      !cans or the
+      those pa-
+      acoustic
+      Intensity Is
+      After a
+      During
+      .,ision is
+                                                                                                            2tOO
+      urements
+      lig imiru-
+      ,ir sleep
+    2  ically.
+      ds for
+      @upting
+                                                                                                                                      9
+                     'PLO
+      ischoltttr.@ii
+      :ird
+                                                                                                            32.00
+                                                                                             2                                                 
+9
+                                                                                                                                               
+10      20
+                                                                                                                                               
+ft
+                                             2                                                                                                 
+4====-R
+                     0-4
+                                                                                                                                               
+SCHNITT
+                                                                                                                            0                  
+CROSS-SECTION
+
+                                                                                      nktionellen'Aufbciu der Forschungsoni go. Die
+                                  Die Seltenonsicht des Gebtludes zeigt den  klaren  fu                                    a
+                                                                                      dri0ko
+                                  forffiale Gestalt0ung wird weitgehendst von  der  Grun     nzeption bestimmt.
+                                  The side view of the building shows clearly the functional set-up of the research center. The cir-
+                                  cular layout governs the whole conception.
+
+                                                                                       .7777
+                                                                                                                                               
+110
+                                                                                                                   2                           
+..........
+                                                                                                                                               
+ft
+                                                                                                             3                                 
+SEITENANSICHT
+                                                                                                                                               
+SIDE VIEW
+
+                                                                                                                                               
+LEGENDE:  1) Netzschatter
+                                                                                                                                               
+Power switch
+                                                                                                      2                                        
+2)  Frequenzregler
+                                                                                                      Et praktisch unbegrenzte Lebensdauer.
+Durch                                 Frequency control
+                                    troschlafgerat Elektrodorm I ist voiltransistorisiert und besit;
+                            Das Elek                                                 2                                       II sehr klein und
+stobsicher                      3) wo'hischalter fUr lmpulsdo
+                            Verwenden von Transistoren und einer gedruckten Schaltung konnte der elektronische Te                              
+urr                    Oh
+                            ousgefuhrt werden. Die Schaltung ist kurzschlubsicher ausgefuhrt, so daB die Elektroden auch bei maximaler Aus-    
+Selector switch for pulse doation                 44
+                            gangssponnung zusammengefohrt werden ktsnnen. Elektrodorm I arbeitet nnit Kleinsponnung und ist daher volikom-
+                            men ungefdhrlich. Die formschi5ne Gehtiusekonstruktion erfulit stimtliche Forderungen der Proxis.                  
+4)  Ausigangsrealor
+                            .Die Bedienung des Gertites lst von grt$Bter Einfachheit. Die Beschriftung wurde mit einfachen Symbolon durchge-   
+Output current adjustuott
+                            fuhrt, domit das Gertit erstens sehr ubersichtlich ist und zweiten2s international verwendet werden kann. Fur Dreh-
+                                                                                                                                               
+5)  Netzsichenog
+                            kndpfe und Drucktasten wbrden verschiede.ne Farben verwendet, um eine Verwechslung In der Bedienung zu ver-        
+Fuse
+                            mcid2e                                                                                                             
+6)  Schaltuhr
+                                                                                                                                               
+Time switch
+                            The ele4:tro-therapeutic sleep apparatus Electrodorm I is fully equipped with transistors , and       its durat2ion
+of life                        7)  PrOftosto
+                            is unlimited. The use of transistors and F)ressed wiring permits the manufacture of very small and shockproof elec-
+Test push switch
+                            tronic parts. The wiring set-up is short-clircult-proof, which makes it possible to connect the electrodes even    
+8)  Patiententasto
+                        2    with a maximum output voltage. Electrodorm I operates with smallest voltage and bears therefore absolutely no
+                                                                                                                                               
+Patient's push switch
+                            danger. The apparatus is loyed out very nicely and meets all technical and medical requirements.
+                            Electr               2     operate. To fac                                                                         
+9)  StrommeBgertit @kalenbahchtet)
+                                  0(iorm I Is easy to                   ilitate international usage and easy operation, all. push buttora are  
+Currint-meter 6cole illun@Date
+                            m2arked with simple symbols and different colors.                                                                  
+10) Oszi I lographenonschius
+                                                                                                                                               
+Oscilliscope ronnekion
+                                                                                      8                                                        
+11) ElektrodenamchluD
+                                                                                                                                               
+Electrode conroxion                                44
+
+                    wip
+                                                                                        stop
+  on
+                                                                                                     20                                        
+10
+                                                                                         60
+                                                                             9                                               ELIEKTRO
+
+                                                                                        die nit 24-kartitigern Gold vergoidet sind. Sic sind
+mit
+                            Die Elekil-rodein bestehen au$ angmaschigen Kupferneizen,
+                                       fpolster unterlegt und in einem Gummiband gelagert, so dafl sie sich an don Anlegestellen, can den
+                            Schoumstof
+         2                   Augen  nd !in                          I                                        kein  nongenehmes Druckgefohl
+                                          Nacken des Patienten (sehe Bi Id), bestens anschmiegpn und ihm         u
+                            veru",,uchon.                                                                                                      
+LEGENDE: 4) 'Ausgangsre26lor
+                                                                                                                                               
+Output current adjustment
+                            Feuchte Gazestreifen kt)nnen durch die dafur vorgesehenen Loschen uber die      Clektroden gezogen werden, um
+                                                                                                                 2                      s
+                            erstens durch Befeuchten mit Leitungswasser einen guten Obergangswiderstand zu erzielon und zweiten'dem Po         
+8)   Patiententasto
+                                                                          ngeftihrlichen Elektrode zu venchaff@n.
+                            tienten dos Gefuhl einer hygienischen und u                                           2                            
+Patient's push switch
+                            Nach,;knlegen der Elktroden und AnschlieBen des Kabels an dos Schlafgertit Uber die DUchse I I und Vorwuhlen       
+9)   Strommeflgertit (skalenbeleuchtet)
+                            der gewunschten Behandlungszelt wird die Patiententaste 8 gedrockt und der Ausgang des Gartites auf den Pa-        
+Current-meter 6cale illuminatecq
+                            tienten geschaltet. AnschlieBend wird mit dem Ausgangsregler longsom hochggr,agelt bis der Pcitient ein leichtes
+                            "Prickein" unter den Augen- oder den Nockenelektroden angibt. Nuch einer"kie,inen Gewuhnungspouse@, in der         
+10)  Oszillo.(;raphenanschluO
+                                                                                                                                               
+Oscilloscope connexion
+                            dos Prickein vergeht, w.ird eine weitere Steigerung um 0, I - 0,2 mA vorgenol@nmen und sodann am Gartit nichis
+                            mehr vartindert2.                                                                                                  
+11)  ElektrodenanschluB
+                                                                                                                                               
+Electrode connexion
+                                                                                                                                              
+2                         12) Transformator
+                                                                                                                                               
+Transformer
+                            The electrodes consist of a fine copper wire net, gilt with gold containig 24 carats. They are     fixed on a
+rubber
+                            bond and cushioned with foam rubber to fit perfectly the patient's eyes 2and neck without causing disagreeable     
+13)  Schuko-Gertitesteekdose
+                            pressure.                                                                                                          
+Plug
+                            In order to provide a good connexion resistance and to iive the patient the Impression of a hygienic and harmless  
+14)  Erdungsschroube
+2                            electrode, wet stripes of bondage can be inserted into the tappets of the electrodes provided for this purp@se.   
+Grounding bolt
+                            After fixing the electrodes to the patient's eyes and neck and connecting the,cable with the apparatus at the
+                                                                                                                                               
+2         15)  Gedruckle Schaltung
+                            electrode connexion plug (I i), the operator selects the desired duration of treatment and presses the patient's   
+Wiring diagram
+                                                    torting the treatment. Then the output is slowly increased by means of the output current
+                                                                                                       2                                       
+16)  Skolenbelauchtung
+                                                                 a slight "prickle' under the electrodes. After a short adjuitment pause, the  
+Scale illumination
+                                                                  increases the output again to 0. I - 0.2 MA. No further changes are made
+                                                            3    the apparatus automatically.
+
+                                C4       Ln
+                          co
+                                  ol
+
+                                                                        THERAPIEZENTRUM
+                                 Neben den Forschungsstlitten wird die Anlage einer thempeutischen Station Von besonderem Wert sein. Derartige
+                                 Therapiestationen ktsnnen naturlich ouch als selbstlindige Heilschlofsanotorieti errichtet werden.
+                                 Auf gleicher GrundriBbasis wie2 die Forschungssttitte aufgebout, verbindet these Aniage ldecle
+Behohdiungsvorous-
+                                 setzungen mit dem Komfort eines Sanatoriums.
+                                                                      THERAPE       UTIC  CENTER
+                                 A therapeutic center next to the research center will be of great value. Such therapeutic centeri can also be
+                                 ere0cted as separate therapeutic sleep sanatoria.
+                                 The basic layout is the some as the research center's, so that this arrangement provides ideal conditions for
+me-
+                                 dical treatment combined with the comforts of a sanatorium.
+
+            cl-9
+                                                                                                     ft
+                                                                                         SEITENANSICHT
+                                                                                              SIDE VIEW
+
+                                                                                                                                               
+rep  naufgang zum
+                                     Der Gong "g" verbindet von ouben her einerseits sie Rtiume mit den Schlafkolen und erschl;egt andrerseits
+d e                        LEGENDE-      a) Eingangsholle2 mit T      pe
+                                     Rtiume  fur  die  Patienten  mit  stationtirer  Behandlung  sowie  die  Krztebesprechungs-   und  
+Experimentalrtiume.    Jeder                              Schwimmbod
+                                     der  Raume  fur  stationtire  Behandlung  "f"  kann  sowobi  cis  Appartment  cis  ouch  cis 
+Mehrbeltzimmer  verwendet   wer-                  2       Lobby with staircase to the terrace and the
+                                            aturlich besteht die M13glichkeit, einige dieser Rtiume als Laboratorien ouszustatten.             
+swimming pool
+                                     den. N
+                                     Von  der  Eingongsholle  "a"  ist  die  Dochfltiche  des  Gebtludes  erreichbor.  Dos  Do@h  ist  cis  
+LB-Kegelhtingescholen-                     b)  Aufnahme
+                                     dach  ousgebildet  und  ermliglicht  eine  weitgehend  stutzenfreie  Konstruktion,  wodurch  die 
+Flexibilittit   des   Grund-                         Reception
+                                             holien ist. Es ist naheliegend und ouch von besonderem Reiz, die gegebenerorm der
+Dochkonstr2uktion
+                                     risses er
+                                                                                                                                               
+c)  Buro   L,
+                                                                                 'enten ouszunutzen.
+                                     gleichzeit;g cis Schwimmbod fur die Patt                                        2                         
+Off ice
+                                                                                                                                               
+d)  Untersuchungsroum
+                                                                                                                                               
+Medical inspection
+     2                                The circular corridor (g) links  the sleeping cells with  the  apartmentrand  the  sick  rooms  as  well 
+as  with  the  rooms
+                                     for research and medical inspection and the offices. All the rooms for stationary treatment (o con be used
+as apart-                               e)  TeekUche
+                                                                                                            2                                  
+Kitchen
+                                              as sick rooms wit                                               'ty to use some of these         
+ories.
+                                     rnents or                   b several beds. There Is also the possibilt                             rooms 
+as  laborat
+                                                                                2                                                              
+Apportments, bzw. Krankenzimmer
+                                     The roof with terrace and swimming pool con be reached from the lobby. It is an LB conical shell roof pr
+vidin
+                                                                                                                                               
+9
+                                       2                                                                                                       
+0
+                                                                                                                                               
+Apartments, sick rooms or laboratories
+                                     flexibil;ty for the general layout due to its construction, wich requires a minimum of support.
+              2                                                                                                                                
+9)  Verbindungsgang
+                                                                                                                                               
+Connecting corridor
+                                                                                                      2                                        
+b)  Behandlungsroum mit Schlafkolen
+                 I   tl..                                                                                                                      
+Room for therapeutic treatmer* with
+                                                                                                                          2                    
+sleeping cells
+                                                                                                                                               
+1)  Zentraler Beobachtungs- und Schaltstand
+                                                                                                                                               
+1               Central co
+                                                                                                                                               
+ntro.1 and switchboard
+
+                                                                                             Ab
+                                                                                                                                               
+WV=
+                                                                         4,
+       ,'Fgang zum
+       @errace and the
+                                                                 2                                                                      lqp
+                                                                                                                                            9
+                                                                                                                                               
+f
+       ::immer
+       iborotories
+       Ilojen
+           with
+                        4r-
+                                                                                                                                               
+10      20
+         Schalhtand                                                                                                                            
+ft
+        ord
+                                                                    3                                                                          
+ERDGESCI-IOSS
+                                                                                                                                               
+MAIN FLOOR
+
+                                                                                                                 nloge winter-       LEGENE)E- 
+Liegeterrasse
+                                                                                                                                               
+Terrace
+                            Die kreisf)3rmige Liegeterrosse ist teilweise oberdcicht und es bestebt die Mt$gli2chkeit, die Gesomto
+                                                                                                   lten werden ktlnnte.
+                            fest zu verkleiden, wodurch der Bodebetrieb dos ganze Johr hindurch aufrechterha
+                                                                                                                                               
+k) Schwimmbecken
+                                       2                                                                                                       
+Swimming pool
+                                                                                                                                               
+lnsel
+                                                                                                                which would
+                                                                              ility to cover the whole swimmin7g pool,                         
+Untility box
+                            The circular terrace Is partly covered. There is the possib
+                            allow the patients to swim throughout the year.
+
+                                        ,es
+                                                                                                                                               
+10,
+                                                                                                                                               
+2                                                    0
+                                                                                                                                               
+10           20
+                                                                                                                                              
+2                                                                                                                                              
+ft
+                                                                                                                                               
+SCHWIMMBAD
+                        9                                                                                                                      
+SWIMMINGPOOL
+
+                                 Dos LO-Doch und die tragenden Elemente sind als reine Stohlkonstruktion geplant. Die D6cke 06er den Raumen    
+LEGENDE-
+                                                                                                                                               
+Q   Apport@ients, bzw. Krankenzimmer
+                     2            "f" wird als Stahlbetonkonstruktion zwischen Stabitrtigern ausgefuhrt. Trenn- und Zwischenwdnde k?3nnen
+sowohl                                      Apartments or sick rooms
+                                 In mossiver als ouch in leichter Bauwelse mit   flexiblen Wdnden erstellt weeden.
+                                                                                                                                   2           
+h)  Behandlungsrtiv e
+                                                                                                                                               
+Rooms for therapeutic treatment
+                                                                                                                                               
+1)  Zentraler  Beobachtu2ngs-  und  Schaltstand  c
+                                 The LB roof and the supporting structure Is a steel construction. The roof above the     rooms     Is a
+reinforced                                  Central control and switchboard
+                                 concrete structure. All the walls can be made Interchangeable, depending on the general requirements.         
+4
+                         2                                                                                                                     
+Liegeterrosse                               4
+                                                                                                                                               
+Terrace
+                                                                                                             2                                 
+k)  Schwimmbecken
+                                                                                                                                               
+Swimming pool
+                                                                                                                                               
+1)  lnsel mit eingebauter Klim2atisierungs-,
+                                                                                                                                               
+He;z- und Umwdizaniage
+                                                                                                                                               
+Utility box (air condition, heating and
+                            0                                                                                                                  
+water cleaner)
+                                                                                                      BEIM
+
+                N01133S
+                IIINH3S
+                     log             6
+                                                                                                                                         OOK
+                                                                                                                                               
+2        PUQ Bul4oa4
+                                                                                                                                               
+66unia.
+                                                                                                                                               
+2                        4->
+                                                                                                                                               
+ldogt!
+                                                                                                                                               
+2                                p
+                                        t                                                                                                      
+PUDIS41040S   Put
+                                                                                                                                               
+9                                   4uawii
+                                                                                                                                               
+iaulwl!p-.
+                                                                                                                                         cow
+
+                                                                                                                                               
+4,
+                                                                                                                                          te-
+                                                                                                                       no
+           2                    Do% vorliegende Proiekt zeigt den Prototyp der Anloge eine"  Heitsc@lafzentrums  wobel ' turlich die versch'
+                               densten Varictionen in Hins;cht auf GrundriO und Ausstattung mt5glich sind. Mit diesem  Prolekt soll dem allge-
+                               meinen Dedurfnis nach Ruhe und Entspon2nung und allen domit verbundenen beilenden Effekten Rechnung getra-
+                               gen werden. Ein grober Schrift vorw8rts im Kampf gegen moderne Krunkheiten I
+                               This project presents the prototype of an electric sleep therapeutic center. All 'sorts or variations for tht.
+general
+                               layout and the equipment ore provided. The project is a modern soluti4on to meet the  general need of relaxation
+                               and sleep and their curative effects. A big step foreword in the fight ogo;nst modern diseases I
+                                                                                                                                               
+f
+
+                                                                                                                              Z LU
+                                                                                                                              Z
+                                                                                                                              LLI
+                                                                                          2                                    LLJ
+                                          lip
+
+                                                Box
+                                                    TITEPATURHINWEISE                LITERARY SOURCES
+                                                                              DIEF-r&Tg, H.E.  P.14. WAGENEDI.',R, ST.SCTW und R.        Strom-
+         ADIDAO',fA,)'k.L..- Behandlun,- des BettndOseni bei Kindern mittele                 0                                                 
+.1
+                                                                                               felder im Gehirn des l@ienschen wghrehd  des 
+Elek-
+                         Blektroach@laf.
+                                                                                               troschlafes.
+                         Ges2ammelte witsenschaftlic$ie Arbeiten
+                                                                                               Neurocllirurgis (im Druck)
+                         (Tachkenter t-led.Inst.) Band II,1961,5  101-105.
+                                                                              BSCHAWADJAN,   N.S.BAIINIKOI;IA, u. W.W.NIKOLAJI-I,!A:
+1.1,'ethdde Eur l,er-
+                                                                                               beifialrung von Eleictroschlaf und 
+71@ektronarkose.
+         AKERT,K.'V.Zi'. K04"-,LLL, and IIESS, R.,Jr.9 Sleep p,-@oduced by
+                         electrical stimulation of the thalamus.                               I-laterial der 14. Konferetiz der Physiolot;en
+aus dc
+                                                                                               Bttden der UDSSR.
+                         Am..Tourn.Phy6iol. 1952. 168s260-267*
+                                                                                               Krasnodar, 1962 Seite 92-93.
+         AK2II-10@TO,n, el-. al.:- On sleep ind,.tced ihrough electrical        DULBT-..IRGER, L.E.: Kann kitnstlicher Behlaf Zeit sparen?
+                                                                                             "Blectronis" 36 (1963) 21,10-21
+                         stimulation on dog thalamus.
+                         Polin p6yhiat.ndurol.@ad.2tl956olO:117-146
+                                                                               DY14EZKAJA-KIGEL, L.I@t.: Die kominie--,te TheRiie von Schizo-
+         B@NSCHTSMUOVL                                                                       phrenie mit Insulin und Elektroschla
+                              u. B.I.LEBEDIZSKAJA# Bedeutung 2   des Elek-     i
+                                                                                             Aus: 125 Jahr.4--der Permsker psychoneurologischen
+                         troschlafes bei der Behandlung von  l,eurosen,  trau.,
+                                                                                             Klinik.
+                         matischen Affektionen und Gefgsserkrankungen des
+                               2                                                              Permp                 -132
+                         G6hirns in Verbinduna mit dem Agrypnie-Syhdrom.                           19610 Saite 128
+                         Arbeiten des I.Moskauer Yed.Inst.Band 25,1963
+                                                                               PAVOLI, B.,   C.LOEB,-G.T-.ROSSI and G-SA2CCO:  BEG 
+Synchronization
+                         Beite   385-398.                                                    and Behavioral Signs of Sleep Following Low
+                         Vor dem Text unA im lhhaltsverzeichnis 2.Autort                     PreQuency Stimulation of  the  Briin  Stem 
+Reticular
+                         E.r..KULIKO@!IA (LIBEDINgKAJA),
+                  2       Bibliagraphie.                                                      Formation.
+                                                                                             Archiv6s Italiennes de Biologie, Vol.XCIX,
+         BOLOTOlfA, Z.Fi. und G.S.MRJAWZEWAT   Wirkung des Blektroachlafda
+                         auf die Dynamik der   unbedingten Oefg0refl.exe                 2    Pasco .1, Jan. 1961
+                         bei der Behahdlun,, von rieurosen.
+                                                                               Prolow     P.P.t Punktionaler Zustand doe WervensysteLi@ bei
+                         Aus:. Das Gehirn und die Reflexsteuerung.
+                                                                                             einigen juckenden Dermatosen wuh2rend der
+                         Kiewi 1963, S. 93@-95                                               Blektroschlaftherapie.
+         BMATO;F  P@X., P.I.. SUL und L.A.TSCHET"t IKOIIP.: Zur Fraee                        Wiseen6bhaftliche Schriften des Wiseenschaft-,
+                                                          2                                   lichen Gorkij-Porschungainst. PUr Dermatholo-
+                         der Behandliing von Bkqnchialasthrta mittels,
+                         Blektroachlaf.         I                                            gie und"tenerologie HZ PSFSP und Lehrkanzol
+                         Aust Bronctiialaothma.13.Auegabe Le,.linerad,               2        fOr Hautkrankheiten GGHI, 23, Auegabellg62,
+                                                                                                       -161.
+                        .1962, 8 246-257                                                     Seite 154
+                                                                                             Bibliographic
+                      IP.I.BULL und L.A.TSCH@,'I;!B.3RIKOWA: Zur PrRee der     1(;ILJP.40SKI W.A   .@I.LII,17-eNZEW, SEGAL Ju. Je., KIRITLOA:
+                         Elektroschlafbeh4n4lii@ff von Krnnkpn mi.t A.sthTna                 Bi.ktroachl.af
+
+                         'HOOI)yi J4B4      ,Die Anlage 11'                                              -1                                    
+I '                     .  ..  , -
+                                                          Plektroachlafapp            of
+                                                                                                             KONOWALOIF2A 14.Zv: tlb-- die
+Behandlung Aron          Thantomachmerzen
+                                            Iriedo lhdustri6 1957 ]3and it          S*-57                                          m*,,-ls
+"Blektrogon".
+                         JABLrj.'iX .8.@ ... BUI@O@-F,,@TZKI4 L*D.            L.D.    ti2* Kot                                      Arbeiten   
+des    Inst.    der    expekimentellen    und
+                                            *Iherapi6 von!iuckenden Derm6tosen mittels                                             klinischen  
+Ohirurgie.        Alt.Kae.SSR'.Alms-Ata,
+                                            Elektroschlaf.    Die    Wirkung    des     Plektrosohl2afee                            1961, Band
+7, Seite 51 -@@54.
+                                            auf den Grundstoffwechsel,.I@.agensektretion,
+                                                                                                             'XOSSOWSKIJ   L.   W..-
+Blektroschlaf       b
+                                            wgrmeregulierenden Reflex, Blektrowiderstand                                       2               
+ei  der   V. handlung des
+                                            der Haut und'Kohlehydratetroffwechgel.                                                 Glaiikoms.
+                                                                                                                                   Gesanimelte 
+Arbeiten    tier    Augenklinik    des
+                                            Arbeiten    der    5.Unionstagung 2    der     Dermat.-Venerolog,,,
+                                            Leningrad, 19610 S. 203-206.                                                          
+Gorkij-Med.Inst.    Gorkijt    1960,    Beite     40    46..
+                                                                                                                                               
+-oschlafos           Ir
+2                         JELTAKOW   MO   M.   Und   anderei   Blektroachlaf   dnd   Hypnoge   in    der      XOWALEWA   E.Ja   i fter die
+Vfirksamkeit des Elekti.
+                                            Dermatologie.                                                                          in der
+Psychiatrischen Xlinik.
+                                                                                        2                                           Arbeiten
+des I. I-look.Med.Inst.Bdnd          25,
+                                            Tioskau,  Iledgiz,   1963t   308   Saiten   nit   Illuatra-
+                                            tioner..                                                                               1963, S. 407
+- 411.
+                                                                   2                                          XRASIK L.   B.:   Behandlung der
+Chorea minor,,bei Kindern
+                          -RENKOW        W.A. und TWING B.I.: Die Anwendung des Elektroachlafes
+                         JE                                                                                                        mittele
+verl'a'ngzertem bedingt reflektorie,.I@e.              C,
+                      2                      und   des   Nedikamentenschlafee    in    der    komplexen'
+                                                                                                                                   Schlaf und
+21ektroschlaf@.
+                                            Therapie    vonirheumatischen    Affektionen    des     Her
+                                                                                                                                 2 
+Koreakow-Zeitachrift derneuropathologie und
+                                            vensystems bei Kindern.
+                                                                                                                                  
+...Psychiatrie.   Band   60,    7.@Ausgabe,    1960,
+                                            Arbeiten des  ilugansker Med.Inst.Band 6,
+                                            Pra2gen der K@inik                                                                     
+..Peite..811 -816...
+                                                                  der Pathophysiologie und die,                                                
+.0
+                                                                                                             KOZ. I.I.. I    Grundatoff@. h@.
+                              2              Behandlung von psychischen Erltrankungen.                                                     wee
+eel und funktionaler Zu'stand"'-.""
+                                            4. Auf ]Lage, 1.963t S. 184      187.                                                  des 
+klat_,Prs   bei   Ekzetakranken.   Aurwirkuiig   des
+                                                                                  2                                                
+-Plektroschlafee     auf     Grundatoffweehoel     und
+                                            ROSTIER, K'o P, 3),
+                                                             _qr.SSY,'ER' ;
+                                                                                                                                  
+Viagenselctetion.
+     2                                         ExpArimentelle             Untersuchungen ilber den
+                                                                                                                                   Aus: Fragen
+der     Dermatholog
+                                                                                                                                               
+is und der
+                                              Bleitroachlaf.                                                                       Venerologie.
+2.     Auegabe qrenburg 1962,
+                                              Arch.  Ph@nik. Therap. 9 1              20  '-24,    1957
+                         KOEPPMI  8*.                                                                                              Beite 21 -
+28.
+                                                  2                                                                                            
+Ir
+                                 und  EICHLER R.t Die:'modetne Elektrotherapie 4in-                          LANINA B.    A. 1 gur Frage d
+                                              schlieBli0h            Blektrbheilsdhlaf.                                                 2      
+er Anwendung     des Flektroochlafoo
+                                                                                                                                   in der
+Klinik tUr Innere Nedikin.
+                                              Elektromedizin 6, 1961 Hr. 2            (98   103)                                   Gesammelte  
+wiseen
+                                                                                            2                                                  
+schaftliche     Arbeiten      des
+                         KOEPPEN  S.      und BICHLI-',R R. Der Elektroheilachlaf                                                 
+I'loronesch-Fiilitgropitals.      Boronesch,      1960         F'
+                                                                                                                                   3. Auegabe,
+Seite 119 - 120
+                                              Blektromedizin 5, 1960, Nr.          1 (  26     55)
+                                                                                                             LEDUC,   S. s  Production   du  
+solleil   et    de    I'aneethesie    ge-
+                         KOEPPEN  St      Und EICHLER RI-. Unterouchungen Uber Blaktro-
+                 2                                                                                                                  nerale et
+loc
+                                                                                                                                               
+ale par les'cotirants electriques.
+                                              heilechlaf in der inneren lledizin.
+                                                                                       2                                            Competes  
+Rendub   409    Seances,    Academie    des
+                                              1-tedizihische Klinik Jahrgang 58, Hr. 36,                                           Sciences, 21
+Julliet. 1902, 135 - 99.
+                                              S. 1492 - 1495
+                                                                                                             PIAKSANOW M.P.   2 und TR08CHIN
+W.D.: Unsere Erfahrungen             ibit    der
+                         KONMSCHPilfKO      W. T.  -   Der   Tratim   i-igbrend   des   Blektrbschlafes.                          
+1,;lektroachlaftherapie.
+                                              Pdwlow-Zeitschrift der hbheren iferventdtigkeit,
+                                                         2                                                                         
+Wisabnachaftliche Schriften de-a Gorkij-14ed.Inst.             f,'
+                                              Band 13, 1. ).useabe, 1963, Beite 57-61.
+                                                                                                                                   14. Auegabe,
+1962, Beite 231-2934.
+                                              Resumee    in     englischer     Sproche6
+
+                           Pi  SDRIKOVA II.W.     und BLOCIIIIIA W.P. i Uber dW -hwendung                      WAO@PITEDERT P.M* I0
+S'7"UY,St.,GENSI-M, R.:
+      @it unA,                                    des Blektroschlafes bei reaktiven ZustunAens                                     
+Potentialmessung2en im'Hundehirn wabrend
+                                                                                                                                    der
+Durchflul@@ung nit Impulastrbman.
+      i-Atat                                      Genammelto Arbeiten des 1)njeprpetrowaker tled.
+                                                  Inst. und des Dnjepropetrowker klin.                                              Der
+Ana2eothesist 13, Heft 11 (353-356) 1964
+                                                  Metschnikow-Krankenhauses. Dnjepropetrowskt
+                                                  1960, Seite 453-455.                                           GENEDER,P.M. und RAFN-        
+H.: Blektrok     ilechlaf
+                                                                                                               Wk     2                        
+a
+      .1.                                                                                                                          @(eine neue
+Therapietorm)
+      1.0                  ROBINOVITCH,     L.G.t So&moil electriqud.
+                                                                                                                                    Der
+An2aeothesist (im Druck)
+                                                  Nantes.   1906.   A.   Dugas   and   Cie. 98 pp.
+      40    46.
+                           ROIT   IMURO   S.i   Erfahrungen   in   der    Bebandlung    der obli-              -IFAGENEDER, P.M.,              
+HI,.IINER, H.: ZUr Verdnderung der
+                                                  terierenden Endarteritis mit dem Apparat                                          cerebralen
+Hagmodynamik w4hrend deselektro-
+                                                  "Elektroson".                                                                     schlafes.
+                                                  Reue chirurgisch6 App. und Instrumehtep                                          
+Dtach.med.iourn.(im       Druck)
+                                                  2. Auflage 1958, Beite 77-82.
+                                                                                                               MISCHNEWSKAJA E.B.: fjber'die
+Rolle' des          Reflexfaktorff im
+                     4-    )SMDERIT       G., TSCHICALOFF     I-T.:     L'electro-     somneil
+                                                  (Der Ele2'troachlaf)
+                     a-                                     k                                                                      
+Wirkungsmechanismus       des Elektroacb-lafes.
+          Chem                                    Medicine   et   Hygiene    15    356:123, 1957                                    Arbeiten d.
+I.Moskauei-Med.Inst. Band 25
+                                                                                 2                                                   1963,
+Beite 399-406.
+           und           1SERGEJEW      GOW.s Erfahrun@en in der L'lektroschla--tbehandlung'                                       
+Bibliographie.
+                     r
+                                                  von Hypertortie-Kranken.
+                                                  Aus    dem    Behahdlungsihotitut     der A2kademie der       WITOLINSCH A. und BUTE A. t
+"Blektrosen" - ein neues Triodenhalb-
+                                                  sowjetischen Wiseenschaften. lloskau.                                            
+leiterelektroiieng6rdt fUr die Neurotherapie.
+                                     -OWSKAJA E.I.:    Anwendung    des     Impulestromes     niedrigeor        2                   
+Nachrichten der Lettischen SSR Akademie
+         des               SOfLkCHZl                                                                                                der
+Wiseenschaften 7962, No. I.Seite 105-
+                                                  Prequenz bei der komplexen Therapie von
+      ,;und                 !.
+                                                                                     2                                               110.
+                                                  Phantomachmerzen.                                                                 Resumee in
+englischer'Sprache.
+                                                  PraZOn    der    Balneologie,    PsychotherApie    und
+                                                                           960, No.2, Seite 109-113.           ZHELTA
+                 2                                 der Heilgymnastik. 1                                                KOV, M.M.,-SK71IPKIN,
+Yu.K. and 80,@IOV, B.A.:
+                                                  Bibliographie.                                                                  Methods used
+in.administration of electrically
+                                                                                           2                                       induced
+alecp.
+                           SCHATROWA   SOP.T   Wirksamkeit der Blektroschlaftherapie bei                                          Blektroson i
+Gipnoz v. Deimatologii4
+                                                  einigen BerufakrankheitenU                                   L                  @tedgixi
+Mocow, 1964.
+      ilea               2                         Arbeite@
+                                                           ygiene    und     Berufakrankheiten.     1963
+                     v--*                                                                                      OHRISTEL, H.    u.ORTi@aYER,W:
+Anwendung von Reizatrdmen            in der
+      "960
+                                                  Ilo.9,    5145-47
+                                 2                 Bibliogtaphie                                                                  
+Schlaftherapie.
+                                                                                                                                 
+Dt.Gea*Weo.10(1955) 4198-1334 - 1338.
+                           TURJLWA W.A.t    Die   Elektroachlafbehdndlung von Pationten
+                                                        2          d
+      itriques.                                   nit Ekz@m un  N6urodermitio.                                 KRULL,G:   Ein Gerdt fUr
+elektrisch induz'ierte Schlaftherapie.
+      l,les                                       mookau.,                                                                       
+Medizinalmarkt 6 (195q-:3, S-74-75.
+                     *I-*  2ULJKITOW  I-I.:E und   KdLLTPAJ@-,'W G.Plt Zur Ptago Ubei      die Blut-            STRATJSS#  B. et al. New Jork
+I-Ted. College New York, N.Y.) p 514
+         der                                      bildvergnderung     wuhrend     des     Blektroachlaf&                        Elektrical
+induction of sleep
+                                                  Bericht'der ex ere2m.Biologie und I-Iqd.Band7@4q,                               -Thd American
+Journal of       the Medical, Stiences
+                                                                   P                                           L                  248   1964)
+No. 5
+        l,led.Inst.                               WO-5,i960, Selte 51-54.
+                                                  Resumee@ in englis0cher Sprache.
+
+                                                                                                           J. ODELGA
+                                                                                                           Arztl  ich  -  techn. lndustrie,
+GmbH.
+                                                                                                                'Gonglbouergasse I  I(teke
+KoppsttaB2e 61
+                                                                                                           W i e n  XVI  / @,AUSTRIA
+                                                                                                                                               
+Bli4-,D-E,R- &,-CO--.-
+                                                                                                      2                                        
+n
+                                                 L)R "VEREIRENf4UNGSMOTOREN                                Po-@onschrift      Wi  107, Postfach
+105                              Stahlbau,  Ftsrder-   und   Aufbereltu
+                                    ANSTALT F                                     2                                             en
+                                                                                                                                               
+ngso  logen
+                                    Prof. DDr.h.c. Hans L I s t                                           I Telefon:          92 16 01
+                                                             2                                                                                 
+..Flmmnsitzi
+                                                                   bsor4tolt                               Telegromme-'       Mec@v            
+G I o I s d o
+                                    Stactlich autorisierte Versue                                           2                      ood Wien.   
+AUSTRIA
+                                                             zh, Bou vpn Prototypein,
+                                    Konstruktion und Versu4
+                                                                                                                                               
+0 31  12/ 21 36
+   2                                         ie elektron. und mechan.1 MeBgerdten                                                              
+Telefon:
+                                        sow
+                                                                                                                                               
+Telex:         1551
+                                    KleiststaCe 4&a                                                                                            
+brf
+                                                                        i                                                                      
+Telegromrm.    Stahibinder      Gleisd
+                                       r a z / AUSTRIA
+            2                                                                                                                                  
+Buro:
+                                                   94  1 71
+                                    Toletom                                                                                                    
+Linde@gasse 37
+                                                        2                                                                          0 w         
+WI en  vii  / AUSTRIA
+                                    Telekt          1379
+                                    Telegrarnme:    eroflist. Grat                                                                             
+93  42  76,  93  15  87
+                     2                                                                                                                         
+'!Telefont
+                                                                                                                                               
+;Telex:
+                                                                                                                                               
+7                             e
+                                                                                                                                               
+UTel gra,"Ie    stahlbirder Wien
+
+                                                                6
+

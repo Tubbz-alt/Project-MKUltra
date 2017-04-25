@@ -1,0 +1,1910 @@
+                                 ELL, CTRICrisiill,,,Vj-:STIGATIOI-4
+                                            -Fin.,ii Report
+                                      coiitract
+                                                8 llarcil 1973
+
+                                                     ILLUSTRATIONS
+                                                                                                                      Page
+                  1        Mautluier cells                                                                               4
+                  2        Electroreceptors                                                                              6
+                  3        Cranial iiel-ves of Eleci@-.-i)pliorLis                                                       8
+                  4        Microelcctrode amplifier                                                                      13
+                                                                                                                         13
+                  5        Microelectrode amplifier.  schematic dia,-ram
+                  6        Loss in -dB with increasing f2requency                                                         14
+                  7        Loss in -dB with increasing repetition rate                                                   15
+                  -.8      Device for sharpening metal electrodes                                                        17
+                  9        Device for applying silver chloride                                                           17
+                  '10
+                2           Potentiomet,ic device                                                                         19
+                  11       Device for me,-tsuring niicroelectrode resistance                                             19
+                           Amplification factor, square wave                                                             20
+                  11A
+                  11B      Amplification factor, sinusoidal wave                               2                          21
+                  iic      Recordinos at different square wave                                                           22
+                  11D      Recordin"s at different square wave                                                           23
+                  12       Adjustable Lticite Tray                                                                       27
+                  13       Instruliientatioii for Anaesthesia              2                                              27
+                  14       Solution 1:10000 in water on Stcrnarchus -Lll)ifrons                                          29
+                  15       Sterii,,irclius .ill)ifrons i'@7 normal electrical activity                                   31
+                  16       Sterii-,trclitis  all)if-rons  #7   in   anesthetic  2 tricaine   inctliaiie                   31
+                           sulfoiiate, I miiiute
+                  17       Stei-ii.,trclitis  ,ill)ifroiis  llr'7  in,,tncstlictic  tricaiiie  mcthmic                   31
+                           sulfonatc, 2 mbiutes
+                  18       Stern,,irelius .ill)ifroiis 1!7  in.,ti-icsthetic  tricflille  rLICtIl"lllc                   31
+                           sulfoiiate, 4 minutes
+                  19.      StCrll-,Lre-Iiiis  -i.ll)ifroiis  lr,7  in  anesthetic  tricaine  metliaiie                   32
+                           sulfonate, 5 iiiiiiutcs
+         9         ?O.                                    reciil)cr.-itin,-,  5 ii-iintites                               32
+
+                                                                                                                                     I>a4rre
+                                21        Stern,,irclitis all)ifroiis recuper,,Lting, 8 minutes                                            32
+                                                                                                                                           32
+   2                             22        Set-up for microciectrode
+                                23        Stern-irclitis -tll)ifrons No. 1 just before amestliesia                                         33
+                                24        Stern,,trclitis ,Lll.)ifrons No. 1 maesthelizcd witli ti-dopental sodium                         33
+                                          (2 mili.
+ 2                                         Stern,                                      -lietized wi i thiopental sodium                     34
+                                25            irelitis qll)ifrons No. 1 anaest                      II
+                                          (13. 5 min.)
+                                26        Sternarchtis albifro-ns No. I anaestlietized witli thiopental sodium                             34
+     2                                     (37.5 min.)
+                                27        Sternarclitis albifrons No.       2 in aquarium water                                            36
+                                28        Sternarclius -dbif-rons No.       2 in MS-222, 10 minutes                                        36
+                                29        Set-up for recording                                                                     2        38
+                                30        Close-up of the set-up for recording;                                                            38
+                                31        Sternarchus ,Lll-rfj-oiis after d-tabocurarine injection                                         40
+                                32        Ampullary, tonic electroreceptors                                                                40
+                        2        33        Set-up for recording                                                                             41
+                                3.1       Anaestlictized,      curarized      Stei-iinrchtis      albifrons                                41
+                                35        Microelectrode amplifier                                                                         43
+                                3G        Preaniplifier                2                                                                    44
+                                37        S3,iiclironous tonic electroreceptor recording                                                   44
+                                3S        Nonsyilclironous pliasic electi-oreceptor recording                                              44
+                                39        Gvmii-.irclius   nilotictis    Cuv.    #2    electric    activity                                44
+                                .10       GNiiiiiirrlius     niloticus     Cuv. #3    electric     activity                                46
+                                -11       Cviiiiiirchus     niloticus      Cuv. Tlr2   electric    activity                                46
+                                -61-1     Cvi2iiii.,trclius    niloticus    Cuv. 1'1"2   electric   activity                                46
+                                          Civmitircliu-,    niloticus    CtiN,. #3    electric     activity                                4G
+                                          Cl-vilill'ircliiis iiilotic,lis  Cuv. i';-3 electric  'Lctivit-.y                                47
+                                          k;vii  ii-.irelitis  nilotictis  Cuv. 113    electric    activity                                47
+                                          C-viiiii-irclitis iiilotictis  Ctiv.  (baby) - tr-"nsvcrsil cut                                  48
+                                                                                  iv
+
+             F inii r e
+                    47        G_Ini-inarchus niloticiis Cuv.   air bladder and spinal cord                      49
+                                                                                                                49
+                    48        gvmnarchus niloticus Cuv. - spinal cord
+                    49        Gyn-iii,.xrchtis niloticus Ctiv. - brain             2                             49
+                    50        Delafield - Harris hematox-ylin staining method                                   50
+                    51        Malaptei-urus electricus                                                          -t2
+                    52        Malal)tcrus clectricus on the scale                                               53
+                    53        Device for measurin,-, the2 voltage                                                53
+                    54        Discharges of the electric organ of Mal           rurus electricus                54
+                    55        Tonic, ainpullary electroreceptor                                                 56
+                    56        Phasic, tuberous electroreceptor                                                  57
+                    57        Tonic electroreceptor                                       2                      59
+                                                                                                                '60
+                              Phasic electroreceptor
+                    59        Ampullary tonic electroreceptor                                                   61
+                    60        Stimulus      recording                                                           61
+                    61        Tuberous pliasic electroreceptor  2                                                61
+                    62        Stimulus      recording                                                           61
+                    63        Electroreceptors of G@vin-narclius niloticus                                      62
+                    64        Under-,vater pattern recognition system                                           63
+                    65        Recordin-, from an anaestlietized, 2curarl--ed                                     66
+                              Sternarclius -.dbifroiis specimen
+                    66        'Alicroelectrode recordincr                                                       66
+                    67        Gymiiarclitis niloticiis - photo                                                  70
+                    68        G)n-iiii,,trclius ni.2lotictis - placeincnt of electric                            71
+                              transiiu'tilii- micl receiviii- org,,tns
+                    69        Fish  L,,tl)oratol-y  A                                                           72
+                    70        Fisli L.-il)or,.itol-y B                                                          72
+                    Tnl)lc
+                                             pittcrii rcco,,-nitioii system'                                    55
+                                                                  v
+
+                                                    SUMAIARY
+              The electric or,,,,,tiis of Stei-ii,-trclitis ill)ifro)is, a South American fresh water wealt
+              electric fish, li,,t-%,c been studied with emphasis on clectroreceptors.  The morpholo--
+                                                                                                       0
+              ic-al and i)hysiolo,,-ical characteristics of clectro@-eceptors, ampullai-Y and tuberous,
+              a.. e discussed. Special instrumentation  required  for  the  role  of  these  electroreceptors
+              in pattern reco-i-dtion has been developed.
+              We have recorded with microelectrodes the autonomous au2torhythmic electrical activ-
+              ity of the tonic as3,nclironous aiiipullary electi-oreceptors of the South American weak-
+              fresh water electric fish Sternarchus  all)ifrons.  NVe  have  also  recorded  the  elec t-rical
+              activit@,, from the phasic tuberous electroreceptors and of the synchronous an-ipullary
+              electroreceptors of the  same  electric  fish,  Stern-,irchus  albif-roiis.  Preliminary  meas-
+              urements have been made .  The electric dischar,-e of i'@Ialai-)terurus electricus, an
+              African fresh water stroii(r electric fish, has been measured in and out of water.  The
+              autorliythmic activit@, of the ampullal7 electi-oreceptors has been demonstrated.
+              We obtained some specimens of the  African  weal.:  fresh  water  electric  fish  G@,mi-iarchus
+              niloticiis.  They are supposed to be the most sensitive of aH the weak electric fishes
+              k-nown.  Together with two specimens about one foot Ion-, we received a number of
+              baby GNmn,-irclius nilotictis ,tbout two inches -loiicr.  TIie baby electric fish were in-
+              fected wi2th a Saprolc,,,qii-,i fimgus and could not be savcd, but we fL-,@ed a number of
+              them in buffered formaldehyde and one of them has been cut and mounted in paraffin
+              for histolo-ic,-LI studies or the electric or-ans.  Preliiiiin,-Li-y meistii-cments have
+              been made on the coiiimuiiic.,Ltioi2i cipal)ility of .idtilt Gi,iiiii-,irelius iiiloticus.
+              A stud3, of the iiiestliotiziii,r effect of tricaine-iiietb-.tiicstilfoiiite (AIS9-22 FINTQUEL)
+                                          LI
+              on Sterii.-trelitis -tll)ifroi-is liis I)cLii Lii1ldcrt,-J@cil by plottiii,-, tinic for the anesthesia and
+                                               I
+              recover3, for difiereiit spcciiiic)is.
+                                                           vi
+
+               A study of an -,inaestlictic which does not affect the electric fish's electric org'.In
+               pulse repetition rate is presented.
+               Also, the effect of D-tiibocurariiie and the cotintcr-effect of neosti-mine has been
+                                                                                  LI
+               assessed for Sterii-irclius alb2ifrons. r-inally, some impronements  in  the  micro-
+               electrode recording instrumentation have been made.
+               The electric orcraiis of Sternarchtis -tlbifrons  a South American wealc fresh water
+                                         -udied  with  emphasis  on  clectroreceptors.  Recordings
+               electric fish, have been st
+               have been made from the asynchronous tonic as well as the synchr2onous tonic and
+               the asynchronous phasic electroreceptors. The  electroreceptors  are  part  of  the
+               complex lateralis line system of the electric fishes.
+               The other lateralls line system sensory receptors, lil,.e mechanical receptors and
+               displacement receptors, have been discussed as part of  a  general  hybrid  pattern
+               recog-ni't-ion system of the fish. A passive hybrid tm2denvater pattern  recognition
+               simulation syste'm has been advanced.
+               A simul,-ttine, model concept could be established for underwater patt,-rn recognition
+               throu,-
+                     .,Ii electric sensory receivers and electric fields.  More histological worl@: is
+               needed to establish the r,-,Iatioiisliip between different electi-oreceptors and their
+               innervation.  This is also needed for a realistic simulation system of the underwater
+               pattern recognition ability of the electric fishes.
+
+                                                  I.  INTRODUCTION
+                  En one of our previous reports, we described the morphology of the electric organ
+                  Df Sternarchus all)ifroiis, a we,-d@ fresh water electric fish from South America.
+                  We mentioned that the electric transmitting organ of Stei-narchus is derived from
+                  nervous tissue and no2t from modified muscle tissue lilce the majority of other elec-
+                  tric fishes.  This is mal@iiig Stcl-ii,-irchus different from other electric fishes: it
+                  has a very 1-d-h sic
+                              ID    ,q-lal r,-tte and the signal is phase and amplitude modulated.
+                  The form, rate, and amplitude of the signals emitted by the el2ectric fishes are as
+                  diverse as the forms and sizes of these fishes.  Some of the wealc signals are used
+                  to locate- objects or animals in their environment, or for navigation, species recog-
+                                              2
+                  nition, and communication.    The strona electric discharges serve for offense or
+                                                  3
+                  defense.  IVatanabe and 2Tal@eda  in,%resti(rated the effect of a-c current with a fre-
+                  quciicy close to tl-ic electrical signal en-Atted by Ei,-enmanilia.  When the applied
+                  pulses came within + 3 to 4 pps of the one eii-iitt,-,d by Ei,-enmal-u-Aa, the fish would
+                  chancre its rate by 4 to 5 pl)s in a direction 2xvliich increased tfie pps separation.  In-
+                  creasing the frequency of the applied a-c current in 1 pps increments caused the
+                  fish to shift its frequency correspondingly until it reached about 6 to 7 pps over its
+                  normal rate, when it would rei,ert to its orizinal rate.  We obtained similar results
+                  in c.%Wriments with Steni-,irclitis ill)ifrons, but the applied a-c signal was within 0. 5
+                  cycle of the signal of the fish, clemonsti--,ttin- how specific the ,Lpplied signal must
+                  be to elicit a chan,,c. in the Stc).-iiirclitis si-lial r,,ite: + 0.5 cycle is the range of se-
+          2        lectin-ity of the fislies' electrical trmismittinfr-receii,in- system.  The fact that many
+                                                               0          0
+                  fresh water -tlld set N\,.-itcr electric fishes h,-L-%,c never licen stu(UcLl may present some
+                  (lifficillues 5in ol)t.,Linin,- speciil ]@iii(Ls of elccttic fishes, and their care ni,.iy not be
+                                        C3,
+                  "ii easy tlisl@.  There irc, liowck-er, ciiou-Ii species to ciial:)Ic iil-.Iii3, c.%-pcriiiient@s.
+
+                    Very little is luion%,n 'LI)OLIt the electrical activity of marine electric fishes except
+                    12Mcdo -Lnd some rays. N,,ireine 13-irziliensis is tlic- only Izio-,%,ii marine electric
+                    fish having two different electric organs.  Bemiett 4  studied the mode of operation of2
+                    the electric organs of R,,tla c,-I,,LnLtria, a marine ciectric fish, and of the fresh water
+                    fishes 11@,-popomus and Stcrnol)y-,iis and compared them with  N,.trcine,  l@lormlrrus,
+                    Steato-,cii3,s, Gymi-iorl-i.-L      M,-il,-tpi2crurtis, G3rmnotus car,,il) ,and Electro-
+                    The main objects of this study were  the  form,  innervation,  and  physiology  of  the
+                    electi,oplates formin- the electric transmittin- organs.    The clecti oplates of.
+                    Hypopomus, Gyliinottis carapo, M-,ilal:)tcrurus, and some Mormy-l-idae have the same
+  2                  surface area and produce spil@:es durin- discharge.  The electroplates of Stenlopylrlus
+                    and possibly Eigenm-.tnnia have tino peculiar characteristics: there is a steady po-
+                    tential on which pulses are superimposed, and the resistance of the electroplates is
+                    similar at the peak or between the spikes.  The electroplates are of the type with a
+   2                 slow depolarization.
+                    In IiL-popomtis, l@lal,,tpteriii-tis, ,tnd most or the Morm@Tidae, the inner,,,,ation of the
+                    electric organs is through stalks.  The stall@.s may serve to amplit, depol.-Lrization
+                    until it would be able to invade the body of the electioplates.
+                    The disc2harge rate -,tnd duty cycle have been compared for electric fishes like
+                    Stcrnol)y,ni  (rate = 50/sce) and Eigcnm-,iiinia (r-,ite = 286/sec) with the Stemarcllidae
+                    (mo.%. 1500/sec).  Compared with mamm.-tli,-ui central nervous systems, peak- fre-
+                    ciucncies of the electric orc2riiis .ire not greatly different. The  R-,iishaw  coR  can
+                    cliscliarcre impulses ,it a rate of 1400/sec5  and neurons in the sensory path some-
+                                                                 3
+                                                                          6
+                    Linlr-,s produce btirsts at a rate of ibout 1000/sec.
+                          C%,,,tminitioii of (liscli-,ir-c'l).-tttcrn and or,-,mi function studies, it was noted that
+                                                  C.                 0
+                    Crtui(ifest7deriiicd tivo grotips of electric fislics: those that emit sigm-.ils at a constant
+                   8                                              2
+
+                  rate, and those that emit pulses with a variable rate.  r- or example, Gyr=,Lrcbus,
+                  Sternopygus, and Ei-cnmamii.,t,,tre in the constant rate group; Electrophorus,
+                  Gr,ithoneiiius potersii, Steatorron3rs, and I-Iipopomus belong to the variable rate
+                                4
+                  group. BemetL 2did not malze any connection  between  the  electric  fishes'  electrical
+                  systems, their environment, and their belianior.  No one investigated their evolu-
+                  tion, very little is known about their matin- or birthplace, and no one has reported
+                  the broodiig of electric fishes confined in water tai@@.
+                  Sternarchtis albifrons also has two kinds of e2lectroreceptors: tonic  and  phasic,  and
+                  they are autorliythmic.  These electroteceptors are sensitive to movement and di-
+                  rection.  The phasic electroreceptors seem to be related to informatioa regarding
+                  movement of objects near or around the fish..
+                  Acceptin- the principle of pacemaker activity in the brain, it seems that there are
+                  only a reduced number of command nuclei acting  on  the  2electric  transmitting  organ.
+                  It is also reasonable to assume that electrically mediated positive  feedback  must  be
+                  present; chemically mediated transmission would be too slow  for  the  repetition  rate
+                  of transmission which can attain under certain circumstances over 1, 300.
+                  Alautlmer cells of lower vertebrates (Figure 1) can be considered single cells
+                  2                                                                       8,9
+                  command system for the, axial musculature on either side of the body         In the
+                  hacketfish each Mautlmer fiber activates the muscles  depressin-S  both  pectoral  fins
+                                                                                   t@-
+                  and these cells thus constitute a bilateral command system for the depressor
+                   2      10,11
+                  muscles.      For e%-plaining the pacemakers action of the command nuclei in the brain
+                  of the mormyrid electric fishes a mutual excitation with positive feedba-ci@: has  been
+                  proposed. This theory would not work for  the  Mautluier  cells.  There  is  a  crossed
+                  inhibition between the Mautlner cells in the brain of the goldfish and it could equally
+              9    be effective in an electric or-an system.  There is a requirement of 1-d-h speed
+                  'If transniissl'o'n in s@nchronized systems like many of the electric tr-.insmittin-
+                                                                                                  0
+                  organs. This has been useful in predictin- sites where tr."siiiission has bccn
+
+                                                 JL
+                      -J 0
+                  CD                                                                              SL
+                  0
+                    CD
+
+                              -- - ---- - ----
+                    electrically mediatecl.  Positive feedback may be a "sinc cltia non" requirement for
+                    the pacenial@er nuclei of electric transmittino- organs.  There is proof of positive fced-
+                                                                                     12,13
+                    back in the mutual inhibition system of arthropod compo2und eyes
+                    Th) neural systems controlliiig electric organs have provided a large number of
+                    ex,.mples of electrically mediated transmission, which meets the functional require-
+                    mlnt for rapid communication between cells.  This mode of transmission also pro,.,es
+      t             to be able to mediate many functions often considered as restricted to chemically
+                    mediated t2ransmission.  The correlation between morphologically close apposition
+                    and electrotonic couplina- was considerably strengthened by the work on electro-
+                    motor systems.  This correlation helps to validate morphological identification of
+                    electrical transmission in other systems where electrophysiological analysis is
+                    not so simple,
+                    It is not known whether there is any relevance 2to hicrher systems of the organizational
+                    principles deduced from electric organ systems.  The next level of analysis of the
+                    electric organ systems may be no easier than the study of less specialized systems
+                    that are of more general interest. Some kmowledge is being obtained of afferent
+                    pathways from electroreceptors in weakly electric fish which have important inputs
+                    to 2the electric organ control system.  Both operant and respondent conditionin- of
+                    the control system can b@ obtained and conditioned response latency can be very
+                    short. It is not unreasonable that the complete neural pathway of the conditioned
+                    response could be obt,-ined in these cases.  The central connections are still
+                    minimally explored; one knows what -oes in and one can go from 2the electric or,-an
+                    SCI,eral synapses mitidromically.  The rewards for fillin- in the gap would be great,
+                    and prospects for at least some pro-ress are bri-ht.
+                    In.sternarchtis all)ifrons clectroreceptors are distributed o-%,cr the entire body.  The
+                                 'S'rccol)tors are vl-ry numer8ous as conipare
+                    i -asic tul)@--rou                                       d with the tonic amptillai-y
+                    rec!CPtors (rl-ure 2).  The density of receptors is greatest in the head re-ion ind
+                                                              5
+
+                                                                                                 pullary Receptor
+                                                                               Tonic,  Am
+                                                                                 v                iI   v
+                                                                                      for
+                                                                                   2   f
+                                                                                 Phasic Tuberous Receptor
+                                                                                                        'V
+                                                                                   v
+                                                                              ...     ou  ter'
+                                                                                  2     fac
+                                                                                                                             r
+                                                                                          ne
+                                                                                            -face
+                                                                                                                                       rnal,
+and
+                          2                                                                       receptor         externc3l, int
+                                                                                                       cell             skin  resistances
+                                       gil i,c  2       Ail:itoiiiic-al dia-i-.-tms -inci cqtii\-.ileiit circiiits of cicctroreceptors in
+      2                                                  frosti watcr clecti-i(! fisli:  (a) toiiic,  ai)il)tillary receptor an(I (1))
+pli-.isie,
+                                                        Itil3ci-otis rocci)tor.   Diitrr-iiiis are slikl\vtl witli ilic cxtei-nil iii2(,diulii
+to
+                                                        the top.   'I'lic si@in .ui(i wall of i-c(,cl)tor ea,%-it ics :ii-(,. Rlio%%-ii iii
+cross
+                                                                                       'I'lic tipeiiiii- to Llic c.,cterior of 1)liisic        
+c.  -ity
+                                                        s( etioi as Iiiies.                                                                    
+'1'%
+                                                        is sliowii is o(-citi(lecl ]-)y -i poi-otis iiia.9s.   'I'lic iici.,%-c fil)(!rs
+iiiiie-i-5\,:Ltilig"
+                                                        receptoi-                ,tre    iii(li(-.ited.
+
+                    falls gradually to,@%,ard the posterior end. There are minor morpholo-ical subdivisions
+                      thin the phasic and the tonic receptors, but no physiological correlations have been
+                    %Vi
+                    yet obtained
+                    in r, icrure 2 the equivalent circuits of tonic, ampullary and phasic, tuberous organs
+                    is shown.  Cross sections tlirou2,-
+                                                    ,h the receptors are shown with the external medium
+                    to the top.  The skin and walls of the receptor cavities are represented by lines,
+                    innervation of the receptor cells is indicated.
+                    The electroreceptors  over the entire body are innervated by the anterior lateral line
+                    nerves, a large branch of which runs posteriorly to join the posterior lateral2 line
+                                              17
+                    nerve just behind the head   (Figure 3).  The posterior lateral line contains only
+                                                                                                 18 19
+                       chanoreceptive fibers which come from free neuromasts and canal or-3ns
+                    me
+                    'nie receptor cells of tonic receptors appear to behave very nearly like linear
+        2            elements; that is, their membranes have fixed internal potentials, resistances, and
+                    capacitances.  They are, in a sense, electrically inexcitable, and they differ markedly
+                    in this respect from phasic receptor cells.  There is evidence for chemically mediated
+                                                                  20
+                    transmissions at tonic receptors of -viiinotid     The morpholo- cal characteristi2cs
+                    0          se                    f chemically mediated transmission. A strong
+                     f the snyap  are those typical o
+                    brief anodal stimulus produces an evoked response lon- outlastin- the stimulus.  Then
+                    there is a synaptic delay between the initiation of the impulse and the nerve impulse
+                    (between 0. 5 and 1. 5 msec). Mormvrid tonic receptors are similar to thos2e of
+                    gymnotids and Glmn-,trclius nilotictis tonic receptors are morpholo-ically similar,
+                                                            21
+                    but they were not pliysiolo-ically studied
+                    The relationship between the different electroreceptors of Sternarchtis -,ilbifrons in
+                    pattern recognition has not as yet been studie2d.  The present study developed special
+                    instrumenll-ition required for in-%,esti-,,ttin- the roles of these elcctroreceptors in
+                    P'Ittern reconiiition and obtained preli        2surcments of electrical discharges
+                    f roni                     Is in ind out of water.
+                                                              27
+
+                                                                                               ;,L
+               F i gii rc 3.    liorizoiit:tl 1)rojectioii of the craiii-il liern,cs of lIccti-ol)liortis.
+                                Notc tlic! siiiill siz(,! of the br.-iiii.  Sonic ncr\,cs -,ire in(licated I)y
+                                tfic coi-rcsi-)oii(Iiii,,- nunil)crs.   L.A. iior,,-us latei--.ilis -iiiterior;
+                                           -us Iitoi,-,ifis postc.-i-ioi-; Oc-SI), ocvil)it-o-sl)iiialis iierve.
+            2                    LI" iiern
+
+                      In our e.%I)erimcnts, the perception of ol)'ccts by weal@z electric fislic-.; b.N'w-'LY Of the
+                                                                       I
+                                                                                                               i  (Icmonstrated.
+                      discharge of  their  electric  organs  (transmitting  an2d  receinring)  has  bcci
+                                      22                                                                             "u
+                             tuthors     have shown that  wealc  electric  fislies'can  be  trained  tu  distino  ish
+                      other
+                      between conductilltr and nonconducting objects placed in the water.
+                      For this Idnd of reception, t-%io possible modes of  action  at  the  level  of  spccific  re-
+                                                                                                   22
+                      ceptors could be proposed: the "pulse-frequency-modulation!l                     and the "pulse-
+                                            23
+                      phase-modulatiol@'          According to the fi2rst hypothesis, sensory information should
+                      be conveyed by  the  frequency  of  the  sensory  impulses  dependent  on  the  pulse  Of  the
+                      electric organ discharge Nvl-iereas, according to the second hypothesis, the time re-
+                                                                                                               'OlY i
+                      lation (the phase2) between the  electric  discharge  and  the  following  scii.@j              mpulse
+                                                                                                                 ciits   with
+                      would play an important role for the sensory codin,-,.  From our expcrim
+                                                                                                      tr
+                      Ste2rn-,Lrclitis  ,ilbifro)-is   a   South   American   wealc   fresh   water   elee   ic   h,   we   con-
+                                                                                                                            M
+                      eluded that apparently neither of the above proposed mecha-,iisnis are operatint2
+                                                                2                                                 coded     by
+                      this fish.  The intensity of current flowin- at the level of the receptor i-S
+                      the number of impulses elicited by each electric orgaii clischar-c.
+                                                                                                          S-tl-.-rn--rchlis
+                      albifr2ons can dischar-e at rates higher than 1000 per second and the 5@nnsOrY impulses
+                                      rs cali follow their discbar-e rate.
+                      of the recepto
+                                              24                   25
+                      In some mol-ni3,rids       and g3,iiinoti&-       however, modulation of the rr;lation electric-
+                      2organ pulse-sensory ii-npulse may be used for electrosensory codiiicr.                   Li       mormyrids,
+                            'the cliaii,--
+                      also,                                                                                    -ling
+                                       _,c in intensity of the electric field may be coded by cb                     the  atency
+                                    2                                                      to          iL                      ds
+                                                                                                               In    morm    Ti
+                      bct,,veen the electric or--.tn pulse and the sciisol-@r recep  rs' imp ilse.
+                      it niay attain values til) to 9 -n-isec, whereas iii gyiiu-iotids it has been f,,-.in-d not to
+                      exceed 1-2 msec.
+                      It lias been previously ii@clitioiicd that in Stern,,Lrclius albifroiis the el(,,;-,romeeptors
+                           distril)utc(l over the entire bo(ly of the fisli md tli,-it the anil)ullal7- 2             c
+                      -ire                                                                                       rd      receptors
+                           niore niiiiicrotis tli,,Ln  the  till)crous  ph-.tsic  receptors.  we  rccordc:,.'  -.-,Qn  the  ,Luto-
+                      rli@,tilll-de clectricil ,Lctiviti, of the iionsyiicliroiious toiiic, ,tniptillii-3,     ---;"rorceeptors
+                      Of Stel-ii-irclitis ill)ifi,oii.-3. Tllc iiiipulses were irro,,,Yiil.-.r -irottii(I t           rtite of
+
+                     bet%vccn  100  ,tnd  300,  with  an  amplitude  of  around  2.5  mV.  The  impulse  duration
+                     was  around  200  microseconds.  There  ,ire  other  types  of  tonic   receptors   which   are
+                                                                       -onous.
+                     synchronous. The phasic units are noiisyiichl
+                     The  non2synclironous  tonic  receptors  seem  to  react  independently   from   the   trans-
+                     n.,iWn,-, electric or-an. They react to any objects  brou,-  t  near  the  fish  at  a  certain
+                                                                                   h
+                     range.  The recording shown in our final  report is made from such type of
+                     receptors.
+        2             As previously mentioned,     some  fresh  water  weak  electric  fishes  have  the  ability  of
+                     perceivin,-
+                                 objects, their movemenf and direction, and also to determine some char-
+                     acteristics of tlicse objects (such as conductivity).  For tlds underwater pattern
+                     recognition, they utilize  both  their  electric  transmittincr  organs  and  their  electro-
+                     receivers.  Obviously  some  other  sensory  perception  receivers   of   the   lateraus   line
+                     may be involved such  as:  free  neuromasts  and  the  ctipula  type  of  lateral  line  re-
+                     ceivers; the auditi-%,e system  may  play  a  role  also  in  this  pattern  recognition.  Some
+                     of the electric fishes are blind2 or  have  vestigial  eyes;  others  liaie  good  vision  and
+                     it is certainly used in the reco,,m, iition process.
+                     It seems that a  hybrid  system  made  of  a  diversity  of  sensory  receptors  is  used  by
+                     the electric fishes to locate and  identify  objects  and  fishes  of  the  same  or  different
+                     species and also  prey  or  predators.  They  use  little  elec2trical  energy  for  this  and
+                     the distance  involved  is  coiisideral.)Ic  -  it  may  attain,  under  certain  circumstances
+                     and for one specific sensitive species (G@-niiiarcl]i@,       over a mile.'
+                     The sixoii.- electric fishes (Elcctrolllior-,is,                 Tol-I)cclo, and Astros2coptis)
+                     c.,tn incalmcitaw md ldll their prey with their discharge of the powerful 3lectric
+                     org,,ul used only for such I)tirl)oses. If they have a detectili,-  and  loc,'Itin-  system,
+                     thc3, use ,L different low power clc2ct3.,ic ta-.-uisniittiii- than the main  powerful  electric
+                               C.                      The meaning of this is ili.,tt there is no Iii-h power
+                     I'Oqtiireniont for the pittcrn reco.-
+                                                          ,iiitioll system of electric fishes.  2The electric
+                                                                   10
+
+                sensory rcccl)tors ,ire very sciisiti-%,c, have a lij,-h discriminatin- captcit-.v, and use
+                an electronic proccssin- system I)ascd on a niultil)lc degree of frcedoiii modulatin-
+                                                                  -ilit.
+                ,tndcoclin-svstciii;thcyare,ilsojam2i  --rcsist,
+                The import,@uice of such an undcnv,-tter pattern recognition system ca=ot be over-
+                cmpi-L,tsized.  The simulation and modeliii- of it can be achieved once the parameteis
+                of the different sensory receivers lianre been estallishcd, physical analogs derined,
+                and models den-ised.
+          2      By and I -ar-e, the communication and codiii- system of electric fishes has been
+                                          26                         !tbilit3, of the system has been
+                established and discussed   .  The aiiiijanimin- cap,
+                                                 27
+                                                                -oreceptors of Stern.--irchtis all)ifrons,
+                demonstrated through simulation       The electi
+                a fresh water weak- electric fish, have been studied, and for two different Idnds,
+                1)hvsical analogs have been proposed.
+                L,cc-,tuse of our previous findinos that the anaestlictic IIAIS 222 (Fhiquel)" used by
+                r.iost researchers of electric fishes affec3ts the frequency of the impulses emitted by
+                the electric organs in a nonuniform way, we investi-,-,.ted a number of different
+                -in.icstlietics and found one wl-dch does not affect the frequency of the impulses or
+                tticir uiiplitude.
+
+                                                11. INSTRUI\IENTATION
+                     The recordings of the autorliytmic electric signals from electroreceptors need
+                     special instrumentation.  The sigmals are of low voltages: less than 1 mv, and they
+                     need a large band,.vidtli.  The diameters of some of the electroreceptors are of the
+                     order of microns.  There is the need for an insulate2d microelectrode with a tip of
+                     one micron, with a reasonable low resistance, possibly less than one megohm,
+                     responding from DC to several 1,.Hz with low distortion and enough rugged to with-
+                     stand some bumpin- by the fish.  It has also to be of a nonpolarizable type. We
+                     developed a microelectrode with all these characteristics and it is described later
+                     in this chapter
+              2       in our proposal for the continuation of the investi-ation of electric fish we mentioned
+                                                                     0
+                     that we developed a sensitive low noise solid-state microelectrode d-c amplifier
+                      or                                    0                                    0
+                     (Fi,-ures 4, 5). We modified them havin- now a Motorola MC 1531 input sta2oe and
+                     a Motorola MC 1431 output sta,-   Graphs show the repetition rate versus amplifi-
+                                                  ,e.
+                     cation factor for square wave and frequency versus amplification factor for sinusoidal
+                     waveforms with a 100 kilooliins, 1 megohms, and 5 me-ohms input resistance
+                     (Fi,ures 6, 7).
+                     We give a descri2ption 6f the motliod used to produce a suil-ible microelectrode for
+                     recordina electric signals from the electroreceptors of Stel-ii,-irchus -111:)ifrolis.
+                                                                                                       29
+                     lltibe?@cscribed how to mal@e co.,ttcd tuncrsten microolectrodcs. Wohlbarsht, et a2l,
+                                                                                10                    31
+                     (lescribed glass insulated platinum microclectrodes; Green -Lncl Grundfest, et al
+                     tlscd stainless steel electrodes.  The steel and ttmgsten'elcctrodes li.,tnc -t fairly Mcrh
+                     resist.uice (20 to 100 iiic-ohms2) ,incl -,ill, iliclu(Iiii- the pl.,tt.inuiii electrode, arc pol.-irizable,
+                            32
+                     I)onaltlsoii descril)cs ,i inultitu(Ic of iiiieroclectrodes such .is silvcr-silvez, chloride,
+                     Ill-Itilluili-platinuiii cliloride, -aid otlicrs. Silver-silver chlorides are8 very convciiie-iit
+                                                               12
+
+                           igure 4.  I@licroelectrode amplifier with one MC 1531 and one MC 1431
+                         F
+                                     operational amplifiers.
+                                                                             IOA K
+                                                                                yjl_
+                                                                                           o2urptir
+                                                                             IC
+                                 1,VFLIT
+                                                              3.9 k
+                                                               CAIVACITY         ydc
+                                                                                           f.AfD
+                          Pi,,-,ur-e 5. Microclectrode amplifier with one MC   1531 and one l@IC 1431
+                                      )perational amplifi@rs: schematic di-,i-rai-n.
+                                                                     13
+
+                                                                                                       Ir
+                                                                                                                                               
+L
+                                                                                                 t  t
+                                                                                          2                                    En    tn
+                                                                                                    -t--            T'
+              L7-                                 T-'
+                                                i   4z           I @l
+                                                                                                                                               
+2     17 '-:7:
+                                                                                                                              f@17
+                                    tz@:-   7 t-       7
+                                                                                                                              U.Z  aq
+                                                                                                      2                        ta
+                                                                                 L.Li
+                                                                                                      7-
+                                                                                                                              ta
+                                                                                                                                     2         
+7.
+                                                                                                                                               
+-7:7
+                                                                                                                              -rn
+                                                                            ::ZZ,-          7F-
+                                                                      -77                                                       .-'7t7 .
+                                                              :7-
+                                                                                                                                               
+-,77M,7
+                         2                                                                                                                     
+'7
+                                              -!7 7-  -1
+                                                                                             -4
+                                                                                                                                      2        
+L.:F
+                                                     r 17-                  -.i
+       7
+                                                                                                                                     7
+
+                                                                                                      NV 11,1,lj@N SaAVi@l -31IVfIZ)g 'JO
+E-1,LVU,1401JI.L@1,Ll'; U 0.141SV-
+                                                                                                                                               
+2                                                       kli ssoli
+                                                                      AxoriLnoiiLiAiu
+                                                                      r
+                                                                                                                                               
+rT-,
+      2                                                                                                                                        
+T4
+                                                                                                                                               
+I                            7L
+2                                                                                                                                              
+4''
+                                                                      I P,
+                                                                                                                                               
+It
+                                                    2                                                                                          
+I'; I T
+                                                                                                                                               
+44
+                                                                                                                        Tlii   I          2  .1
+                                                                       Tli
+                                                                                                                                               
+ti
+                                                                              17;
+                                                                                                                                        2      
+6xr
+                                                                                                                                               
+do;
+                                                                                   r,-, --T
+                                                                                                                                               
+2       0. x  .).3 11).l   li@
+                                                                                                                                               
+1! I-, 14
+                                                                                                                                               
+9                                            rl-T"
+                                                                                                                                               
+T T
+                                                                                              -rT
+
+                    electrodes but have a high resistance.  In order to lower flie resistance, it is
+                    ,Idvisable to cover the silver-silver chloride electrode after the electrode is
+                    in.SUI,,ttcd with insulex lacquer, with platinum black through an electrolytic process
+                    xid after this to add a new silver-chloride co,-Lting.  The tip of the elec2trode can be
+                    an5,%vliere between 0. 5 and 1 micron in diameter.
+                    T.,de a 50 ml beal@er and fill it with cone. H Cl and cover it with Xylene (about
+                          Use a carbon rod for on  e electrode (spectroscopy carbon rods are suitable)
+                    -ind cormect it to a variable source of A. C. current from a variac and a bell-type
+                                                  Connect2 the low voltao,  leads to an A. C. voltmeter.
+                    t@ansformer (app. 7 to 12 v).                       ,e
+                    LTSO about 5 to 6 volts to sharpen the silver wire #36 gauge (any necessary length) by
+                    rnovincr it up and down for about one minute (Figure 8). Decrease the voltage to
+                    lict%veen 2-3 volts and move the electrode rapidly for 30 seconds up and2 down.  Have
+                    5o ml beakers filled with: (1) sattirated sodium carbonate solution (Na2co 3
+                    (2) acetic acid :I% in H20 (CH3CO) 3- 0, (3) Ethyl-alcoliol 200 proof, (4) Xylene.
+                    .@love electrode after shai-penincr process from No. 1 through No. 2, 3, and 4, acritatino-
+                    ..1 few times the electrode in t2he liquid.  Checl@ under microscope with a microfilar ior
+                    sIL-Lrpness; if not sharp enou-h, operation 11 (2-3 volts) and.tli6 cleaning from 1 to 4
+                    should be repeated.
+                    If sharp enough, tal@e a 50 ml beaker and fill it with Na Cl 1% solution in distilled
+                    11 0. Use a silver wire (No. 18 to 22 -au-C) as an electrod2e (cathode) and Connect it
+                    %@-itli a D. C. source (power supply) of bet-%veen 1 to 2 volts.  The positive end should
+                    I)c connected to the microclectrode.  Hold it for 30 seconds in the H Cl solution.
+                    ltcn-orse twice the pol.,tri4, for the same amount of time (r, igure 9). Wash the
+                    c]C2ctrode in distilled water for two minutes.  Insulate the electrode with insulex
+                    1'.Icquer.  For di-yiii-, set the niicroclectrodcs with the tip up.  Di-Y for 24 hours.
+                                       ri
+                    Ilic' tip should ])C clean of laccluer for 10 to 30 microns.  Take a 50 ml beaker and
+                    !-I1I it with a 1% cliloropl,-ttiiiic acid.  Use a No. 18 or 22 (rati-
+                                                                                 ,o wire as -i cathode
+
+                                         AMA-
+                                             A!
+                             Figure 8. Device for sh,,irpenin-- metal electrodes.
+                                   i,c     De\,i(-c for             'sil\-cr (-Iiloi-i(le oii the tip nii(I stirf;icc
+                       4                     of silver or silver cliloi-i(le  PI."tiiiizecl cle(.-tro(les.
+                                                                       17
+
+             -.0nnected (to the negative) to a D.C. source of 15 volts.  The microelectrode should
+               connected to an anode (positive) of 15 volts, in series with a I Me-ohm (1 W)
+             .Csistor. Pass current through the electrodes for 15 fo 30 seconds. N@lash the
+             'lectrode in distilled water for a few minutes. Use the 1% Na Cl solution with a
+       2      ;ilvcr wire, gaurre No. 18 to 22, as cathode, and the 15 volts D. C. source in
+             -eries with the 1 Ale-ohm resistor for depositincr a silver-chloride coating on the
+             :i of the microelectrode.  7\venty to 30 seconds will be sufficient. If bubbles come
+              p
+             Iff from any other part than the tip, it means the insulation is not (rood and should be
+             ,edone. Wash the 2electrode in distilled water for 10 to 15 minutes.  Store it in dark
+             :oitainer filled with Ringer solution.
+             The electrode has low resistance (from 100k to 8001c depending on the tip), is non-
+             -)olarizable and produces very little distortion from D.C. to fairly high frequency
+         4$  (Over 1000 Hz) (Figures 10, 11).
+             in Figures 11A, 11B7, 11C, and 11D, the performance of the microelectrocle amplifiers
+               shonvn.
+             IS
+
+       7. i                                                             'Potcllti0iiietric device -,iiid
+                                                            Fi gti re I 0.
+                                                            resist.-ince sul)stitution ,in(I series
+                                                                                        -in, micro-
+                                 2                           resist,-ulcc bo-, for nicasui
+                                                            electrode resistince.
+                           OFF
+                                         j
+           Fir-
+             ,tire 11. De-,,ice for nicisurin, niicro
+                                           Lid of the
+           electrode resistance with the              5                                               .4
+           polentioiiictric device
+
+                                                                                                   istof,          mcgohm,
+                                                                                 I      input r@s'
+                                                     -   ------------T                                              me-ohms'
+                                                                                                                  5
+2
+                                                      ---------- - -  -
+                                                                                                         10K
+                                                                           cv)c.
+                                        A-ii-,,Iificit.toti f,,ictor vp,.@su.-, rtition r,.Itc or sqtiire xv-tvc.
+                       Fl,zure 11A                                                                             (2 stt--  TAIC 1 5"1 -imi)lif.)
+
+                                                                                                                               'A
+                                                                                                                      -ohm
+                                                                                      inp   re.% s -o @r-:        me
+                                                                                                                   me(yohms
+                                                       ..........
+                                                                                                       100 Klfz
+                                                   10 Kliz
+                                                      ,I(jo!i flet@ol vct,stt.4 freqtcrcv:  sintisol@l-il          (2 ci t, --c ill C I 51
+
+                                                                                                                        lultlo,iatu
+                                                                                                     al(itiol)             sot3uonb
+                                  iii(Itil .10[Jll(ITLir, 01)0.11051020.1.')ILU
+                   -D.Ij liplostluts pur, solici UOIIIIO(13.1 DAI',%% a.iriibs lu3.t-@)jj!p 1,c s')ittp.to3c)ll              0-TI -2li
+                                                            41
+                                   2                                                                                             IV,
+                                          -Aa,
+                                                                                                                            rA
+
+                                                                         C)IICIS DICITIOP ;0111 til!"t% Sil,)Uanbaij
+                     Indut joijllduir. Dpo.,103130.13TTu
+                                                                   c).x-cnbs Itioiajjll) II, S'LITP,103z)lj  (:I
+                    replosilul
+                                     , S,11'Cl U
+                              .s pur
+                                                                                         '7-
+                                                                                                               IL:
+     2                                                                                                                 ik
+
+                            A SEAIZCI-L r- OR AN ELE, CTIIIC r- ISI-I ANAESTHETIC
+                                  ULD NOT AFFECT TIIEIR ELE, CTRIC SIGNAL
+                        TIIAT WO
+                                                                                 reth.-tn (ethyl
+             A commonly used macstlictic for fishes and cold-blooded animals, u
+                                        2                                                    33
+              alnate = C 11 NO    has been found to have carcino- nic properties by Wood
+             carb
+                        3 7
+                             3
+             and Ball and CoNven  An editorial comment accomp,,tnyin- Wood's report indicated
+             t the substance named MS-222 (today called Finquel)  nii(-  be  a  suitable  su2bstitute
+             tha                                                       oht
+             for ureflian.  MS-222 (tricalne metlianestilfonate = C  H  NO S) was discovered by
+                                                                10 15   5
+                             -ds search for a reliable synthetic substitlite for cocaine (benzoil-
+              Sandoz during I
+                                       2                           35
+             rnethyleco-ol,-ine = CH  NO ) for a local anaesthetic.
+                              11 21   4
+             since Wood's and Ball and Cowen's reports, MS-222 has become routine for anaestlic-
+             ation of fishes to facilitate the handling of both marine and fresh water species.
+             tiz
+             The to@dcity of the dru- to some species of fish was detern-d2ned by Marldn- 36   NVall,:e r
+                         37
+             =d Schoettrrer measured its residues in various tissues of salmonicles and its
+             efficacity has been investi-ated by Schoettaer and Julin 38 . The chen-Lical  and  aiiaes-
+                                                               39
+             thetic qualities of MS-222 are mentioned by Klontz  , and details abotit the chemistry
+                                           40
+             can be found in the l@lerck Ind=
+             In the last.years (1970-71), an agreement has been made betxvecn the Sandoz Pharma-
+             ceuticals, Division of Sandoz, Inc., Basel, Switzerland, and Hanover, N.J., USA,
+             and the Ayerst Laboratories, New York, N. Y., that the latter should prodlice and s cll
+   2          the l@,IS-222 (tricaiiie metlimicsulfoliate) in the United States Lmder their own brand
+             n=e of "FINQUEUI.
+             In most of the studies on electric fishes, AIS-222 has been used -.is a  general  mtes-
+                                               41                               42
+             thetic by'the investigators.  Sz-.ibo             Szabo and En-or  , E2n-or and
+                                 -44
+             Szabo--, Nobuo Sug.,L   and m-.py others used l@IS-222 to aiiacstlictize electric fishes
+             dur'ng suigic--al 1)rocedures and stibsequently
+                                                           to record the electrical activity  either
+             from the clectroreceptors or from the nerves coiuiectin- tlicm Nvitli the central
+
+                              No mention 1-uLs been =,L(le Of the effects t)f the  I%IS-222  on  the  fre-
+              liervolls syste
+                                                                                       ation   and/or   time.
+                                               -1,ical Silr s as related to concentr
+              Uciir                                     0
+2                ,y and amplitude of tle elect            ml
+                   45
+              lock  mentioned  til-Lt  H@rpopomtis  occidenL,@lis,  a  South  American  fresh  water   weal-.
+              Bul
+                                                                ge  of  25  to'90  per  second,  would  lower
+              jectric fish, with a normal repetition rate ran
+              C.-
+                               2                                           sia.   Under   deep    anaesthesia,
+                          to below 16 per second only i4nder anaestlie
+              its frequency
+              the fish may stop abruptly its electrical  activity.  By  reducing  the  level  of  anaesthesia
+                                                                                                   al
+              r by stoppin- it to let the fish recover, 2it will also abruptly resume the norm
+              electric activity- In our ex-Ln--riments with  Sternarchtis  alljifrons,  a  South  American
+                        weal.: electric fish, we found a gradual taperiiicr  of  the  repetition  rate  of
+              fresh water
+              the electric signal with the deepness of the anaesthesia and a gradual increase of the
+              rel)etition rate N@,itli the recovery.  B2y monitoring the effect of Finquel (T@IS-222)
+              amesthetic on tl-ie electrical activity of Sternarchtis all)ifrons,  it  has  been  observed
+              a fast and sianificant change in the rel@etition rate of the electric signals.  A decision
+              %%,as made to study the effect of different anaesthetics on the electrical activity of
+              different species of electric fishes.
+              The anaestlietic acren2ts of choice were:
+                   1.      MS-222     RINQUEL      TRICAII\TE METHANESULR, OLNATE
+                   2.      NE',NIBUTAL
+                   3.      A',% IY T A L
+                   4.      SECONAL
+                   5.      THIOPENTAL SODIUM
+                   6.      NOVOCAII,,TE
+                   7.      TERTIARY AI%IYL ALCOHOL
+              A.   MISTRIJ'.NIE'.NT2-fATTON, 'AIATERTALS, AND -.,@IETTIODS
+              A sl)cclally built "1)0 cm tr,-ty made of lucite which could be acljtiste(I to t'lle size of the
+              fish ILis been used to check the effects of ,tiL-testlictics on the electric or--.ins of  clcc-
+              tric fish (F!1,.,Ltrc 12). The tr,.ty is I)rovided,%vitli fittii-i-s for the r.-,pid disch,-Lrge of
+                                                            25
+
+                            - ---- -------
+                                  Lnd a constant -Icration of the solution is possible if necessary.
+               ,Lestllciics or water
+               It also has at every ceiitimetcr distance ciiil)cddcd stainless steel electrodes con-
+               Iectcd on both sides of the tray with the exterior and to contacts. The electrodes
+              2 corresponding to the position of the head and tail of the fish were connected through
+               2 W-Th--,-Lin, low noise amplifier to t-%vo oscilloscopes Telctroilir. (one for plioto-taldiig),
+               a counter and .tii FAI tape recorder (Figure 13). The tray with the fish was located in
+               floatincr screen room and all the instrumentation grounded to the scr2een room was
+               located in the l.-LI)oratoi-y outsidc the screened room. A lucite cover on the tray pro-
+               vented the fish from jumpincr out, different holes served to pour in water or anaes-
+               theticsto put in tliermometers.,and to let excess air out. A d-c (battery) operated high
+               iutensity lan-il) was used to illumin,,tte from the top the fish and to fu2nlish enough heat
+               to hold the temperature constant during experiments. For the experin-lents, the
+               fishes' own aquarium-water was used at the begilinin- of the experiment and the
+               same water ,Nas used for nii@dii- in the anaestlictics.  In this way, the temperature
+               of the water and anaestlietic solution was easy to keep to the same level as the normal
+               temperature of the water in the aquarium.  The pH of the aquarium water -,it the be-
+               ginnin,,,r of tl-le experiments and also the pH of the -maestlietic solution were measured
+               with an ex-paiided precision type of pH meter.  The pH meter has been calibrated
+               before each e%-periment.
+               Tentative measurements and observation of the action of the anaest2lietic ha-%Ye been
+               made first oncroldfish and then on one of the electric fishes before another specimen
+               has been selected for the experiment.  For each experiment with one and the same
+               amestlictic, five specimens of Stern.-irclius -tll)ifrons have been used.  The specimens
+               of Stei-ii-,Lrcbiis -,ill)ifro2ns, a fresh water South American sternarel-iid weak electric
+               fish, have been in our laboratory for over one ye.-tr and they were all healthy 'Md
+               V-"ried in NNci,-Iit from 14 to 30 grams.  G@,i-nii.,Irclius niloticus, ,t fresh water African
+               gyninarcliid wc,-d@ electric fisli,'lias been l@cl6)t for over six months in our l-,Iboratory.
+               There is -tnotlier specimen just received.  There ,Ire also two Gnttlioncmus lvtcrsii,
+               fresh wiwr African niori-n)-rid elect-i-ic fish, bcin- in the lal)oratory for over two nioiiths.
+                                                         2G
+
+                                                                     '7" -7
+                        re :L2. Adjustable Lucite Tray for An,,Les
+                                                                   tliesia Experiments.
+                       Fi-tirc la@. Instriiiiiciitation Used for An-testlicsia Experiments.
+                                      0                 27
+
+                                                              riment and put in the experimental
+               The fishes have been weicrhad before each expe
+                                    ium water.  The electrical activity of the electric oro-an has
+               tray in their own aquar
+                                    ded wifh  the  FM  magnetic  tape  recorder,  its  amplitude  meas  -
+               been monitored,  recor
+                        calibr2ated osciuoscope,     and a photo talcen.  After a few minutes, the
+               ured bn the
+               -water was discarded from  the  experimental  tray  and  the  anaesthetic  was  introduced
+               With a funnel through one of the holes in the tray cover.  The  time  of  introducing  the
+               anaestlictic has been marlred,%vith the aid of a timer and also recorded on the magnetic
+               tape and in our records. T2he effect of the anaesthetic  on  the  fish,  its  behavior  and
+               reSpirELtion were constantly observed.  The  electric  activity  has  been  monitored  and
+               from time to time a photo has been tal@;,en from the oscilloscope.  The moment in
+               which the  fish  was  anaesthetized  completely  has  been  recorded.  The  fish  respira-
+               tion and electric activity (amplitude, wave form  and  repetition  rate)  were  constantly
+     2          observed. If  necessary,  the  anaestlietic  has  been  immediately  discarded  and  fresh
+               aquarium water has been  introduced  in  the  experimeatal  tray  with  adequate  aeration
+               for the fish. This moment has been  recorded  and  the  recovery  time  of  the  fish  has
+               been marl@ied.  The electric activity also has been monitored.. When the fish was
+               considered  completely  recovered,  it  was  returned  to2  its  own  aquarium.   Sometimes
+               because of the long                                               returned from tl-ie ex-
+                                  time a fish was anaestlietized, it has been
+               parimental tray in a net floatin- in its own aqiiarium ,vitli adequate aeration ,vitli
+               bubble stones under the net.
+               Expe riments were pdrforiiied on five specimens of Stern2archtis ,Llbifrons (No. 2, 3,4,
+               6 and 7). In order to assess  the  effectiveness  and  dosa-e  of  the  "MS  222  Finquel"
+               tricaine metli,-mesulfonate, we recorded the electrical activity before, (.Iurin,-,,  ,tnd
+               after anaestliesia. The frequency of the electric org,-m will  drop  iminecu,-itely  after
+2               addbia the tric.-une mctl-Luicstilforate to the water in a special trayprovided with
+               stainless steel electrodes set at a distmice of one cm from one another over the
+               lcngth of the lucite tray. The fish were restricted by a p.-irtitioii and  a  "Ull  shaped
+               lucite (IcN-ice pl-,tccd on top of the fish. Fi-ure 1,1 sliows the decrc.,tsc iii frc(Itioncy
+                                                           28
+
+                                                                                                                                t          
+11-171 @4 i-I
+                                                                                                                                               
+FA)
+                                                                       2                                                                   1-
+                                                                                                                      1       71.::i
+                                                                                                                              t                
+-tit
+                                                                        2                                                                      
+V-4
+                                                                                                                                               
+r-4
+                                                                                                                                     2         
+C3
+                                                                                                                                               
+rn
+                                                                                                                                               
+0
+                         2                                                                                                                     
+en
+                                                                                                                                               
+C)
+                                                                        2                                                                      
+CD
+                         Clt
+                                                                                                                                               
+::i    0
+                                                                                        2                                                      
+rp
+                                                                                                                                               
+C4
+                                             7@t-7,
+                4
+                       2                                                                                 CD                            C)
+                                                           C)             C)                                                          c@       
+CD             C>            (D
+                                                                          CD             CD             (Z                            Lf)      
+C4
+                                                            C>                           (O                           tD
+                                                            (D
+                                                                                                                                               
+uoT
+                                                                                                    slr
+                             1                                                                           'du,, Ir
+                                                                                             sa                                  )Z)1:4   10 ol
+
+                                                                                 solution in
+                       n the fish has been kept in a 1:10000 MS222     Lesthes
+         ,,vitli time,%vhe                                          alL       ia
+         wawr and the return of the impulse rate after the solution has been exchanged with
+                                                                      ittin2g  organ  was  recorded
+         fresh water. The electrical activity of the electric transm
+         on a Hewlett-Paclmrd four-channel nl  magnetic  tape  recorder  to  be  played  back  and
+         analyzed later. Figure 15 shows the electric activity  before  anaesiliesia;  Figures  16,
+          117, 18 and 19 show the electric activity during anesthesia; and Figures 20 and 21
+          shonv activity during the r2ecuperating process.
+                                 C'USSION
+          From seven anaestlictic agents we tried, six  were  inadequate  because  the  repetition
+           ate of the electric signal was affected. Only the thi  ental  sodium  Abbot  (pentothal
+          r                                                     OP
+           sodium) does not influelice the electric activity of Sternarclius albifrons.
+           The tliiopental sodium has been checke2d on five different  fishes  (same  species).  It
+           has a very fast effect in a dosage of 1:10000 in,%vater.  The fish, after it has been
+           a=sthetized, %@ould remain ,is such for 2 to 4 hours lyin-  very  quietly.  It  recovers
+           completely and the anaesthetic has no ill effect on tl-le fish. We  anaesthetized  them
+           repeatedly and after six months' time they are doing wel2l.  After  the  fish  has  been
+            amestlietiz,ed, it has to be put in aerated fresh water where it can remain for  hours.
+            Figures 23, 24, 25 and ;6 show that the repetition rate of the electric signal has
+            not been affected in over 40 n-dnutes. The only cl=,-,e was produced by  a  slight  de-
+            crease in water temperature (from 720 pulses to 700 pulses) of al-)out 0. 4 C.
+          2  Sternarchus albifrois is very sensitive to chan-es in water temperature. It will
+            increase the repetition rate of the electric signal for an increase in wate7r temperature
+            and it will dccroase the repetition rate for -. decrease  in  water  temperature.  For
+             every degree Centi--rade, it may chaii-e the repetition rate by about 50 to  80,  de-
+             Pendin- 2on the particular fish.
+             TluopenW
+                        E@odi,,ni or SocUui-n 5-ctliyl-5-(I-mctliylbtityl)-2-tliiol)arbitxirate has the
+             chemical formula C  H  NaN 0 S, a molecul.-Lr wei-.Ilt or 2G4.33 aiid is a yellowish-
+                                11 17      2 2
+
+                                                L
+                                                                                      7
+             St,,Illl,c,litiq ,ill)ifrons T'r7 normal elee- Fig.16. Sternarchus albifrons #li in anes-
+          -11 -.Icti'llity - Water temp. 24. 2'C, time:    thetic tricaine methan2e sulfonate  1:100-00.
+            cc                                                                         I msee/cm,
+             /cm,   niV/cm..                               Water temp.   24.2'C, time:
+                                                           5 mV/cm, 1 minute.
+             .It
+                                                              rig
+                         ill)ifi-on-, 7 in ,iiie s -      Fig.18.  Stern,,ir(-Iitis ill)ifi-oiis !.'7 in -,iiies-
+                     iiietliiiie slil foll.-Ito 1 :10000.   tlictic t-.1@iciiiiL% iiietli-,iiie sulfoiiate 1:10000.
+                       2'C8, tiiiie: 1 iiisce/cm,            Watcr tc)iij). 2.1.2'C, tiiiic: 1 i-nsec/ciii,
+                                                            5 iiiV/cni, 4 iiiiiitttt!s.
+
+                                                                 Fig. 2 0. Sternarcliti,,; -Llbifrons recuper,,itin",
+              SteriiirclitiS -tll)ifrons ;@':7 in anes-                                                          tD
+              tric-,iine metliane sulfonate 1:10000.               in fresli water.  Temp. 24.2"C, 5 m2inutes.
+              temp. 24. 2'C, time: I msec/cm,
+          -IV/cm, 5 minutes.
+                                        -7@
+                                                                                                      L
+                                                                              L,,:7
+                                                           It
+                    'AVE
+                SLLriiireliti-,         recul)cr.,itili.- iii     r- ig. 2 2.. New sct-ul) for microclectro(le
+               %v.'tter.  Teiiip. 2.1. 2'C, 8 iiiiliLit(,-s.        recor(liji,-.
+
+                                                1"7,
+                                  L
+               Figure 23. Sternarch-Lis albifrons- No. I just before anaesthesia with
+                    tliiopeiiial sodium.  Electric sirnial rate: --710.
+                    SNveep 1 ms/cm, Gain 10 mi?,/cm; Water Temp. 22.4"C.
+              Figure      St1ei-iiarelius -ill)ifrons No. I aiiacstlictized with tiliopolital
+                   sodium 1:10000 (2 n-dii.) 3.5 min. in fresh w,,ttcr but still
+                   coiipletely imiiiobile.  Electric si,",Dal rate: --705.
+                      I ms/cm, Gain lb mi,/cm; IV,,ttcr Temp. 22.35'C.
+
+            Finure 25. Stci-ii,,trclius albifi-ons No. 1 amostlictized with tl-dopental
+                 socliuin 1:10000 (13.5 min.). Electric signal rate:     700.
+            Sweep 1 ms/cm, Gain 10 niv/cm, Water Teml3. 22.3'C.
+                                   71,
+              Fi,-ure 2 6. Stci4ntrclius -tll)ifrons No. 1 "aesthetized,%Niili tliiol)cnt-,il
+                   so,,Iitiiii I. -10000.  -07.5 iiiiii. in fresli water.  Electric signal
+                   rate: -@j 700.  Sweep 1 ms/cm, Gain 10 mv/cm, Water Tei-np: 22.3cC.
+
+                      - -- - ---------
+        ,vliite, hygroscopic power, soluble in water .L4id alcohol -Uid is a strongly alkaline
+                                                                    46
+        solution. The Abbot preparation is of nonhygroscopic crystals
+        Tub0curarinc cl-doride can be administered by intra-al:)domin',I2l injection. There is
+        no interference bct%%,ecn tubocurarine alid tliiopental sodium.
+        The stability of tliiolp-ntal solutions depends upon several factors, including the
+        diluent and conditions of storage. It is recommended to keep them under refrigera-
+        tioii and tiolitly stopl3dred.
+        ,T.mquel" or IIAIS22211 is a meta-amino-benzoic-acid-ethyl-este2r in the form of tri-
+        caine metliane-sulfonate and has the chemical formula C10H 15 NO5S with a molecular
+        weight of 261. 31 and is produced as fine needles, soluble in water - It is slightly
+        acid and is stable to boiling.
+        Finquel 1:10000 in aqliarium water would affect the repetition rate of Sternarchtis
+        albifrons and make it decrease in 10 minutes from 780 to 440 (Figures 27 and 258).
+                                                35
+
+                      Fi,-Ure 27. SternarclliL-ls-a-411-II-)i'fLr@IOJ-ll l@ @s-02 in Aquarium Water.
+                                                                  Rate:     780.
+                                   Electric Si.-nal Rerietition             22.4-C.  8/31/72.
+               Am-plitucle   25 mv,     snveel:) 1 Ms/cm, -%vater temp
+                                                            -'Pik
+                                                                                      ;7
+                   Fin-Llrc 2S. Stci-ii-irelitis -,tll)ifroiis No. 2 in T%IS-222 (Filicitiel) Al-Licstlictic
+                                                              2                       oil ILitc
+                        Soixiiion 1:10000 ill W',Itcr.   Electric Si,-,iL-11 Rci3ctiti
+                                                                       4,1 0 .
+                        After 10             in tllc All,'Lestlictic
+                   Anil3litude 38         sNN-cel0) freq. I n-isec/cm, Nv-,ttcr tcml). 29-.,I'C, -S/31/72.
+
+                                IV.  TECHNICAL DISCUSSION
+        Four specimens of Stcrnirchtis -,tll)ifrons have been used for esltblisliin-  methods  to
+        record the autorhythiiiie activity of their clectroreceptors (Figures 29, 30).  The
+        r,shes hane to be an,,testlictized and cul-arized in order to avoid twitching of the muscles
+        during microc2lectro(le recordings.  We tried the effects of d-tubocurarine on
+                                                42
+        stl,rnarchus ilbif i-oiis.. Ha,,-,iwara, et al , recommended 0. 05 to 0. 1 m- curare/fish
+                            43
+        and Enger and Szal)o   recommended 0. 03 mg d-tubocurarine/,-, fresh fish weight.
+        I3,Dth used (,@IS 2222) tricaine methanesulfonate for anaesthesia (1:150, 000).  We  folmd
+        that the quantities given did not correspond in our case.
+        The weiaht of the Stei-narchus specimens varied between 16 g an@d 19 g.    One specimen
+        (16 9) recei-,,ed 0. 5 m- d-tubocurarine intra-abdominally. The  fish  was  paralyzed  in
+        one minute. Electrical acti,,,ity of the main electric organ subsided  after  20  minutes
+        and the fish was dead after another ten minutes. All the time the fish  was  kept  in  a
+        4000 ml beaker with medicated aquarium water at a pH  of  7.  0  and  a  temperature  of
+        23.OOC. An aerator stone provided the necessary air.
+        A second specimen of Sternarchus (also 16 g) has been anaestlietized with MS 222,
+        1:25,000. one gram of MS 222 has been dissol2ved in 1000 ml distilled H    2 0 as
+                              'his was diluated to the proper amoun in
+                                                                     t    a 4000 ml be.-tker  by
+        stock solution.  Then t
+        adding P-quariuni water with merbromine and acriflavine added as disinfectants.
+        The MS 222 dilution of 1:150, 000 would not affect the fish in over one hour.  The
+        dilution of t2he '@IS 222 was reduced to 1:25, 000. After 20 minutes in the MS 222
+        solution the fish was injected intra-,.ibdominally with 0. 05 mr of d-tubocurarine
+        I mil solution.  The fish was paralyzeci in three minutes.  For one hour it gave a good
+        stron- electric si,-m                                          r
+                           i.-il of the niai6i@ clecti-ic org,.ui, aft@--r. this cr idu,,Llly it diminished
+        in stren-th and in another liotir the fish was dead.
+               Cb
+
+           Fi(Turc 29.  Set-tip for recordincr the autorliytlimic activity of electrorcceptors.
+                                       Ile                  Z
+                                     L
+                            Closc-lip or illc,
+                                              s(,t-ul) roi, rc,(,or(iiill- ille
+              Fi-ui-c 30
+                            of clecti-ol-(.Ccl)tol,s.
+
+                                                                                     s,ponci    for     our
+                                                                        .drlot corre
+                            b-y     the      Previous autilo     rs     di
+    .,j the
+    ,neus -                                                                      stlletized ia MS 222
+                           2                          8 %) ,Vas first ana-e                                ith (.1 ml
+                           of Stcruarcl-lus                             ted  intra-a'3don'lina-11-Y   '%v   -
+    third SI                                                                                 placed then            a
+                                             "is     it     O's     ini2c'
+           for 20 Tninutes          31tcr tl                            fish "as     bee
+                                    rarine   (r.   igurc   31)   -    The                                     &cri-
+                             d-tubocu                   ,    acroLW    cl ,,.,aler   'I@lith   rnerbromine    1s beer,
+                                    it'h circulati                      the       electroreceptors        Ila
+                           tray
+                                                                     -rom
+    ,,ial     reco                    (00.  fler-or(lincor f                             silver-silver              chloride
+                 .1@,IS -?22, 1:'7@@01               in  t                  -  r  ,tnd  a
+    Ville      and                                         ,he      tra,,                        'ic,,,re      32)-      T"e
+                   th    a    iieutr,,l     electrode                   electroreceptor
+    ,,,,Ipted'wl         placed   OrL   a   tonic   I          Ifipullar5 ttiag electric Organ            3.slred the -,vealr,
+            -croelectrode                                               -a'                                                ed    to
+                                            the inalu
+                                    from                   trans'                  -,pecilneu      has      been      return
+                                                                              "is s
+    strong  2     electric           of the ele,troreceptors.   T'                                            ,vell since then
+                        acti""I        s    and    recovered    alrnost    instantly    and    is     doillo-
+                   ter 3( Ir.Illute                                                                       treatine-at    9-1    the
+                        2                                                g) received the         sa,,ne     --              ,vster,
+                                                                                                          in    tllc    tray
+                                    imen Of                                                       electrode
+      .knother     lourtl-l     spec.               stead of using the neutr2                                          0-aic,
+                   cimen.     TI-as     tin-,e     in                   jallieter %,%Yas placed around tle t               signal
+       third     spe             ride %vire loop "/4 in.                                             lectric           Organ
+        silver-silver cl'10                         2ic-rure 33) -       Tlis tirae the -main e            electroreceptor
+         ,mpullary electrorecel)tor ("'  -                                         activity     of      the
+                                               "S of the authorh'Yth'n"c                     recovered aln-iost 'nst3-ntly'
+                 t    Inaslr                    2                        to its tanl,, and                                         (-fia
+         did    no          the recordin'.                        -liraed                                        since ti-ien          Urc
+                                    tl,                                                        , ill effects
+                 4o   rnin'Lltcs    I  e fish NNas re2,                              io!Llt an@
+            .kiter                                                      0
+                                    @-peciine", qnd is do']act fine
+           la-,e    the    Pre-,-iOus                                                                                      (I rooln frotn
+                                                                                  2                        i'a
+              34).                                                                                          'I      sldclcle
+                                                                        e,ts "v er e
+                                                                                      pc,_                                        roo"n
+                                                    cliiicor                                      Lte     aiid
+               The Tnicroelectro(le             recor                   corlls Nvere elilaill,              ca xvas done by a nlicro-
+                                                ts,     I)Iucrs      In(,
+                                    struine'a              0             2    -1,        f    1-,,    speciril
+              ,wmch        M-c                                          Illunlil'Ition  0                       ,,It car baticry'  All
+                         stit.                                                         co   -a-lectca    to
+                              ,Itccl ,
+                2                      'L no,,it                                                                                           s
+                    co,,
+                                                              -ilicroscollo                                                to bnttcr,e
+                                                    t,^                                                   C COIUI
+      2                                       tllc     @rco-I                            itiers        N,,cr
+                                                                                                                           0 jaclr
+                                fil-l@-Cli 01"      s                                                                                  the
+                                2                    of        thc,%,votcr
+                                            Olit                        oscol@,c sul)port, tlle     n.,icroscOI)cl
+                                                                  -1-licr
+                                                    ,ts
+                                    cnt,  SLl   ell
+                 6CY,her
+
+                                     )ifroll'3 S13ecirnen after
+            ,c
+      Ficrur                                  II.
+                                i- i-n einject@i(o
+                    d-tubOclr3L'71
+                                        tollic elcct'7                      recc
+         9                                                                        I)tors.
+                     32.
+                                                  . )Oil @-, -ire     I-C c@c I)LO r'- -
+                            LI )@l r-I         -C ttillcl.o"g,
+                                                   4(
+
+                                         Ira
+                                                   t r
+                                  ilk-
+                                                    activity of alnpl"13@ry
+                         for rcc0l:dln'T auto      all)itrons.  The silver-
+      'r,icrure   Set                      -L r clill      2  is visible -
+                                                            e
+                     ctrorecePtOrs of Ste'rll'     I clectrocl
+                  ele                     p   neutra
+                                  ,,vire 100
+                        -c
+                  silver Iiloride
+                                                                          tile
+                           2                        tell,,
+                                                             nll
+                                                                        ctiv 1 ty
+                                         C-irl)oll
+                    34                                       tl,C oscilloseol,)C"
+                        reco
+                               tr,
+                          9           ,Iittil
+                                              A-1
+
+      ,plifiers, etc., was connected to one point ground and tcL the Tektronix T22 modified
+      Lferential amplifier ground.  The rnicroolectrode amplifier and support was changed
+      Om the intcotated circuit model used before to an electrometer tube type and a three
+                           -dch is less sei-Lsitive to the change in impedance produced by
+     .alls2istor amplifier Nv.1
+     ,Ii@,lit movements of the fish than the previous one.  The microelectrode, a silver-
+     siln er-cliloride, platinum, silver-cliloride electrode of 0. 5 micron tip diameter, was
+     positioned on the electric receptor inside the groundina, loop.  r, igure 22 shows the
+                                                            0
+     recordina, setup and Figure 35 t@e sche2matic of the microelectrode amplifier.
+     At the same time, the electric activit@,- of the receptors was displayed on one of the
+     traces of a dual scope.  The activity of the electric transmitting organ was recorded
+     V,ith two carbon electrodes placed at the end of the tray and connected to another
+     TektronLN T22 amplifier and displayed as a second trace on the scope. A Hewlett-
+     pdclmrd four channel rM tape recor2der was used to record the electrical activity
+     of the electric rc-ceptors on a inaoiietic tape.  It can be played back and analyzed at a
+     later time.  Photos Nvere made dui@tig the recording.  Figure 37 shows the activity of
+     a s@ncluonous tonic electroreceptor (in a previous report we mentioned that we re- .
+     corded from a nonsyiichronous tonic electroreceptor), and FigLir2e 38 shows the elec-
+     tric actiiit@, of a nonsynchroiious phasic electroreceptor.  After finisliiii,- the e.%I)eri-
+                                                                     6
+     ment, the fish was injected with neostigniine metl-lylsulfate 1:10  to counteract the
+     effect of the D-tubocur-,triiie.  The fishes recuperated in a few minutes and are doin2cr
+     well.
+     Another c.,,I)erinient was performed with two Cr@Zn-ui,.trclitis ililoticus, Cuv.  Each of
+     these fislies was placed in 25 ff.-dloli water tai@@s with lucite trays raised to ,tppro.%-i-
+     mately 4 inches from the tol).  G@,iiin-irelitis niloticus is an air breat2her -tnd if left in
+     a deep tard@c mtist c.%I)ciid execssi,,,c ener,,,,), to swim to the surf.-ice for brcatl-dncr.  'nic
+     tax& is kept clean by lucite plates provided with lioles to let (lirt fall to the bottom
+     where it can- be N-.icuuiii-clc,-uictl very cas!13,, tlirou-ii speci9@a lioles. The t@i@@s of
+
+                                                    2.5 V@f
+                                                                                                       2  30
+                                           c
+                                                                                                                                 o,fiTP13'.
+                                                                                                          2
+  2                                                                                     5                                            PL
+                                                                                                    r-4
+                                                                                                 C41
+                 ZPTJT
+                                                                                                          2                              GPD
+                                                                                                                         ColniBCTO'R
+       7
+                                                                                                                        6 .'V
+                                                 IL. 5
+                                                                                                   C4
+   2                                                                                                            GA114
+                                               0. 01.
+                             0. ol i@f
+                                                                                                      r 'V
+                                                                                                  +
+                                          8         + 2. ra 'V
+                             3.6
+
+  :Sze
+                      ,@d, c3thd. to
+   wtigh unpgdaWC mi'T.wiect
+                                                                                                                        Syn-
+                                                                   -Fig.         steriiare.
+                                i,,:oelcctro(l2e,                      clir                                              loo Inv/cln.
+                                                                                                        Ms
+                                                                                   e recordin<-r
+             ilnpellaiice                                                    -rO
+                                            2                           elect
+                  -ore
+  le iollo"ve-..
+                                                                                                            ir
+                          -qv
+                                                                                                                      f 7.:,!
+                 tA
+                                                                    72-i
+                                                                                    39.-                            of tilc tr.'U'l
+                                                                                                   -fie                   0          tile
+                                                                                   0        elect
+                                                                               2     rlll.                      colalec
+                              s
+                                                                                             or4flul.    vot
+                                                      T@licro-                   electric
+                        r C'11"
+                                "tl.ol-c(,Cl)tol"
+   0                    Iiie                                 iliv/cl-il.           or mloiller
+                                      iiisce
+
+     nn,,trclitis. nilotictis are approximately three feet apart. The covers and outside
+     ,niagnetic stainless steel frames were all grounded and so was the taijit through
+     .bon elect;i-odes placed in the filters.
+     @o carbon electrodes in lucite tubes (Nvith holes) Nve re placed at a distance of 15 cm
+     )m each other alongside the fishes. A third electrode was place2d either midway
+     ,t@%,een the recording electrodes or on one of the ends of these electrodes.  The first
+     .,o electrodes for each fish were connected with the T22 Tektronix amplifiers and
+     )nnected to two different Tektronix scopes. The third electrodes were connected
+     ) a DPDT switch which could actuate also a battery to raise the lower trace of the
+     cope,%vhen the two electrodes in the t,.vo tar@cs were connected and hence a commw-iica-
+     ion link- was established bei-%veen the two GNmnarchus, to study the effect of social
+     nteraction and communication bet,@,een them.
+     n Figure 39, the normal electrical activity of the electric organs of Gymna7echus
+     T
+     ,o. 2 and in Figure 40 the electrical activity of Gyn-u-iarchus No. 23 can be seen.
+     ,!(.rures 41 and 42 show that Gymmrchtis No. 2 almost stopped the electrical activity
+     )r ten to t%venty seconds.  Figures 43 and 44 shoiv- the modified activity of the im-
+     .Jses from Gynu=cluis No. 3, and Figure 45 shows the modified activity of Gyn-ui,,trchtis
+     o. 2. When a metal rod was introduced in the tank of Gymn,,trchtis No. 3, G32rrnmrchus
+      2 would nervously move back and forth and eventually attack the electrode connected
+     tli the other fish.  'niis is only the beginnin(r of studyin,
+                                                              the commlulication 1-,---t%veen
+     o g=archus niloticus.
+     a gnn-nnarclius niloticus baby was sectioned and f:L%cd in buffe2red formaldehyde (10@o)
+     about one month.  Then it was dec:acified with Kristensen's decalcif),in- solutions
+     24 hours. After tliis, it was deh3,&-,,ited usin- ctliyl iilcoliol, toluene, toluene with
+     ,tffin, mid finally eml)cddcd in de-. ssed p.-tr,-trfiii with 56'C iiicltiii- 6point.
+
+                                                                                                  'Is CLlv. @r2.
+                                                                                  irchus nilotlcl
+                                                             -Fig. 41.  GYnln-,             n
+                                                                                             -lectr C o2rcran wllell
+                                S cliv.                                              0
+                                                                Electric a                                     "'roucrh
+             Lirchils  ililoticli                                                  Iectric3.lly connecte'l '
+   0. GvlnT       2   the  trails          electric              ta:a@, has been    .       (I ,L wire and S,*,,?itch%N'Ith
+   ,tri                 d with the         Of anotlier           carbon   clectrode5 an              .-"L's 2 mscc/cr-";
+   3n. Not conno                                                                   ti-ler G-,,i
+                                                                 tie tarar, of ano
+                   n-isec/cm;   1 M'%7 CUl
+                                                                        /cm.
+                                                                    Inv
+                                                                                                           7.' !7'i2
+                                                                                                         7f
+                                      Z7
+                                                                                                      ic,Lls Cllv.
+                                                                    ,ricr. 43.                                    rul NN'llen
+                       2                                                                                    17c- o@r CD
+                                                      Elee-                              ty of      clectri         ctc.
+                                                                       Electric '.Icti                 -illy coilllc  LI tllr
+                                                112.2
+                                                                                        c@
+                                                                                         'C,, C
+        't2.                                       11 t IC             tllc t,                Icctric
+                                                                                 lIcLs b
+                                                                              2            es
+                                                                                              'u,cl
+                           electric orc@              , 11 t@,,l I                                 @t lvire
+          let                 ic_        aleetc(i li,rc                C,,tl:boll clect-j--'cK'                   2 "Isec/cl":
+                           t    Illy co,, 'u", SVitell \Vitli                  a
+                      CICC -v          C                                tile tiu @Or ,Illotllcl:
+         bo   clcctro(Ir-s  U.I(l -,L \Vir
+                                               2 "iiiscc/cl"5;              ,,v/ci
+                of ,       . G-\-ilill"r("lu-
+                    ,uiotllc@
+          ,,V/cni.
+
+                                     1--7 @W
+                                                                           E
+                                                                              r
+                                         r
+                                                                      -T,2 F
+               -iriirchus niloticus Cuv. #3.                              irclitis nilot2ic-Lis Cuv.
+       44. GNrn                                          Fig. 45.  G@rmi,                       7; 3.
+      -ject.ric activity of the electric oi,-,,,,m ivlien  EleetTic activity of the electric organ,%vhcn
+         targc has been electrically connected             the tar2@ has been electrically connected
+                         -odes and a2 %Nlre and             tlirou(Til carbon electrodes and a wire and
+      .rough carbon clecti                                       0
+      -;itch with the t,,uilc of m-iotlier Girrri-Lircl-itis. snvitcli,,vitli the tarfl-. of another G-,,ninareliLis.
+       msec/cm; 1 mv/cm.                                   2 msec2/cm; 1 m'%I/cm.  After one iniliute,
+                                                           the fish switched to its normal acti,%rit3r but
+                                                           with a smaller amplitude.
+         An A. 0. Spencer microtoine has been used to cut 10 micron slices.  They were
+         stained with Hem,-ito.Vlin-Eosin and mount@--d with Per2moiLmt on iTAcroslicles.  There
+         are about 27 microslides with four to five serially cut transversal slices numb,-.red
+         from the head in the direction of the tail: 1-1, 1-2, 2-1, 2-2, ..., 7-3, 7-4.  A few
+         photomicro,-raplis are shown as Figures 46, 47, 48, and 49.  The interpretation of
+         the 1-dstolocrical preparation will be made at a later date. (Ficure 50)
+                  0                                                   0
+         %Ial-,tptci-tinis elcci-ricus, the electric catfish (Figure 51) is different from the other
+         ,loci                                    -.tciiii's I-,tNv. All the other electric fishes
+            Tic fishes because it does not2 obey P
+         ;bey P,,tciiii's laN%,, according to which the innervated faces of the clectroplates be-
+         ome ne-ative during the discliir-C, whatever the arlttdmical oricnt-Ltioi, or the orcran. 47
+         'his fact is due to the uiiiclue ai-Litomy of Alilipteriii-tis.  Th6e electric or,-.-M of
+                                                                          C                   d
+         .alaptcrtirus forms a sort of loose jacl@et ,trouiid the fish, iiist ad of I)cilr,- onibe(Icle
+
+                                                                                                                         I'll..@, jj .., L jv L
+                                                      'ITICI 0111 JO LIOTIO@-).ITP -)III If[ T-/T 4sul otil li'@'1110.1111 Ino
+li;olo,kst2n;.Tj,
+                                                                    (Scl-uco oAlID Isti I                                              g:p     
+1 -J
+                                                                                                 .101111 SIILLD.IU
+                                                                         9               2 .4
+
+                                                t
+                                 -e, 4
+                                 baby             Fig.  49.                 1-djoticus Cuv., baby
+                             pi1w cord.                 2 molitils).  Spinal cord.  pliotoinicro-
+                               erferciicc            9rt-pli Nil@on2 pl,abo-interforence I\Iicroscope
+                                                     x 2oo.  r.-L%-cd:' rormaldcliycle, 10%.  De-
+                           -aalc
+      x So.  r. i.-.:e d: oi-i  lel'Yclcs
+                        I t
+        ii.,irc-,Iilis 1-tiloticliq Cii-\,. , b.-tliy
+           13r,iiii.  I'lliotoiiiicrolvl-.IPII
+         -iiii-erfereiice T\IicroscolY-, x
+           rorm,-,I(lclly(ic, 1070.  De-
+
+                                                                             nil-.I             1111 LI
+                                                                                                        E NL
+                                                                                                                          C9
+                                                   70                   5                 0
+                 ADS                                L
+     2                                                                                                 2-5 m.n     rn  ng
+ xvlcne           ALC                                                                 .3 min
+                                                                    3 min                                                  C@
+                                                   3  min                                                            ter
+                 2 3 min            3 min
+  3 min                                                                                                           3  min
+                                                                                                         Ott S
+                                                   04
+    1             02.             .03                                                                     min
+                                                                      2                                              _in@in@    2
+                                                                                                                       r
+                                                                                        was absent                 Wate
+                                                                    If mercuric cbloride
+                                                                              ve, skip Steps 59 69
+2                                                                    from fixati
+                                                                    and 7 and proceed 4 to S. etc
+                                                                                                          os n
+                                                                                                              rnin
+                                                                                            2                0                 IC4.
+                                                                                                            L
+                                                                                                         Few Dips
+                                                                         B                  B                                  lc5
+                                                        A                                   L    2          ALC
+                                     Xy n                                L
+                        ene                                                                                Fe-,v Dips
+                                                                       3 min                3 min
+                                      3 min             3 min
+                    3  min
+                                                        FIELD     IIARRIS lir.,MATOXYLII2'4
+                                         ig. 50.  DE   LA
+
+      thin the body muscle as in all the other electric fishes.  The electric or,-,-Ln, depend-
+        on the fish's size, forms a sheath from 2 to 10 mm or even tl-dckcr, in which the
+      ,cti,oplatcs are st.,tel@ed in the longitudinal direction arranged in a somehow non-
+      -larly fashion, contrary to the oilicr electric fishes.  The electroplates are disks
+      about 1 mm diameter and 20 to 40 microiis tliicl,3ioss and derived from myeloblasts.
+      the center of the c-.itidal face of each electrol)late, a thin stalk arisesfrom a complex
+      agiiiation. The end of this stalk makes contact Nvitli the branches of a single myclinated
+      -ve iner arisiii- frou-i a large ncrne cell situated 2in the gray matter of the spinal cord
+      ween the levels of the first mid second spinal nerve roots. As it can be seen on
+      -ure 51, the nerve ti-ui-Ic which is heavily myclin-ated is- easily identified.  The way
+      ,,Iiich tiie electric or--.m is innervated plays an important role in the synchronization
+         dsm of the discharge.
+        'i@lal,,tpterur2idie discharge consists of a long train of 15 to 30 monol)hasic pulses
+        to 2 msec duration in a total time-internal of appro.-dmately 100 milliseconds.
+        '.x to seven inch electric catfish could discharge impulses of approximately 200 V.
+        ily surprise, Dr. Earl Harold froiii the California Academy of Sciences and Stein-
+        It Aquarium in S,,ui Francisco, told me that the 2two very large (appro.,dnutely 2 to
+        )ot) electric catfishes which tl-ie aquarium had did not discliar-e more than 100 volt
+        eS.
+        surprising that the ikl,,il-,ii3tci-iiricl,,tc we checked could.put about 0. 5 Av/lu- of energy
+        !ach gram of elcct-i@ tissue of the electric orgaii. It is our intention to investi-,'Lte
+        fact more closely.  The electric discliar-c of three stronc, fresh water electric
+                                                  0                 t3l
+        s i\l-,il,,Lptertiriis @lectricus wei,-Iii-Li- between 55-65 g was measured when in the
+                                           r_v
+       8 r -uid out of water in the spccial tray with conticts.  They disch,-trged between
+        )O volts in ,v,,tWr mid I)ct%vecii 150-190 volts out or Nv,,itcr.  The (liscliar,-c consists
+        rsts of 5 to 7 inil)ulscs of 1: 5 to 2 nisec dtiratioii (ri,-uir-s 52, 53, 54).
+
+                            Figure 51     MalaPterurus glectrtcus.  Th  Nile Electric Catfish.
+                                                   (Shown.at 1.5 Scale)
+
+                     u
+                  Filr re 52.  A-Ti l@ll')tertirtis elcctrictis. African stron. fresh water electric
+                               fish oil the scale:  wei-lit 61. 5 g.
+                                                        co
+                                     ..........
+                Figure   53.  Dc,,,-ic5(@ fol-,Inclslirillcr tile %,Oltl-c or the Cliqclllrrr of
+                                                                                      es
+
+                                                                    E.
+                                                 k. L
+                  I-i-ure 54.  Discliar-es of the clecti-ic or-an of 1,@T,-tl,--tptcrurtis electricus
+                               we lia,,,e now in the li.lioi-,ttoi-y.  Vertical: I g2raduation = 50 V.
+                               Ilorizoiital: I gradu,-itioii = 5 nisec.
+         La our s5,noptic Table No. 1, the past achievements and results of the study are men-
+         tioned, the proposed continuation Niorlc is sho-%vn, and the f-Liture objectives are delineated.
+         rhe multimodulation-multicocliiig communication syswm of electric fishes ser2ved as a
+         nodel in the development of a con-iniunication teel-a-dque to resist jarnn-lin,-,.
+          'he physical analo-s of a phasic and a tonic eiectroreceptor          been established for
+                             0
+          'ic Stei-liarchus all3ifroil,3, a Soutl-i Americ-,tii fresh water we,-Jz electric fish of the I-ii2ch
+                                                                                                    t7
+          .,Qquency t@,I)e (riniircs 55, 5G).   The eleettoreccptors of other species have to be
+                           -lie rel-,itioiisliips of the various clecti-oreceptors to the ulidenvater
+          -vesti-ated and t
+       2         0
+          @ttern recognition systeii-iiN?ill'be est,-tl.)Iislied.
+             nientioiied the effect of nion-iii- objects p-,ist the, clectroreccptors iii-one or -uiotlier
+                                            0
+           ,ection.  Some of tliciii Nvoul(I respond iii one w.-iy for the foi-%vard direct (head to WI)
+            iiicrcasin- the r,,tic of the iiiil)tzlscs and in another way for the bacl,-\vard direction
+
+                                                                                'rAJ3'LE I
+              PA$T,       ACTUAL       AND       FUTTJRE        STUDY        PROCRAAI
+                                                                                    OF UNDER%VATL-R PATTERN RECOGNIL"rlObtl SYSTE,%R
+                                 SE,t4SOR STUDY RE. suLTs                  2                 r-ItELnUNAP.'f ANALOG IVIODEIS
+                                                                                              .   Asynchronous Phasic
+  ST                             0  t-TuIU-inodulatioxi                                       0   Asynchronous Tonle
+                                                                                              -    synchroiioti2s.rinic
+                                          PI[JISE I
+                                                                                                        PILASE 11
+                    a  Investlg:tte clec'troi,ecelitors of other species            0  I)osl,-n & conduct s(inultis-response
+                    0  Estai)lisli relauomliip of various electric                       exp(,,riment@', Jn lai-ge tank                        
+ijLIY OUI'IILIT
+  )PO-CED                 recci)tors                                                - Determine effective range                       c 3--    
+(INDL;'R'V,%TI:P. PITTI,
+         2          o  Llc-O'Crtjiijio lio,.v receptors are used In                  o Sign:d  processing In volsy environment                 
+RECOC.,N-1-i7ON
+                         ntvi-allon
+                                                                                    0 Improve(] pliysleil nnalogs
+                 2                                                                                                                             
+PArl'EJ14% )VL-,(:(,)GNI','
+                                                                                                 07liEr% SENQOIW
+                                                                                                                                               
+2      Z.IODEL
+  inE                                                                                              tleclianlc,-d                               
+o  Cross Coi-relation
+                                                                                                   Sonic
+                                                                                                                                               
+,Nlajority L--clsion
+                                                                                                   Optic
+
+                         i-v
+                                            r           r
+                                             el          e2
+                                      r
+                        r
+                        ec             ec
+                                                   < rs
+                        r
+                        ee
+                                    rg
+                        r
+                     2   is            G
+                                      a ri]L                ri2
+                                                    s
+                          Figure 55.  Tonic, ai-iil)ullary electroreceptor.
+                                           Pliysical analo-.
+            current ,md volta-e                      r            generator internal resistance
+                                                       9
+        !2  exterml resistance                       G a          autorhytliiiiie generator
+            exterml can,-LI  resistance              ril  ri2     internal resistance
+            external canal c,,Ll)acitaiice           c s          internal receptor cal)acitmice
+            receptor iiuicr face resistance          r s          sldn resistance
+
+                            i-v
+                                             re,        re2     des
+                        r
+                         ic              ic
+                                 c                      r
+                                    re                  8
+                                     r
+                                     9
+                     r
+                      is
+                                     G
+ 2                                    a
+                                            ri,          ri2
+                                                   Cs
+                       Figure 56  Phasic, tul:)erous electroreceptor.
+                                         Physical analo.-I.
+          current and voltage                      r 9         generator interml resistance
+          ex-terml resistance                      G           autorhythmic generator.2
+                                                     a
+          internal canal resistance                ril;  ri2   internal resistance'
+          internal  canal   capacitance            c s         internal receptor capac'it:uice
+          receptor cell c,,tl:)acit,,tiice         r           sldn resistance
+                                                     s
+          receptor iiuier face resistance          c           C.N-terli.-tl sidn cal),-icitaiice
+                                                     es
+
+        (tail to head) by decreasing the rate of impulses.  Other electroreceptors will react
+        to higher or lower conductivity than the medium (.iquarium water) in a similar way.
+        Obviously, the response of the electroreceptors in other electric fish species  have  to
+        be assessed in order to get a better overall picture of the underwater pattern  recogni-
+        tion process.  Figures 57 tlirougli 63 show two d2ifferent electroreceptors of electric
+        fish. The results obtained from the electric receptors study will lead to  a  simulation
+        plan of an underwater pattern recognition system. A passive hybrid underwater pattern
+        recognition system bloclc diagram is shown in Figure 64. In this bloclc  diagram  beside
+        the electric sensory receptors, the other types of lateralis line sensory receptors  are
+        combined to obtain a better cr2oss-correlation of the different signals.  Eventually
+        passive optical sensory receptors will be added (for detectin-, for example, changes
+        in the bioluminescent organisms in the water when disturbed by a stimulus lilce heat,
+        ivater turbulence, etc.).
+        With regard to the other lateralis line organs, Sternarchus albif-rons, like other teleosts,
+        have canal orcans as well as superficial organs, called  fre2e  neuromasts.  Some  parti-
+                                                                iial or-,-ans are in direct relation
+        .ularities of these organs should be noted. Not all ca
+        -,vith the external environment.  The sense organs do not always alternate with the pores
+                   48                                       -, are located between two  pores.  All
+        :)f the canal.  In some cases, three sense orgarl
+        ,Iwee cupulae lie in a "watery" fluid filling the canal. The fluid seems to  be  a  form  of
+        )olymucosucharides. The canal is not free from  one  pore  to  another,  but  is  obstructed
+        )etween the front and second, and the second and  third  cupula-sense  or,-an  units  by'hvo
+        @pithelial plugs Thus, the i-niddle unit is not in direct continuity with the  external  en-
+        -ironment (Ref  23).  It should be mentioned that Gymn,,trclius as well as Z@otoptemis
+        @ave a completely closed canal system.  The free neuromasts found in the head of
+        teriiarchus are relatively 1,-tr,-
+                                      ,e, are protected by paired prominent epidermal flaps
+        nd have.a.histological strticture similar to 'big pit or,-,aiis".  As in the pit organs of
+       0 @vmnarclius (Rdf. 25), these free organs of Steriiarchtis are innervated by a btindle
+
+                                                                                                                                               
+AZ
+                                                                                                                                               
+LA..
+              7                                                                                                                                
+ci
+
+                                                                                                                                               
+-- - -------
+                                                     CD
+                                                     Cil
+                                                     90
+                                                     En
+                                                     0
+                     2                                0
+                                                                                 rn
+                                                                ri
+                                                     0
+                                                                        rn
+                                                                                                                                               
+8                     rj
+                                                     C+
+                                                     0
+
+                                  ectrEP
+                                 2
+                                   (CIL$
+         59. Ampullary tonic electroreceptor.      Fig.   60 Stimulus and recordincr from
+                                                                                     0
+                (Schematic)                           an ampullary toriic electroreceptor.
+                                              2                   eP
+                                                                     lits iiid recordin- from a
+         6 1  Tul)erotis I)hisic clecti-oreceptor.   Fig.  62  SIL-ii-nu              0
+                 (Schematic)                           tubcr(xis pliisic elcctroreceptor.
+                                                 Gi
+                                .. ..... ... I2-
+
+                                        wt 6-
+                                                      c
+                  Fig. 63.  Electroreceptors of Gvmnarchus niloticus.
+          a: ampullary dlectroreceptor          b: tuberous electroreceptor t3rpe b
+          c: tuberous electroreceptor t@-pe a.  (Schematic)
+                                         62
+
+                                                 FIGURE 64
+                        PASSIVE HYBRID UNDERWATER PATTERN RECOGNITION SYSTEM
+                                              L                          EL            EL
+                                              I                           III
+                                 z
+                                 0
+                                                                      ipassive       Passive
+       2                                       E            ME         Acoustic       Optical
+                z
+                0
+                                                           ]I            Rec.          Rec..
+                c@d
+                P-4
+                                           Displ.        Dispi
+                                              I            II
+                                     EL I to IV      = ELECTRIC SENSORS
+         5                            ME I, ME II     = MECHANICAL SENSORS
+                                     DISPL I, DISPL H = DISPLACEMENT SENSORS
+
+         ick and thin fibers.  The specialized lateral line organs (electric scnsory org,-iiis)
+         be subdivided into two main (rroups: ampullary organs and tuberous organs.
+         :e arc many subdivisions of t]-iesc or-ans and we have previously reported about
+         different lateral line organ types, canal organs, free neuromasts, ampullai-Y
+         ns and tuberous or.-aiis, have a characteristic distribution pattern being similar
+         ,-y=otids, except for Electiopl-lorus electi-ictis.  The density of each type of organ
+         3 same species depends upon the size of the specimen, e.g., canal organs in the
+         re 'on are separated by 1 mm in a Sternarchus -tlbif-rons 13 cm long, and by 2 mm
+         e 22 cm long.
+         ippro.%dmate disttibution of sing0 e organs was established by. observing the "pore
+         r3Y' on the surface of the skin with a dissecting microscope. It follows from the
+         ous descriptions of these organs tl-Ltt these "pores" should not be considered as
+         I hole in the integument in every case, but rather a local differentiation of the
+         rmis overl3,ina, the sensory or-ans
+
+                         V. RESULTS AND CONCLUSIONS
+          )e was to develop the necessary instrumentation for microolectrode recordings
+          @cti-oreceptors of electric fish so as to be able to in,%,esti.-ate their pattern
+          ion ability.  In the prenious chapter we demonstrated that the system is worl@c-
+          and we succeeded in recording        to    ous autorliythmic electrical activ2ity
+                                       ., the au nom
+          nic anipull.-try clectroreceptors of Stern,-Irchtis all.)ifrons compared with the
+          orgali's normal activity (Figures 65 and GG).
+          rdiii-
+             , was made during restin- of the fish with no stimulus.  The impulses
+          -egular around a repetition rate of between 100 and 300.  The amplitude was
+  2        5 mv per spil.;e.  The spike duration was very short -.around 200 micro-
+          (r, igtire:; 63, 66).
+          .r investimation, it can be concluded that electric fishes could use their elec-
+          ins (trausn-iittin(r and receiniiig) for navigation ,tnd communication - in other
+                        0
+          )attelm recognition.
+          )r&,ii,-,,s and Iiistolo-ic,-LI evidence show that Sternarcl-itis -tlbifrons has three
+          electioreceptors: an-ipull,,Lry tonic nonsy,-,ichronous units, ainpullai-Y tonic
+          IOUs Units, and tuberous phasic nolis3rrichronous units.  The physical analo-s
+          -ind phasic electroreceptors ,ire shown i2n Figures 57 and 58.  Both are repre-
+          a generator coi-mected to resist,,tnces and capacitances in series and in
+          The (iifference I)ctiveen tonic and phasic electroreceptors is that the first
+          a one resist.,tnce in series with the renerator whereas the pll,-Isic electro-
+                                             9
+          s ha-%,e a capacitance.  The tonic clectroreceptors seem to be predominant,
+          @ze fivc-to-one, conip,,tre(I to the phasic clectroreceptors.  The elcctrore-
+          seem to act, to ,t cert,-dn extent, independently of the m.-tin electric tr-.insiiiitting
+          least tN%,o out of three different t3-ly-,s of clectrorcccp7tors -Lre as)-licliroiiotlq
+
+                      -i6 .1.
+                                                                 Figtirc 65.  Recoi-clin(v from an
+                                                                    iostlictizcd, curarizccl Stern.,trclitis
+                                                                                  imcil.  Ilorizontal:
+                                                       2          all)ifi-oiis si)cc
+                                                                                                 ertical:
+                                                                 1 gr,-iduation    I msec.  V
+                                                                 1 gr-.iduatio     10 mv.
+                                                                              n
+             -.rv.
+          i,-Ure 66.  T@licroelcctrode recorclii-iC,) of
+          ie  autorhythi-.-iic  electric.             f
+                                        -tl activity o
+          ic anipullary, toiiic electroreceptors        of
+          tei-n,-irclitis -ill)ifrolis.  The spil-@es seeli
+                                         ali-i-io2s t
+          n the top  of  the  rhytliiiiic
+          iiiusoicial %vavefori-n ire the electric
+          icr als froiii the clectrorcceptors.
+            n
+          orizontal:  1 -r.-idtiatioii = 2 iiisce.
+          ertical:  1 yriclti.,itioii   500 iiiv.
+          .mplificatioii xl.00, offecti-%,c 1 ,-i-a(iua-
+          ;@on   5 mV.    Spike app. 2 to       5 iliv.
+                                                               6G
+
+          ,ae type of electroreceptor will synchronize with Ilic  main  electric  organ.
+          ound that the complete denervation of the transniittin.- elect-i-ic'organ does
+          e activity of the asynchronous electroreceptors (both plilsic and tonic). The
+          I capable of respndin- to conductive and nonconductin,,e objects placed near
+          )ody.  It may affect the total capabi2lity in determining certain movements or
+          a certain extent, its sensitivity in pattern recocrwtion.  Some of the syn-
+          )nic units are connected to one and the same nerve trunk part of the acoustico-
+          !stem but connected to specialized big nuclei in the brain.
+          trildig fact about fresh water weak electric fish, besides their spontaneous
+                                                                                     in
+   2       ,an, is that all of them are provided with a highly developed lateralis I  e
+          slated to this acoustico-lateralis system is an enlargement of the cere-
+          )ecially in G         s niloticus and in mormyrids.     The unusual importance
+          -ilis system in tl-iese fish, compared with other teleosts, is not due to an in-
+          aber of "ordinaiy' lateral line sensory organs, but rather to the exist2ence
+          umber of specialized sensory organs within this same system.
+          )ortiiic,r
+                our hypothesis about a hybrid complex undeinvater pattern recognition
+          I by electric fishes in recognition of prey, predators,  and  navigation  in
+          is recommended that the other lateralis line systems from different fresh
+          electric fishes should be studied with the aim to find2 out the role  of  the
+          isory organs in pattern recognition.
+          of the electric fish pattern recorniition system would malce  it  possible  to
+          models of the physical arltlo-s of the sensors could be integrated in object
+                                       0
+          location, detection ,Lnd identification. The range and  sensitivity  of  the
+          1 be issessed,,ind impro-,,cii-icnts could be made.
+          lely used anaestlictic,- "INIS 22211 or "Fiiiquel" (triciiiie inctlianesulfon.-tic) -
+          @cts the repetition rate of the electric impulses of the electric or,-,iii. It
+          ;.o do a series of c.%-perli-nents on (lifferent aiiiestlictics to eslil)lisli AX,Ilctlier
+
+         -,@e is one which tvould not affect the frequency of the impulses.  It  has  been  found
+         thiopent,,d sodium (sodium pentliotal) N%-LII not affect the  frequency  of  the  impulses
+         is a safe ,tnaestlictic for fish, actin(r fast and without any ill effects.
+         -@-r subdivisions exist between the one and the same type of electroreceptor, but this
+    2     not been -is yet innrestigat@ed in a detailed way.  The connections bet%@een the electro-
+         aptors, the different nerves, nerve-trtmks and the brain have to be investigated.  In
+         way, their iiiterrel.-itionship could be established.  Microolectrode recordings from
+         electroreceivqrs  proper  and  from  their  nerve  fibers  have  been  planned.   Electro-
+         ;ect2ion and clearing of the lateral line near the  electr'oreceptors  to  be  investigated
+         enable us to record from the efferent nerve fibers.
+         m the e-%-periments with Gynu-iarchus nilotictis . we concluded  -.hat  one  fish  would
+         ognize .tnd communicate with another one of the same species.  Behavioral experl-
+         itsinthisdirectionwillbecoiitinued.  Itisrecommendedthatfurtherii-dc2ro-
+           ocle recordin-S be made  from  the  clecti-oreceptors  and  from  the  nerve  fibers  of
+         .narchtis -tlbifrons and of the newly received G@i,-i-iin,'U-clitis niloticus.
+         3 possible to simulate an  equivalent  sensory  system  respondin-  to  different  stimuli
+                                                                            m
+         er-%vater. A system  with  a  dou2ble  feedback  mechanism  can  be  envisaged:  (1)  one
+         resented by a constant  frequency  electric  field  tralismittin-  system  operating  on
+         phase-synchronous  electroreceptors  respondin-  to  discontinuities  in  the   electric
+         d or to changes in the phase relationship transmitter-r'ecel)tor; and (2) another
+         represented by a variable freqliency tr-,insmitti2ii,-                      to disturbances
+                                                               system responding
+         'ie field bet-%%?een transmi                               e
+         i                         itcr and receptor with a cl=i-  of the frequency of the
+         ismittliig electric organ. To tllis we could add 'Lii independent dual au*.Orh3,Uil-ilic
+      2   @-ptor system: (a) respoiiding with the increase or decrease of the autorh@,tlimic
+         luciicy dcl)ciidin- on movcniciit directioii of the (listurb.-Ulce in the electric field;
+         (b) responding with a cl,,an-c in ilic latency (lopcndiii- on the magnitude  of  the  dis-
+         ),.ince, -6dso dist-higuiswn- bet-%@,een condticti-%,c and noncondtictive objects.
+
+                                                                                     odel for
+        mn,,irchtis rdloticus, one of the most sensitive electric  sh s, served as a m
+         simulation of a simple pattern rccogidtion system (Figures 67 and 68).
+
+                                                                                      t
+                                                                      country of.origin:   Sudan.  One of the
+                               Figure .67.          htis niloticus.
+                                              most Sensitive tiectric Fish.   (Half-scale)
+
+                                            Sliin.41 Cot,d
+                               Lk
+                                            Air 131addei,
+                                            Electric ti,atl.,3mittilig oi,gans
+                                            Electric receptors    3 kinds
+                        + +     +*  t           +.+
+                                            i i i9
+                   Electric receptors
+                       3 kinds
+                                                  Electric traiisinitting organs
+                                                                   (Electric Fish).  Placement of Electric
+                               Figure 68. 232nn@@@otic@us
+                                                  -kransmitting and Receiving Organs.
+
+                                                                   _T
+                      0 49
+                                                                                        AJ$4
+            Fig. 69       Laboratory for investicration     of electric fisfies A.
+                            7'1
+                                                                              1.4
+          4  Figitre 70      1,,iL)or;itoz-.%, f(,i- iiiv'c.;tig;itioii of clt-ctl-ie fislies  13.
+
+                                 VI.  REFERENCES
+        N@latanabe, A., and K. Tal@:eda, J - E,,-n. 73iol.- 40:57 (1963).
+        Bennett, 1%1. V., -@lodes of Operation of Electric Or-ans.  Annals of the hTLei@?
+                                                             t:l
+        York Aetdemy of Science 94:2:458 (19Gl).
+        2Eccles, J. C., P. Fatt, and K. Koketsu, J. Phirsiol. 126:524 (1954).
+        Rose, J. E., and V. B. l@IoLmtcastle, Bull. Jolin Hol)],dns Hosp-, 94:238 (1954).
+        Grundfest' I-I., Pro-7ress in Blo
+                                        _1-)Tl-,,sics 7:1-85, Percramon Press, London,
+        G. B. (1957).
+        Furul@a%2\,a, J., and Furshpan,  E. J., T,,vo inhibitory mechal-isn-is in the
+        I%Iautlmer neurons of -,;oldfish, J. I\Teuroph3,siol. 26:140-176 (1963).
+        Dian-ioi-id, J., and Yasarffil, G. M., S3,iiaptic function in the fish spinal cord,
+        Dendritic integration.  Pro-. Brain Res. 31:201-209
+        Auerbach, A. A. and Bennett, M.2 F. L., Chemically mediated transmission
+        at a giant fil:)er synapse in the central nervous s3,stem of a vertebrate, J. Gen.
+        Physiol. 53:183-210 (1969).
+        Auerbach, A. A. and Bennett, 11. V. L., A rectifyiii- synapse in the central
+        nervous system of a vertebrate.  J. Gen. Pli@,siol. 53:211-237 (1969)2.
+        A-alides, E. and Sparl:s, S., Tlio compound eye of artliro-i)ods in "Research
+         0
+        and D--velopment!' GDPD General L@-m-iiides, pl). 317-.')22 (1968).
+        Hartli2-ic, 11. K., Wa,,mier, II. G., -,iiid l@L-Ltcliff,. 1., hi]-Libitioii in t2he eye of
+        Liiiitiliis.  J. C,cn. Pli-vc3iol. 39:G51-G7'0 (195G).
+        Lissiiim, 11. W., ,uid T@lulliii-or, A - i%l. , Or,,,,ti-dz,,tUoii of tiiil)tlll'IIT electric
+        receptors in G-%,iiiiioti(lic (Pisces), Pr6oc. Ro-\?. Soc.
+        Sz,il.)o, T., S(-,nse or-,-uis of the Iitera Iiiie sysiciii iiiso)i)c electric if the
+                                                              j'\Toi-I)I)ol. 117:229-250 (II)C.5).
+
+       6.   Szamier, R. B. and NV,-tclitel, A. W., Special cutaneous' receptor organs of
+            fish.  VI.  The tuberous- and amlrillary organs of H3rpopomus.  J. Miristi-tict,
+            Res. 30:450-471 (1970).
+     -7.    De Oliveria Castro, G., Morpliolo-ical d,-ita on the brain of Electropli-)rus
+            electricus (L) in DiO2clect"02"esis (C- Cha-as and A. P. de Carvallio, eds.),
+            pp. 171-182, Elsevier, Amsterdam (1961).
+     L8.    Bennett, M. V.  L.,  Meclianismof  electroreception.  In  "Lateral  Line  De-
+            tectors" (P. Calui, ed.), pp.  313-393,  Indiana  Univ.  Press,  Bloomington,
+            Indiana (1967).
+     19,    Suga, N.', Electrosensitivity of canal and2 free neuromast organs in a gynmotid
+            electric fish.  J. ComT). Ne@irol. 131:453-458 (1'967).
+     20.    Bennett, M. V. L., Similarities 1),--tNeen chemically and electrically mediated
+            transmission. Iu "Physiological and Biol)liysical Aspects  of  Nervous  Inte-
+            gration-"  (F.D. Carlson, ed.) pp. 78-128, Prentice H-all, Englewood Cliffs,
+            2New Jersey (1968).
+       1.   Mullin.-
+                   ,er, A . M., The organization of ampullary sense organs in the electric
+            fish Gymnarchus niloticus, Tissue Cell 1:31-52 (1969).
+     22.    Lissman, H. W., and K. E. Macbin, J. E.%cp. Biol. 35:451-486 (1958).
+     23.    Bullock, T. H.  Personal communication (1969).
+     24.    Szabo, T. and Fcssard, A. E., J. Ph2y5iol., Paris.  57:343-360(1965).
+     25.    Btillocl@, T. H. and Cliichibu, S., Proc. National Acad. Sci. USA.  54:422-
+            429 (1.965).
+     26.    Acralides  E.  Evolution of electric or-ans in fish, information processing by
+              0                                    0
+            electric fish and communication beinveen electric fish.  Lecture at the Arthur
+    2        D. Little Co., Caml.)rid(r
+                                    ,C, I\Iass.  (21 Feb. 1961).
+     27.    Arrlilides, E., D. Hcl)l)ncr ,t,.id C. Claysi-iiith.  Communication techniques to
+              0
+            resist jamming.  GDCA-ERR-1717, Coii-%rair Aerospace Div. (Octol)cr 1972).
+     28.    Hul)cl, D. H., Scic0iiccs, Vol. 125, pp. 549-550 (1957).
+     29.    NN'ollib,,trsht, M. L., l@,lacN!chol, E. F., Jr., aiidW-.tgner, 11. G., Science,
+            Vol. 132, pl). 1309-1310 (1960).
+
+                                                                   ry, R. W.#
+   -irundfest, II., Scngst.,.Izcn, R. W., Oettinger, W. II., and Giir
+   IC,. of -,gci. Tnst-r., Vol. 21, pp. 3GO-3Gl (1950).
+   -)on-,adson, P. E. K., Electronic Apparatus for Biological Research, Butter-
+   vorths Sci. Publ., London, pp. 568-581 (1958).
+    Vood, E. 1%1. , Urethane as a carcinocr n.  Progressive r, ish-Culturist, Vol. 18,
+                                        C)C
+    4o. 3 (1956).
+    3all, J. N., and Cowen, P. N., Urethane as a carcinogen and as an anaes-
+    hetic for fislies. Nature, Vol. 184, p. 370 (1959).
+    3ove, F. J. IIS-222 Sandoz, the anacsthetic of choice for fish -Lnd other cold-
+    )Iooded organisms. Sandoz News No. 3 (1965).
+     ,Iarldng, L. L. , Investi-ations in Fish Control: 12.  Toxi. ity of AIS-222 to
+                            t),
+     ;elected fislies. U.S. Bureau of Sport Fisheries and Wildlife Resource Pub-
+     ication No. 18 (1966).
+     @Iall@er, C. R., and Sclioett-er, R. A., Investigations in Fish Control: Resi-
+                                t@
+     iues of MS2-222 in four species of salmoiiids following anesthesia. U.S. Bitreati
+                             ildlife Resource I>til)lication No. 21 (1966).
+     '@choett,a,,er, R. A., and Julin, A. M.,  13.  Efficacy of MS-222 as an Anesthetic
+     ,n Four Salmonids. U.S. Bureau of  ort Fisheries and. Wil life Rgsotirc_e
+     ')ul)lication No. 19 (1967).
+      :lont2z, G. W., "Anesthesia of Fislies" , in Experimental Animal Anesthesiology
+      )y D. C. SaNvyer,, AD 648 329, U.S. Dept. of Commerce 19G7 Symposium held
+      3ec. 1964 at the Brooks AFB, Texas.
+      .he I%IERCK INDEX.
+       zabo, Th., in Lateral Line Detectors (P. Calin, ed.), pp. 295-311, Indiana
+      iniversity Press (1971).
+       lagiwa.ra', S., Szabo, Th., and Engor, P. S., J. NcuK2phyEi2L 28:775-7S3 (19G5).
+       '.ncrer, P.S. , and Szabo, Th., J. of Netiropli,%,siol. 28:775-783 (19G5)
+       ,obu2L Suga.,-J. of Conip. Neurol. 131:4:437-451 (1967).
+       'ulloclct          tin Bch,.tv. Evol. 2:85-118 (1969)
+               T. 11.  Br,
+
+         lartop: U. S. Patent 3109001 to Abbot Labs rlg6@).
+         @galides, E., Sensiti,@ity and Behavioral Reaption of Sharks to Electric
+         ')timuli, Final Report. ONTR Contract Nonr 4773(00) No. 104-8G3 (1967).
+         lagiavara, S., Szabo, T., and En,-or, P.S., Electroreceptor mechanism in
+         -t high f@requency wealdy electric fish, Stern,-t6rclitis albifrons. J. Nourophysiol.
+         ),'8:5-.784-799 (1965).
+         Szabo, T., Nature, 194:4848:600-001 (1962).
+                                        7 ri
+

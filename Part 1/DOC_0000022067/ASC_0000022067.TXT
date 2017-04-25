@@ -1,0 +1,436 @@
+                                           S LP, LA
+                                                -RY
+                Bjol,,OD is an operational system  specifically  desi&ned  to  make  it
+          .Convenient for unsophisticated couiputer users to study models of dy-
+            namic systems.  The system features a high degree of interaction,
+            user-oriented model-definition languages, and flerible, in-dep2th model
+            structuring.  It employs a graphics console comprising a television
+            screen, a data tablet, and a keyboard.
+                A BIO'@IOD user may represent a model by drawing block diagrams
+            and handprinting or typing text;  he  receives  iumiediate  feedback  about
+            the system's interpretation of iiis actions.  Each component of a model
+            block diagram may be defined by another block diagram; this facilitates
+            2organizing models into meaningful substructures.  A user ultimately
+            defines each co-,Pponent  block  by  analog-computer-like  elements,  alge-
+            braic, differential, or chemical equations, and/or Fortran statements.
+            A modeler may.thus define  his  model  in  whatever  terminology  is  mean-
+            ingful to him.  Displayed curves are continually and automatically
+            updated during model sit:,ulation. A  user  may  stop  2the  simulation  and
+            plot different variables, c@ange scales, or alter parameter values,
+            and then either continue  simulating  or  revise  the  description  of  his
+            model.
+                 This report demonstrates BIOIIOD  by  presenting  a  scenario  of  how
+            a user might describe and simulate a dru--effect model, briefly de-
+            scribes the system implementation, and discusses experience with users.
+           8                                                 linnroveld oor Rol  a
+                                                                     . - - - . @lez@
+
+                  II.  A @',(DEL FOR EVALUATI@,'G DP,CG           FOLICIRS
+                  liedications and their prescribed dosages are designed to maintain
+               a critical amount of drug in the blood for a specified period of time.
+               The conventional method for determining optimal dosages involves numer-
+               ous laboratory experiments.  If the drug effects carr be modeled, how-
+     2          ever, a more efeicient'method is to  experiment  by  running  computer
+               simulations.
+                  One technique for niaint:aining the prescribed amount of drug is to
+               use a,r-apsule containing a large number of differently coated pellets.
+               The pellets dissolve-at different times, so that, as drug leaves the
+               blood, it is replaced by drug released  by  newly  dissolved  pellets.
+               Garrett 2and Lambert (8] have proposed  the  following  model  to  descIribe
+               this situation.  A capsule comprises a number of pellet populations
+               with different mean times of release.  The  rate  of  drug  release  for
+               each population is assumed to be normally distributed (;.,,ith the same
+               standard deviation for each population) about  the  mean  time  of  release
+               for that population. The rate of addin2g  drug  to  the  body  is  therefore
+               specified by a sum of  normal  distributions.  The  transfer  of  drug
+               through the body is described by
+                                               kGl B      kB u
+                              drug
+                                                                  (D
+               V,iere GI refers to the gastrointestinal tract, B to the-blood, and U
+               to the urine and other excretory parts 2oi the body; this means that
+               drug flows from GI to B at rate k    and from B to U at rate k,,,.
+                                               GI,B
+               Thus, for exarple,
+                                    dD /dt - k     D     k    D
+                                      B       GI,B  GI    B,U  B
+               whe.re D  is the amount of drug in B, and D the amount of drug in GI.
+                     B  8                                GI
+                   Given this description together with the requisite parameter
+               values  I
+                       ITO",CD ca-.i be Lised to simi-tl.-,te the model. Note that the follow-
+                                                                                 ti-ic
+               saT,-@e goal, an@i that BIG!-!OD does not force the user to tale actiow  ii
+
+                                                       -6-
+                          1-.'nc-n u*iiig                     -via a data tiblet pen and A
+                     keyboard. rli'e peti's location on the tablet  is  alwiys  indicated  by,a
+                     dot displayed in the  corresponding  location  on  the  television  screen.
+                     BIO!@IOD's interpretation of user pen a2ctions depends  on  where  the  pen
+                     is placed and on what is currently displayed  on  the  screen.  I-le  may
+                     hindprint characters in most  areas.  As  we  write,  a  displayed  "ink"
+                     track appears to flow from the pen;  each  time  we  complete  a  character,
+                     its track is replaced by a stylized  character.  We  can  change  a  cliar-
+                     acter by writing another over  it.2  Some  symbols  are  used  for  editing;
+                     for example, we may use a carat to insert  text,  or  we  may  scrub  with
+                     the pen to delete text.  Some areas displayed on the screen act as
+                     pushbuttons; if we "push" one of these  (by  touching  the  pen  down),  the
+                     system performs the indicated  action.  If  we  push  a  displayed  arrow,
+                     a continuous action takes place, such as the rescaling of a se2t of
+                     curves. Some figures can be "dragged";  if  we  "touch"  one  of  these  and
+                     move the :)en, the displayed  figure  follows.the  pen's  motion.  We  may
+                     type (witi the keyboard) in  any  area  where  wricing  is  possible.  The
+                     keyboard cursor may be positioned either with  r-he  pen  or  with  keyboard
+                     control keys.
+                     iI   To create our model, we e2nter  our  identification,  name  our  -iodal
+                     DRUGS, then begin constructing  the  model.  Because  it  has  two  major
+                     vmponents, we first draw  two  rectangles;  these  are  replaced  by  styl-
+                     3.Zed'function boxes. We write CAPSULE in  one  box  and  names  of  parts
+                     of the body in the other box, and tnen draw a flowline to connect them.
+                     T'nis diagram (Fig. 2) pr2ovides n@t only a  picture  of  our  model,  but
+                     also a means of defining the two co-,nponents  of  the  model  separately.
+                          To define the capsule component,  we  first  push  the  DEFN  button
+                     on its box. The system replaces the  block  diaaram  with  a  list  of  lan-
+                     guages that we may choose  from  to  define  the  component.  The  languages
+                     are block diagrams, mathematical  2equations,  cli-3mical  equations,  and
+                     Fortran statements. t@a choose block di-,,,rains so t,iat we  can  define
+                     the capsule as a set of  boxes,  each  representing  a  pellet  population.
+                     This ability to define a box by another block  dia-ra,-i  enables  us  Eo
+                     organize a riodel as a hierarchical coll@@ct4-on :)f a nurl-er of com,)OVents
+                     at di'Lf;arent levels.     dra-,@t Ecu-,:    i-,-,d    PILL on t'i@n to;) li-@i
+
+                                                       CALL          L
+                                          lr$k4e.r. COS%($%   l@%                                                                  --JMLL
+                                                                                                  L I %I
+                                                        I PLY P@-I                2  LD
+                                                                                      Ot  TRACT
+                                                           CAPII:LT
+                                                                                        SLOno
+                                                                                        R I x e  TC
+                                                       Fig. 2--The DRUGS 9model block diagrom
+
+                       OA'@' call_lil to rcprk2scilt L.O@ir                     a           box
+                       in this @,ay          we anticipate using tlie same function repeatedly,
+                            Because each population is defined by a normal distribution, we
+                       indicate that we want to define the PILL function witli mit2hematical
+                       equ,it'-'ons.  B10'.-IOD responds by displaying a form for writing alpebraic
+                       and differential equations.  1,,'c assume that the probability of a pellet
+                       dissolving in an interval about time t is given by the prol)ability
+                       density function
+                                                                    2   2
+                       2                               1        (t-m)
+                                                p
+                       Using this function to approximate the drug release rate by a deter-
+                       ministic variable, we write
+                             P = 1/(SIC,Lk*SQRT(2*Pl))*EXP(-(TI@IE-',IEA@l)**2/(2,,@SIG@t,%**2)
+                       The system analyzes this statement  and immedi2ately responds with the
+                       message
+                                                U'4iBALA@NCED PARE.@THESES
+                       We then add a closing parenthesis to correct the statement.       also
+                       realize that we should parameterize the amount of drug released by
+                       each pellet population, so we insert DOSAGE after the equals sign and
+                       scrub the 1.  The display now a?pear2s as in Fig. 3.
+                            BIO@FOD has generated separate lists of the defined and undefined
+                       variables; TI'.IE does not appear because it is always the simulation
+                       independent variable.  These lists enable us to indicate which vari-
+                       ables liave different r..eanings or values each tire we use the functi@n.
+                       We indicate that the names (and therefore t2he values) of PI, SIG',,fA,.
+                       and DOSAGE are the same each time we use the PILL f,,inction.  This is
+                       because PI is a constant, and because we asstite that the standard de-
+                       viation and dosa,@,e a,,nc,unt are the sar-,e for each populat4-on. On the
+                       other hand, @.,-e irdicate that ',frA@4 -,,iay hav-@ a different value for each
+                       pallel oopulation.
+
+                                                  L t
+                                   -itnr  i-I  F C A                                                             0 COLL
+                                                0
+                                              0 a          R'f 0,
+                                    PR&-lip 00-                 ;I
+                                      Fitt            2                                                            orlain
+                                                                                                            t   ACROLL
+                                                          MATMEt4ATICAL F'Jt iTl(P44 C(DING F(Pm
+                                     I)FFI%F4    orrt%iltiom
+          2                                  L
+                                                 ong4rrli -;lCt4A*40RTI JOPI I I*Fl[Pt -ITIME-)4C44lOO2f-.
+                                              VARIABLE% CElrlheD HERE                     VARIADLei DEPIN90 fLiCtlitRO
+                         2           CHECK I-r-                                 CHCCK I P
+                                    Ot YFL  T'WARIABL?                         RtPitmeAuL t [P-Pt T
+                                      LOCAL 'ARIABLF.                           N(M.RT A14CAELE iportr
+                                         %Ab-    cnljmr%y                           him:    cot4gc?4T
+                                       @i p
+                                                                                 ;I q IG49,
+                                                                                 II
+                                               Fig. 3 -The definition of             a pellel- popvlation
+                      6                                                                          I
+
+                                                        -lo-
+                            @;o,.4 tliat W(! 'rave   t@illo- PLLL fttiiation, ,.c are read7 to u@;e
+                       it to define the iiidividual populitions.  W-2 push a button to &at back
+                       to our diaoram of the four PILL boxes, then push the DEF'L button on
+2                       one of these.  Because FILL is now defined, BIO'CLOD displays
+                                                  p
+                                                  MEAN    4-
+                                                  P I       P I
+                                                  S I G@IA  S I GTMA
+                                                  DOSAGE    DOSAGE
+                       for us to provide the names  of  th2e output and mean of this particular
+                       population. lie write Pl next  to  P-)-, to name this output Pl, and write
+                       ,-il next to ',%IFAN -@-, to name this mean time of release Ml.  We similarly
+                       establish the correspondence bet,.@een the names of variables in the
+                       other three-pellet populations and the names. (P and ',-IEA@1) used when
+                       defini ng the function  PILL.
+                            Ife can describe the flow of the drug through the body by chemical
+                       equations because these are mathematically equivalent to mass transport
+                       equat-'-ons.  @riien we push the DEFN button on the box that describes the
+                       body, and select chemical equations, BIO'-IOD presents an appropriate
+       2                form.  According to our original model description, we would like to
+                       write
+                                                 k           k
+                                              D   GI,B    D   B,U @@. D
+                                              GI          B           u
+                       or                             k
+                                                        GI,B
+              2                                D                  D
+                                               G I                B
+                                                        0 .
+                                                      k
+                                              D                  D
+                                               B                  u
+                                                        0.
+                       where 0. in@icates th2at there is -.io bac'%-wa.-d     BIO".'CD i:eauires that
+                       we linearize e,-c'Li eattal:ioi. aild   t'.ia rata cop-@,-,@:icients e-luaL-.c,.s
+
+                               s       KCIB      0.      DGI - DB
+                               s       KBLI      0.      DB  v DU
+              Here S (for slov react-;on" mean$ that BIO@.' D should derive integral
+                                      ;               .10
+              equations froni our equation.  Since the pellets release drug ir-to Lhe
+              gastrointestinal tract, w2e also write
+                                G      DGI                PI+P2-FP3-FP4
+              This stat-ement (,4ith C for gain) indicates that the gain  of  DGI,  i.e.,.
+              .the increased rate of change of DGI due to drug entering the body from
+              outside, is equal to the sum of the rates of drug release  from  the  four
+              pellet populations.
+                 The model is no@4 defined except for  para=eter  values.  When  we
+              indicate that we are ready to provide these values, BIO@'.OD dfsplays
+              the names of model variables aiid parameters in two separate lists
+              (Fig. 4). Names such as DGIQ indicate initial  values;  they  are  derived
+              fro:a the chemical equations by BIO'@:-iOD.  We enter the values given or
+              ir.plied by Garrett and Lambert.  We assume trat some drug is immediate2ly
+              released into the gastrointestinal tract and therefore set DGIO to 5;
+              the other drug amounts are initially zero.  In order to minimize storage
+              requirements, BIO'.@'OD limits the number of variables whose values Are
+              saved during simulation and the number of parameters whose values can
+              be modified during simulation. Since  this,model  is  small,  we  indicate
+              that we want to s2ave values of (and possibly plot) all the variables,
+              and that we Eiight want to modify values of all parameters except PI.
+                   It has taken us less than half an  hour  to'complately  describe  our
+              model.  We no,,i indicate that we would like to simulate it.   BIO@'@OD
+              first produces a CS@ir/360 (2] program that describes our  model  and pro-
+              vides for gra0p@.ic display of the results.  CS@2, in turn, generates a
+              Fortran progra-.i, which is compiled and linked with other prograr.,s re-
+              quired to run the si,-@.ulation. If an error is detected at one  of  these
+                          C          7   2
+                                                                        j, Vi   64 E .
+
+                                  it(;tg I FteCALL                                                  Y-       AILL t
+                                  ;PltAtee 30filesI
+                                    or..UG I-                                                                FAGZ
+                                            vArtiABL93
+   2                               CII!C%  I?-                            CHCCX lpli                   t  SCA(LLI  I
+                                  PL13TTAOLS                             POOTFIAOLZ
+                                  NOT PLOTIADLE                            NOT
+                                     MA'pe   co;4112ml        2               NA,N,ozo":::Lv:      ct@,?,C.f
+                                     r)G IA                                            0.3 IOZ-0
+                                     DU                                                   5 0132 0 0 t
+                                                                             ft I      3a 0 3L - 0
+                 6                                                                       1 4 1  0!1
+                                                                                      .1      .0c
+                                            Fig.4-The model variables cnd pcronleters
+
+                                                     -13-
+               messages.   The time reqtii.red fo-,: the ti.,knF,1,-ttioii dc,,)c-tds on the load
+               on the  (multipro,-raTuned)  con:puter;  generilly  it  is  about  three  r:iinuter,.
+                    Our DRUGS nzodel trc.@nslates successi'tilly, so  the  form  rtiot4n  in  Fip,.  5
+               is displayed on the screen,  As in the other fortis, soft@.iare pushbuttons
+               appear  across  the  top.  The  central   area   is   for.selectin@   numerical   in-
+               te-ration  methods,  modifying  parameter  values,  ex,-.aiin-f-ng   variable   names
+               and  values, 2 or  plotting  graphs.  The  areas  to  the  left  and   belotf   the
+               central area are for specifying the y and x axes of the graphs.
+                    We  expect  the  values  of  our  model  variables  to   change   smoothly   and
+               over  several  units  to  TILME,  so  we  choose  a   simple   integration   method--
+               Simpson's  method  with  step-size  =  0.1.  This  is   a   fixed   step-size   method,
+ 2              so   the   information   regarding   variable   step-sizes   disappears.    Before
+               studying  how  to  use  a  multi-pellet  capsule,  we  want   to   ensure   proper
+               model  behavior  Vien  there  is  initially  som3   drug   in   the   gastrointest-
+               in-al  tract,  but  no  capsule.  To  eliminate  the  capsule  drug   we   push   the
+               PARA@',ETERS  button  to  display  the  list  of  modifiable  parareters   in   the
+               central area, then overwrite the value of DOSAGE, changing it to 0.
+               Next  @@e  display  the  list  of  plottable  variables.  Because  %.!e  are  irost
+               interested  in  the  amount  of  drug  in   the   gastrointesti-ial   tract,   blood,
+               and urine, ,le drag the  names  D@'7I,  DB,  and  DU  to  the  y  axis,  We  want  to
+               watch  the  Liodel  for  several  eirulated  hours,  so  we  chanoe  the  upper   range
+               of TI'ZE (in  the  small  box  at  the  lower  right  of  the  central  area)  from  1.
+               to 7.  We push PLEJT; now we are ready to plot DGI, DB, and DU fro-,i 0. to
+               1. against TI'L'IE from 0. to 7. hours.
+                    We  push  RESTART  and  the  simulation   begins   running.   We   see2   (from
+               the curves) that DB, and later DU, are being generated-, the ",\'OW X
+               number  changes  continuously  to   indicate   the   current   value   of   simulated
+               TI@E.  Because  rGI  is  plotted  off  scale  along   the   upper   boundary,   we
+               touch  the  pan  do@.-m  to  stop  the  simulation.  In  order  to  determine   the
+               rance  of  DGI,  we  return  to  the  display0  that  lists  the   variables   along
+               with their clrrent, riiinirritia, and T@ia-%iiaum values.  The  mcxiru-.i  value   of
+               D'@'I is 5.  (its initial value), so we            5  over  the  1   that   specifies
+               the tipper  y-axis  vall.,e,  then  redisplr,,y  the  curves,  7ne  curve,,  are  now
+
+                                                                                                                                         -14-
+                                                                          j;n 4  C I RV F 4 -                                  on              
+olgpt 4y                           t-i
+                                                                              F%TFR   2                     RF;TIAT                 Cn%Tl%t F  
+pAqt.,(FT                                   C'IPT
+                                                                            4%AIYIF                        -tlnp                   mARocnpy    
+%ARIAR(                  pliort            Foltnq
+              2                                                                  Pt nr              TN I  %.  At  t n4T4  lr"l%  Twli  OST4    
+I  4FTHO                RART      A$'      UMDP'T
+                                                                          IITFGqITI.l%            FOR  Rt%  I       ,  oRt  C   4              
+2                          06/21/71               14,0?
+                                                                                                   SET UP GRAPH                                
+AND f                 P-l E'r ii 0 D
+                                                                                                           I%TFGRATINN            IAFTIIOO
+                              2                                                                             ( I   RFCTA%GTLAR
+                                                                                                           t     TRAPE?0104t
+                                                                                                                                   Rt I F,
+                                                                              It I"E2a;t                    c I   2%o.nqDFR         ADAM%
+                                                                                                           I )   4TH.nRorq         qt%CE-KITTA
+                                                                                                           IXI   4TH-OROfR         Ilk %C r
+-i%t TY4 ,  v 4 R 1 4 St g  ire 2p - i I ? r
+                                                                                                           I     STH-Oqofq         u I L % f .
+V 4 R I A  St  f  'ITE P - I f I  C
+                                                                                                           I     FOOLF.R-64RTFN  me)o  9  A%o 
+C.  VAR                      %TZP-i,l2f
+                                                                         Y-%A-F  RI%   10
+                                                                                                           I%TT14L            I%TFGRATION      
+iTEP-117E                  I      OOF-04
+                                                                                                           ml%  StinilAOLF  I%TFGRATII)14  
+%TFP.I.17f                           I      ocr.to
+                                                                                                           4A%     RFL     FRRNR     I%    
+I%TPC;t4TIct     nt  TP, Tq          I      00e.04
+                                                                                              2             '4%'AB't     FRR(IR      I'-     
+INTFCR4TnR      nt  TPI Tlt         I  OOF  -0  I
+                                                                                                           THE  ITFP-%IIF  11  AOlt4TED  q CM 
+T4A?
+                                                                                                             Fg?2l@ATFO               Fq;nR
+                                                                                                             IIHFRF      V      F-ttluATFO    
+ni     YPt     T
+                                                                                                                         R      4PECIFIFO  -%% 
+RF14TI',F  P'Mq,14
+   2                                                                                                                      4  1  'tPFCIFIfD  MAW
+AR',Ott TF  FRROK
+                                                                                    o o o@-. -@0-1
+                                                                                                           Pinrri%c I%TPqv3&t                  
+If    19        I o I r -%-I
+                                                                    Fig.5-The   sinivlalilion   control                                    
+form viitti Integration  @Aetfiods
+
+                .slowly. i,,'e assume, from the Curvc-.,Is r(-Iasonable appearance (Fig.  6),
+                that we described at least tlic- body co,-,iponc-rt of tlc model correctly,
+                and our choice of integration Lietliod is adeq-,iite.   1..7c sce fron the
+                curve labeled D3 that, as expected, the drug renia2ins in the blood for
+                only a short time.
+                    We reintro-luce  the  capsule  dru-  by  chan@ing  DOSAGE  back  to  3.,
+                then restart the  sidiulation  and  @qatch  the  curves  being  continuously
+                updated as it runs.  Once it becomes apparent that the capsule is not
+                effective, i.e., that the value of DB drop"S too loii, we stop the simu-
+                lation.  A2pparently (Fig. 7), the drug is not releasad from the pellets
+                in time to replace the drug that leaves the blood.  To correct this,
+                we change the u,.ean times of release from 2., 4., 6., and 8. to 1., 2.,
+                3., and 4.  We then rerun the simulation and get much better resu        @ts.
+                The amounl of drug  in  the  blood  should  be  greater  ,-han  2.52.  In  orIder
+                to determine if this is achieved, we place the pen down in the cen'tral
+                area to establish an x-y meter, then drag this meter to a place where
+                Y (corresponding to DB-as well as DGI and DU) is eq,,:al to 2.5 (Fig. 8).
+                Our choice of means was good, but they need to be adjusted to maximize
+                the total  duration of capsule effectiveness.
+                     While changing the means 'or2 further trials we realize that rather
+                than controlling four means, we would prefer to dea-. only with the first
+                v.san and the interval between mean times of release,  To reformulate
+                the model in t'.Iis way, we return to its description and add another box
+                to the definition of the capsule component.  In this box.we write
+                                              M2 = '@'2ll + INTVAL
+                and similar ecuations  for  M3  and  114.  This  replaces  the  parar,,eters
+                @113, and M4 with the single parameter INTVAL, ,ihich we set to 1. and
+                r.ar'K modifieble.  Once this is accomplished, we retranslate the model,
+                then continue to  resit-,ulate  it  and  chang3  parameters  until  we  have
+                est0ablished a satis'Lactory drug forTilUlation and adr,.inistration policy.
+
+                                                        FnR      CIR%FQ-                      on I                     I  OfItPLA             
+GO TO
+                                                           F k T F            'IFIT ART            Cn%Tl--t F          PARIMPTEqq       
+,Z%p(IaAqy Ct)py
+                                         2                 ANAIY                   TOP              lllq OCOPY          %AR140LFA         
+MODEL EDITOR
+                                                                                             I                         I . "THOD        AT44T
+OF MODEL
+                                                             Pt nr         TH I %   L  RATS    rmi %  TH2I q '0.%TA
+                                                          PL nr c          Fn"t       i .  r)Rt GI,                                    06/23171
+14-11
+                                                                           SINlULATION S'POP: PC-NDOVIN
+                                                                  qt%
+                                     2                                  10
+                                                        OG I       I   rc
+                                                         OR        I   ng
+                                                          ot       I   ot
+                                                                                                                                               
+Iz - I
+                                           9                                                   N .4 Amp z                              I       
+4 0 1 0 0
+                                                                               PTMTTING  I%TFqvat   %                      -tirnr  T$P  u
+                                                                 Fig. 6--The simulall-ion run with no ccpsule drug
+
+                                                                                          -1 7-
+                                        Fn;t C I gt% E q                          DO                           D l@'   I I y@'
+                                                                     T                  C ns T 1 14 k E       PARAMETER4          reMPORARY    
+COPY
+        2                                     6  TR                                                            ioARI&BLEi            MCDEL     
+POITOR
+                                             I
+                                          A @.  I I I               ,TO P               HAROCOPY                 -!Ts'.)Dq        START     of 
+MODE
+                                             Pt OT         ITMIN  ALL  DAT2A          H I N  Tti I S  VAT
+                                          PE OT  Cl RV F 't  FOR  RL      I   ORE 0                                               061!IITI     
+i4'05
+                                             L 1=1 F .1 Rj
+                                                                                                                        G
+                                    2         4  0  0 0 E   0-Ti
+                                                                                                                                            
+L@. 0
+                                                                                     %-NAME                                pioe   14      4 0 0
+t  -0  0
+                                                EE
+                                                7                    PLOTTI?IG  1?4'r                                                          
+50C.5c,
+                                                Fig.7-The simulation run with the paraneter voluc-s
+                                                                                  shcwn in Fig. 4
+
+                                 IRW
+                                                          F I q  Cl R. F'-                           on                              'Di .4pi
+ly               Go TO
+                                                             E  T F, R            nE-tT4RT                      T I Nt  F         PARA.gTfRi   
+rempn;4;y          c(py
+                                                           4%&LTIF                    @7                     m4ROCI)PY             VA,ql,43tiq 
+moorl     rotinq
+                                                               Pt CIT         ITH I     ALL  DATA  IrM I h  TM I        DATA            
+UP"Pqnoq      IITAqr   OF    -4(lopt.
+                                                            PLOT  CtnVL"  FOR         Rt %  I    0 Rt' C 1.                                    
+06121@ll         14-.00
+                                                                               X         4      4 9E + 0 0                 -Y           2      
+50 E + 0 0
+    2                                                                  F -7-7-1
+                                                         Y -% 414F  nL
+                                                                 0 oo;p..Oo @l
+                                                                                                       %-444F
+                                                           6                                                                             It 
+TOP  r  i
+                                                       Fig. 8-The simufalion run                                        means                  
+2., 3., and 4.
+

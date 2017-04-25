@@ -1,0 +1,862 @@
+                                         February 15, 1967
+                         Period Cover'ed:  June 15, 1966 Lo January 31, 1967
+              I.  Summary
+                                                 dinas  obtained  during  this  first  phase
+                  Certain key e..cperimental fin     0                  acions  cited   in
+              oZ the research have been combined with earlier observ
+              the project propcsal to produce a model of best fit for the electroder-@-,Ial
+              system. It encompasses both a dual peripheral  effector  -rechanis,-.i  and  a
+              central control system.  It  assians  little  or  no  fuaction  to  vascular
+              mechanisms.   It lias been used to develoo a new 7@ethcd 'or analysis  o-i@'
+              the skin conductance response which has    been hi-l2-hly s@--czesslul in
+              accon,plishino sortina of qualitatively different behavidral states
+              without utilizing reosponse amplitude as such.  The new method should lend
+              itself readily to automation.
+              II.  Snec fic Experimenta! Flndines
+                   A.    Periphe-:al @lectianism
+                         1.  microelectrode Observations:
+                             2.@c,in potentials were  sirultaneously  recor6ed  from  sweat
+                         pores and from areas on the palmar surface between sweat
+                         pores I.epi-derrial sites), tocether tiith-a macroscopic recordi@ng
+                         from a nearby 0.3cm2  site  (a25  subjects).  Pure  positive  waves
+                         pure negative waves  and  biphasic  waves  were  usu2ally  obtained
+                         from either ri-croscopic  site  with  equal  frequency,  althou-n
+                         in a few subjects, the  epidermal  sit-s  showed  predo,-tinantly
+                         positive responses uhile  the  pores  produced  ne-ative  or  bi-
+                         phasic waves. For the  population  as  a  wlole,  no  pattern  was
+                         detectable which allowed  prediction  of  the  particular  2@iave-
+                         form at eitlier type of microscopic site.
+                             One observation of interest was the frequent occl-sions
+                         in wh3ch the microelectrodes  on  tne  sweat  pore  and  epidermis
+                         showed only positive waves  while  the  macroscodic  site  shoi;ed
+                         pure ne-ative waves (Fig. 1).  This  is  attribiited  to  the  Fact
+    0                     that the -,iacroscopic site was covered with el-actrode par-te and
+                                                                       Approve,i fcr @lelzs$3
+                                                                        PaLe
+
+                     ..........
+                            2- mv
+                                                       EP I DERM I s
+                                                         G,ZC)SS
+                            2 SEC
+                                   us riicroelectrode recordings frord a smeat pore frori
+                    I.   Si-,,nultaneo  2                                             " 11 on
+                                                     rom a nearby macroscopic site a
+               the area betwee-n sweat pores, and f
+               the volar surface of the fin"ller.  in this exa-,iple the aross site  shows
+                                             a                           0
+               a negative response,,       4despite the positive activity in the mic3ro-
+               scopi.c sites.  '@ie,.-ative is upwards.
+
+                           with an electrode  while  the  microclectrode  si@,es  were  exposed
+                           to air and were considerably drier.  1-.Iicn dry macroscopic
+                           electrodes made of woven silver  cloth  (to  all:)w  the  site  to
+                           remain dry) were used, the  same  effect  was  obtained,  nl-riely
+                           prominent positive waves at the 2dry site, while negative
+                           waves or  negative  with  weak  positive  components  occurred  at
+                           the wet site (Fig. 2).  This effect is   'consistent with the
+                           predictions of a  hydration  effect  reczntly  disc7overed  at  this
+                           labora:ory  and  investigated  further  under  the  present  contract.
+                           It poi-its 2out that the presence of  two  areas  in  the  skin  with
+                           different  potentials  must  result  in  internal  circuit   currents.
+                           The potential observed at  the  surface  is  then  deter-mined  by
+                           the value of the  ttio  *enerators  and  their  internal  resistances.
+                           If the internal  resistance  (which  includes  the  sweat  duct  and
+                           the horn2y layer, as well  as  any  r-embranes  involved)  is  reduced,
+                           the surface potential will move in the direction of that
+                           generator  wnose  internal  resistance  is  affected.   Thus,   when
+                           sweat overflows into  the  dry  corneum,  it  reduces  the  resistance
+                           of the horny layer and  brings  ttie  surface  potential  closer  to
+                           the potential of the epi2der-,nis  which  is  less  ne-ative  than  the
+                           sweat pore.  This mechanism makes  it  i!Tperat@.ve  to  work  with  a
+                           completely hydrated  preparation  if  this  spur@@ous  effect  is  not
+                           to be confused with true positive  potentials,  such  as  @-,,ay  be
+                           recorded with the site irur,.ersed tn 2dilute saline.
+                               S-'@nce the spiral duct  appears  to  be  rela:ively  freely  per-
+                           meable to ions as it passes through the horny layer, the
+                           corneum acts as a volume  conductor  when  r,,.oist  and  interferes
+                           with the  separation  of  sweat  gland  and  membrane  effects  by
+                           means of 'S@it'Lace -,iicroelectrode  record2in-s.  To  eliminate  this
+                           effect and  also  the  hydration  effect  described  above,  the  skin
+                           is now being prepared by  slicing  at-ay  most  of  the  cor-ieun,  so
+                           that the microelectrode may  rest  alriiost  on  the  granular  layer,
+                           or may be  inserted  directly  into  the  exposed  sweat  duct  at
+                           Lhis  Level.  About  122  exploratory  experiments  have   been   run
+                           to de,.,elop this technique and a series with -a fixed experi-.nental
+                           desi-n has  beeti  initiated.  Sur-Drisinaly,  the  potential  at  the
+                           surfa@--e pore is 10 to 20 -,nv more  neoative  than  the  potential
+                           within the lumen of  the  duct  at  the  aranulax  or 2 iialpi-hian
+                           layer. This may  be  in,laicative  of  a  diffusicn  potential  across
+                           the spiral  duct  wall.  Also  surprisin-  is  t@-e  observation  of
+                           positive as well  as  neeacive  and  bipha-sic  waves  from  %iithin
+                           the  exposed  lumen  a-6  the  deeper  level.  Experiments   entailing
+                           simultaneous0 microelectrode  recordings  froin  the  duct  and  fro-,a
+                           the  -ranular  layer  are  in  progress.  These   should   hopefully
+                           furn'ish definici-@ie infor,-,,iation on the ori-ia of  the  different
+                           for,TE of potential response.
+
+                                                                                      2 m
+                                                            -----------------
+                                                                                       2 mv
+              DRY
+                                                          -C
+                         10 SEC
+                                                                       8               .10 mv
+           Fig. 2.  Comparison of recordit,gs from a conventional (iiet) site and a
+           si-nilai dry site covered with porous sil-ver cloth.  Note greater positivity
+           in the dry site.
+
+                                                                                                  3
+                           2.  Aninial E--<Derimcnts:
+                             A series  of  experiments  was  run  on  6  cats  to  investigate
+                           the  characteristics  of  conductance  and  potential  response  in
+                           the  foocpad  as  a  function  of  the  pattern  of  electrical2  scillu-
+                           lation  of  the  plantar   nerve.   Following   repetitive   stimulation
+                                8/sec,  15 volts, 5 sec.) there is an i-.i@tial      iu@, men t-- t ion
+                           Of the conductance response  to  single  shock  stinuli.  The  a,.-ipli-
+                           tude of this response, tested at 30-second intzrvils, drops
+                  2         progressively to  about  50  percent  of  its  initial  value  over  the
+                           course  of  4  minutes  followin-  the  repetitive  volley.   i4hen   it
+                           reaches this level, another repetitive volley causes an im@tediate
+                           doublin-, of the fesponse to the standard  sin-.le  shock  (Fi,,.P.  3).
+                           The decay then proaresses as before. 2 This phe-,iomenon also
+                           occurs  when  skin  potential  responses  are  monitored.  It  4-s   not
+                           due  to  base  level  effects  (base  level  may  be  altered  by   only
+                           5  percent  durin-  the  repetitive  volley  and   may   fully   recover
+                           by  the  time  the  first  hichly  augmenr-ed  response  is   elicited).
+                               2                      0
+                              Another  experimental  findin-   in   these   experiments   concerned
+                           the  behavior  of  a  second  response  superi-.nposed  on  a  precediig
+                           one.  The findlnos of an earlier study indicated that the
+                           amplitude  of  a  second  conductance  response  was  the  same  as  the
+                           first,  except  for  the  steepest  portion2  of   the   recovery   slope
+                           of the first t.,,ave, at  which  point  the  second  wave  was  markedly
+                           atcenuated.  This pheno-,aenon was confir,.ned and extended to
+                           potential  response  measures.  The  behavior  of   the   potential
+                           sum.-nati-on processes was  almost  identical  to  that  of  conductance
+             2              summation.  In these experiments, for an unknown reason,
+                           attenuation  of  the  second  response  on  the   downward   slope   was
+                           considerably -reater than in the first series.
+                              The  above  findina@s  su--ested  numerous  follow-up   experi@-.ents
+                                                 0    00
+                           which  could  help  lay  the  basis2  for  the  calibration  of  electri-
+                           cal chan-es  in  terms  of  nerve  activity.  Hotiejer,  these  ex-
+                           perimeats i-jere halted when it  was  iearned  tha--  the  sweat  glands
+                           of the cat  footpad  are  apocrine  (G.  H.  Wana,  The  Neural  Control
+                           of  S@4eat,-ng,  1964).  This  has  profound  implications  with  re2card
+                           to  the  interpretation  of  measurements  from  the  cat  AlootDad.  it
+                           renders the extrapolation  of  such  results  to  bu,-,.an  measurerents
+                           hiohly suspect.  Investicators have, however, for several decades
+                           utili              f2gt                                     rep4racion.
+                                zed the cat       pad as a2n experimental eccrine p
+                           Consul:ation with;                     %an   investigator    well    ex-
+                           perienced  in  workin@g  with  the  cat-Tootpad,  revealed  that   there
+                           is considerable question as to the validity of T%Ianals statetent.
+                           Until  this  matter  is  cleared  up,  however,  this  series   of   ex-
+                           periments is7 potentially irrelevant and qill be suspended.
+                           3.  Nail Plate Recordings;
+                               ST)ecial ef,-Forts were -,ade to inst-,re that the pac:@nc4-al  res-
+
+           150 K
+                     30
+                                                                            f
+                     SEC
+          160 K
+                                    REPETETIVE
+                                     STI[.$ULVS
+             Fig. 3.  Potentation of the skin resistance response fro,-,t the cat "Loot-
+                             I
+             pad followi0na a repetitive volley (V),
+
+                                                                                               4
+                           ponses recorded from the   nail  plate,  previously   reported,   were
+                           Dot arcifacts of potentials generated in normal skin on the
+                           opposite or lateral  sides  of  the  finger  and  transmitted  to  the
+                           nail electrode by virtue  of  tli(!  volume  conductor  properties  of
+  2                         the fin-er.  A portion of the nail plate near the distal, lateral
+                           portion of the fin-er was cut away to c.-.pose the intact nail bed.
+                           Two  siriultaneous  m'Lcroelectrode  recordings  were  obtained  from
+                           this  area.  The  most  common  recordinas  were  puie  positive  SPRS.
+                           When one of the  microele2cr-rodes  was  pushed  barely  throu-h  tl-e
+                           upper-,r,ost layer of the nail bed,  the  potential  showed  a  con-
+                           spicuous positive  shift  of  the'order  of  15mv  and  potential
+                           responses  were  markedly  attenuated  at  this  e'-ectrode.  The  con-
+                           trol electrode  remained  active  (Fi-.  4).  In  three  of  the  four
+2                           subjects  thus  examined,  puncture  caused  attenuation  of  the
+                           response (to a  word  association  test)  to  less  than  5  percent
+                           of the control level;  in  two  of  these  the  response  was  essen-
+                           tially  abolished.  When  the  microeleccrode  was   withdrawn   and
+                           placed on the surface of the nail bed adjacent to the point
+                      2     of  entry,  activity  reappeared.  The  fourth  subject  showed  t!ie
+                           positive  shift  with  puncture  but  response  amplitude,  ini-tially
+                           loi.;, uas  not  diminished.  Althouah  this  evidence,added  to  the
+                           earlier indirect  evidence-gave  conpellinc,  sut)port  to  the  con-
+                           tention that the  response;  did  in  fact  originate  in  th2e  surface
+                           of the nail bed, some  doubt  was  cast  on  the  supposition  that  the
+                           nail bed represents pure  epiderL-,41  tissue  Lfree  of  sweat  -lands)
+                           as describe'rl by histologists.                  "ireported the
+                           findirg of sweat ducts along tt@e--distal m-a-r--c-@Ln of the nail which
+                          2 i,nvaded the nail field (personal communication).           ',photo-
+                           -raphs do show  the  spiral  ducts  entering  the  peripnery  of  the
+                           nail bed for a distance of I to 2          I-Theth@r  these  traversed
+                           the nail bed  much  further  is  uncertain;  since  nail  recordin-.s,
+                           except for those described above, are tal&en as close to th2e
+                           center of the nail  bed  as  possible,  it  is  thouaht  unlikely
+                           that  the  potential  recordings  are  contaminated  by  the  products
+                           of s@qeat  gland  activity.  However,  until  this  factor  is  clearly
+                           resolved, the evidence from the  nail  bed  -,nusz  be  accepted  with
+                           reservations.  Histolo-ical  data  is  now  bein-  sought  co   sett2le
+                           this issue.
+                           4.  A'-teracion of SPR Wavefor-,n with Surface Solutions:
+                               An  earlier  study  had  demonstrated  that  total  anplitude  of
+                           the e'-ectrodernal  response,  conductance  or  prrenr4-al,  could  be
+                           altered by the  exposure  of  the  site  to  various  sol.utions.  A
+                         2  follov-ug study was undertaken  to  deter-,Tiine  4hether  the  positive
+                           and  negative  conponents  could  be  selectively  altered  by  this
+                           procedure. The exposure  of  palmar  sites  to  ID[  AICI  was  @lound
+                           to potentiate the positive response by an avera-e o@
+                                                                               ";,  -  750  percent
+2                           (average on  7  subjects).  The  ne-ative  respo-ise  w@ns  atcenuated
+                           to 54 percent of control,  but  this  may  si-iplv  reflect  the  can-
+                           cellin@; efiect imposed by the i-,icrease in a.-,Dlitude  of  the
+
+                Control
+                                                                M. VI
+                 E   pt I
+                    t                 A                                           c
+            Fi,,. 4.  Simultaneous -,nicroelectrode recordin-6 from the nail bed showirg
+            Po 'tive responses to wor
+              s?                     d associations.  in the center panel, one -.iicra-
+            electrode has been pushed throuah the ger-,ninating layer and responses have
+                                           u
+                      d.  To the riht, this electrode has been withdrawn aoain and
+            disappeare             0
+            reolaced on the surface near the puncture.
+
+                                Al
+                                                        NaCi
+                     NaCi
+                              [2my
+                              t
+                                                        AIC'3
+                       i,Ci
+                      N
+                                        A                                       B
+             Fig. 5 -  Potentiation of the positive SPR9 wave by 1 11 A'C'3'     Nleaative
+              is up@..,ards.
+
+                                                                                 5
+                                  in tlle complex  (FiS.    Tt is of special si@'-
+                        positive wave
+                        nificance zhat the earlier study on the conductance response
+                        showed an average of over 6COpercent increase in this measure.
+                        This su-gests that the conduc2tance response may be associated
+                        with the positive wave.
+                        Another a-ent tried was 5,Nl NaCi.  This had not been tested
+                        for its effect on amplitude of conductance response, but had
+                        been sho@qr, to reduce resistance to 5 percent of control level.
+                        The effect on the potential response t-;aveform was a conspicuous
+                        p2otentiation of the "ell wave, a n.egative overshoot L4hLch
+                                                    wave.
+                        sometimes follows the posit@@      Uniphasic iegat@ive waves
+                        were unaf--@ected (Fio,,. 6).  Until the efi'Lect on the resistance
+                        response is determined, this effect cannot be fully interpreted.
+                        it is pre3ently considered to reflect a lytic effect on an
+                        ionic barrier, presumably the semi-permeable mewbrane res-
+                                                       This membrane, accordina to
+                        ponsible for the positive iqave.                      c@
+                        earlier studies from this laboratory, must be accessible to
+                        surface agents, and behaves as a2n ivftperfectly selective cation-
+                        permeable membrane.  The initial phase of the response is seen
+                                              -cmeability to cations, :esultin,@, in a
+                        as an increase in the pe                              I
+                        hyperpolarization, i.e., in a negative wave.  A3 the brealt-@down
+                        of membrane resis2tance proceeds, the relative ...,.perrieabili-ty
+                        to chloride is apparently lost and depolarization occurs,
+                                                                 cyrity of the -,ne:?.brane
+                        resulting in a positive wave.  As the inte,
+                                 I         t effect is thou-ht to be recovery of the
+                        is restored  the firs               0
+  2                      relative impermeability to anions.  if the reccrvery period is
+                        prolon-ed, there nay be an appreciable delay bc_fore the per-
+                        meability to cations is reduced to normal.  During this phase,
+                                ne will be hyperpolarized, resultin.- in a second
+                        the membra                                  7
+                        nec,ative wave or 2overshoot, terned the "c" wave.  A concen-
+                        troated electrolyte such as 5LNt LN'AC! is thoughc co loosen r,,.embrane
+                        structure (to wit, the profound reduction in resistance) so that
+                                  prolonged, accentuatinc@ the negati-je overshoot.
+                        recoverv is
+                          The above concept of2 the rembr@ne process in the electro-
+                        der-Lnal response also e-.,@plains the effect of AlCI3-  The
+                                                                    ne-ative c-haraes
+                        absorption of the aluminum ion by the fixed   0          0
+                                                                  lization and incioient
+                        of the membrane would cause part2ial neutra
+                        loss of selective imperni-ability to anions.  lihen the -,ie:-.brane
+                        break4cwn occurs during the response, tne loss of impe--,-neability
+                                                       e marked, resuiting in areater
+                        to anions is therefore much mor                       0
+                        depolarization and a stronoer positi3ve wave.  Although this
+                        explanation and that for the effect of 5M NACL are hypothetical,
+                        they are consistent with a nur-,ber of other exoerimental obser-
+                        vations and in part fom, the basis of the newly for-ned iodel
+                        of eleztroder.-ial activity.
+
+                       Ask
+                          (2mv
+                   0. I
+                   5. 0
+              Fig. 6.  Potezitiation of the SPR c-wave by 5 M N-aCl.  Ne-ative is upwards.
+                        UT)-nor tra-ce, 0.1 I.'.        l,o-er '.recc,,                Tintifes.
+
+                                                                                           6
+                        5.  Producti-on of a Positive Potential Response by Local
+                           @ice@,anical E'4fect-
+                           In 1921,  Ebbeeke  discovered  that  a  local  dccrease  in  skin
+                        resistarce could  be  produced  by  pressure,  electricity  or  heat
+                        and he 2interpreted this  as  the  response  of  an  epithelial  cell
+                        layer.  Several years later, Rein found that a-positive potential
+                        response could be  produced  by  the  same  means.  This  phenomenon
+                        su@gequently drew little  attention,  althou-h  it  was'confir,-,Ied
+                        by                            It was reported to be obtained from
+                        various parts of  the body but  n2ot  from  the  palms  or  soles,  a
+                        firidino which su-aests that  sweat  &lands  are  not  involved  i-i
+                        the process.  In  an  effort  to  facilitate  the  investigation  of
+                        the pro@-4rties of the positive resoonse in the present research,
+                        a method was devi@eed which  would  produce  a  fairly  reproducible
+                        mecha.nical2 effect.  Electrical stimulation did not appear desirable
+                        because of the numerous structures which it miaht activate.
+                        Pressure was thou-ht undesirable because of the possible production
+                        of  electrode  artifact.  The  mechanical  method  chosen   consists
+                        of tapina to the volar surface of the fin-er a small ii@llatable
+                        ba-.  The tape is applied to  the  lateral  sides  of  the  L'in-.er
+                        such that inflation of the ba- to 190-@=  H-  exerts  a  stretch  on
+                        the dorsal skin  under  the  electrode.  inflations  are  -iade  for
+                        5 seconds at 30-second intervals and produce a squhre wave
+                        stretch. The  response  consists  of  a  very  rapid  positive  seg-
+                        ment fo'-lowed by a more2 gradually increasinp, sec@-ient  (Fig.  7).
+                        In this recording, as  in all others, two sites on separate
+                        fingers  are  subjected  to  the  strecch  stimulus.  A  third  site
+                        on another unstimulated fin@er  is  used  to  monitor  any  response
+                        of refle-.K origin.  The  local  responses  (L)  resemble  the  res-
+                        ponses co word association2 (14)  in  general  form,  and  amplitude,
+                        but are not present  on  the  non-stimulated  cont-rol  fincer  (C).
+                                                                                 0
+                            Alt'@iough the response is relatively stable, J4.t varies  w4-th
+                        the staze  of  background  activity  of,neural  ori:gin.  In  Figure
+                        8, the enhancement  of  the  response  by  ne-ative  skin  potential
+                        aczivity is  illustrated  during  the  response  to  a  sniff.  This
+                        potentiation is tv
+                                          ,pical and has been reproduced  -.iur-erous  times
+                        on 12 sjbjects.
+                            The local  potential  response  (LFR)  has  also  been  obtained
+                        from th2e volar surface of the finaer, despite Ebbecke's
+                        statement to the contrary, possibly because he did not use
+                        stretch. Its  amplitude,  however,  is  less  thar.  that  from  the
+                        dorsal surface.  No local conductance responses were obtainable
+                        from th-e volar surface, thou*h they were readily obta;-nable from
+                        the dors@.i-n.
+                            The L6PR can also be produced by vascular en,,or-ament of the
+                                                                           0  *
+                        finaer, produced by the sudden inflation of  an  arterial  ';-nc,@er
+
+                                                                           Amok
+                                     J2 fiiv
+            Fia. 7.  CoTnparison of local potential response (L?R) and central SPR to
+                                                 trace:  L = local Sti..LIUIUS (stretch);
+            a word association stimulus.  Upper
+            W = word association stimulus.  Tra1ces labelled L show r--cordina, fro-,n
+            fingers fitted wir-h stretch device.  Trace labelled C is a control fin&er
+            which responds to central neural activity only.
+
+                                                                             t
+                                    12 Wtv
+              Fig. 8,  Increase of LPR amplitude produced by backeround ne-ative activity
+                                                                 0        a
+              of neural origin.  The ne-ative activity has been proiuced by havina the
+               subject sniff sharply at point 'IS" on 7the upper trace.
+
+                                                                                   7
+                     cuff. Because of the relatively lar-O  area  enconoassed  by
+                     the cuff and the small finger volume distal to it, tl--, vessels
+                     of the distal portion are markedly  on-oroed.  The  resulting
+                     LPR is cor-sidered to be caused by stretching of the skin  by
+                     this proces2s.  If prior to cuff inflation the hand is elevated
+                     to head level to eiipcy the veins, inflation of the  cuff  produces
+                     little or no LPR.
+                        Exsan-uination of the fin-er for 15 -,iinutes, produced by
+                     rolling.a ti-ht rubber doughnut from tip to base of the fin-er,
+                     potentiates the LPR by about 20 percent  (14  subjects).  The
+                 2    positive skin potential response of central origin  (SPR)  is
+                     simultaneously depressed, sometimes to less than 25 percent of
+                     control. If the positive LPR and the positive  SPR  are  re-
+                     flectio@ns of the activity of the same end oro.an, this must
+                     indicate that hypoxia exerts its effect on the nerve endin(,s@
+                     rather than on the effector or,.,an.  Ebbecke, in fact, reported
+                     elicitin- the local conductance response (LCF,) from  day-old
+                     cadavers.
+                        The e%.sanauination data sua-est that the LPR  is  not  produced
+                     by a vascular mechanism.  Added evidence is seen in the fact
+                     that the LPR like the SPR is suscepti-ble to the effects  of
+                     locally applied electrolytes such as ll.J AIC'3, ILX -Na2SO4, or
+                     5M NaCl. An exa-nple of this effect is seen in Fi-.ure 9,  in
+                     which 1N NaZS04 causes reversal of the rapid portion  of  the
+                     response but not of tne secondary slower portion.  This efl.ect
+                     is reversed when the fincer is returned to 0.1 @NaCl solution.
+                 2    The effect of IN AIC13 is rather variable,  althouch  clearly
+                     present. At tines it attenuates the LPR; at  other  times  it
+                     potentiates it. A solution of SM  NaCl  produced  a  marked  poten-
+                     tiation (e.g., 100 percent) of both phases of  the  response  which
+                     was readily reversed by O.IN iN'aCl.  1-7ork with this acent lias
+                     ju2st corimenced and the inter-subject variability  of  this  effect
+                     is as yet unknown.
+                         The rapid and slow components of this local response are
+                     considered to ori-inate in sepnrate processes since they
+                     occasionally dissociate as in the case of the results of ec-
+                     posure to l@Ta2SO4, An occasional subject will  show  inversion  of
+                     the rapid2 phase, with a normal  positive  slow  phase.  Because  of
+                     the rapidity of the first phase and its negligible latency, it
+                     is possible that it reflects the direct effect of  stretch  on  the
+                     horny layer.  Earlier unpublished data from this laboratory shows
+                     that a collodion membrane when transiently stretched manifests
+                     a sharp alteration in the diffusion  potential  established  across
+        1             it. The horny layer possibly behaves  in  a  similar  fashi-on.  If
+                     this is so, however, one would h-,ve great difficulty in e%plaining
+                     the auarientatioa of this response im-,-,ied4-ately after ne-ati%le
+
+                                                                         Adak
+                     VP
+                     activity of central ori-in. tiorcover, a si,,iiiar pattern of
+                                          0
+                     fast and slow components is produced when the site is com-
+                     pressed rather than stretched.  in this'procedure a standard
+                     finger cuff is inflated over the ele2ctrode site.  To test for
+                     whether the effect was due to electrode artifact, the experi-
+                     nient was repeated in solution with the electrode at some dis-
+                     tance froir- the fin-er.  In three subjects thus tested, the
+                     typical iiave-form described for the stretch method persisted.
+                     It is theiefore concluded that both the fast and slow coaponents
+ 2                    represent activities of two different viable membranes
+                     accessible to the surface, both sensitive to mechanical sti:,-u-
+                     lation but either located at different points or having different
+                     electrochemical characteristics.
+                     6.  Vascular Effects and SPR:
+                        in the first phases of the present investication a series
+                     of experiments w2as undertaken to deter-.iine whether a vascular
+                     component was involved in the skin potential response.  Earlier
+                     work by Darrow a@nd by Lader and @lontac--u had esteolished that
+                                                                 ppreciable portion
+                     vasomotor activity di'u riot account Lor any a
+                     of the skin conductance response, but these authors did not
+      2               investi-ate the riiat-ion to p2L.S@   ef@-Fects.  Vascular chan-es
+                     were induced by venous and arterial occlusion, by means of pressure
+                     cuffs.  Venous ena,oraer,)enc is knot-in to produce a cor.-@pensatory
+                     increase in venous tone.  Arterial occlusion produces a reactive
+                     hyperemia involvin- arteriolar dilation.  Local co2ld causes a
+                     reflex vasoconstriction.  If any of these local effects are
+                     acco,npanied by a local potential chan-e recordable on the skin
+                     surface, one must face the possibility that these may be present
+                     in the SPR.
+                         Initial experi@nents were accomplished with venous occlusion
+                     (20 to 60 mm Hg).  The cuff was placed on the arm with the
+    2                 reference electrode on the central side of it.  The experi:-ental
+                     site was on the volar surface of the middle secrrent of the finger.
+                     A site on the opposite hand was used to -,%onitor central re&llex
+                     effects incidental to the occlusive procedure.  Out of a total
+                     of 69 oqc lusions on 7 subjects, 48 showed a negative local res-
+                     ponse of up to2 3.7mv (average 1.2-,nv).  In later experiments,
+                     however  a'fin-er cuff was substituted for the -arn-cuff and the
+                     response disappeared or in some cases was positive.  It was then
+                     determined, by varying the proximity of the reference electrode
+                     (outside the cuff) to the cuff, that the apparent local negative
+                     responses from the fin*er were in fact 8local r)csitive resdonses
+                     from the reference site, resulting from --@echanical cemorration
+                     of the reference area by inflation of the cuff.
+   40
+
+                                                cl                     ci
+                        ci
+                                                 S04
+                                                                        C,
+                        ci
+                                                                                                t
+                         12 hly
+                         ci
+                2      c                           ci
+                                  A
+             Fig. 9.  Revers$l of the fast LPR component produced by I N Na,)SO4
+             The reversibilitv bf the effect upon substitutinc, 0.1 N ',%'aci 'or t@e
+                      s shown in the third p
+             Na2SO4 i                          anel-  .@,,ccn; rol; 3, n-ie 'in5fl-or in
+                            r              @:acl
+                             otitr.,ie,i to
+                                                   ----------&
+
+                         Adih
+                                                                                           9
+                            In z-notlier series of experiments c.-:sanguipation o' the
+                         finger vas accomplislied  by  ttic  method  already  described,  In
+                         four subjects exsan-uination was ter,-.inaced suddcnly after
+  2                       15  minules  by  cutting  the  constricting  toroid.  The  associated
+                         potential  response  was  either  minimal  or  absenz.  Further  runs
+                         of this nature  are  scheduled  as  are  simple  arterial  occlusions
+                         of varying  durations.  At  present,  indications  are  that  vaso-
+                         motor  responses  do  not  produce  appreciable  potential  chan-es
+       2                  at the skin surface.
+                         7.  Testing of the        @Hy-pothesis-.
+                            Experiments by         ion the cat footpad ba-we  lead  bin,  to
+                         postulate that the  eldEErodermal response can be explained
+                         entirely by the effects of fillin- the  sweat  d-.icts  and  hydra-
+                         tion of the corneuml, there being  no  necess2ity  to  consider  the
+                         presence  of  an  active  membrane  in  explainin-  tne  electrical
+                         effects, Although  at  first  -lance  an  assort-ient  of  observa-
+                         tions leads one to reject such a hypothesis            has     been
+                         successful in defendin- it from many points @'f'aitack.  To
+                         iiivesti-ate the question as to tj',@2etner      lhydration    model
+                         or a me,-,brane model can best explain  tl-@e  electroder-nal  res-
+                         ponse, the followin- test was performed.
+                            Two similar active sites were e-.@posed to constant    ' current
+                         and constant  voltace  sources,  each  under  dry  and  wet  condi-
+                         tions. The dry  condition  would  be  expected,2  on  the  basis  of
+                               tnodal to  produce  a  lar-er  response  than  the  wet  con-
+                         dition, whether a constant volta,:@,e  or  constant  c-arrent  source
+                         is used.  The membrane model, because of the dead space (corneu-,a)
+                         interposed between the electrode and the active -,ieriorane,
+                         predicts that respons2es should be reduced by the dry state with
+                         constan.-- volta-e  but  not  witn  constant  current.  Comparisons
+                         were run with  dry  plate  electrodes  against  a  p-reparation  in
+                         which t.-ie corneum was allowed to  hydrate  with  elect-rode  jelly.
+                            Obse-cvations on three subjects @qere all consistent with the
+                         membra2ne model  in  that  responses  were  considerably  hicher  with
+                         constant current than with  constant  voltage  in  the  dry  state;
+                         responses in the wet state  were  higher  than  in  the  dry  state
+                         when constant  volta-e  was  used.  These  results  irply  the  exis-
+                         tence of  an  inactive  resistance  between  the  surface  and  the
+                         site of resistance changes.  Un2less the hydration changes
+                         postulated byl       jtake place in the deeper layers of the
+                         corneum, his m@o-del @nust be recarded  as  inconsistent  with  the
+                         results of these observations.
+                         8.  liodel of Peripheral Electrodernal Process:
+                             The above fi-ndi-i-s have been co,-,bined @@ith pre%,iovsly '"-now-,i
+
+                                                                                        10
+                      data to devise a model wliicii best C%'Plains the  total  obsc--va-
+                      tions.  It  rests  on  sevcral  tentative  conclusicns  drawn  from
+                      available evidence, namely:
+                          a. Vascular effects  probably  play  a  neglicible  role  in
+                                 2                                      0
+                          accounting directly  for  either  conduccance_<)r  potential
+                          responses.
+                          b. A  negatively  char-ed  membrane  accessible  to  surface
+                          solutions is responsible  for  the  jet-like  potential  and
+                          conductance responses  which  recover  rapidly  and  completely
+                          following neural discharge.  This membrane is lar-ely
+                          responsible for  the  positive  potential  response  comoonent,
+                          but can produce a short initial negative component when the
+                          membrane breakdown process  is  slowed.  It  can  also  produce
+                          a ne-ative overshoot.  The conductance change associated with
+                          this process is of the rapidly recovering tv
+                                              2                           pe.  This   mem-
+                          brane is tentatively regarded as identical vith that respon-
+                          sible for the LPR and is thouoht  to  be  located  in  an  epi-
+                          dermal layer rather than in the sweat -land or duct.
+                          Activity of this membrane is  considered  to  be  associated
+                          with -reabsorption of moisture from the corneum.
+                          2C.  Secretion of the sweat aland is not attended by
+                          appreciable conductaTIce or potential effects but the f-;-llina,
+                          of the duct produces a reduction in resistance and a ne-ative
+                          shift in surf@ce potential d,je to  reduction  in  aenerator
+                          inter-ial resistance. The  sweat  diffuses  laterally  ou-,  of
+                          the duct into the 2corneum where it is  absorbed  at  a  rate
+                          indicated by the intensity of positive activity.  If
+                          absorption is slow, the  associated  resistance  and  potential
+                          changes may persist, resultina  in  a  slow  rate  of  recovery
+                          as seen in the first uaves of fiaure 10.
+                                                           0
+                B. A New Approach to the Analysis  of  2the  Skin  Condu.::tance  Response
+                     The manner in which  the  @'ast-recovering  membrane  cotponent  and
+                the slow-recovering sweat  component  are  thouaht  to  combine  to  pro-
+                duce various forms of potential and conductance wave forms is
+                illustrated by the recordina in  fiaure  10  and  by  the  schematic  ad&
+                ition in figure 11.  From figure 11 it is seen tha2t a @-.ieasure of the
+                relative sweat and  membrane  activity  may  be  obtained  by  inspection
+                of the recovery limb, namely by observing the point at which the
+                curve breaks and noting the elevation of the gentler slope above
+                starting level.  in practice, these two processes are frequently
+                partially fused so that the overall  recovery  rate  may  serve  only  as
+                a rou-h inde.N of the relat6ive  sweatin-  and  absorption  rates.  The
+                recovery of the fast conductance component appears tc be exponential,
+                in which case the ci-,-qe required for 50 percept recovery  should  be
+
+                                                                                                                       rT
+                                                                              0                                        n0)"
+                                                                              rr                                       0rt -d0
+                                                                              :;r                     (D               @:V (4
+                                                                                                                       0
+                                                                                                                       0-1
+                                                                                                                       t-h j--.
+                                      2                                                                                 n
+                                                                              0                                        rr P,. In
+                                                                              (D                                       =r E3 :r
+                                                                              en                                       fD0U'0n
+                                                                                                                       0
+                                                                                                                       (D m 000
+                                                                                                                       rT il)H
+                                                                                2                                       (:71 n fT H.
+                                                                                                                       t') (A
+                                                                                                                       0tip0
+                                                                                                                       M(D0
+                                2                                                                                       fD00ra                 
+cr
+                                                                                                                       :3 @3 =v rt cn
+                                                                          2                                             ry-v) H, 7v
+                                                                                                                       to0
+                                                                                                                       CT
+                                                                                                                       m00
+                                              2                                                                         cr, 'I 1-h rr
+                                                                                                                       tn ct :3
+                                                                                                                       -, =r CT
+                                                                                                                  2     (D H.mH.
+                                                                                                                       00I... lb
+                                                                                                                       tom
+                                                                                                                       m00
+                                                                                                2                       CT rt
+                                                                                                                       W. Su"
+                                                                                                                       pi 2)
+                                                                                                                       CT0H
+                                                                                        2                               ub 09
+                                                                                                                       tn r-I
+                                                                                                                       mfD c:
+                                                                                                                       0C6 CD (D
+                                        2                                                                               CT t@.
+                                                                                                                       :r CD ct ri
+                                                                                                                       ct @4 at
+                                                                                                                       m
+  2                                                                                                                     LO
+                                                                                                                       cr
+                                                                                                                       ta
+                                                                                                                       rt
+        2                                                                                                               fv0fu 113
+                                                                                                                       n:r"
+                                                                                                                       @-tt0
+                                                                                              2                         pi P,.0
+                                                                                                                       fi@mPt :3
+                                                                                                                       P. to to 0.
+                                                                                                                       CT r_
+                                                      2                                                                 rt CT
+                                                                                                                       fA :3,
+                                                                                                                       m(D
+
+                             s 'IV
+                         SPR
+                            POTENTIAL                               CON-DLfc-T-ANCE
+             Fig. 11,   5c@le."4tic presentation of the relation of the separate POsitive
+             and ne.*ative potential co-,nponents to conductance chances and of the -,qanner
+             in which they combine.  S n 9sweat; @l m me.-ibrane effecor.
+
+                      independent of amplitude.  The recovery half-time would be prolonged
+                      in  accordance  with  the  amount  of  sweatin-  in   the   response.   Thus,
+                      recovery half-time (t/2) should, as a first appro.-cinationip constitut!3
+                      a useful measure of  the  relative  r,-c-,ibrane  and  sweat  activity  of  a
+                      wave.
+               2       C.  Behavioral Studies
+                          1.  Theoretical Approach:,
+                              During  a  co,-nprehensive  exp.loration  of  the   cat-brain   while
+                          recordin- from the foot-pad,                               lsliowed  that
+                          positive or ne-ative responsi"s-could be obtaine              cortical
+                          stimulation, but that only ne,,ative r2esponses could        be   elicited
+                          by sti-Lnulat4-on of the hypothalamus.    The  positive   waves   were
+                          obtaine-d  by  stimulation  of  the  prenotor  cortex  (Brod,-,iann  Area
+                          117),  an  area  responsible  for  fine   motor   coordination.   Lesions
+                          in this area cause loss of motor inhibitory restraint and
+                          pro2duce forced -rasping.  If a monkey with such a lesion
+                          (bf-lateral) lies on its  side,  the  A'orced  c.,rasping  is  relaxed  on
+                          the  downward  side,  indicating  that  another  inl,.ibitory   influence
+                          has tal@an over, perhaps nediated by the vestibular and cerebellar
+                          control  mechanisms.  Interestin-ly,  a  hu-@nan   subject   with   elec-
+ 2                         trodes  on  each  hand  shows  a  depression  of  the  positive  SPR   on
+                          the do@4nward  side  when  he  lies  on  his  side.  This  is  su--astive
+                          of the -@elation of  positive  activity  to  fine  -rootor  coorcinaticn.
+                          It is hy-pothesized that the pre-motor area functions in the
+                          fine  adjustnent  of  the2  moisture  content  of   the   skin   necessary
+                          for  man;-oulative  behavior.  The  positive   wave,   shown   earlier
+                          to be associated with tqater-reabsorption, is seen as an indicacor
+                          of this rea.ulatory process and therefore of a set for -,oal-
+                          directed manipulative behavior.  Electrodermal activity of
+                          hypotha'-a-.,7ic origin on the other hand, tied as i-t is to tne
+                          limbic  system,  is  (in  the  absence  of  the--more-ilatory  de.-nands)
+                          more  in<licative  of.an  emotional  response  associated   with   paimar
+                          and  plantar  sweating.  In  the  li*ht'of  the  -,necianical  resistan@e
+                          to  abrasion  afforded  the  skin  b2y  hi,h  levels  of  hydration,  this
+                          is considered to be a protective manevver.  While,,,     !weating     may
+                          be produced by stimulation of the pre-notor cor!:ex,,tvpe of
+                          sweatin-.  is  viewed  as  delicately  re-ulatin-  the  moisture  con-
+                          tent of the pal-,car and plantar corneum and is likely to be
+                   2       accompanied  by  evidence  of  the   reabsorption   process   rianifested
+                          by positive activity.    %Ton-ther,-,,orea.ulatory activity of
+                          hypothalamic origin is viewed as :. primarily protective and
+                          would nct likely be ac,ompanied by the reabsorption process;
+                          it  should  therefore  not  show  the   positive   component.   Obviously
+           2               this  approach  -nust  represent  a  cross  oversimplification   of   the
+                          control process, whicl-t  includes  inhibitory  as  tiell  as  facila-
+                          tory in@luences fro,-n  many  other  parts  of  the  brain,  includina
+                          he e,.:tra-pyra7.idal system and limbic structures.  However-        C
+                          t
+                          doe2s establ4-sh a  rationale  for  ratin-  responses  along  a  di,-..en-
+                                                                  o
+                          Sion from primarily defense reactions to primarill,@o-oal-
+                          directece preparations.    Fxther, it elabor--tes a bencvioral
+
+                                                                                             12
+                        model wliich may be  wei-hed  a-ainst  future  findings  and  modified
+                        as dictated  by  the  facts.  The  quantitative  data  for  evaluating
+                        responses would  be  obtained  from  analysis  of  either  the  poten-
+                        tial  response  or  the  conductance  response,  but  because  2of  che
+                        greater  number  of  complicating  factors  in  the  analysis  of  the
+                        SPR, the conductance response  has  been  chosen  for  first  examina-
+                        tion.  The recovery half-time (t/2) has specif-'-cally been
+                        utilize4@ for this measltre.
+                        2.  Application  Demonstratina  Specificity  of  Individual   Stimuli:
+          2                  In an earlier study it wa's shown  that  there  is  a  qualitative
+                        difference  between  the  electrodermal  response  co   the   alerting
+                        sional-for a  forthcomina  task  and  to  the  subsequent  signal  for
+                        execution  of  the  task.  This  difference  which  @ias   independent
+                        of absolute a-,nplitude was seen as  a.change  in  the  ratio  of  the
+  2                      a.nplitudes of the paimar and dorsal finger res-.)onse.  This ratio,
+                            increases  with  relative  "sweatiness"  of  a  response   because
+                        of the -,iarked difference in  stqeat  -land  concentration  from  the
+                        two areas. Although this  nethod  produced  a  de-.ionstrable  separa-
+                        tion of responses,  it  was  relatively  insen2sitive  and  subject  to
+                        numerous complications.  Further, it did not lend itself
+                        readily to  on-line  automatic  analysis.  The  recovery  half-tir,-@e
+                              e
+                        .ieasur was applied  to  some  of  these  saci!@  data.  It  was  con-
+                        siderably  more  sensitive  in  ter-,is  of  the  perce-nt  difference
+                        betweer.2 the responses  to  the  al,erting  and  e@.ec-ution  si,,nal,
+                        despite the  fact  that  it  utilized  only  a  single  site.  A  com-
+                        parisop of the  two  measures  for  alettina  and  executi-On  sionals
+                        in a simple perceptual task and in a reaction time task is
+                        given i-i table 1.  For  'this  subject  the  t/2  rieasure  was   much
+        2                more  consistent  and  rnore  discriminatina  than  F/D  in  the  per-
+                        ceptual  task.  In  the  reaction  time  task,  altbou&h   it   showed
+                        lar-er  differences  between  the  two  types  of  response,  it   was
+                        not as  -@onsistent  as  was  the  F/D  measure.  out  bf  7  subjects
+                        tested in  a  similar  fashion  to  date,  6  showed 2 t/2  to  have  a
+                        discriminative  power  equal  to  or  better  than  the  P/D  -easure.
+                        3.  Application to Discernment of Situational Differences:
+                            in  another  ty-pe  of  experiment  the  measurement  of  recovery
+                        half-time was  applied  to  the  separation  of  two  states  of  pro-
+                        Ion-ed activity,  namely  rest  and  task  performance  in  an  ef2fort
+                                               a shift in state  of  activation  would  be  in
+                        to determine i.;hether
+                        evidence even when  no  change  in  amplitude  of  response  occurred.
+                        The two situations  were  (1)  relaxing  in  a  seated  posture,  eyes
+                        open, atqaitina the start  of  the  task  instruction,  (2)  er,-a-ing
+                                   2   0                                              o      @,
+                        in an ag*ressive  task.  This  task  consisted  o-@  callin-  aloud  a
+                        series of numbers  from  I  to  10  which  the  experi-,nenter  @@culd
+                        atte-,ipt to guess, the purpose bein-  to  allow  r--he  e.%perimenter
+                        the fpupst nu,-.iber8 of correct -uesses.  The last three relatively
+                        pure waves of the rest  condition  were  chosen  Llor  araivs4-s.  The
+
+                                       Table 1.  Comt)arison of P/D and t/2 measures in
+                                       differentiating   the  responses   to   the   alerting   and
+                                       execution signals for a perceptual task and a reaction
+                                       time   task   administered   in    mixed    random    order.
+                 PERCEPTUAL
+                                       P/D      Rat2io                                 t/2      (seconds)
+                  Trial           Alerting  executio-,i  % cliange                A!erting     Execution"        change
+                       1               1.16         1.09            -6                23          8.0            -63
+                       2               .86          1.00            +16               9.0         4.3            -50
+        2               3               1 00         1.00            0                 @7.5        4.5            -40
+                       4               :so          1.03            +29               6.0         4.0            -33
+                       3               1            1.00            -11               5.0         4.0            -20
+                       6.              .04          .90            2 -13               8.0         1.0             37
+                       7               1.04         1.00            .4                9.0         4.5            -30
+                       8       1       .88   1      1.00            +14               s.o         s.o             0
+                                                     Median        -2                               Median       -38
+       2                                                          N.S.                                   P      <.03
+                REACTION            TIME
+                                       F/D      Ratio                                 t/2      (seconds)
+                  Trial           Alerting  execution   Tochange                 Alerting     Execution          change
+                       I               .94          .89             .5              2  11.5        4  ;')         .61
+                       2               1.00         1.00            0                 3.0         8'0            +167
+                       3               1.07         ..89            -17               15.0        4.0             73
+                       4               1.14         .97             -13               8.0         4.0            --50
+                       5               .95          .85             -11               10.5        4.5            -57
+                       6               1.23         .93             .24               13.0        -0.0           -62
+                       7
+                                       .95          .87             .8                6.0         3.0            -50
+          2             8               1. 5c.       1.06            -39               5.0         6.5            +30
+                       9               I.QC         .89             -11               4.5           13.5         +200
+                       10              1.35         1.02            .24               8.0         6.0            -30
+                                                    ,Median   9   --13                               imedian      -50
+                                                        p   /1    .01                                   P < .20
+
+                           Table 2, Comparison of average va'@ues of recovery
+                           half-time (t/2) for resting state and aggressive
+                           guessing game task in 12 subjects.
+                                            t/2 (seconds)
+           Subject                    Rest ng               Task                Change
+               1                         6.7                5.6                   -i6
+               2 2                        5.0                3.6                   -28
+               3                         4.9                3.1                   -33
+               4                         5.7                3.1                   -46
+               5                         5.3                2.9                   -45
+               6                         7.5                2.8                   -63
+               7                 2        3.6                3,i                   -14
+               8                         10.0               5.0                   -30
+               9                         3.9                3.2                   -22
+               10                        3.9                2.9                   -26
+               11                        2.2                1.7                   -23
+               12                    1    8.1                3.1                   -63
+                                                                      ,Median     -30
+                                                                         p 4   .001
+
+                                                                                             13
+                          first three waves during the t:asl% period t..,Iiich matched  these
+                          in             were chosen for the co,-,,parison.  Results  for  the
+                          12           are shown in table 2.  All 12 showed the same results,
+                          namely  a shortenin- of th2e recovery  half-ti-.ac  during  the  task
+                          period (Fig. 12).  According to the theoretical framework under-
+                          lying the analytic approach, this would i,-.dicate that the r.-.oisture-
+                          regulating  mechanism,  supposedly  activated   fDr   goal-directed
+                          manipulative behav-@'or, was mobilized durin- the task ti2hich
+                          included the use  of  a  push  button  sianal  by  the  subject.  How-
+                          ever, similar results  were  obtained  even  when  no  push  button
+                          procedure was included.  This sugoests an extension of tlis
+                          motor preparation to problem-solvina situations in acneral,
+                          even thouoh the manipulation may be only symdolic.
+                I2ll.  Conclusions
+                      Because of the  relative  simplicity  and  high  sensitivity  of  the  t/2
+                measure, it should  lend  itself  well  to  automation.  It  is  altost,  but
+                not entirely, independent of  response  a-,nolitude  and  tius  constitutes  a
+                ,neasure of the quality of  response  which  is  relatively  free  of  the  pro-
+                blem of assessing overall  activation  l2evel  of  the  electroder.-.ial  system.
+                It apparently can d4-fferentiate  between  behavioral  shifts  o-A@-  relatively
+                lon- duration, as well as  between  the  rapid  sni-fts  asaociated  wi-h  two
+                successive brief sti-,iuli of different qualitative -@neanin-.  Future eftorts
+                will be concerr;ed with investizatin2- its sensitivity =o various subjective
+                states, especially the defense reaction and  to  deter.-.iining-whet'ner  it  is
+                affected by chances in base level.  At the same time efforts will be rtede
+                to devise a system for automating extraction of this weasure.
+                     The pieces necessary to construct a faithful model of the peripheral
+                electrodermal effector system 2are c,---adually falli,-I& into place.    ?'c i,
+                most promising areas for further study of this system include r,,.icro-
+                electrode expeii@-nents, observations on the locally induced resoonse,
+                studies on the ef."Lects of  various  solutions,applied  to  the  skin  surface,
+                and  studies  on  the  reabsorption  process.  These  are  presently   occup8ying
+                a n@ajor part of t,ie laboratory effort and  will  continue  to  do  so  for  an
+                appreciable period.
+
+                                                    R [I'S T
+                                                                          CAL
+                                                   TASK
+                         START
+                                                   R E71 T
+                                 T12
+                      Samples of conductance tracin-,S'from a subject at rest and en-
+           gac,,ed in an agoaressive guessing gar,-@e, shosiing the change in the recovery
+           lir,ib responsible for the shortening of the recovery half-ti.-e (t/2).
+

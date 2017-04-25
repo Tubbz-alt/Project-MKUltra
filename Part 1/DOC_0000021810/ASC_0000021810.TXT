@@ -1,0 +1,1232 @@
+                                                          April Z6, 1966
+                         Dear Dr.
+                                 The program to  evaluate  various  electrical  combinations  for  their
+                         potential for producing anesthesia  has  been  designed  and  is  enclosed.  An
+                         effort has been made to include  as  many  of  the  parameters  we  prev-ionsly
+                         discus&ed and work out the details  as  soon  as  possible.  After  your  review
+                         of the progralm, deletions or additions can be made if necessary.
+                                 This study does not go into the specific details of the basic principles
+                         as much as I would like to investigate at some time. I think  it  best  to  look
+                         at that phase of study after we complete this study and know the current
+          2               combination that gives the best results.  I would anticipate doing some
+                         microelectrode work for more specLfic information on the amount of current
+                         in specific brain area3 at a later date.
+                                 I will complete r-iy training program -,t                   Thi  s  wiU
+                         work very well with yot, July I - June 30 fiscal year.     I had 2anticipated
+                         being committed until S,@pternber 1, but have been able  to  arrange  to  start
+                         on this prograni July Ist instead.
+                                 One part of the budget was  somewhat  uricartain.  This  is  in  regard
+                         to the i--istitutional ove."head.  After checking with the people at      II
+                         find that the overhead charges are 2019 on N. 1. H. or N. S. F. type  grants  or
+                         40'Yo of salaries on other t7ypes. Since you mentioned a  number  of  groups  in
+                         Washington were interested in the program. I have assumed that a.Ll involved
+                         fit into the same bracket.
+
+                                                              2                     April Z6. 1966
+                               Our plans are to devote full time to this program.  The only exception
+                         to this for which I would like approval is to spend 9-17. days per year to pro-
+                         vide tha necessary surgical and anesthetic procedures for the kidney transpla-YAt
+                               -n at the
+     2                    progra.
+                                                I Electroanesthesia is used in these procedures on tw:bi
+                         calves and the very valuable data on electreanesthesia in twins of known corii-
+                         patibility would be included in the reports. No grant funds from the
+                         program would be iised in the ki4ney program.
+                                In discussing the anest2hesia program with Dr.          it was of con-
+                         siderable interest to note the suggested possibility of hi@man application after
+                         completion of the animal program.  1 felt you would like to know of this in the
+                         event it is desirable to co-ordinate a human experimental program at a later
+                         date.
+                                Let me know if I need to make any changes in the prog2ram enclosed.
+                         I am looking forward to getting started on our program and see if we can't
+                         find out what the potential of electroanesthesia really is.
+                                Thank you for your continued interest.
+                                                                   Your s truly,
+                         Enclosure
+                                                                                    ^--47 -4*
+
+                                         PROJECT PROPOSAL
+                Title:  "Effects of Combinations of Waveforms and Frequencies of Electrical
+                         Currents Applied to the Head to Produce Anes:he3ia"
+                Inve s tig ator
+                Department and Location:
+                Director:
+                objectives and Procodures:
+                1.    Determination of the most effective combinations af electrical current
+2                      producinz,r anesthesia
+                      A.  Combinations of  sine, saw tooth, square, triangle, white noise,
+                          pulse D,, C. and D.C. signals will be employe:i in combinations to
+                          achieve this objective.  Both two and three wave combinations Will
+                          be employed with variable frequencies.  Bas@d on the published
+                          experience 2of others and my own personal experience, it is not
+                          anticipated that anesthesia wi-U be produced by all currents.  Some
+                          will produce convulsions, tonic muscle spasms, and/or respiratory-
+                          cardiac distress without anesthesia.  From published data, these
+                          complications have been more evident with certain waveforms and
+                          cu.rzent combinations than with othe2rs.  This sttidy proposes to de-
+                          termine in a systematic fashion which wave-forms and frequency
+                          c,omt>inations produce acceptable anesthesia with minimal undesirable
+                          side effects.  Tne equipment has been desigr* d to permit invest7i-
+                          gation df over two hundred combinations of waveforms and frequencies
+                          which will be rated ac2cording to desirable and undesirable charac-
+                          teri,stics produced.
+                      B.  Cornbination waves  will be applied to the head by two techniques:
+                          1.   Summation of the current before it enters the head.
+                               (Two eleclrodes-Americ&n technique)
+                          2.   Summaticn of the current in the head.  (Your and six electrode
+                       7        combinations with separate leads to the generators producing
+                               the combination-Russian technique).
+                          Combinations of waveforms and frequencies which are obviously
+                          not satisfactory due to severe respiratory or circulatory distress,
+                          convulsions, cardiac difficulties or other unforeseen problems will
+                          be recorded as such, and will not be evaluated more extensively.
+
+                                          .. ..... .....
+                                                             2
+                                 Combinations which show promise for'anesthesia will be evaluated
+                                 further as outlined in objective 11.
+                              Ti@e effect of anesthetic currents on resplr    circulation and depth
+                                                            2           ±tion,
+                              of anesthesia
+                              When a combination of electrical currents appears to have potential as
+                              an anesthetic agent. the following procedures will be followed.  Pre-
+                              anesthet:%; measurement of all pertinent parameters will be made (see
+                              ty-pica.1 experimen-@ below).  The cardiac an:i respirato y al2terations
+                              will be monitored during and after induction.  If successful, a surgical
+                              procedure will be carried out to evaluate the effectiveness of the com-
+                              bination of current to produce anesthesia and muscle relaxation.  Since
+                              it is possible with electrical current to pro<iuce satisfactory anesthesia
+                              in portions of 2the body wblile inadequate in others, six locations will be
+                              considered for surgical procedures (simple cut down).  These are bead,
+                              neck, limbs, bones or skin, thoracic, urogenital, superficial abdomwal,
+                              and deep abdominal.  Monitoring wiU continue during surgical procedures.
+                              After operation, current wi-1-1 be shut off ar-d the recove2ry behavior noted.
+                              Blood s am ple s will b e dr awn b ef o r e, dur ing and af te r ane s the s i a ar4 the
+                              recovery pattern of cardiac and respiratory chalnges will be followed for
+                              24 hours.  Blood pressure measurement will be made by direct canr%ula-
+                              ti-on of the femoral artery and this will per-rnit m2onitoring of heart rate
+                              ag well.  Respiration will be measured by pneurnograph and Lead U of
+                              the electrocardiogram will be monitored before and after application of
+                              the current.
+                              Dogs will not receive muscle relaxants nor oxygen nor wiU they be
+                              intubated.  These will be deliberately avoided so that muscle activity
+              2                and respiratory depression may be observed, when they occur.  This
+                              al so a]-lows a full response to pain during ;urgery if there is insufficient
+                              anesthesia.
+                              Determination of the total am eraee of each combination and correlation
+                              with effectiveness in producing anesthesia
+                              -Lhis will be done to determine the2 cornbin-ation requiring minimal currexit
+                              f-or anesthesia.  The current and voltage will be measured with a milliam-
+                              meter aiid a true r. m. s. voltmeter.  The wavef orms will be monitored
+                              with an oscilliscope and the waveform combinations will be photographed
+                              from the scope to record them accurately.  Measurement equipment wiil
+       1                       be attached to the anesthesia generator output.
+
+                                                                 3
+                         IV.   Determination of the lishape" of the electrical field produced by the
+                               Current combination
+                               This will be determined by connecting the recording equipment to
+                               implanted macroelectrodes and is designed to indicate the disiribution
+                               of the curren@2. within the brain and its intensity. For this study,  six
+                               chronic electrodes will be placed in selected locations -within the brain.
+                               Dogs will then be subjected to currents of waveform and frequency
+                               combinations known to produce anesthesia.  Recordings will be made
+                               usiz,.g the same equipment required in Section LIL
+                            2   These dogs will be used only to measure the shape of the electrical
+                               f-',eld. Since these dogs can be used repea@,edly, we plan to keep  five
+                               dogs with chronically implanted electrodes  at  &U  times.  The  use  of
+                               these saxne animals for s--veral combinations of currents will reduce
+                               the error in measurement between anima2ls.
+                               These dogs wiu'be prepared early during :he period required to obtain
+                               the necessary equipment and personnet to initiate the other aspects of
+                               the project.  MetaUic-nylon electrodes wiU be implanted through
+                               sm&U trephines in  the  sk-uu  during  general  anesthesia.  The  micro-
+                           2    manipulator will be used for positioning electrodes with neurosurgic@a
+                               assistance.
+                         V.    Typical Experimen      Planned technique fcr evaluation of each combi-
+                               r3 ation
+                               A,   Waveform combination and frequency will be selected and equip-
+                                    ment adjusted for operation.
+                                           2                   ents will be made on normal glnimals:
+                                    The following measurem
+                                    1.   Heart r#.e- and ECO.
+                                    2.   Respiratory rate.
+                                    3.   Rectal ternp@r ature.
+                                    4. - Arterial blood gases  (PCOZ, pO?) and pH.
+                          2          5.   Notation of general physical condition, activ-ity and alertness'.
+                               C,   Animal will then be prepared for application of carrent.
+                                    1.   Preparation of electrode sites (Bitemporal or frontal-occipital).
+                                    2.   Cannulation of femoral artery wi@-h local anes  esta.
+                                    3.   Placement of electrod8es (electrode will be needle or plate
+                                         depending on D.C. or A. C. operation).
+
+                                                                 4
+                                 D.  Connect leads and apply current.
+                                    1.  Record response (muscle movements, struggling, excitement,
+                                        salivation, etc.).
+                                    2.  Monitor blood pressure, cai@diac rate and respiratory rate.
+                                    3.  Sample arterial blood for P2CO2, PO?, pH when induction is
+                                        completed or abandoned.
+                                 E. Determine depth of anesthesia by tail clamping, corneal reflexes,
+                                    swallowing reflexes.  If no anesthesia, abandon.
+                                    If anesthesia present, proceed to cut downs at various sites.
+                                    Monitoring wiU continue throughout operation.  Responses to
+                     2               incision in various areas and manipulatiou will be noted.
+                                 G. Risponse to removal of current from the head wiU be recorded
+                                    and all parameters remeasiared.
+                                 H. Twelve and 24-hour post-operative observations will be made.
+                                 L  Determination of the current and voltage levels will be made after
+                             2       induction, during operation, and just prior to termination of current
+                                    application.
+                                 T. If satisfactory anesthesia obtained, shape of electrical field will  be
+                                    determined in. dogs with chronically implanted electrodes.
+                                 The number of comoinations  of  currents  and  waveforms  to  be  evaluated
+                                 and the need f2oi- aumbers of animals sufficient for proper statistical
+                                 analysis make it necessary to use a large number of dogs.  Each dog
+                                 Will be used as extensively is possible and yet yield accurate results.
+                                 It is anticipated that SrCnO 105ses by death wiU occur, especially since
+                                 many current combinations have never be:fore been attempted.  Whe2n
+                                 possible, dogs will be reused as often as practical.  To obtain a
+                                 defwtive answer for each current we believe 4 dogs must be studied
+                                 before abandoning the comblnatioa. Com:)inations which give promise
+                                 of satisfactory anesthesia will be studied more extensively whene@er
+                                 indicated.
+                      2           Responses noted during the entire procedure  will  be  recorded  in  terms
+                                 of depth of anesthesia and duration of current application.
+                                 The investigator and technicians will spend full time on the  project  and
+                                 will have no other activities.  A two-year period is considered the
+                                 minimal time to complete the program.  It is anticipated that tw0o months
+                                 will be required to assemble the equipment and personnel necessary f,)r
+                                 fuU scale operation.
+
+                                                              5
+                                              Illustratiori of the Method of
+                                          Determining Waveforrn Combinations
+                    Waveforrns
+                          A,   S' ne                            E.    Random or Vniite Noise
+                          B.   Square                           F.    D. C.
+                          C .  Tr2iangle                         0.    D. C. pulse
+                          D.   Saw Tooth
+                    Combinations
+                    A+A        Bts      (@ +C      D+D          E+9            F+F        G+G
+                    A+B        B+C      C+D        D+E          E+F            F+G
+                    A+C        B+D      C+E        D+F          E +G
+                    A.tD      3 B+E      C+F        D+G
+                    A+E        B+F      C+G
+                    A+F        B+G
+                    A+G
+                                    ill be summated before and after entering head.  Frequencies
+                    Combinations w
+                    will also be varied.  The same system will be used for determining triple
+                    waveform combinations.
+
+                                                              6
+                                                          BUDGE T
+                    PERSONNEL SALARIES
+                          Investigator.. ........... Full Time ..............
+                          Technicians (2)
+                          1.    Assisting with animal procedures
+                                Anesthesia and S-argery
+                          Z.    Laboratory Anal2ysis
+                                (Blood gases, etc. )
+                          Secretary - part time (5001*)
+                                                      Total
+                    ANII,@P,y  S
+                          500 dogs @        each
+                          Board - 5 dogs for 365 days @ . 60/day
+                               500 dogs for average of 3. 5 days @-. 60/dao
+          2                                            Total
+                    EQULPMENT
+                          Components for Anesthesia Apparatus:
+                          (1)  Harrison Lab. Model 865 C for D.C.
+                          (2)  Universal Dynamics Electro-Thesis    D. C.
+                               pulse generator
+                          (3)  Hewlett-Packard Model 03380B Sine    Wave
+                          (4)  Hewlett-Packard Model 330OA/3304
+                               Function generator for triangle 4 sawtooth
+                          (3)  General Radio Model 1390-B - (a component
+                               for randorn noise)
+                          (6)  Krohn-Rite Model 310-C - Tuncable filter for
+                               producing ranges of random noise
+                          (7)  Interconnecting cables, leads from generators
+                               to anirna2ls, connected hardware, etc.
+                                                     Sub Total
+                          Recording Components:
+                          (1)  OsciUiscope - To monitor waveforrns and observe
+                               electrical field in head.  Hewlett-Packard Model
+                               141 A with Differential Amplifier (1403A), Time
+                               base 1420 A or equivalent
+                          (2)  Oscillis0cope Carnera for recording waveforms
+                               for records
+
+                                                              7
+                           (3) Milliarneter   To measure the current arplied to
+                               head and also  in  brain
+                           (4) True R. M. S. Voltmeter - To measure the true
+                               R. M. S. current.  Gives information needed for
+                               true electrical power applied to the head.
+                           (5) Con2nections,    shipping Sub Total
+                           Micromanipulator for positioning electrodes
+                           Electrodes
+                           Blood Gas Analysis Equipment:
+                           (1)  Instrumentation Labs. NUcro Analysis Systern
+                                   recomznended
+                           (2)  Gases for Analysis Equipment
+                           Surgical Supply Charges;
+                       2        ilncludes instruxm nts, drapes, suture, related
+                               surgical suppues. ) Charges are $       :Iset per
+                               day.  It is planned to complete series procedures
+                               on days of surgery for more efficienc,,r and economy.
+                               We are capable of performing 12-14 surgical pro-
+                               cedures for the purpose of2 evaluation of anesthetic
+                               Levels in the various regions of the body/day.
+                               Surgery is planned for 170 days.
+                                                      Total
+                    MISCELLANEOUS
+                           Photography
+                           Travel
+                           Tubing, catheters, drugs
+                                                      Total
+                    INSTITUTIONAL OVERHEAD
+        4                   401/o of Salaries
+                                                      Grand Total   Ist Year
+
+                                                      BUDGET      Znd Year
+                       PERSONNF,L SALARIES
+                             Investigator
+                             Technicians
+                             1.
+                             2.
+                             Secretarial Service    50'7o of Time
+                                                         Total
+                       ANIMALS
+                             6200 dogs
+                             Board
+                                                         Total                               $
+                       EQULPIVMNT
+                             Replacements, extra cornponents for anesthbsia
+                                equipment
+                             Electrodes
+                             Blood gas equipment, electrodes and gases
+                             Surgical Sup@ply2,Charges
+                                                         Total                               $
+                       IVUSCELLANEOUS
+                             Photography                                                     $
+                             Travel
+                             Drugs,  tubing,  small   equipment
+                                                         Total
+                       INSTITUTIONAL OVERHEAD
+                             40% of Salaries                                                 $
+                                                         Ora.nd Total  2nd Year              $
+
+                     INTRODUCTION
+                           A wide range of electrical waveforms have been used on many species
+                     of animals and on man since l,e Duc I made his attempts to produce electro-
+                     anesthesia in 1902.  The most common types of current used were either
+                     direct current with DC pulses, square, triangle, sawtooth, or sine waveforms,
+                     or combinations of these.  V@bite no2ise was also introduced in attempts to pro-
+                     duce better aneithesia.  The principal responses de-tected by a number of
+                     investigators dkiringthe past few years are included.  Examples of both desirable
+                     and undesirable reactions observed are included.
+                           Fabianz and Hardy7-9 did extensive animal studies and then attempted
+                     human applications.  They used 700 cycle per se2cond sine wave and characteris-
+                     ticauy produced strong tonic muscle contractions.  The most conspicuous
+                     cardiovascular reaction was hypertension and tachycardia.  This was associated
+                     with a rise in plasma catechol amine levels.  Prolc-nged electro-anesthesia had
+                     little effect on the blood oxygen if the animal was weU ventilated.  A hyper-
+                     gly2cemic response was recorded in animals subjec-.ed to clectro-anesthesia.
+                            Creddes3, 4 reported on results in dogs and horses. Direct currert with
+                     DC pulses was used and hypertension and poor muscle relaxation were charac-
+                     teristics,  He observed cardiac and respiratory arrest in all cases.  This was
+                     .temporary in most cases if the current levels were properly 4adjusted.  However,
+                     in his report on applicatior.9 in horses, there was a 14 per cent rnortality rate
+                     due tc- permanent respiratory arrest.  Salivation a-id hyperthermia were also
+                     observed as undesirable side effects in dogs.
+
+                             Gowing5, 6 reported no abnormalities in the electrocardiogram during
+                      electro-anesthesia by DC-square wave current in dogs.
+                             Herir,io evaluated the responses and current requirernents in dogs usilig
+                      sine, square and triangle waveforms.  He concluded that sine wave applications
+                      gave the least amount of unwanted side effects.  The hy-p2prtension during induc-
+                      tion subsided as anesthesia progressed.  Hematologic studies befove, during
+                      and after electro-anesthesia revealed no significant differences in blood clottir5g
+                      tirne, packed cell volume, sedimentation rate, hemoglobin or differential white
+                      blood cell count,
+                                    it, 12
+                  2           FIemrn       used square wave currents at frequencies up to I 100 c. p. s.
+                      A relationship between the amount of current required and the frequency of the
+                      current was observed in ap!>!:Lcations to cats.
+                             K--iutsonl3-16 conducted most of his work with 700-1500 cycle per second
+                      sine wave currents in dogs and man.  Hyperglycernia 2occurred during the pass-
+                      age of electrical currents.  Knutson found no evidence c.,f brain damage from the
+                      current levels used in his experiments, but cites work done by other investigatoys
+                      with higher voltage le,.els which produced hemorrhages in the brain.  At the loswer
+                      2.@@v@-Is of current ap?lication, tie principal daneer of brain cell damage w2as fron-I
+                      inadequate oxygen, due to depression of the respiration by physical interference
+                      from muscle contractions.  Knutson controlled convulsions by *.he use of muscle
+                      relaxants or by adjustments in the current applied to the head.
+                             Knutson found ttiat serum potassium, calcium, chloride and sodium did
+                      not change during three hours of continuous electro-aresthesia.  Blood urea
+                      nitr.ogen levels indicated a decrease in kidney function.
+
+                            By using techniques of modern anesthesia. Knutson was able to eliminate
+                     or modify the complication?g of cyanosis, bradycardia, cardiac irregularities
+                     and severe muscle contractions.
+                            Pricel7 reported muscle spasms, elevation in blood pressure and
+                     tachycard---a as the principal disadvantages.  His experience indicalted 2that
+                     children and elderly patients tolerated electro-anesthesia especially well.  The
+                     responses to electro-anesthesia could indicate potential use in patients with low
+                     blood pressure or bronchial infections, according t-o Price.  The wave form
+                     used was sine wave at 700 cycles per second.
+                            Po-wersl8, 44 reported diverse effects he observed in dogs using 700
+    2                 c. p. 9. since wave current. Current of l'OO milliamperes for one-half hour pro-
+                     duced increases in the hernatocrit unless dogs weri splenectomized.  A
+                     significant increase in the myocardial contractile force was recorded using a
+                     Walton-5zodie strain gauge sutured to the right ventricle and recorded on a
+                     Model 5,c Grass polygraph.
+                 2           Sancesl9-26 used rectangular electrical wa-.res and made studies oa-
+                     conduction over cortical pathways.  Evoked potentials were recorded in
+                     Macaque monkeys during   electro-anesthesia.  'Alith electrical stimulation of
+                     the sciatic nerve, the evoked response recorded from the medial lemniscus
+                     was minimally affected, that recorded from the nucleus ventralis posterior
+           1          was moderately reduced in amplitude, while the evoked potential recorded
+                     from the post central gyrus was abolished.
+
+                                                             4
+                             Srnith32-36 used a number of different currents in his research.  In
+                      dogs subjected to 20 milliamperes of DC and 20-30 milliamperes of square
+                      wave AC, there was a temporary but consistent c@ange in amplitude and
+                      frequency of the EEG.  The post-electro-anesthesia EEG pattern returned to
+                2      normal within 30 minutes.
+                             Histo-pathology studies revealed no neuronal changes other than agonal
+                      swelling, without areas pf hemorrhage or necrosis in the eight brains evaluatet3-.
+                             In clinical studies on dogs, respiration was slowed, but the arterial
+                      oxygen saturatior- did not fall below 91 per cent.  The pCO2 levels did not rise
+                      abo2ve normal.  Body temperature rises were detected, but could be reduced if
+                      the animal was not intubated and had the tongue exposed to the air.
+                             Turbes37-39 used a variety of currents and studied the effects on th@
+                      EEG, reflexes, pain and maintance of electro-anesthesia.  Slow induction was
+                      found to give a more acceptable physiological state and thus give more reliable
+                      r2esults for aU parz-rneters evali-,ated.  Fast inductions gave cardic-pulmonary
+                      difficulties which were fatal if not treated promptly,.
+                            Va,nHarreveld4O-43 using 60 cycle currents observed respiratory arrest
+                      durirlg ingiuction with 300 milliamperes of current.  After this inilial period, he
+                      reduced the current sufficient to restore respi4rati.c-n.  No mention was made of
+                      the number of animals that had perma-nent respiratory arrest.  Increases in
+                      blood pressure were observed.  The material published by Van Harreveld indi-
+                      cated respiratory difficulties were present throughout his procedures.
+
+                              Many of the difficulties reported with tle use of eiectro-anesthesia can
+                      be controlled by the application of proper principles. as Knutson indicates.
+                      Cardiac and respiratory difficulties will frequently occur if these are not
+                      observed.
+                              The two most important principles of salfe anesthesia which should be
+                      observed during clectro-anesthesia are the maintenan@e of respiration and
+                      circulat;.on.  Most of the problems encountered are related to one or both of
+                      these systems.  Maintaining proper ventilation for appropriate oxygen supply
+                      to the cells, adequate elimination of carbon dioxid-e and normal blood pH is
+                      essential.  Equally important is the maintenance of a safe blood pressure,
+                    2  sufficient cardiac output, and a proper blood supp:y to all vital body tissues..
+                              It is important to consider the comfort of the patient and avoid undue
+                      stress, injury and discomfort.  The anesthesia should be controlled to assure
+                      adequate depth for the surgical procedures that are to be performed.
+                              The conscientious anesthesiologist never relinquishes the immediate
+                   2   care of his patient until he is certain that he is no longer needed for the
+                      support of the patient's normal physiologic-.al sta*,e.  He is responsible, from
+                      the administration of the preanesthetic drugs until the completion of the post-
+                      anesthetic care, for the needs of his patient,' The investigator in electro-
+                      anesthesia should be expected to maintain the same degree of 1responsibuity.
+                      He must rnaintain a physiological state that is as rear normal as possible
+                      throughout the application of the electrical currents for anesthesia.
+
+                                                              6
+                              Proper attention to the principles of anest--iesiology in the calf and
+                      other &nimals has made it possible to produce adequate anesthesia for surgery
+                      without cardiac and respiratory arrest and related difficulties.  Higher
+                      frequencies are needed to eliminate these problems and applications need to
+   2                   be made with a slower induction than routinely used by many investigators.
+                              Investigations at Oak Ridge, Tennessee 27- 31 proved it was not necessa-r-y
+                      to use techniques which interfer with the normal function of the animal.  These
+                      applications of electrical anesthesia were sufficient to produce anesthesia for
+                      surgery.  Later the same results were accomplished in other2 environments.
+                      PURPOS.E OF THE PROPOSED RESEARCH PROC-RAM
+                              Ntu--nerous invest,'-gators since 1902 have attempted to produce anesthi sia
+                      with the use of electrical currents.  Many types of current and methods of
+                      applying them have been tried,  Some of these have been moderately successful
+                      in producing an anesthetic state.  Even with su2ccessful applications, however,
+                      unwanted side-effects were usually prese--it and resulted from the application of
+                      electrical current to the brain as a wholn.  Indiscriminate application of
+                      electrical currents to the head accounted for the severe unwanted actions.
+                              It is not known if electrical currents -sufficient to produce a@nesthesia can
+                      be di6rected to specific areas of the brain through external electrodes.  Neither
+                      do we know if this would eliminate all unwanted side-effects.  There is also a
+                      lack of s-.ifficient evidence to distinguish between anesthesia and paralysis pro-
+                      duced by electrical currents in animals.
+
+                                                                             AMIN,,
+                       Ask
+                      qp
+                                                           7
+                            The uriderstanding of the mechanisms by which electro-anesthesia is
+                     produced could make it possible for this rnethod o.' anesthesia to become
+                     clinically acceptable.  Therefore. the propose-I p2r:)gram to determine the
+                     inforrnatidn necessary to justify the extension of the use of electrical current
+                     for clinical anesthesia is submitted.
+                     OBJ'ECTIVES OF TH& PROPOSED RESEARCH PPOGRAM
+                            The objectives of this proposal are to answer three major questions.
+                            1.   Where does the current go when it is applied to the cranium?
+                           2 2.   When is anesthesia present and at what depth?
+                            3.   What are the undesirable side effects of various currents and can
+                                 they be eliminated?
+                     PROPOSED STUDIES TO ACHIEVE OBJECTRVES
+                            1.   Electrical Mechanisms
+                                 A.    Determination of the frequency response curves and the
+                                       external impedance levels of cran2ium.
+                                 B.    Determination of the degrees of linearity of these electrical
+                                       respon-ses.
+                                 C.    Determination of the impedance of the tissues of the brain.
+                                 D.    Determination of tissue voltage levels in the brain.
+                                 E.    Determination of the distributiorl of total electrical current
+                                  1     in the cranium.
+
+                                                                   8
+                                     F.     Determination  of  the  convolution  of  dual  electrical   currents
+                                            in the brain.
+                                     0.     Determination of the role of the cerebral spinal fluid as a
+                                            conductor of electrical currents.
+                                     R.     Determination of the effects of induced brain lesions on the
+                                            capability to produce electro-a-nesthesia.
+                                     1.     Determination of methods to focus current to specific locatione;
+                                            in the brain.
+                              II.    Biological Responses
+                                     A.     Determination of the level of anesthesia.
+       2                              5.     Determination of the effect of electro-ar-esthesia on blood
+                                            gases and blood pH.
+                                     C.     Determination of  the  effect  of  electro-anesthesia  on  the  cir-
+                                            culatory system, including blood glucose levels.
+                        METI-IODS
+                              1.     Animals to be Use2d
+                                     A.     Calves.
+                                     B.     Primates.
+                                            The calf has  been  selected  as  the  experimental  animal  in  the
+                                     initial studies.  Primates will be used after the evaluiltions are
+                                     complete in the  calf.  For  this  purpos-e.  the  Rheus  monkey  and  th-e
+                        5             Chimpanzee have been selected.
+                                            In vitro studies will be done  on  cadaver  heads  of  calves,  pri-
+                                     mates and humans in a related sequence to the in vivo studies.
+
+                                                             9
+                                 C.    Justificatioa of Animal Selection.
+                                           The most repeatable results      the most stable level
+                                       of anesthesia from the use of electrical currents have been
+                                       achieved during bovine applicatio:ns.  There are specific
+                                       prob2lems associated with each of the other species as
+                                       experienced by this investigator in studies on horses. s@,,eep.
+                                       pigs, dogs, cats, rabbits, rats, goats, and monkeys.  The
+                                       most accurate informatior. on the mechanisms of clectro-
+                                       anesthesia can be obtained from animals that respond most
+                      2                 favorable to electrical currents.  Therefore. the calf was
+                                       selected as the experimental animal for the first phase of
+                                       the program.
+                                           Calves are available in adequate numbers and the facilities
+                                       for handling them are adequate.  Calves of a 175-200 pound
+                                       weight range would be used.  Twenty2-five calves per year
+                                       would be needed.
+                                          Primates are considered essential to the program, after
+                                       completion of calf studies, since the a-natomical structure of
+                                       the head and the reactions io electro-anesthesia rnore closely
+                                       resembles those of the human.  Thus a link betwee3n bovine
+                                       and humar, applications is formed to more clearly define the
+                                       mechanisms involved.
+
+                                                             -10-
+                               11.  Currents to be Used
+                                    A.    Pulsed direct current with variable pulse duration, frequency
+                                          of piilse and amplitude.
+                                    B.    Sinusoidal alternating current with variable frequency and
+                                          amplitude.
+     2                               C.    Dual sinusoidal with summation in the generator.
+                                    0.    Dual sinusoidal with summation in the head.
+                                    E.    Justification of Current Selections.
+                                              The review of the literat7ure reveals that by-pertension,
+                                          cardiac and respiratory arrest and strong muscle contrac2tions
+                                          can occur.  The cardiac and respiratory arrest can be perma-
+                                          nent if the electrical currents are rlot properly applied.
+                                          1.  Sinusoidal currents can be varied to produce a wide range
+                                              et responses in the animal.  These i-nclude cle-.tro-sleep
+                                           2   with high-frequency-low amperage, electro-anesthesia
+                                              with mid-frequency and amperage, and electro-conv-,,tlsion
+                                              with low-frequency-high amperage application.  Thus by
+                                              adjustment of the relationships between currezit amplitude
+                                              and frequency, the dlffere:nce s in responses of the electro-
+                                              biological pa-ra=eters can be evaluated for the corresponding
+                                              states of consciousness.
+
+                                            2.    The sinusoidal waveform is a clean electrical
+                                                  wave unlil,,e a number of other types, such as
+                                                  square and triangle waves which are composed
+                                                  of a number of sinusoidat waves at various
+                                                  frequencies in 2the harrnc-nic mechanism.  There-
+                                                  fore, less distortion should occur in sinusoidal
+                                                  application-a.
+                                             3.   Dual sinusoidal with summation  in  the  generator
+                                                  produces superficial analgesia without  sufficient
+                                                  depth in the deep tissues. It 2has the reverse  eifect
+                                                  of single sinusoidal, therefore the response of the
+                                                  rnechanisms involved are changed.
+                                             4.   Dual sinusoidal with su.-nmation in the head is  a
+                                                  technique that opens new  approaches  to  electro-
+                                                  anesthesia.  As the2 two currents are brought
+                                                  together inside the head, a number  of  possibilities
+                                                  exist which affects the response to currenl.  If  the
+                                                  p'nase angles are the same,  the  currents  wiU  com-
+                                                  bine in a true sumrnatio-i.  However,  variatiors  in
+                          5                        the relationqhip of phase angles of the applied
+                                                  currents can cause summation at locations in the
+                                                  brain and cancellations of the current in other
+                                                  areas, -Thus if we can learn how to  control  this
+
+                                                                  lz
+                                                 rnechanist-n to focus the current to specific locations
+                                                 in the brain rather than total brain stirnulation, many
+                                                 of the unw"ted side effects could possibly be elimi-
+                                                2 nated.
+                                al. Methods to be used in each Proposed Study
+                                     A.     General Statement for All Studies:
+                                                 Statistical consultation will be obtained for aid in the
+                                            design of experiments and in the evaluation of data gen-
+                                            erated.
+                                     B.     Specific Studies (E2lectrical)
+                                            1.   Determination  of  the  frequency  response  curves
+                                                 and external impedance levels of the cranium.  In
+                                                 vitro studies will be made in  cadaver  calf  heads
+                                                 and in vivo studies in calves  of  same  size.  The
+                                                 technique to be used consists o2f:
+                                                 a.   Applying electrodes to the head of the calf for
+                                                      current application.  Both bitemporal and
+                                                      a.nterior-posterior types are to be used.
+                                                 b.   Placement of recording electrode by steroto)dc
+                                                      adjustment into0 the tissues of the  cra-,iium.
+
+                                                          -i3
+                                                    Electrodes can be adjusted for depth and
+                                                    location in the tissues from skin levels to
+                                                    the dura mater.  Trephine openings in the
+                                                    skull will be made.
+                                               c.   Connect2 anesthesia-current generator in
+                                                    series with animal head aad impedance  bridge
+                                                    for input.
+                                               d.   Connect out-out of impedance bridge and re-
+                                                    cording electrode in head in series to the
+                                                    oscilliscope.
+                                           2    e.   Current is applied through the head at desig-
+                                                    nated frequencies and amperage  and  recorded
+                                                    on oscilliscope, The same current is  applied
+                                                    through the irnpeda-ice bridge and it is adjusted
+                                                    to give same output to the scope.  The impedance
+                          2                          levels ga the bridge then correspond to those of
+                                                    the animals head.  Thus the total impedance met
+                                                    by the current applied through external electrodes
+                                                    is determined.
+                                               i.   By determining the impedance of the head  and
+                                                    9knowing the current input to the head, the current
+                                                    flow in the brain can be determined.
+                                               g.   By adjusting the frequencies and amplitude in an
+                                                    interval method. the response curves can be
+
+                                                            14
+                                               determined.  ;ive milliampere and 100 cycles
+                                               per second or pulses per second intervals wiU
+                                               be used at ranges up to 2000 cycles per second.
+                                               Above this, 500 cycles per second intervals will
+         2                                      be used.
+                                      2.   Determination of the degree of linearit7y of these electrical
+                                           responses.  This study is closely associated with
+                                           Study A.  It does not require additional measurements,
+                                           but a mathamatical analysis &nd.graphing of the responses
+                                           exhibit2ed for frequency and impedance to determine the
+                                           degree of linearity of the system.
+                                       3.  Deterrnination of the impedance of the tissues of the brain.
+                                                                                 54, 55           s6
+                                           a.   Theory:  Investigations by AArey        Nicholson
+                                     2               57        58, 59, 60                   62
+                                                RaU   , Ranch          ,and van Harreveld     illustra!,t*-
+                                                the variations in impedance levels in the segments of
+                                                the brain and changes that take place under changing
+                                                behavi'or patterns.  Willen2k-iu 65 found that'the impeda@nce
+                                                levels in the brain stem changed in relation to the
+                                                level of anesthesia from methoxyflurane.  Since'the
+                                                brain and surrounding tissues behave like a series of
+                                                paraue"& resistors and capicators, it is reasonable to
+             3                                   theorize that the impedance responses will vary in
+                                                relation to the frequency of current applied to the brain.
+
+                                                            1 5
+                                          b.   Method of Conducting Study     This study will follow
+                                               the frequency response curve and external irnpedarc-e
+                                               study.  The same equipment and procedures are Lsed,
+                                               The primary difference is in the tissues to be studieti.
+                                               This study evaluates the impedance levels at var)ring
+                                               frequencies in the brain tissue. Areas of the brain to
+                                               be studied are:
+                                               1)  Cerebral Cortex
+                                               Z)  Thalmus
+                                               3)  Hypothalmus
+                2                               4)  Brain Stem
+                                               5)  Cerebellum
+                                          C.   Special Techniques - The study of external impedance
+                                               required a maximum depth to the dura for recording
+                                               electrodes.  In this study, the electrodes must be
+                                               placed in specific locations of the brai2n.  Electrodes
+                                               will be of minimum size to prevent excess damage to
+                                               the brain tissue and will have a I rn. m.. uninsulated
+                                               point for recording.  The insulation will be n@.)n-me.tallic
+                                               to prevent error in results.  Metallic coating produces
+                                0               extra capacitance values.  The principal investigator
+                                               has placed acute and chronic electrodes in the brain
+                                               of large animals.  Problems encountered will be solved
+                                               by consultation with neuroanatorny and neurosurgery
+                                               staif personnel.
+
+                                                                16
+                                          4.   Determination  of tissue voltage levels in the brain.
+                                               a.   Theory:   The various types of brain cells and nerve
+                                                    fibers have specific voltage potentials.  It is also
+                                                    known that the voltage changes with the state of the
+     2                                               cells, i. @-. resting, during depolarization or re-
+                                                    polarization. 64. 65 It is reasonable to predict that
+                                                    the induct,.on of additional voltage of electrical
+                                                    currents into the brain will interfer with the normal
+                                                  2  voltage potentials of Lie cells. thus affecting their
+                                                    usual function.
+                                               b.  Method to Complete Study.
+                                                    1)  Equipment
+                                                        a)   Electro-anesthesia generators.
+                                                        b)   Oscilliscope with differential amplifi2er.
+                                                        c)   Double recording electrodes with I m.m.
+                                                             non-insulated tips I m. rn. apart.
+                                                        d)   Electrodes controlled by-sterotaxic adjustment.
+                                                    2)  Procedures
+                                                        a)   Cadaver heads will2 be used to perfect
+                                                             techniques arld then live calves.
+                                                        b)   Electrodes will be worked through L-ephine
+                                                             openings in the skull.
+                                                        4c)  Readings wil'- be made in the major segments
+                                                  0           of the brain F-t selected frequencies and
+                                                             amplitudes of input current.
+
+                                                             i7
+                                                   3)  Brain Areas to be Studied
+                                                       a)  Cerebral Cortex
+                                                       b)  Thalmus
+                                                       c)  Hypothalmus
+                                                       d)  Brain Stern
+                                           2            e)  Cerebellarn
+                                         5.   Determination of the distribution of total electrical
+                                              current in the cranium.
+                                              a.    Object:  How much of the total current applied to
+                                                    the head actually reaches the brain?  This is &n
+                                                    in vi,#,ro study on cada,.rer heads.
+                                              b.    Procedure:     Calf heads will be opened sufficie nily
+                                                    for the brain to be aspirated.  Reco@rding electrodes
+                                                    will be placed in the cerebral cavity and it will be
+                                                    refilled with physiological saline.  Electrical currents
+      2                                              will be applied to the head in the normal manner for
+                                                    anesthesia and the current amplitude in the homolog-is
+                                                    solution will be calculated from the osciuiscope
+                                                    readings.  This value substracted fro--n the generator
+                                                    output should gi9ve the amount of current dissipated
+                                                    in the skinmuscle and bone of the head. 53
+                                           6.   Determination of the convolution of dual electrical
+                                                currents in the brain.
+
+                                             a.    Theory:   The obseri@-ed responses of experimental
+                                                   animals under the influence of dual electrical
+                                                   currents indicate that ae effect on the central
+                                                   nervous system is not the same as single wave
+                                                   induced curr2ents. The responses a-re  of  a  sleep-
+                                                   like nature rather than anesthesia if the combination
+                                                   is summated in the generator, but indicates deeper
+                                                   anesthesia if the summation is in the  head.  Since
+                                                   surnmation of two currents in a system does not
+                                        2           necessarily follow a nume-rically adding effect, it
+                                                   is logical to believe that the currents applied to the
+                                                   head frorn two sources are convoluting  (passing  one
+                                                   another) in such form that the phase angles determinl-
+                                                   if they are adding or canceuing in a particu2lar
+                                                   segment of the brain.  Therefore, the determination
+                                                   of this theory would indicate the possibility of
+                                                   focusing current to specific locations of the brain.
+                                              b.   Animals -
+                                                   I   in vitro studies in cadaver calf heads,
+                                    4               2)  in vivo studies in calves.
+                                              C.   instrumentation
+                                                   1)  Current Generator!;.
+                                                   2)  Oscilliscope.
+                                                   3)  Recording electrodes and sterotaxic equipment.
+
+                                                                               AM6
+                                             d.    Procedure
+                                                   I   Electrodes would be surgically placed in
+                                                       select locations in the cerebral cortex.
+                                                       thaimus, hypothal.-nus, brain stem, and
+                          2                             cerebellum.
+                                                   2)  External currents for anesthesia would be
+                                                       applied through external electrodes.
+                                                   3)  Reading will be made on the oscilliscope.
+                                                   4)  Using known input and observed output, the
+                                                       convo2lution of current in the system (brain)
+                                                       will be mathematically determined.
+                                         7.   Determination of the role of the cerebral spinal fluid'
+                                              as a conductor of electrical currents.
+                                              a.   Since the impedance of CSF is so little compared
+                                                   to the tissue of the2 head, there is evidence that
+                                                   this may be the medium through which much of
+                                                   the current flows.
+                                              b    An in vitro study is proposed in which the hea-d and
+                                                   neck of calves would be used as the container for
+                                                   the fluids.  Currents will be applied to the head 8in
+                                                   the normal fashion for electro-anesthesia.  Record-
+                                                   ing electrodes will be placed in the brain and
+                                                   connected to an oscilliscope.  After recordings
+
+                                                       20
+                                            of the voltage and current to the brain, the CSF
+                                            will be replaced by electrolyte solutions'anci  HZO.
+                                            The conductance through each  of  these  media  will
+                                            be determined for correlation.  Thus the role of
+                                        2    conductance through the CSF can be made.
+                                  S.   Determination of the effects of indi-iced brain lesions on
+                                       the capability to pfoduce electro-anesthesia.
+                                       a.   To provide additional evidence that  specific  areas
+                                            in the brain are involved with the mechanism of
+                                            electro2-anesthesia, lesions vrill be produced in
+                                            live animals in select areas of the  thalmus,  hypo-
+                                            thalmus, and cerebral cortex and thci-r  effects  on
+                                            the capability to produce electro-anesthesia
+                                            determined.
+                                       b.   Lesions will be sur2gically  produced  and  consulta-
+                                            tion with the staff neurosurgecns at       1'will be
+                                            made in perfecting  techniques.  Current  freq%2ency
+                                            and amperage  requirements  will  be  compared  with
+                                            those of normal brains.
+                                       C.   The bradykinin test will be made to determ6ine depth
+                                            of anesthesia.
+                                  9.   Determination of the methods to focus current to specific
+                                       locations in the brain.
+
+                                                            21
+                                            a.  Although  this study is listed last it is one of the
+                                                most important studies.  However, the preceeding
+                                                studies must be made to rnake it possible.
+                                           b.   Theory,    It is desirable to only have the current
+        2                                        in the brai n where stirnulation to specific sites
+                                                will produce anesthesia, thus reducing the unwanted
+                                                side effects.  The question to be answered is, "Can
+                                                this be controlled by appiying currents at selected
+                                                phase angles from speci-f-3Lc locations2 on the skuu
+                                                to allow cancellation of current in aJI areas of the
+                                                brain except those that need to be affected?
+                                           C.   In this study, the multiple inducing electrodes wbuld
+                                                be placed in specific loc&tions enabling the phase
+                                                &ngle to be controlled, 2giving the proper level of
+                                                current in various areas of the brain.  In the
+                                                initial studies, the electrodes would be placed
+                                                through the bone of the skull by surgical technique,
+                                                thus eliminating the deflection of current by the
+                                                bone.  After determination 2of the proper effect by
+                                                this technique, attempts to produce tb-e same effect
+                                                with electrodes outside the skull would be made.
+                                                Thus determination can be made by recording from
+                                                the specific locations of the bra,'In. the amount of
+                                                current present.
+            3              40
+
+                                                                22
+                                   C.     Specific Studies (Biological)
+                                          1.  Determinati-on of the level of anesthesia.
+                                              a.   The bradykinin test as -described by Lim, et, al 45- 52
+                                                   Will be used as an index to depth of anesthesia.
+                               2                    Either intra-arterial or intra-peritoneal  injection
+                                                   of bradykininevokes a response if pain is perceived.
+                                                   There is no tissue damage  by  bradykinin,  &nd  the
+                                                   pa.in responses can be recorded in  terms  of  blood
+                                                   pressure elevation.  The test can be re2peated
+                                                   frequently.  Pain is perceived 15  seconds after
+                                                   injection and lasts 30-40 seconds.
+                                              b,   By using this test at each of the frequency and
+                                                   arnplitude levels for the four types of current to
+                                                   be studied, the depth of anesthesia and at what
+                                                   current levels it occur3 can be determined.
+                                              c.   By correlating response 6@O bradykinin with the
+                                                   other physiological changes, an outline of the -
+                                                   signs of various levels of anesthesia can  be  drawn
+                                                   4up for electro-anesthesia.
+                                              d.   Recordit@gs of responses will be made with a
+                                                   physiological recorder  with  blood  pressure,  ECO,
+                                                   and  impedance  pneumograph  transducers  and   pre-
+                                                   amplifiers.  Blood pressure rm asurements wiU
+
+                                                              2 3
+                                                  be made by direct cannulation of the external
+                                                  maxillary artery.
+                                        2.   Determination of the effect of electro-anesthesia on
+                                             blood gases and blood pH.
+                                             a.   Since proper oxygen suppl2y to the bra-in ceus must
+                                                  be maintained to prevent cell damage, the effects
+                                                  of the various types of current on these  parameters
+                                                  must be made.
+                                             b.   Mgh amputude current5  at  low  frequencies  produce
+                                                  definite respiratory 2distress.  It is, therefore,
+                                                  important to 'know at wl-%at levels there is sufficie-it
+                                                  disturbance'of the blood gases and pH to be hazardous.
+                                             C.   Determination before, during, and  after  &nesthesia
+                                                  will be done for all four types of current at 100 cycles
+  2                                                per second and 5 milliamperage intervals.  The range
+                                                  will extend from no detectable respiratory  distress
+                                                  to obvious disturbance,
+                                             d.   Arterial sarnples will be collected through an im-
+                                                  planted carotid catheter and results dete4rmined
+                                                  immediately after sampling.  Samples will be
+                                                  collected at 15 minute intervals and idontinue until
+                                                  the response is stable.
+
+                         Ask
+                                                                                  0
+                                                               24  -
+                                                   The instrument  to be used is the blood gas and
+                                                   pH equipment produced by tnstz-urnentation Labs
+                                                   of 15oston, Massachusetts.
+                 2                         3.  Determination of the effect of electro-anesthesia on  the
+                                              circulatory system, including blood glucose levels.
+                                              a.   Cardiac arrest can be produced by clectro-anesthesi;x.
+                                                   It is usually not fatal if the current is reduced
+                                                   promptly, allowing the hea2rt to rt:sume function.
+                                                   Cardiac arrest is not produced if higher frequencies
+                                                   of current are used. Therefore, it is  important  to
+                                                   know the range of currents which will produce cardiac
+                                                   difficulties.
+                                              b.   Three circulatory parar2neters that are knovm  to  be
+                                                   affected by clectro-anesthesia will be studied.
+                                                   1)  Blood Press@Lre.
+                                                   2)  ECG for heart rate and 6Aytbmids.
+                                                   3)  Blood Glucose.
+                                              C.   All four types of current to be s2tudied at the frequency
+                                                   and amplitudes ranges previously indicated.
+                                              d.   Equipment
+                                                   1)  Physiological recording  equipment  with  trans-
+                                                       ducers and pream-.Dlifiers for blood pressure
+                                                       and ECC.
+
+                                                   2)   Bausch and Lornb Spectrometer for blood
+                                                        glucose determination will be used.
+                     ANTICIPATED PROGRESS
+                          in vitro studies can start two weeks after funding.  It is anticipated that the
+                     first four electrical studies for the four types of current and the biological
+                     .studies for tw2o of the four types of current could be completed the first year.
+                     PERSONNEL
+                          IV.                                                              To be named.
+                                  Will spend rninimum of 50'lo time on project.
+                          V.      Aniynal Assistant - FuU time.
+                          VI.     Technician for lab analysis       Full time.
+                          Vil.    Secretary - 501c of time.
+                          VM.     Neurosurgery                           Assistance available
+                                                                         in adv-isory capacity
+                          IX.     Neurophysiology
+                                                                        from these departments
+                          X.      Neuroanatomy
+                          Xi.     Radiology
+
+                                           BUDGET FIRST YEAR
+                   PERSONNE'- SALARIES
+                   rnves tigator . . . . .Full time
+                   Technicians (2)
+                   1.    Assisting with animal procedures
+                   2.    Laboratory analysis
+                   Secretary       part time (50@o)
+                   Engineering                    (systems electronics)
+    2               Consulting (Electronics, Neurosurgery, Neuroanatomey,                                  9-7
+                         Neurophysiology)
+                   ANIMALS
+                   25 calves @ $60 each                                         $
+                   Board.*   $4. 00/da)r for 330 day9
+                                                                                $
+                     Plan to reuse each animal as muct,. as possiltble.  N,-,-.rb-er on hand at a
+                     given time will be two thus reducing board.--
+                   EQUIPMENT
+                   I .   Tektrc-nix Model R293 DC pulse generator and
+                         power supply.                                          $
+                         Hewl4@tt-Packard Model 3380 B Sine wave generator
+                         (can @e used in both sine wav0e analysis and external
+                         summation analysis, one sine wave generator is
+                         already available for use in dual wave convolution
+                         studi4ps).
+
+                                                     -2-7 -
+                  3.    Genera-I '-@-adio Impedance Bridge for measuring
+                        brain impedance levels, Model 1608-A
+                  4.    Motor drive unit for exact rate of curr,ent appli-
+                        cation in all cases
+                  5.    Simpson Voltmeter Model 312
+                  6.    Blood ga3 analysis equipment.  Inst2rumentation
+                        Labs. NEcro-analysis system
+                        Gasses for caliberation of above
+                  7.    Bausch and Lomb Sepectrometer      Model 20 for
+                        blood glucose determinations
+                  8.    Oscilliscope for monitoring waveform, rise t'
+                        distortion of waves, voltage levels and time    irn e,
+                        intervals
+                        The Tek2tronix Model 561A with needed components
+                        lists for $1, 780. 00.  The Hewlett-Packard Model
+                        141A with similar  components  is  $2,  075.  00.  There
+                        is one advantage of the H-P model in that information
+                        can be stored on  the  screen.  This  would  enable  one
+                        to record frequency responses, rise time, voltage
+                        levels, f@t2c. , on the screen at specific intervals  and
+                        &at dire(: t comparisons.  Thus more accuracy can
+                        be obtained.  The work can be done with either.
+                        More accuracy is preferred but can be sacrificed      in
+                        this case if needed for budget purposes.
+                  9.    OscilliscQpe camera for permanent records      of
+                        readings, (will work with either of the oscilliscope
+       5                 models listed).
+                  10.   Sterotoxic apparatus by Universal-
+                        610101 "HI' stand with adjustable horizontal bar
+                        6101OZ Horizontal rider
+                        610103 Carrier housing
+
+                                                  -28@-
+                        610104 Micrometer carrier
+                        613001 Micrometer
+                        613510 Chuck, insulated
+                        Base plate and head holder will be constructed
+                        fit needs.  The equipment listed can be used in
+                        either micro or macro-electrode applications.
+                   11.  Electrodes, connecting cables and 2electrical probes
+                        TOTAL EQUIPMENT
+                   SURGERY CRARGES
+                        These charges are f,)r surgical instruments, suture, operating room
+                   charges.  Sinc,-- animals are to be reused the procedures will be made
+                   using aseptic techniques.
+                   50 days of surgery @ '.' Yday                             $
+                   MISCEL2LANEOUS
+                   Physiological recording instrument paper
+                   Photography
+                   Travel
+                   Tubing, catheters, drugs, chemicals
+                   Computor time in data analysis
+                   Institutional Overhead:
+                         401* of Salaries                                    $
+                         Total First Year                                    $
+
+                                                                                  Ask
+                                                     -29-
+                         Reductions in equipment cost the second year should offset any
+                   increases in other items for a second year budget of $          Detailed
+                   budgets for tirne periods after the initial year will be submitted at the
+                   requested time.
+
+                                                                       AGMIL
+                                                  -30-
+                    REFERENCES FOR ELECTRO-ANF-STMESIA
+                    1.    LeDue, S.  1903. Llelectrisation cerebrale. Arch. Elect. Med. 11: 403-410.
+                    2.    Fabian, L. W., S. D. Hardy, M. Don Turner, P. S. Moore.  1961.
+         2                 ElectricalanesthesiaV. Surveyofclinicalprogresswithinustrativecas,-S.
+                          Anesth. Analg. 40,653-661.
+                    3.    Geddes, L. A., C. C. Turbes, M 'Hinds, W. E. Barrows.  1965. The
+                          EEG during electronarcosis. Anesth. Analg. 44:305-312.
+                    4.    Geddes, L. A. , H. E. Hoff, and C. Voss.  1964. Cardiovascular respiratox-y
+                          studies during electronaxcosis in the dog. Cardiovasc. Research Center
+                          Bul:Letin 3:38-47.       1
+                    5.    Gowing, D., R. S. Underwood, F. P. Haugen.  1964. Electroca-rdiograpVjc
+                          studies during electronarcosis. Anesthesiology Z5:668-671.
+                    6.    Cowing,  D.   1964.   Electro2cardiographic studies during electro-anesthes5a.
+                          .First Symp,  on Electroanesthesia.   (Physiol.  Dept. .  Colorado State
+                          University,  Ft.  Collins,  Colorado).   pp 37-39.
+                    7.    Hardy,  1.  D. ,  L.  W.  Fabian and M.  D.  Turner.   1961.   Electrical anesthesi.@
+                          for major surgery.   ;.  Amer.  Med.  Ass2n.   175:599-600.
+                    8.    Hardy,  J.  D.,  T. Carter,  and M.  D.  Turner.   1959.   Catechol &mine
+                          metabolism.   Ann.  Surg.  150:666-683.
+                    9.    Hardy,  J.  D.,  M.  D.  Turner,  and C.  D.  McNeil.   1961.   Electrical
+                          anesthesia.   S.  Surg.  Res.   1.152-168.  .
+                    10.   Herin,  R.  A.   1964.   Induction techniq2ue changes and electroencephaiogi;aphic
+                          body temperature,  and pupillary light reflex studies in dogs anesthetized
+                           'th electric current.   Amer.  S.  Vet.  Res.  Z5:739-746.
+                          wt  .
+                    11.   Klemm,  W.  R.   1964.   A square-wave elect:rical anesthesia current
+                          gerlerator.   Ay,esthesiology 25:718-719.
+        2            1.2.  K-lemm,  W.  R.  & R.  O'Leary.   L964.   Comparison of electrical pararhetexs
+                          and the quality of electroanesthesia.   Anesthesiology 25:776-780,
+                    13.   Knatson,  Robert C.   1954.   Experirnents in electronarcosis:  a prelirnina-,ry
+                          study.   Anesthesiology 15:551-558.
+                    14.   Knutson,  2Robert C.,  F.  Y.  Tichy,  and J.  M.  Reitman.   1956.   The use of
+                          electrical current as an anesthetic agent.   Anesthesiology 17:815-825.
+                    15.   Knutson,  R.  C.,  N.  R.  Magfors,  and J.  H.  Matthews.   1965.   Modification
+                          of -epileptic adter-discharges by electroanesthesia currents.   Presented at
+                          Znd Ann.  Symp.  on Ele3ctroanesthesia.   Univ.  of Tenn. ,  Kn-.)xville.
+                          Ap-ril,  1965.
+
+                                                            31
+                      i  6,  Knutson, R. C.  1964.  The electroencephalograin in electroanesthesia.
+                             Proc. Lst Symp. Electroanesthesia.  Et. Collins, Colorado.
+                      17.    Price. J. H. and W. H. L. Dornette.  1963.  Clinical experience with
+                             electroanesthesia.  Anesth. Analg. 42:487-495.
+                      is.    Powers, M. F. and W. B. Wood.  1964.  Electrical anesthesia studie---,
+                             di-.rerse effects.  Ane3th, Analg. 43-.385-392.
+                      19.    Sances, A. , Jr. . and S. T. Larson.  1963.  Electrona-rcosis and evoked
+                             brain potentials.  Science 141:733-735.
+                      zo.    Sances, A. 2, Jr. . S. J. Larson and S. L. Tacobs.  1963.  Recording of
+                             brain potentials during electronarcosii.  16th Ann, Conf. on Eng. ia
+                             Med. and Biol.  Harry S. Scott, Baltimore.  p. 68-69 (266 pp).
+                      21.    Sances, A. , Tr.  1964.  Effects of electrorarcosis on evoked,responees
+                             in the brain,  A dis s ertation in partial2 fulfillment of the r equirerr* nts
+                             for Ph.D. Bio-medical  Eng.  Center,  Northwestern  Univ.,  Evanston,  W.
+                      Z2.    Sances, A. , Jr. , and S. J. Larson.  1964.  Sensory and motor function
+                             during electroanesthesia.  Proc. 17th Ann. Conf. on Eng. in Biol. and
+                             baed. in Cleveland. Ohio.  MacGregor an2d Werner, Washington, D.C.
+                             127 pp.
+                      23.    Sznces, A. , Jr. , and S. T. Larson. 1964.  Mathematical  representatic-n
+                             of classical sensory pathway as a function of electro-marcosis.  Abstract
+                             WGt.  Biophysical Soc, 8th Ann. Meeting.
+                      24.    $ances, A. , Jr. , and S. J. Larson.  1965.  Neuro2physiological effects
+                             of electroanesthesia.  Exp. Neurol.  13: <>.-t. 1965.
+                      2 5.   $ances, A. , Jr., and S. J.  Larson.  1965.  Evoked  potentials  "  motor
+                             response determin&tions in the presence of Anan'ev type currents.  Znd
+                             Ann. Coni. on Electroanesthesia, Knoxville, Tenn.  April, 1965.
+            2          26.    $ances, A., Jr. , and S. J. Larson.  1965.  Transient and steady state
+                             response of soma-dendrite neuron model to step and  rectangular  current.
+                             Abstract. Proc. 9th Ann. Meeting Biophysical Soc.
+                      27.    $hort, Charles E.  1965.  The physiological effects of electroalnesthesia
+                             @n domestic animals.  Presented at 72nd Ann. Symp. on Electroanesthesia,
+                             Univ. of Tenn., Knoxville, Tenn.  April, 1965.
+                      ZS.    S-iort, C. E., C. C. Turbes, and 3@. S. Snyder.  1964.  Large animal
+                             electroanesthesia.  Proc. Ist Ann. Rocky Mt. Bioengineering Syrnp.
+                             'LT. S. Air Force Academy, Colorado.  p 231-286.
+
+                                                            -32
+                        29.    Short, C. E.  1964.  The application of electroanesthesia on large
+                               animals: a report of 100 administrations.  S. Amer. Vet. Med.
+                               Assoc. 145;1104-1106.
+                        30.    Short, C. E.  1964.  Experiences in the applications of electroanestheria
+                          2     to equidae.  Agricultural Research Lab.  UT-AEC, Oak Ridge, Tenn.
+                               Proc. 10th Ann. Conv. Amer. Assoc. Equine Fractit.  Denver, Colo.
+                               December 1964.  p 158-166.
+                        3i,    Short, C. E.  1965.  Clinical effects of anesthesia produced by
+                               alternating electrical current.  Anesth. d-nalg. 44:517-SZI.
+                2        32.    Srnith, Robert H. and Stuart C. Cullen.  1962.  Electrorkarcosis - A
+                               progress report.  Amer. J. Med. Electronics S:308-313.
+                        33.    Smith, Robert H. and Stuart C. Cullen.  1962.  Electronarcosis by
+                               -combination of direct and alternating current. 3.  Electrodes  and
+                               electrode holders.  Anesthesiology 23:68Z-2686.
+                        34.    Smith, Robert H. , Robert R. Hylton, and Stuart C. Cullen.  1965.
+                               Electronarcosis by a combi'nation of direct and alternating current.'
+                               Arner. J. Med. Electr.  Jan. -March, 1965.  p 38-41.
+                        35.    -Smith, Robert H., Robert R. Hylton, Sohn R. McCabe, and Stuart C.
+                               Cullen.  L965.  Electr2ical anesthesia produced by a combination of
+                               direct and alternating current: technical studies in the Macaque
+                               monkey.  Anesthes. Analg. 44:275-279.
+                        36.    Smith, Robert H., Richard K. Richards, Ward R. Richter, Robert
+                               R. Hylton, John R.  McCabe,  Stuart  C.  Cullen.  1965.  Electrical
+                               anesthesia produced by combining di2rect and  alternating  currents:
+                               electronrnicroscopy of the dog  brain.  Anesthesiology  Z6:607-614.
+                        37.    Turbes, C. C. and L. A. Geddes.  1964,  Central nervous system
+                               activity associated %vith electronarcosis.  First Sy-rnp. Electroanesth.
+                               Physiol. Dept., Colo. State Univ. . Ft. Collins, Colo.  p 52-67.
+      2                  38.    Turbes, C. C. and L. A. Geddes.  1965.  Studies on cerebral
+                               cortical and subcortical activity during electroanesthesia.  In Proc.
+                               2nd  Ann.  Rocky  Mt.  Bioengin.  Symp.,  USAF  Academy,  Colorado.
+                               p 111-113.
+                        39.    Turbes, Calvin C.  L965.  Electrode placements and the neurophys-
+                              9 iology involved. Presented at the Second Ai-in. Syrnp. on  Electro-
+                               ELnesthesia.  Univ. of Tenn., Knoxville.  April, 1965.
+
+                                                           33 -
+                        40.    Van Harreveld, A. , M. S. Plesset, and C. A. Wiersrna.  1942.
+                               Relation between the physical properties of electric-currents and
+                               their electronarcotic action.  Amer. J. Physiol.  137:39-46.
+                        41.    Van Harreveld, A. , D. B. Tyler,  and  C.  A.  Wiersma.  1943.2
+                               Brain metabolism during  clectronarcosis.  Amer.  S.  Physiol.
+                               139:171-177.
+                        42.    Van Harreveld, A.  1947.  On the mecha-aisrn and localization of
+                               the symptoms of electroshock and electronarcosis.  S. Neuropath.
+                               Exp. Neurol.  6:177-184.
+                        43.    Van Harreveld, A. and W. B. Dandiliker.  1945.  Blood pressure
+                               changes during electronarcosis. Proc.  Soc.  Exp.  Biol.  Med.
+                               60:391-394.
+                        44.    Wood, W. B., M. F. Powers. W. H. L. Dornette, and S. Price.
+                               1964.  The cardiovascular effects of cra-nially impressed electric
+                               ,currents of anesthetic intensity. Anesth. Analg7.  43-313-323.
+
+                                                            -,36-
+                                                   RELATED REFERENCES
+                       BRADYKININ
+                       .45.    C. Braun, F. Guzman, E. W. Horton, R. K. S. Lim and G. D.
+                               Porter.  Visceral Recepters Pain, Bradyk:.nin, and Analgesic
+                               Agents.  Proceedings of the Physiological Soc:-ety 4-5 Nov. 1960.
+                               Journal of Physiology, 155, 13-14p.
+                       46,     G@ D. Dickerson, R. S. Engle, F. Guzman, D. W. Rodgers, and
+                               R@ K. S. Lim.  The Intraperitoneal Bradykinin - Evoked Pain Test
+                               for Analgesia.  Life Science, 4, pp 2063-ZO69. 1965.  Pergamori
+                               Press, Ltd.
+                       47@.    Frank Guzma2n, C. Braun, and Robert K. S. Lirn.  Visceral Pain
+                               and the Pseudaffective Responses to tntra-arterial Injection of
+                               Bradykinin and other Algesic Agents.  Arch. int Pharmacodyn,
+                               t962, CXXXVI, pp 3=4.
+                       48.     F. Guzman, C. Braun, R. K. S. Lim, G. D.. Porter and D. W.
+                               Rodgers.  Narcotic and Non-narcotic Analgesia 2which Block Visceral
+                               Pain Evoked by rntra-Arteria-1 injection of Bradykinin and other
+                               Algesic Agents.  Arch. int. Pharmacody-n, 1964, 149, pp 3-4.
+                       491.    Robert K. S. Lirn.  Visceral Receptors and Visceral Pain.  Annals
+                               of the New York Academy of Sciences, 86, Article 1, pp 73-89.
+                               March 320, 1960.
+                       50.     R. K. S. Lim, F. Cruzrnan, D. W. Rodgers, K. Coto, C. Braun, 0.
+                               D. Dickerson and R. 1. Engle.  Site of Action of Narcotic and Non-
+                               narcotic Analgesics Determined by Blocking Bradykinin Evoked
+                               Visceral Pain,  Arch. int. Pharmacodyn. 1964, 1SZ, pp I-Z.
+                       5 I.    Robert K. S. Lim, Cha Nao Lin, Frank Gazman, and Christian Braun.
+                               Visceral Receptors Concerned in Visceral Pain and the ?seudo-
+                               affective Response to tntra-arterial Inject4on of Bradykinin and other
+                               Algesic Agents.  Journal of Comparative Anatomy, 118, p. 3, Tune, '.962.
+                       52.     I:L. K. S. Lim, F. Guzma9n, and D. W. Rodgers.  Note on the Muscle
+                               R.eceptors Concerned with Pain.  Symposium on Muscle Receptors,
+                               Ed, by Barker, Davi   d.  University of Hong Kong.  Golden Jubilee
+                               Congress, September 11-16, 1961.
+
+                                 ELECTRECAL DISSECTION
+                                 53,           L, A. Geddes. Unpublished data from 3rd Symposium on Electro-
+                                               anesthesia.   St.  Louis University School of Medicine.   May,  1966.
+                                 IMPEDANCE CHANGES
+                                 54.           W.  R.  Adey, R.  T.  Kado,  1.  Didio,  and W.  J.  2Schindler.   "Impedance
+                                               Changes in Cerebral Tissue Accompanying a Learned Discriminative
+                                               Performance in the Cat. 11  Experimental Neurology,  7, pp Z59-281.
+                                               ('- 9 6 3).
+                                 Ss..          W,  R.  Adey,  R.  T.  Kado,  and D. 0.  Walter.   "Impedance Characterisf2xcs
+                                               of Cortical and Sijb-cortical Structures:  ]Evoluation of Regional
+                                               Specificity in Hypercapnea and Hypothermia!!  Experimental Neurology,
+                                               11,  pp 190-216.  (1965).
+                                  56.          Paul W.  Nicholson.   "Specific Impedance of Cerebral White                             
+Matter".2
+                                               Experimental Neurology,  13,  pp 386-401 11965).
+                                  57.          Wilfrid RaU.   "Membrane Potential Transients and Membrane Timq
+                                               Constant of Matoneurons".   ExperL-iiental Neurology,  2,  pp 503-537
+                                               (1960).
+                                  58.          James B.  Ranck,  Jr.  and Spencer L.  BeMent.   "The Specific Impedanr-e
+                                               of the Dorsal Columns of Cat:  An Anisotropic ',%4edium ".   Experimental
+                                               Neurology,  It.  pp 451-463 (1965).
+                                   59.         James B.  Ranck,  Jr.   "Specific Impedance of Rabbit Cerebral Cortex".
+                                      2         Experimental Neurology,  7, pp 14-4-152 (1963).
+                                   60.         James B.  Ranck,  Jr.   Analysis of Specific Impedance of Rabbit Cerebral
+                                               Cortex.   Experimental Neurology,  7, pp 153-174 (1963).
+                                   61.         tchiji Tasaki.   Conduction of Nerve Impulse.   Handbook of Physiology
+                                     2          or Neurophysiology,  I,  pp 75-121.
+                                   62.         A.  van Harreveld and Sidney Ochs.   "Cerebral Ernpedance Changes
+                                               After Circulatory Arrest".   American                    IJournal Physiology,  187:180-19a,
+                                               1956.
+                                    63.        Robert L.  Willenkin.   Anesthetic Level and 8Electrical Resistance of
+                                               the Brain Stem.   Anesthesiology,  27-2,  1966,  p.  231.
+
+                      64.    Barry Wyke. General Anesthesia, lp pp 157-300.  Washington
+                             Butterworths, 1965.
+                      65.    Sidney Ochs. Elements of Neurophysiology.  John Wiley & Sons.
+                             tnc. , New York, 196 5.
+

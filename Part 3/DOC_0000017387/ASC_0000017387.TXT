@@ -1,0 +1,923 @@
+                                                                                               -11@) sO al4v@a
+                                                                                                  =Tea
+
+                                                       (63T YC
+
+               DC-at
+                     On July 6  1961m a- tdnt-vas b4do by       th
+               -tug iteaso
+                  2 r@@vr fiuppupa            Inc.                                 000,03
+                                        OW-  P"r.93  ln*trUMOAt'3 CO,,
+                  bir@@am evitching                             Q@A
+                                         & b@rtao@44rd3o-
+                  wize @%nd connector$.
+                  I v-bair for experimer*tal-subjecto Bacbt-Co,,--
+                  I rarts cabinct.-Giii@.Als                                      54,77
+                  I r-ulsz  -transformeri:LfteeilLTt"oforvatr  Coo                19,10
+                  d-todent roolstors -- LI,@ctronic  Wboleial-cr3. Inc,            -944-62
+                  capacitors  diodes  Capitol- iladio -h-kole3alers, Inc-*        77.55
+                  tubing$ reststori@p                                               -6632
+                  I-Ml P.3xt No, 1010671                                             7,30
+                  dust control                                                    45,s OC@
+                    Tot.it
+
+                                      -.plow
+                    A Look. into the  ftture@t --CddV4W@Tec
+                          @47
+                                                                              -the
+                                                 ion inlitirumenta Ion' lit@:tba'
+                                                                         Iho- SETAI
+                          (govial xvcn
+                          dalta pro                               il&fomatlon,
+                                                  Paalysis of@ptlysiologic response
+                          to fila,--
+                          cbann,ol4:ih2Alogital-comr-uter -formt directl  from the
+                          I.-uman eubj@te.,.ti
+                    Si-nee.-our reatarcb nisy    of intertst-to you       would
+               a,,o                                                     you dcci4
+                ,preciate bavlng  saich furi.,bc,,r surport from you, gis
+                                                               -yours-
+                                                     Bincerely
+
+                                                                    Plabrue xy 5  1963
+                    Your grant-holw to_suppq;t        the following   Vapors#
+              and publicationso
+                               onto-fol-t- ditra processi
+                                                       An IBM 620    r)rogran-for-
+                      'a rag
+                                             -a-I C -om@4t ioie
+                       one aj%tZi-nui4iration -ta4Db
+                                   *I-A 2 iiuu@ll 11'
+                      poiarizi
+
+                                                                 - -- - ------
+                                                                                       1961
+                                                                        November-17.,
+                                            tvm
+                                           --40mommli-ettor explains tKe enclo'sure.---After readin2g
+                                        t, I   uld -onrei, th6t it does-'conform to the best-current
+                                        thinkin on skin-conductonce.
+                                               Thiilij"ly copy. We'll send louml@reprints
+                                                                         b'
+                                        when-ovollable.@@M@@@Wis  it @my help some of
+                                        your- people who are thi nki ng a long si ml far I i nes.
+                                        Enc osure
+
+                                             8-1961-----
+                                   Novttb"
+                   inclosed-is-
+              for journal p@kbli-d-a
+                   This equi  ent was
+              suitable instrument-we -not- &vat-labl-ti- c-omdrcially.
+              It incorporate&--th"h&t0Att*tkgt-its--wbi-cb we fi
+              most                                            t"
+              beat current  t         on s'kin conductark@c*.@.
+                   Hope to  ste-yq4-9
+                                               B e-A t-- w-i a
+              znc-LoWuro
+
+            A Yprx-polariiLing, ..Agb-accutacy Skiti Conduct  Ttan$dUc#r
+                                        for
+                                 Digital cotivtt%ionl                  2,-l
+                                         by=@
+                                                       IMF
+            This instrument LiB arra2nged-id-ic-
+        subsequent record,ing-on magnetic tape', and was specifically-dt#Lgne4  or
+        this application.      vat-$-- t can  applied vith a Narkety-of readout,
+        devices,
+             The LrAstrMeAt described bore incorporates sgveral baiiia
+        cbaract2eriaticst.
+             (1)  overcome&__the-  larizatloh ef fttt at tba
+                  o*AttiAuous reversal--of-tbt- direction of
+                  tb,rougb -tho - $Ubj@@-ot - 2
+             (2)  an absolute valu"rcait nulwf its         *f ftd2"ich-
+                  curront-re)mroU-mi bt
+                                                          .rgsistanct from
+             (3)  covera'th@@tal7tiow-of tb-e subjectlei;
+                  0-40OK'aa-"ingle ebamal
+             (4)  a
+                  as
+          2   In practice: the-resolving
+                                        _power olov thLe-inatxumentLis limitta by
+        the readout@-device cou led to It    tput.--IW-ite,preeentapplication
+           This study V3&15   -Po r--t-
+           The iratial o@*geatioa  for nul@lifyin polariiatio3n  off-tcto by ine*ns of
+            current reversals
+
+                                            -2
+                                                                          12 d?
+         th,is,,,ts *no patt ln-2*04,9-o"b#:!*"stance range covered,,-wbicb
+         the maximum capabilitk__of___an *lev*r.-bit-bi@ @log-to-digital  converter
+         with a plus ox mi2nus 10- voltt@7ihi*t@
+              This unit utilize&
+         operational
+         I-R drop *cross & subject i7s-c-altdltttd by a dift*Mtial-aapAif@l-t
+         algebraically ad4tAh4:@lt4a at-one sid6--of the subj*t"d-th@--iUVOtO2d
+         volt4ge at the
+              A multivib-cator-cu.rrent-switcbing circuit is used to-reverse the-
+         current flow througli@@@V@@@ reVdntinq--*Iectrode pqWii-ation-g-
+         I>ulo to the current
+         circuit is added t                               renti2al-4kmolif
+         at &,II time.
+              The olectjvodes u"O-tiit@hAbibLinstiument-are-two zinc-titW.sulfatt-.
+         electrodes* 2 cm.-in-diameter, &M mounted--it-Idaite-cup@, and At*--tttAcbed--
+                                   2                           s and -- t
+         to the volar mwface of -th*:44kjtctl-x--Iltft -*Otti--arpu  orearms
+              The output volt@@                      uc circuit  wb4"ivided -i-t---
+         the constaat subject current (soua)  ec,,uala the 'SubJectlt conduc ances
+              The subject current,, wbith-t-tUt"@to"t-a-nt aftt@@:being-adjusted@-4s-
+         SOua.  This                               "itage between 0 to 20 volts
+         for resistanco t3eadings@-of -14@hiA:4"00 o'bati@-
+              Bacb amplifier has a sborting switch and balance circuit in@its input-,
+         A front P*nel switch and motor ore avall-ablb-tb@-read the outputo of eacb
+
+                                          3
+        amplifier wbich CAA ther6li@@@@4*AdOOXW without Oth'tlC test
+                 gion ye istors-(I%)--f loo.ooo alme. So QOO--ohms 25
+            Pr*ci       0            0
+        100000 obmo# S2pOOO-ohns                    be switched--IhWtb* feedback.
+                              $-and 20500      "Y
+        circuit of the c*nstant@Lcurrout              dalibt*tion-is doeired.
+                                      --Mplifier
+        -of a Pbilbri4:k                      2     a-Pbilbxick
+        &=Plifigro &Ad as:sociat44Lft44)A4)C*44::@@@ors.-@ If It is ngt
+        desirable to have a@-                  at 60 pul7s-es-p4or- a,c @tb--  --"bA---
+        Pbilbrick K2-P "Y be toplaced-i@/ith standard biasing@rtoiat*ts-0 -Oreat
+        ca,re must then.be- t"rcibt&@@@@tbig
+            The input circuit-voitt"--dividtt-@" lo-oooo-:dw-""htloaater       to
+        set the curcont flo-w-tbxi52@-u4jb a 270--000 a@ti--ihout reeiwtor.  If-Oe-current
+        flow through this resistor is sot--at 40va.-thth-th *-fftdback-ourrent fldW@--
+        tbrougb the 250,900OL:bbA                        connooto--to -the -suwaing
+        point 'Of the amplifidt, will ilt6-be 40ua--,-- --This is diie-to the
+        ebatacteriatice oflthe operational7-"oli--.Iitr.--Po-xty microamperes flowing
+        throu(jb a 250,000 ob*@-t"itto vilY-dt"@C-*72t4"lt potential-to-b"resent
+        at the one meg*bA-Lnpu-t--ttsistor of tho Lnv*xter P*Xtion of tb4 differential
+        amplifier.  Ten volts-droppo4_@                   vosistor pro4vcas a-
+        current flow of teniuw@@   "ombination of-th* 40ua7:cur2rent-and the ton ua
+        current both flow tbroug"*-oubjddt-.-- With-tbe-subJect resistance at I"s
+        t'nan 400,,000 ohnit, the current flow throucjb tbo@ sublect is SOU*-at all time@s.
+        The Lim;-ut voltage to the pecond, balf -of -the c3if f4@r0-antial amplif iok- is-- th,311
+        50(ua) tia*s tbe:oubject resistance plut--tva-volt's,
+
+                                              4-
+               Assume the  subject resistance to -b,-a -1-0-0.000! ch@ms,  T14a voltage-04-----
+         the input old* of the-subjeet-will be-t@6n voit@t.-@ The voltage-on tb*------
+         output side of the sublect will-be 5.xlQ     amperes - times - ixio5 ob@s-
+         *r $ volts.
+               Multivibrag
+                                                            This circ%tit-consitts
+         of a Pbilbric'k                               a 6AL5 duali@&oet,, and
+         associattd
+               The K2-W is                                                   cbarge-
+         capacitox3 of 4mfi-084mf    0 -2afg --- Md--O-.Ijit--
+         owitc',h.,  These cap4qtto" cause the K2-14 -output toao- po4itivt &-ad -then
+         nc-.kjativo at a rate-of7O,.I-cps,, Xdps, 2coo or-24-evelds-@@ 44ddnd--
+         .tespe,-@tively, depc-adirig-on the evitcb Position* !A Positive or-ne-tj*tive
+         ,going external tiy@@niting eiggAk:oo@(-ba lnoosed-upon the mmltivibrator
+           rough a
+         2      WbeA the outp%xt of tbfi-mult:Lvibi:ato2:-Coom-p-ositive  PlAto--2-of
+         the 6ALS diode sivitch go,@,-is-poaitive,  Tbis offeotiVOly--causea-a
+         positive votentia"n- the dtthoeo of -be@tbldlodoni  2Plate I of thlc-@@ 6ALS
+         has no .,urreat fl(yvv*t-tb-is--tiM-becau3o ito-aasociated catbode In
+         positive*  When tbe- multivibrator-swire,,n nic-s-.ative, plate 2 of tbo diode--
+         b@ccmes negative                        Cathodes 2I and 2-btc@-n       tive-
+         du* to the 300 volt voltage-divide- r -netvork in ttin circuit    Cvrrerit
+         then flows frca *athode                                two 270 000--*)@m
+         re4istorap 4nd a 100,000 ohm balance potentiometer
+         potential is eatablis9bcd--,%tt the Jun-cti6h-ol! tbo 270--000 otim tilode plate
+         resistor and the 270,000 ot@m resistor A,,Iiicii la- connected to tba-balance
+
+         potentione-tors Tbi*Lneqativo Potential Counteract* the Positive
+         potential at the summiag point of              --turvent mplifi*r --and
+         produces an                            opposite- voltage  Otbo- t2t4@At
+         flow tbrougb  tho'subjoct Is--tbth--$Oua in the KGV*ts*-ditttti
+              2if 121111k&AALAULULUO--*-- The   stal"fgortntL&I-"p  I or
+         consists of two Pbil,-DrJL7-                               Pt.L2l  I
+         X2-P stabilizing ampkifierts, ahd7ti@"c ated
+         The X2-P ebopper@Wlifier-a are- req"oite to obtaining the
+         accuracy and  regolutions                has an ompkkgtooioa fa  or
+         of ones  F'out   Rf:::Xjli            its-rxei;ent-at the input. side
+         of the subject araL-Inverted through the-fitst--*f-ithese-amplitiore@-and
+         introduced at *Ao of -tbO--4tMkibt@@@iators; of-- the    second
+         The voltage devol2bt#4:-o@@:o@@t          -of L@@@ect -it -ftd-t-o-tht--
+         other auxalug iaput resistors  Th-c output-of the.
+         ne,gative and positive
+         &n4 has a voltage - value ooo"nti@q- th@6- allobtt4c dif fdt"dCWt"on
+       2  the two Input vgltagesi-  BO-u-t-                82-
+                                                                       range, of
+              The output'voltago of-ih"fferen-
+         -20 to +20
+              aboglate 1&11;2_AILMIJA, Tbt---ab-o-olute--vaIU"Irc,41t,kee@ 6 outp- -ut---
+         positive at all'tims,, - Tbid:titcuit cot%sisto of t t**,o Pbllbtick7X2-W
+         ope-ratior.al amplifiers,, two Pbilbrick X2@P-ftabilizing amplifiotop-a-@
+         6MZ 5dual-diode# a- lN3ah dAode,----&nd a-c-sooiated rf sistors and -capacitora.
+
+        Is appliod through   250,000-6)A-input roxistor &M the
+        volt*,So fx@m the,fixat-biaf of the ikbaoluto valUCe-itenit-amplificr
+        is appliod through 9-125-000 *be AWt rosistori, !The@r*-snltArq OutPut
+        from the st4vmd aaplifior ts- a positive voltage equal to the lpositive
+        output of the difftt*Atial
+
+              The plus or minus 20 volts outkWof-tbo--dif-f4t#htial@@lifior---
+         are appli*d to the 2SOvOOO oba Input resistors of,both
+         make up the absolute--value-*,ircuit,$---If the output-is negative  tbt
+         output of the                               2       avitcbingaiodo
+         its feedback circuit-goes positive to the sww. valu*a --Th"th4@-d"
+         the output diode Ln-then -positivt--Aia7O4t"f ff-- - ThW s=e Po* tlve- output
+         is also applied through a 50--000 *M resistor to the p@@@f --t-heF-
+      2   feedback diode causing -it to@-c-ono*4@7W - thus reduc*@@@umming      int
+         of the wlifier to-rozo volts,--- -TW125..000--oba input-resistor to-tb-6-------
+         second operational W lift                         vol- b"o -IN3@
+         ground,  With a feeM2Aizk resistor of-:2501-000-6h*A in the second
+         it gives an output of7ib"-positive-"Ito4e"equal-to th4--negatLvs-iAputs-
+              The resistance-of          ect can--b"lt@014ted-by  the
+         R a Soua x 2z*,Ato@  This-itimly@ true- If
+         resit,t&,ice Is 250-,000 obase- if thiv-value. in doubled$ tbo voittgt@-outPOt---
+         must be divided by-twoi- ot-if-btl"d-, multiplied by-@@woo otc4
+              if the output of-tli"iffore2ntial74API-ititk-goes-positivo, the
+         out__put of the first-wplifiet@@t rioi;ativo_and--tb,o-cathode
+         output diode goes-negative*  This negative vol"a a is applied-to--tbe-----
+         12S.000 oh* ir4put resistor--of -the                as-tbe
+         draws ourrent,,  Th@6-7bo"tivo volWt-@-on the plot* of
+           to it off and only tbo- 250--000-61*@--toodback resistor is in the
+         eirculito  This causes-an-amplification of one-through.thd fitot amplifitt*
+         The input to tbo second - 5mplifi#t:@@tbtA::@@sed - of -two-76CUal -but-- - - -- @ -- --
+         opposite voltag*s,-- The positive output of the diff orential--Ai*lLf ior
+
+                                                (When Filled In)     NO.
+                                                             Cost Account
+                                                                            01)ject Clan
+                                                                Oblig&Uons -ObUgations -Unl,,AUK"
+              Date              Remarks -tnd Ra"ii@0-      3             --    'quidated    B-glance---
+                                                                 Incurred    Li
+               JUN
+               JUL
+
+                              0,?, A
+                                      e.- the atecilo:,-ity pv
+                                             td the M-1ki, a!   tt:c.
+                                                                                                                     ,3e
+                                                                           2                                 to cc"7,       -,,a
+                          ot t'ae OwIr-e-l-
+                                                                                               I CEP.TIFY T@IAT PJNDS APE AYXIIASLI;
+                                                                                                     IQ
+                                                        4                                                 AU-IHC)R@ZiNG Ciffi(IR
+                                                 TSD/?AM
+                                                 'MD/M
+
+                                                                                                       mommoo
+                                                                                                    (When Filled In)
+                                                                                  CONFIDENTIAL   FUNDS            POSTING VOUCHER
+                 VOUCHER NO,  7-12                                                       2-6                                   2               
+VOUCHER No. 7-12
+                                                                                                        ,.  I@  8 '@ @j 1"4 i                  
+11
+                                                                                                        47-52                               
+58-67              68.70
+                   DESCRIPTION-ALL OTHER ACCOUNTS 13-33               34-39  2             43' 45.-4                                         
+r. OR COST          0                      71-80
+                                                                     STAT 'ON    AO-,12    "           OBLIG.           54-!17         ALLOI   
+UE                  AMOUNT
+                                                         2p; 3 3.       CODE     EXPE.10 2  ,    "",I   REF.   NO.      GENERAL            
+ACCT. NO.             DATE
+                                                                                                                                               
+$2.67
+                           DE$CNIPTION'                                                                                                        
+;C;
+                                              2       ......  2 ..............     CODE     N                      CFA  L'   ER
+                                                        P.O.         PROP. No.
+                     ADVANCE ACCOUNTS 13-27
+                                                                                               Llo,    te c                                    
+DCRIT
+                                                     ....2....                                  CODE  .......          AC@T.6 No.              
+CLASS
+                                                                 V.PROJECR NO.                         EMP.   00.                              
+x mtr:
+                  EXPLANATION OF ENTRY                                                                                             2           
+AL$
+                                                                                                                                               
+TO@
+                                                             4--r
+                  DATE                 PREP R                             DATE             IREVIEWED By                                        
+CERTIFIED     FOR  PAYMENT OR CREDIT
+                              2                                                                                                     DATE       
+S$GNATUR    OF CERTIFYING GIRFICER
+                                                                                                                                               
+(10-AS)
+                    RM   606 us     I-olEv o
+                  10-59                  I u -.34
+
+                                                                                                                           ei
+                                                                                                                             tA
+                                                                                                                            Or*
+                                                       1                                                                      41
+                                                                                                                                  ro           
+-0
+                                                                                                                           Au
+
+                                                            6 -ly 1961
+                     ur@MORANDUM FoRt- Cblif, rtWM416 Divilctcn'--
+                                           -MXULTRAO SubPr*J*e-t 1291-tAvOic* N
+                     SUBJEC
+                              2                        H6@- U25 --13 90 0 390 2
+                                           I W&tt&ch&d covering the above subproj*Qt.
+                      paym4ont iibould li-*-uU4* " foud*il--
+                                        hoick in the amount
+                                                ywo,t6 th
+               2                                                 -Chief, TSD/Re-s"rch
+                                                    fov*ttded to
+                                7U"heek--shWld be            later- than IT -TulY 1 61
+                                                                               9
+                                                   0*;-- However  since it to iLnticiPated
+                                        a final invot
+                      SbAt&444tional-fundit-wtUV-e-obligat-edforthig rojects thetiles
+                      stiould   be
+                               U Certifications
+                                               0                                 NT  L
+                       Distribu
+                        Orig U 2,-@@-AAdt"t"
+
+                                      AN*
+                                                   24 October- 1960
+               Ktwwt         NWLTUP Subpmjftt igsk@
+               13 April 1953--t"a--th4--wl-t6-tbe    **tension
+               of U" autbwiWih-@"nt mama" SubwoJ"2t-129
+               b" ban appr*vvd W- $W,#000 ot tbo- mr-au MUNC@@--
+               Woj"t Awds h" b"a
+               *Xpon"** Ms o'bU&&Uou of' Amdg shoum bo charp&- to
+               kuotwnt
+               A"PDMMMUGM(*,--
+      9                                                             A @'A 1, A
+               OF rims
+                                                         To
+                                                               77
+                         lr$D/00
+                        --TSDIFAW-
+
+                        MWAIDX rmt ootvt"uor
+                                          tea gk-oot4t*r 1.960,o to
+                                                Wtbe
+                         Due' to a *bamo               part- cit-
+                                           bcks b"U
+                                                   cancelled mA tbie
+                         re
+                         AMOVEDs
+                         rdetritou
+                                     I---- TSD/7ASS
+                                         TSD@/RB
+
+                                             RECEIPT-
+                  Receipt of tble folJL6-wi-n-g-cheek is @@@@tdknowledged:--
+                                                                      li,-,4riwrL on  e
+                                           "8413&Aa
+                                 6-amoun    -$Z* 505. 'a?;'@'4yable tot
+                                                           Date:
+
+                                                                                       $z5o5 33
+                        129
+                                                          -i4
+                                          It
+
+                   I"OP.MDUU-rORt Cb44      n"k*- Dti4sio&,
+                   VIA              1:;;;@SD/BWSot Officor
+                                                                      ties
+                                       AU*tiuftt-No.- MS-U"@-39M
+                            2    -Wvw.,       owg---
+                   Paya*4 shoad
+                                                           33
+                   Br"cbs Ahto4k TSD/po%#CO(40*1, **Ittit than 174WI961,
+                   OM &"ttoul tud4i vAU bo obUW" tdt-@ -Proj*4%  ths lutt
+                   Atuchod-.
+                                    ti
+                    ofls &t a
+                          1 - TSD/FASS
+                          2 - TSD/RB-
+
+                                                                                             on    --- W&
+                                                                                                                                        j@t@
+ig6i
+                                         Un@tlez-  the                                                                                13
+                                f      2         DCII   to
+                                                                                                                                             
+-33
+                                                                                                    'a                                  to
+a-i-ver
+                                            ovczr-al, @7oject.                      @A      -;'I
+                  4              a             ce. 13
+                                                io n-,,
+                                                    2
+                                                        -TOD/YAW
+                                                           TSD/FB
+
+                                                                            22-@une 1961
+                   ME140RAN" FoRt=TE[S FECORD
+                   SUBJECT      O.---MLTRAp--Sid@Ject 129
+                       i.  The wTmse-of this-tubproject- Is- -to-&uPPO@rt in
+                   research studietlin-tb,3 0  %er,,wmlysis of bioelt.atriaL@ftsppawyatterns. - The
+                   workvillbe-lxrf
+                       2.                     &I.,-"-#Vbmitted-to the
+                                 a- thit7@@ scope -of the -projecti7@ThO@- 6tu4T it--desig@*d tc.-
+                   Research.. cover
+                                                        'bited-6fficiency of-biD8 separate indites
+                   determine ty@e-sin   relatiVC and com
+                                          I
+                   of @P&7aDphysiologid*3@-@i"- in diettimin&ting Mrious - kinds- of
+                   the source                                    potential -for- fWidA@htal- aspects
+                   of the                                                         appIJ44@-@@ing
+                   devices, sucb-at--@@@@
+                                                                              as-agreed to  fund
+      2                  3-
+                                               -entirety.  S64@@@tiO"l        I  ms- Of equi   t
+                   the ori
+                                                                               te           pmen
+                   neglected In -the--original bud&t@-@@ial to @carrying -out -the --ihVt"igation.
+                     2                                                          -fib%ncin  Of thit
+                   These items M-li-ettd-in an  Sttaaed--Ie-tt6@@In  rO tum f45f-       9-
+                   equipment                        'to keep us fully Infotutd.-of his research
+                                           a agreed
+                   progress 2and bat--indidtted-"iiihgres3-to-modify bis inquiries i4-&d"irection
+                   that vould'ofrer@some@benef it td--tb@e Agency.
+                        4,  The sub           c@over@a peri@od of@-On@e year and-Vill cost $2505-033?1--
+                   Charges shoud be md674pi5nat AUotment n2501390-39028
+
+                       FUIXUAG: for this toproiect- viU- be handled -at. a grant froat the
+            -,-loop lfli
+                              @o3 accountinx
+              establiabed for that organization-&-@ ---- - ---
+                   6.  Title  to the
+                     -in lieu  o-overbead@@tt-8@@@@
+                   7.               a   en  laared through TOP SECRET and is vittitg@:O@
+              sponsorship.
+              APPROVED FOR OBLIGKTIOUOF FUNDS,
+              Date:                 17@
+              Distribution-,
+                 Original
+              ATTACEMM,O
+                Proposal & Budget
+
+                                                                             June 9, 1961
+                     Memorandum to
+                     u6ie-ct: Recom'mendotion for Funding                            33
+                     s
+                            n                  hone c@6nYersotion a  -id                        I i  d
+                                                                  n F2r cly, Jvi-k
+                                                         iied to honor indebtedn
+                                                                              t                        8
+                                                          transfer and recentl
+                                                                             y
+                            The bo     r     -will--n-ot b-e-o--r-th-2e-co-s-t -of -pre-yio-usly expended funds),
+                                                                      perimen -to    k- Thi   then,
+                     even though they ore-vital to the condu-c-t.2LLtLw.  - -   I wor . --  s,
+                     creates an op'portunity for 'bu-ting i6f6" @@uture work at an ins! nifi-6@
+      6                                                                    iii@ direction feasible.
+                     cost.  He c-K@resses:o@w@ness' to bend@@@
+                             recommend that we provide this emergency fund                )f. future
+                     exploitation.:
+                     eb
+                     Enc: 3
+
+                                            otd Ism ut wn joi
+                                                             -VW4=402
+                                        eV*-or
+                                 m-io           w_un-d  *Avg" 04 wa
+                     tooolloat@io
+               -7777@@@@o eq,* 5      'o96,t j*qcqoo
+                                             40tt*144000 too& WI=YUL)IM
+
+                            TO:   TSD/OC--
+                                  This is an-initiatiod-of a
+                              new project.
+                                                  eat:  To fin
+                                  re
+                                  Of Bioel6ttkiift:ilola@ P-a@ttex;ns@,"
+                              2.  Pro7j4@@VMonitDr.-
+                            FROM.i-- 'ISD/RB
+                             RO
+
+                                                                  21-October 19bo
+                      bewRA.NDUM FOR-.@----THS-F=ORD--
+                      BLWECT           MMTRA., Subproject 129
+                           I.. Thii@@@eat is fo-r-the purpose of fihWiahg7@&4art---
+                         2                     attach d proposal on 'Cbmpu@erTAna48iff-7-7- -
+                      of Bioelectric fW6VO4WP4tterns-,,-"--Tb-e--vor-k
+                      at
+                                                                    -te detail@ the -tech-
+                      nical scop" the--p---r-o-ject -vh2ich--is--desit*4:@tp-determine-the
+                      single  rel&tive-and couibined-efficieneg@@@ separate indie"@
+                      of                                 dittrimiii"ing-tbe;signifi@,ance
+                      of verious-kind@@fof7b@tlihU@@thi@@@-;77Tbe investi
+               2       potential for fundamental-4ii@a,@-of-th@ ;significance:-of bioelectri.c
+                      signalsi asiwll-@&@ f6k--&                      sj@@such -as the
+                      graph.
+                                                                                  is funding
+                      this Drd-posa _to  e extent-of-$27.,500 vhich
+                   2                                                   le will--lrwd--the--re-ma@
+                      ing $20,000,-which- rej@@ents- this sal@Yk--iteme. The'project viU @oover
+                      a period of bii679*0@r@starting 1 -NdV@@@1960.    Cha'rges should be
+                      made against All7otmnt- 112541009-1902
+
+                                                      2
+                           4.: Although the4                                         NNW-,
+                            vill-V4@@ide a Cutout f&idtion for -passir-g the -funds on to
+                                  the project has @een evaluated and.vil
+                                                                               -as a
+                   2                    staff7b@d@@ The funds Vill be given
+                      solely by TS
+                                                                        accounted for by
+                                                                will
+                                                                            handled
+                      the                                               ar .
+          2                                has been cleared through TOP-SEOFeTAkoa@iis
+                      witting of@ti@U4-spo4qqrg4p.
+                                                           TSD/I:teseamh
+                       "PMVED FOVOBLIGATION-OF-FUNDS:
+                       Da+,e:
+                       Distrit@uti7o-n-@7@@@--
+                         original -on4--
+                       ATTAO,ERD,.------
+                         Proposal-& B
+
+                       Salari.es--o.f
+                             an4              8                         $2OjOOO
+                                                         TOTAI@          @@o l@
+
+              Project   Titl et  Co."Ipptor wisly4it of bidgloctric-responso patterns.
+              Principal Investicj-4tors,
+              Total-eatim-ated'-costs' $47*%5W, for 12-months
+              Preforred starting d-ates
+              Duration.-  12 m62nttit
+              Dxiefg      gine=separate-indi-ces of -fD4ycbophysiolOqical i@0-a--c-t'-o--n--
+              will be an&  zed--fbt!tbtijt7-tolative efficacy-in--discriminating
+              stimuli of difftrtat                          so rgee---_-p  id *-.Ad
+              accurate evaluation of -ith"$ycbophysiologic responses will:@W
+              facilitated by@@@puter- anakl"i"f -th""ata-*-
+              physiologic,,; motivatiorsalLthd::@@@ C'On(3iti6h"f
+              the-source,, contey-t--Settlngs, an           @tt     -wil 1-bi@
+              tested to d(-.termine their efficLeh@@@    @@rentiating between
+              critical  an@i neutral stimuli
+                   Ttie ordinary int-erviewer-is handictpped:by.@ioab-ility@:@
+              to determine the kin(I:Of-ibfotMtion carried by-hii@@-info". nt,---
+              Once tl-.e                         a trust-worthy-c&t&164 of
+              lnfomation     asessedf-@-bia-source, bis power-and skiil::qsut"
+              enable bia
+              that an index:@of bi"iv&ta iwt@ati-es is avallabl6::@tio
+              intervi2e,w,er:
+                          0                                 t*ge-to-the ihttrvie@,were
+              Thie project-prop(>Ees to dtvi7a@tbo motb7odg-whiii@@will
+              listings   of                           ktli-@it-houL,-their
+              awarenecs$ lnto::-@@dg--o2-f-t-b-*--interviewero,,---
+                   The study seeks to -dJf f 6t44"aW tbe- l@tactions-of
+              to critical aad-neutral ati.,nuli-,-  It is -tbi4efore-neceqsary A@o--
+              equate the atimuli-i6-all--aspdttt@@pt tbeir-sicnif2icance-and----
+              personal m@caning-to-tbo--subjoct@@@@everal
+              controllincj:tbe.personal significance of at-itaulis (a)
+              conditioning,, (b) by t7-.obe-dding-the stimuli in a-conflictual
+              contoxtj and (c) by an independent r4casure 4of the inherent------
+                             of vatioun-stimaliLto-@-tba-subject,
+
+                the intensity and-duittibn Of-tli"timulit they c*n-be
+                presented both below and@@       @@subJect"$ threshold  of
+                awareness..
+                     A nwabor-of diff4'rent-tWt. one by the subject to-criti-
+                cal and neutral atimjl2:L-will-be recorded, gesting muscle
+                action potential-Noltages from the-frorltalir* muscles 2Will be--
+                amplified 'by two-cascadt"b*i-ltvel diffetential-A*C,-pro-
+                amplifier*,( Thi*-Signgl:::@                    and integrated
+                by a constant@ivo
+                sanpling u-witt"Ad:itttt-by a eti nakl ftom7the-A-D c*nverter,
+                following                              -of the v@olttgo,- at -rpolar
+                0,,l aecond
+                     A cardi4utbometeri@viii@-@@t the interva                t"on
+           2                                                   -en%AtiveL@@
+                systole   time--vbicb-will    1*-*Wled    eve  O-ii25-tteohdat
+                                                            ry
+                     ringer 7 PM!@:w 6#@     "II be dttiVtd-.frow-
+                electric tia2nge4d@@                by a  d:Lf
+                fier, beld'at-its maximum-44t!Wtbe intevpgl6e-:per@od-bv@a--
+                lpeak                                   of-0, 25.. seconds- - and -
+                reset by 4L: si   I
+                @ibicb    prec-6d-tt-tWUXt--V%al"*
+   2             turn,, linear-p"cis@@@ttatiometer
+                              0                           , which aw7p;@rt7:@of,
+                bridge circuit will-tto440@A@@b indox of -respiratory
+                                                                  f*ith--tidal -and--
+                minute volumes
+        2        ever  0.1                                            of -the zes-
+                    y
+                r--irstion    la$-"
+                     Witb tht@Leubject in the
+                and a coristant@-100---uamperes across hims
+                changes of:                                       up by-a-diffoxon-
+            2    tia,'L D.,%'.. amplifier# -and-*Aftoltd--At-O,l  second@"tt4vtla.
+                                                 errots., due- to. the p@olariiation
+                of tl,.o ele-etrodes--will-b"limibtted-by--r-everaing@tlic polarity
+         0       of ao constant current supply:*")@y- 0, 5 se cond
+                      Sk,in temperature                            a-tbermistor..
+                forming part-of-a DOC.-bridge@,  This-olowly:cbahqing-signal
+                is mtpled every
+
+                                         3
+                           in-bo4--@cjbt@isbift vll,l-b4@ipicked up by
+             pressure transftcer   amplif ied, -te4@,tifLtd., *ntograted -thd
+             reset at 0.25 second-inttkvals.
+                  Reactios% time will
+             by a cbro-,x2neter with@:four
+             infozmation                                          tapp@@witbout
+             going through the-A-D-converte-r.
+                  The otbe:c@aralog                 be converted into-
+             information and recorded - on                    ta   forishalYA-49
+             by digi2tal ccaputer@  The PI,
+             each atimuluo constitute--&-blddk@i6f:AboUt-:2- 000:@thir
+             bit wrda,,
+             & LT;JMO.  The compq@4r                    4at@k by -sorting the
+             preatimuluo and---
+             Variable,  ReqUirOd-trakn2ofo=Atia-n--$ Of fiCoXes Will-be-MAde,
+             It will then
+             for eacb channel-
+                                takii4 tbi@-r""soion ot-tb4 ro,3tUuIU
+             re4kctions on tba-preatioulue-g@@nses into acc(Amt, These
+                      2                                               sis  will
+             probably be
+             greater flc-Aibility,                                        wi-aer--
+             range of
+             di j
+                  The proposL,-d@7@@cb                             r% done  unde-r
+                                                          fo.r't)@"eoJgn-2aad-----
+             construe.,                                         @:out this istudy
+             have been made,,-@Mqcb--tbought ha-a--Qone into dovjsiz* -tlie-beet
+             notb*d for                                      to bo-tollected,
+             An ex,"erlment in-now2 uA-4c,-rway.@@dy the response-of subjects
+             with irJierentl"iff6kftt pqX@@pi@@_orientatioD.3@under several
+             nv.jtral  words-of-the-typq_@@@@@ed-stu&y;7-The
+             experience derlved        this-cxperlirent Lo-d-irectly@.-a plitabl6----
+             to and
+
+                                                                                   2-1
+                                                                     f
+                  This project Will teck-                  -0@it 0 _tocia
+            significance to-bwan--sources-by recording ard anal zt             a
+            variet,y of inv,oluntary           es of--tt-,e sources*  in or4er   to
+            i@a-v-e accurate vookultw--                available -in the-abortest
+            poo3ible time, cmputer processing will be attempted for-dttA==
+            reduction and ana-ly@                      ed that thls-amlysis will
+   2         provide ik basis - fdt7 the - dif f ote@ntial we@ igbting of the various
+            response cbanAeli;=Vhlcb-vilV-W"inizit@--tbe-differe-,ntiation
+            between   critical    and-jve-utral-stimulil
+            2*  Specific
+                 a.  Involuntary@@rc-2sporkses
+                       The soorce-reactions wbicb-V;Lll    be studled - arc,@ a -
+                       Muselt action-potontial- voltage------
+                       Intersystold-titc@e
+                       Finger pulse amplit   de
+                       Respiration-cycle d@ii*tiOW-W"2
+                       Skin resistance
+                       Skin
+                       Body-weigfbt__sbifts
+                       Rc,@action-Aime-
+                 b.    ilee-ordi-tg of-t"ppuses
+                            A continu*u,%-Bam            respoyises  will be-L@tecorded---
+  2                     imediat*W-   -and-di;rit-c-tly-d"igital-ihkqne-tic tape --in--a
+                       format@suitabl@k-fot,74igit,al co,.nputer
+                       -pormit=tbe-uninterru             ding-6f an--experimental
+                       ses3ion on- a-singlo--'r-eel-of -tape - it io desirabltitoE===i@@@
+                       reduce tbe-sa,-npling-rate througb--analog    editingiog@- the
+                       save-ral                        to- th@6--anaaog to digital
+                       convetsion-of- the in2f6i!ttti0h a  Th-@--goorce Oa reactions-
+                       will be-monitore4 on-an oscilloqrapb wbile theyfare
+                       being recorded---en---tapo,
+                  c.  Data converoio
+                            Coh"rsion@-of=tbo data irito digital--form-wlll-be
+                       ace@ompliabed by electronic-c-quipmont consi@stink)-Of a
+                       sti,oplin,g-t,witcb, &A analog to digital converter-a
+
+                                                                                  '/27 -c2
+                          format control-  a t*pe control.- digi-tal writ* electronics
+                          and a - dig I ts
+                    d.
+                                                   t@            ill ibe-vritten -to
+                          a,cct-nplish- tl,.o statistical- analysis of                   ta
+                               SYO@>48----matched-iti-all  respects.except:-tbc-ir-per-
+                          3onal @tigrlif JL7--                oat. will be-emplo
+                    2      T.":intmaity an(I durati-on-of -th4@ atiml"ill  covor
+                          a    twige    voll-be-low-thd-tt6ve    the     subjectlt7tli@@ld
+                          of *varoness--,using-tbe ascending
+                          Tlio -i                  2        nifit*hce
+                                                                   --Of - th t@i s is Will
+                          be aficortained, oic suc"ilMfibAfkte         will be-incultttk4LL@I@@
+                                            -@6f  re               balp-mototicjp or
+                               Cdh&ti6"            quirt     a   vex
+                          no response--frco the-subjeet      will-bbinvestigat4d.
+                                                               1'-o-e-dback-of-tbo,succeas
+                          of thoL@@mtuterl-6 cliddriAirAtio-ni to the
+           2               de,sexves-carof,ul s idt,  iti                the     context-of
+                          the'experime,ntal-c,ottihg-and--thc--oubjectle involve,@
+                          m,ent-irk-.tt-areLve     i   rtant.
+                          Subject variables
+             2                                                        -arel@likel   to
+                          react-very                                   ally@:labile
+                          subjects.  &146-                             sensitive   -sub--L
+                          jecto--caln be tiTg@q"d7ti5@beli--4ve@ra@th-er dif-Lerentl@@@@
+                          tban-rc.@pressive--insensitive--subject3
+                          furtbtr-age, sex---btol-K-g-r-o-und-and-4parience-diffcrenves
+                                                                           tbe-extent
+                          to whi(@b it influences-Cr*$-activit"a-anot-tier-factor---
+                          to be--considere44
+
+                                             6
+                b,  Dig-crisinative-potency
+                         Tbt value Of the -serveral- pby4A,@pgic varjlablos--
+                    as 6-jilcrWnatort@_@@@@_kno n*Utrik"ti=li
+                    uadex i various -experimenta2l cOAd;Lti*ns %fill
+                    witb *-Vitv-tow"d_ottacbing_appgppriatotbGta-weic,,,bts
+                    to oaab variable*--- The-trosg@-validatiOA Of thtg* mul
+                    tiplo corveltti*A"s pp*wy @beyond the       scope of tbA@@
+                 F,quipment@@on band7bV th4@-V@(Q"rt -timo COnOii3tS-Of
+            cb*rmel oveillogtoph-witb drive-amplifiers., anian&109 t*@-
+            digital converter                   a cardiotaci-,2,Qmeter,  and-a
+            Aug@ber of *lectt-odeop mplifiers- integrators
+            for tho
+                 Equipment to k4:@Pu@a.4*d --includt-4--a t"', trahop-ort- With
+            digital write@
+            digital conversiow-syqt"    a shieldtel-e-nclosure, " $me
+                                                -and -Int*OaLtore for other
+            analog cbwmet-o.@-
+
+                  The orgsaizati:on is- able to   f lnance cont.racts--in-tlle--
+             amount of  $50,0004-----
+                  The organization                     to participat"nll@s
+             project.
+                  This research-;LaLu"lt"ifie-d.
+                2  A proposal
+                                             -submitted-  0- an"
+             support*
+                  The  bidder  repr"IkOsl--(*) that rte   boo
+             retainc(l any eompany-ox, pproon- (otbeic than a full-tij@@bona
+             fide                                                           or--2_
+             secure this contract 844-L(b) that -be -ba-a not--
+             to pay to any,, C(>MPAAY@@or Pti@@@er th" a
+             f jdo employee: workin(j solely@-for -the bidd-or-) a-
+             &ion                                      ti- nt-QPQli@70 -r*tulting
+           4                                         con  nge           r
+             from tl,.e avard of7tbl-a                            furni h infor--
+             ration relating-tboreto       rt,@@ated by-the contr*cting-offic r
+
+                                        Ref  exoncc-A
+             Jkdams,  i.x. tAbotat45ty  at-adies of betavior without xvareiicse*
+             ?Mct,pA. AA;Lll. 9 1957  ;L4  -383@@@4050
+                                   p
+             Ax. A,]?.  The pb             _differentiation   b2etween fe-aic and
+             angc,r in hwama@@7@Wt!                 1953  1  --433@@442.
+             Brown., C,C,,, & Stiittt@@RliT*                           -ion
+                            ionce a.
+                         so
+             Daviss i.r.  V-4nual          a                         @-Iright2- a terson-
+             AFB,, Obiot Acro MedicalLiAboratory,    D4ttbbor
+             Daviso  R.C.$  Bucb-w&lda-7A@       -tanxmno R.W@ Autonomic--and----
+             muscular rexronses-and thc-ir relation- to- simple stimul2i
+                                            (@@ol4 lqo- 4Q5)o
+             H                                        4
+              ang@".# 1955s_69t go. Z(Y$
+             Davis J' R.C.  Motor-resp(neas to auditory ttimull above-and belt@W
+             thre-sholf3.  J#                             107@-120#-2-
+             Davis# R*co, $Iddongs awres-&-s              0
+             for recording, autonomic statf.-a         anges.
+             1954$_U# 343-35
+             VrAvml  R,A,s:   R"soo   WOO                                    Peggy,J---
+             Psychophysioloo       ro                          -it moas2urementi@-
+             adaptatlono and7"latio"b*VOf                        and pby-siol<
+             varitibles   In
+             79#   43-107.
+             Egan,  J.P.,, Gr"nbeitl, --G     & Sebul@m";@@@
+                           @[I                 and IhcZ WIVIO -_o  f
+             Ellsont                                                        tion@-
+             Indiana Univervityi September 19i9o--
+             Ernst,v ASA*  fto-p-p-L  t    u     ol-.A M@LN-L  _h
+                                         *2.tc. -dz                     t  -s   -c
+               cil"t     Wright-Patter2son-"B-Ohio  Acro Medical-LaWrat<>xy,,
+             March   1959.
+                                         A2-tgp Ig r@ t             n-       eri
+             Fordo A,           Jo
+                         Foi  AL
+                                  _Lt  "O'
+             Wasbington,,                        Comm,-rce, Off-ice of -Vec7bhical
+             Services,   Report    PB-151-291;--1957.
+
+          oubception, uncQnocious-PF*rcevtiont--an a"lyais in-term* of-pay;@@
+          pr@yaj,cal indicator-methoe,@<ylogy,,__ ZoEgh2l@-&Il" 1958, §10 373-4110
+          Jexikin, V.  A.0fiectlve pkqgqzaes in-perelp@on.-
+              100-127*
+          jp-r;Lso.n.1 Mr-ry                                               w-d-s-1.
+                                                    i AF]37@-Oh-ioi AttO Medical-
+          io-L kw@#-ia                  t-Pattetoor
+          tory, JAnuary
+          Jones,, MORS                                               Ihs Uriiver.
+          of NebraoXa  Pressi--1958-t-
+          Latay,l J. I.,g Batman,, W-to-thy:;:"-  V"-Ltbat@@
+          response up-*,cif4,city,, #A                                         -1953,
+              8-21,
+                                                                       r*3ting auto-
+          nomic activity
+          Baltimorei Williams a-Wilk@Vn--
+          Lacey, J.1.,, & Lad"-i@@@@fJcation and "t,--nsion-of -tb4---
+          principle of autoiiomic                                2               --1958-
+              50-73.
+          t,AC4C'@y, JI 1. Psych@       ical &,pproa-ches to the oviaution-of-
+          payet,otberapeutic  roceso and-outcomo4-----ln--E-,,A-.--Rub6iiatein
+          Parloff                               2                                    . ... ....
+          Pave lol   @ns
+          t4kCeyj, J,lo Tbo
+          solution.  _A-M..JLtw_-                  1956--- _67@-123-164,
+          Luce,, R,,D,  Ineilvi                         New -Y   1-wilcy
+          McClea-ry, R.A. :The-na                   anie--ski  response,-- Z§yL,-hqlo
+          Lull, 19sot A2, 97-1170
+          Malmo, R, 3,  Activations a Ae-urop-syc@@@@nsionf, - ZpySt-ql,
+                               -336
+                 1959j, 66p 367      0
+          Sv*to   J. A.$ Tamer 0, W, V    Dir14sall-- T 0    De,@eigion processes-in--
+          perception.  Univev, of-Kiebicjan-, (mimeo)0-1960,@.@
+
+                                        OSCILLOGRAPH
+                   EXPERI-
+                                        MONITOR
+                  MENTER'S
+                  CONTROL
+                   CONSOLE              SAMPLING                    ANALOG TO
+                                        SWI.T.                      DIGITAL
+                                                                    CPNVERT@
+                                          SAMPLING       T I2@GER
+                 START-STOP                                              I I BINARY
+                                          c:
+         z         SIGNAL                  ONTROL                         BITS
+         z
+                                        FORMAT
+                                        c                           BUFFER
+                                         ONTROL
+                                D OF
+                   TAPE        LOCK
+                   CONTR2OL     RITE
+         0
+         -i                   GATE
+         0                              DIGITAL WRITE
+                              PR
+                                ESE@-   ELECTRONICS
+         0.
+         0                    RES T                                         CARD READER
+                                        DIGITAL                                  COMPUTER
+                                        TAPE                                     PROGRAM
+       2                       T PE
+                              RUN       RECORDER
+                                                                            DIGITAL
+                                                                            COMPUTER
+                                        7 CHANNELS                  E
+
+                                                                                                  0*0
+                       Fig. 1.  Dat F3LOW Chart.  Tb  open arrov@s indi   tb  pr    Ss of
+                                   a
+                           bopbysio      in      ion tbro    the sy        e
+                       p
+                        SY7
+                       sbow@internal 6    rol s  nal
+                                                            sys@t
+
+                                                                                                     -2-1 N
+
+                                                      00laS&  T
+                                                                    via
+                                                              992au   Jo
+                                                  -.-ko- uvorm  vu  TRM&lv
+                                                              ..#Mad"
+                                      5                     "WV '4  "to.Id
+                                     VA m Jo ooo,1024-wo V"OA" U"q  nq
+                                                                     JO
+                                              PW somu- g      NDLUMUY
+
+                                                      1910
+                                     Oct
+                                   19
+                                                  2,,e
+                                              n2 25 Oct 1400
+                                          twott,
+                                                sponsib off idel@@
+                                   lip.
+
+                                                            21-0@--tober-ig6o
+                       MIORANDUM FOR TH
+                                        E
+                       SUBJ"aT.@7-@  search  e
+                             11 n@@roposal on- Computer An4l"it7--of Bi-olk-@@
+                       Res 'o'nee       -W  @                2      _Att
+                          n               ",--considere                _qncled b
+                                                                               reviously
+                       conside"d a                              s--            ning
+                             2      -Mpl@  ali@vas@approved:@Wthe grou"ter some did44sai6h@
+                       on t2ht@ tendency- f or- te4"Mh -vh"e-data was to be-fee&Aht6:tC-:d*pqte@@
+                            'fashiofied--- It@'
+                       to be               vas agreed that this
+                                                                Pr                 q-qnsideral4--@
+                       pertinence-and-
+               4             ;34 I          Iiiin4d:l"   -course of-dis'e,ussi
+                                           te  t                   -or-our
+                                                 -n
+                                                            SIDH%     LIE&77777777-
+                       SG:
+

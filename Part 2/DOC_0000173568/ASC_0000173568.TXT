@@ -1,0 +1,1506 @@
+                         ELR-CTRCCHE.IICAL OBSERVATIOLTS III @IICROBIOLX"TCAL PROCESSES.  1.
+                                       GR(XJTH OF THIOBACILLUS THIOOXIDATIS
+                                                                                 7777777
+
+                                                       SLT141,!ARY
+                                   The growth of Thiobacillus thiooxidans  utilizing  sulfur  in
+                         three media was studied by observing changes in  half-cell  emf,  bac-
+                         terial cell count and production of acid as'a fundtiog of time.  A
+                         comparison of the biological half-cell emf with comparable c2ontrol
+                         half cells reveals that T. thiooxidans makes  an  electrochemical  con-
+                         tribution to half-cell voltage.  A change from the more complex medium
+                         of Skerman's mineral salts -to A.T.C.C. allowed  a  clearer  delineation
+                         of T. thiooxidans' ability to make  an  electrochemical  contribation.
+                                   Reproducible biological half-cell emfl2e  were  obtained  when
+                         the ferrous sulfate was removed from the A.T.C.C.  medium.  One   half
+                         cell comprising T. thiooxidans utilizing sulfur in  A.T.C.C.  was  ob-
+                         served over a 111-day period.  During this time the initial half cell
+                         voltage of -0.35 volts, decreased to a negative'value  of  -0.64  volts
+                         (hydrogen emf series). T. thiooxidans  in  utilizing  sulfur  produces
+                         only sulfate ion,, thereby simplifying the identification  of  an-elec-
+                         trochemical contribution during growth.
+                                                                777.
+
+                                              J.  I,.=ODUCTION
+                                The concept of converting chemical energy from natura
+                        occurring fuels into electrical energy by biochemical reaction has in-
+                        trigued man for many years.  Potter' in 1911-was the first to conduct
+                                                                                     "the
+                        experiments with biochem2ical galvanic cells.  He observed that
+                        disintegration of organic compounds by microorganisms is acc=panied
+                        by the libe                       gy
+                                 ration of electrical ener      His experiments were conduc
+                        primarily with the yeast-glucose system which gave open circuit voltages
+                        between 0.3 and 0.5 V.  These exploratory experiments led to i=ves2ti-
+                        gations in 1931 by Cohen,2who studied several bacterial cultures as
+                        electrical half cells.  More recently, Beana Canfieldb  Bitterl
+                        and their c6-workers have been working on various aspects of bioelec-.
+                        tricity for the National Aeronautics and Space Administration.  Empha-
+                        sis in their investigations was placed on the utilization of organic
+                     2   foodstuffs as an energy source,
+                                 It order to gain a better understanding of voltages developed
+                        in biological oxidations, a decision was made by the authors to investi-
+                        gate some of the autotrophic bacteria.  Autotraphic bacteria because
+                        of their ability to utilize inorganic substrates as an energy source
+                        a Philco Corporation, Newport Beach, California.
+              8          b Magna Corporation, Anaheim, California.
+                        C The llarq@iardt Corporation, Van Nuys, California.
+                                                        2
+
+                        and carbon dioxide for their carbon requirements)  offered  a  different
+                        and perhaps a simpler approach to associating  electrochemical  poten-
+                        tials with metabolic activity of bacteria.  The sulfur oxidizing
+        lot
+                        bacteria., Thiobacillus, were chosen since they were among the most
+                        metabolically active autotrophs. In these  studies,  primary  emphasis
+       2                 was placed on T. thioo.%-idans.
+                                  The electrochemical investigations reported in  this  paper
+                        assume that sulfate ion is the only metabolic  product  associated  with
+                        the oxidation of sulfur by Z. thiooxidans. This  assumption  has  the
+                                                                    3 4
+                        su2pport of earlier workers such as Starkey,     Starkey, Jones and
+                                  5                    6                      7
+                        Fredrick,  Vogler and Umbreit:  and Parker and Prisk.
+                                        11.  ELECTROC=CAL ACCESSORIES
+                                  Carbon (T)P-62-R) from the United Carbcn Company, Bay  City,
+                        1-iichigan, was cut2 into electrodes.  The ends of the electrodes  were
+                        plated @rith copper from a CuSO4 solution.  Copper leads were   soldered
+                        to the plated surfaces. The leads and their contact  with  the  carbon
+                        were treated with pataffin'to eliminate Wetting and direct contact
+                        between the copper and nutrient*
+                                  Platinum electrodes were prepared from platinum  ga0uze  (45
+                        mesh, 0.0078 in diameter) obtained from  J.  Bishop  and  Company.  This
+                                            -in
+                        gauze was cut into 2     lengths, approximately 5/16  in  wide.,  Copper
+                        leads  were soldered to one end of the gauze.  To prevent:possible
+                                                        3
+
+                        oxidation of the copper, the lead wires were covered with plastic
+                        tubing.  This tubing was then anchored to the copper-platinum solder
+                        joint by coating the end of the tubing and the junction with an
+                                      To further prevent any possible diffusion of water to
+                        epoxy resin.
+                                                                      -2covered  junction,  the
+                        and through the plastic tubing and the epoxy
+                        lead wires were kept above the-.biological half-cell liq@iid,level.,-,  The
+                        thermocouple effect for these  dopper-platinun  electrodes  was  found  to.
+                        be negligible (5 pv/"c).
+                                  These  biological  half-cell  investigations  involved  maintain-
+2
+                        ing an air atmosphere above the  media  in  the  cells.  The  electrochemi-
+                        cal effect of supplying  fresh air above versus bubbling it directly
+                        into the stirred media vas-negligible as  long  as  gaseous  concentra  on
+                        gradients did  not  -exist.within.th  me    Table-l)-..--.--,-
+                                                         2 e-  dia-@
+                                                      TABLE I
+                               DYIIA14IC AND STATIC AEROBIC COITDITIONS FOR STIF@RED
+                                            E=-@CTRO -M@IICAL HALF CELTS
+                                                   Aerobic               Potential, V
+                                 Medium           Atmosphere   Static  Dymmic (Bubbling)      8
+    2                    Sterile  distilled water     Air       -0.323        -0.329         0.006
+                        Sl,,erman's                  Air       -0.365        -0.365         0.000
+                        A.T.C.C.                     Air       -0.390        -0.390         0.000
+                        A.T.C.C.  (minus FESO        Air       -0.420        -0.420         0.000
+                                             4)
+                                                          4
+
+                                  Since composition gradients were known to be generated thr
+                                                                                              ough
+                        utilization of substrate by the uneven suspensions of  bacteria,  it  was
+                        considered necessary to uniformly stir the  half cells.  The electro-
+                        chemical effect of turning off the stirrer  was checked for the unin
+        2                oculated media in which such composition gradients were abse
+                                                                                      nt.  Table II
+                        reveals that the effect of not stirring was appreciable  in  the  sterile
+                        distilled water.  It became negligible when conducting nutrients were
+                        added to the water.  In all large control and biological half cell
+                        e2xper
+                             iments reported in this paper, the cell constituents were stirred and
+                        atmospheric air with its carbon dioxide was available to the media
+                        through sterile cotton plugs.
+                                                    TABLE II
+                             EFFECT OF NOT STIR'.RIITG 'LARGE ELE-CTROCHF14ICAL HATY CELLS
+                                             (AIR BTJBBTING llITO CELL)
+                                                                       Potential, V
+                                Medium                      On              Off              6
+                        Sterile distilled water           -0.329          -0.240           0.089
+                        Skerman's                         -0.365          -0.363           0.002
+                        A.T.C.C.                   9       -0.390          -0.388           0.002
+                        A.T.C.C. (minus FeSO4)            -0.420          -0.418           0.002
+                                                          5
+
+                                                                tion three basic biocell de-
+                                During the course of experimenta
+                                                                  -volved combining a biolo
+                                               The first design in
+                        signs were implemented.
+                                                                        e half cell in a U-tube.
+            2            eal half cell with either a control or a referenc
+                                                     e tube separated the two half cells.
+                        An agar plug in the bend of th
+                        Although positive results for associating emfls with gro,,rth of T. thio-
+                        oxidans were obtained with this initial design, @L modification (Fig'. 1),
+                        which made aseparate opening to the2 agar bridge for connecting a ref-
+                     .erence calomel cell, was desired.  Each of the original half cel3.s,
+                        the biological and control, could now be monitored individually with
+                        the calomel half cell.  Experiments with this modified U-tube were sat-
+                        isfactory, however it was deficient in size and allowed concentration
+                        gradients to form so a new large biolo ical half cell w2as designed.
+                                                             9
+                                           c -31--
+                                 The abo-Ve@-. e -@designs--l-@'Lmi-tt-d -th-z amount@--of--@.Uquid to-
+                        used to about 20 ml  of nutrient.  Furthermore, the long narrcnr tubes
+                        presented little oppor2tunity for changes in electrode design, stirr ngj,
+                        and continuous measurement of pH.  Therefore, the new design used a
+                        large three- and, later, a five-necked 1 000 ml round-bottom flask
+                        (Fig. 2).  A Teflon stirrer was suspended through the center neck sur-
+                        rounded with a glass bearing.  Its action  diminished adid and mineral
+                        concentration gradients and insure8d uniform suspension of bacteria for
+                        population density determinations.  An agar salt bridge and calomel
+                        cell were mounted in one opening and a glass and a platinum electrode-,
+                        were placed in the third neck.  The calomel and glass electrodes were
+                                                         6
+                                                                                      .777-@
+
+                        us          ording the pH values. This  entire  biological  half  cell
+                         ed for rec
+                        was mounted in a constant temperature bath (29*).    Prior to use  of.
+                        this bath the electrochemical voltages were observed to fluctuate in
+                        a cyclic manner with the room temperature whenever  T.  thiooxidans  was
+                        present.  This behavior was especially2 evident when platinum elec
+                        trodes were used.
+                                  The agar salt-bridge,, mounted in one opening of the round-
+                        bottcm flask, was led to a test tube containing  saturated  KCI  main-
+                        tained at the same temperature as the biological half cell.  A standard
+                        calomel electrode was mounted in the test tube  as  a  reference  half
+                                    2                                               -3 potentiom-
+                        cell.  Leads from the complete cell were connected to a K
+                        eter and a pH meter.
+                                  All parts -of th.e -.abDve- -cells whi-ch-.could- withstand -high-
+                        temperatures were sterilized by  autoclaving.  The  other  parts  were
+                        sterilized by rinsing in 2ethanol followed by three rinses with sterile
+                        distilled water. Before sterilizat4-on  the  electrodes  were  cleaned
+                        with concentrated sulfuric acid and then washed  with  distilled  water.
+                                  All experimentation was  oriented  towards  obtaining  zero-
+                                                                       -cell  reactions.   The
+                        current potentials of complete as wel2l  as  half
+                                                                                           T@-
+                        initial electrochemical measurements  were  made with a Iliodel X-3  eds
+                        Northrup potentiometer.  This instrument gave  accurate  voltage  deter-
+                        minations when zero current  conditions  were  established.  However.%
+                        while balancing the galvanometer to  obtain  zero  cu4rrent  coaditions
+                                                         7
+                                               77-,-
+
+                        power was drawn initially from the cell causing, in  some  cases,  a  loss
+                        Of voltage.   Since it was desirable to eliminate  this  probable  contri-
+                        bution to variable results, a specially designed vacuum tube voltmeter'
+                        was obtained for use with a recorder.  Open circuit conditions were
+                        maintained by use of this vacuum tube voltme2ter and continuous emf
+                        measurements could be taken with the recorder.
+                                III.  l@aCROBIOU)GICAL TECMTIQUES AND OBSERVATIONS
+                                  The application of microbiological  techniques  to  support  the
+                        electrochemical investigations was focused on  two  areas  of  study.  The
+                        first involved obtaining reproducible bacterial growth.  After such
+         2               growth ,ras established, less complex media were sought by removing
+                        i ndividual-- cons=uent-&-&x-cm-th4-,--@@more                   L!L'LvfJfit@r
+                        area of study involved  developing techniques for determining
+                        bacterial counts in the  uniform biological half cell suspensions.
+                 2              -.,th of I-rhiobacillus thiooxidans
+                        A.  Gro
+                                  Successful growth of T. thiooxidans  was  studied  primarily  in
+                        three media.  At first, reproducible growth of T. thiooxidans was ob-
+                        tained with shaker cultures using Skerman'se basic mineral salts (17
+                        salts). One per cent of sterile powdered  sulfur  was  suspended  in  th8is
+                        medium.  High yields of 109  organisms/ml were obtained with mature
+                        cultuz-es (maximum population density) after five days incubation.
+                                                         8
+
+                                  Since the interpretation of the emf measurements in the
+                        Skerman's medium was exceedingly difficult., a simpler medium  was  sought.
+                                        d
+                        A.T.C.C. medium,  containing five salts plus 1 per cent sulfur, was
+                        studied as a growth nutrient.  This medium gave mature cultures with
+                                         8
+  2                      populations of 10 bacteria/ml.  A further consideration of reducing
+                        the salts, comprising A.T.C.C., bmughtabout the removal of ferrous
+                        sulfite.  The concentration of T. thiooxidans in mature cultures in
+                                                                           7
+                        this medium, A.T6C.C.(-), was approximately 1 x 10  organism2s/ml.
+                                  The bacteria to be used with the biocells usually were taken
+                        from five-day-old mature shaker cultures. These  cultures  were  grown  in
+                        250 ml Erlemeyer f2.asks with 30 ml  of  medium  in  each  flask.  Incuba-
+                        tion was either at 29*  or at room temperature.
+                                  The mature cultures were harvested from the shaker flasks by
+    2                    centrifuging the organisms at 9,000 rpm for 5 min  in  a  Lourdes  centri-
+                        fuge.  After decanting the supernatant, the cells were then washed twice
+                        with sterile medium and were suspended  in the various volumes of the
+                        sterile medium for the particular bacterial concentration to be used
+                        for biological half-cell studies.
+                        d                          7                   -7 H20: 50.0; CaCl2, 25.0;
+                          Idilligrams/100 cc:.  (ITH4)2SO4. 20.0; MgSO4
+                            FeSO4, 5-0; ICi2PO4, 300.0.
+                                                          9
+
+                       B.  Bacterial Counts
+                                                                                          la
+                                Two methods were applied for obtaining the  bacterial  popu
+                       tions of the cultures in the preparation and operation of the biocells.
+                       These methods were the Petroff-Hausser chamber count and the micro-
+                       Kjeldahl analysis  for total nitrogen conten2t of the bacteria.
+                       T. Thiooxidans was removed from the medium by filtration before a
+                       modified micro-Kjeldahl analysis was  applied.  Turbidity  dete=ina-
+                       tions for bacterial counts were not practical because of the presence
+                       of powdered sulfur.  Pour and spread plate counts were discarded after
+                       obtaining irregular and time consuming results.  The Petroff-Hausser
+                  2     chamber counts were used to calibrate the nitrogen content from  the
+                       bacterial with their concentration in the medium.
+                                The micro-Kjeldahl technique was only used when appreciable
+                       volumes of samples were available and concentrations of bacteria were
+                       approximately 1 x 107/m, or greater.  Use of the Petroff-Hausser count-
+                       ing chamber techniqu2e was preferred for lower concentrations of bacteria
+                       and experiments where less than 1 ml of sample  was  available.  The
+                       latter technique was adopted completely after the earlier phases  of
+                       investi gation in order to minimize disturbing the biological half-cell
+                       ecology.  The total amount of liq7aid required for the samples by this
+                       t9echnique ,7as negligible compared to the large biocell volume.
+        -f,                                           10
+
+                         C.  General Microbiological Observations
+                                  @lature populations obtained in the  large  biological  half  cell
+                         (Table III) with Skerman's medium were  consistently less than observed
+                         in the shaker cultures.  Subsequent experimentation with growth of
+                                                                                 difference in
+                         T2. thiooxidans in less complex media showed   that this
+                         population density decreased with A.T.C.C.  and disappeared when
+                         A.T.C.C.(-) was used.
+                                                     TABLE III
+                                        TYPICAL  MATURE  POPUTATION  DENSITIES
+                                                               Large Biological
+                                         Shaker Culture 2          Half Cell            Number of
+                         MediL=          (organisms /ml)
+                                                                (organisms/ml)           Salts
+                                                                             8
+                         Skerman's              I x 10                 1 x  10             17
+                                                     08                      7
+                         A.2T.C.C.               1 x I             1 to 5 x  10              5
+                         A.T.C.C.(-)      1 to  5 x 107           1 to 5 x 107              4
+                                   Experiments with growth of T.  thiooxidans  in  both  shaker  and
+                         biocell cultures using Skerman's and A.T.C.C. as growth media showed
+                         that the reduction in the  number of 2mineral salts  caused  a  decrease  in
+                         the mature population density.  Two typical biocells (Fig. 3) were
+                                                                                         The tem-
+                         started with similar inoculi and similar volumes of medium.
+                         perature for both biocells was held at 290.     Similar  lag  periods  were
+                         observed during the first day, followed by  a  rise  in 1 bacterial  cqncen-
+                         trations during the second day.  During the third day of incubation,
+
+                                         entrations were observed to rise more rapidly in
+                         the bacteria conc
+                         Skerman's than in A.T.C.C.  After this period the population density
+                                                        8                          7
+                         appeared.to stabilize at 1 x 10 for Skerman't  and  4  x  10  bacteria/ml
+                         for the A.T.C.2C. media.
+                              :[V.  EIECT.ROCHMIICAL OBSERVATIOI-TS I-RITH T. THIOOXIDALIS
+                                  The initial investigations were concerned with establishing
+                         that an electrochemical potential, different from that of a control
+                         cell, exists when T. thiooxidans utilizes sulfur.  The U-tube was chosen
+                         for these s2tudies.  Each side of the U-tube comprised a half ce       one
+                                                        gen-carban  reference  electrode.   Dupli-
+                         biological and the other an oxy
+                         cate U-tubes were prepared with only one difference.  T. thiooxidans
+                         was present i a-the.- qrm-of-.-O-ne..-Of-. them.. -,-The other half cell had only2
+                         sulfur suspended in Skerman's medium.  Figure 4 shows that a significant
+                         difference exists between the complete cell emfls of the inoculated and
+                               I cell.  Such results were typical both wh
+                         contro                                            en carbon and when
+                         platinum electrodes were used in the cells.  The  increase  in  the  dif-
+                         ference wit2h time suggests that after acclimation to the cell, T. thio-
+                         oxidans became active and started to utilize the  sulfur  which  in  turn
+                         changed the electrochemical nature of the half cell.
+                                   Biological and  control half cell emflr-j using platinum  elec-
+                         trodes             ed as a function of time in the modified U-tube
+                               ,were measur
+            5             design (Fig. 1).  The biological ha3.f.cells consistently gave voltages
+                                                          12
+
+                     which were lower than their controls, however, leaks  through  the  agar
+                     plug at various times after cell preparation encourayed pursuing experi-
+                     mentation with a better cell desi-n.
+                               The remaining experiments were conducted with large biological
+                     half cells using platinum in preference to the slower  responding carbon
+                     elec2trodes.  Since quantitative data were expected from the use of this
+                     new cell design, a check was made on how increases in hydrogen and sulfate
+                     ion would affect the half cell electrochemical emf as measured by this
+                     electrode.  Sulfuric acid was added separately in approximately 20 incre-
+                     ments to  1 per cent suspensions of powdered sulfur in each of the three
+                     media under con2sideration for studying growth  of  T.  thiooxidans.  The
+                     initial pH values of approximately 5.0 gave way upon  additions  of  the
+                     acid to values of -1-.0. --Each-add;Lttoa,-qf--Itc--kd -ted p3@ i
+                                                                    Aimula      -941@ct on of
+                     Sulfuric acid by T. thioo2xiclans.  The maximum variation in half  cell emf's
+                     with Skerman's medium experiencing these changes in pH was O.OIP V.
+                     Subsequent exoerimentation with A.T.C.C. and A.T.C.C.(-)  media  gave  a
+                     smaller maximum variation for the same total change  in  pH.  Thus,  the
+                     electrochemical background fluctuations to be e.-cpected wh7en sulfate ion
+                     is produced by T. thiooxidans were identified.
+                     A.  Medium Effect on Biocell Activity
+                               Shaker cultures of T. thiooxidans were grown in Skerman's,
+                     A.T.C.C., arA A.T.C.C.(-) media under similar conditions.  The prep-
+                     arations for centrifuging, washing, and resuspension  in  fresh  sterile
+
+                       media, were planned to give populations having a concentration of
+                            7
+                              bacteria/ml.  Howeverj the indeterminate losses in the trans-
+                       I x 10
+                       fers gave rise  to a slight variance in initial bacterial suspensions
+                       in the large biological half cells.  The suspension in A.T.C.C.(-) was
+2
+                                                                    7
+                       1.2 x 107.  The value for Skerman's was I x 10  and for A.T.C.C., 2 x
+                        6
+                       10 bacteria/ml.
+                                After i                           s observed to take  place
+                                       noculation, a lag phase wa
+                       during growth in each medium (Fig. 5).  The v2alues for bacterial popu-
+                       lation counts under the dotted line in Fig. 5 were below the  micro-
+                       Kjeldahl analysis so they were estimated (Petroff-Hausser Count).
+                       After 70 hr, the population in the Skerman's salts,  which  was  ini-
+                       tially similar to the other two media, was noii greater.  Subsequent
+       2i
+                       bacterial counts showed that the populations2 stabilized and after eight
+                       days the Skerman's-medi= had a population of 1 x 108  while both A.T.C.C.
+                                                 x 1 7           1.  These saturation popula-
+                       media had approximately 5    0 bacteria/M
+                       tions were typical of large biocell experiments with these three media
+                       (Table III).
+                                 If2 the variation in the initial concentration in bacteria can
+                       be ignored the amount of total acid produced by T. t'.Iiiooxidans seemed
+                       to depend upon the medium in which it grew.  Since it was not possible
+                       to wash residual amounts of acid from the centrifuged cellsj, the initial
+                       pH values differed.  Subsequent accumulation of acid is shown in Fig, 6.
+                       Of parti5cular interest was the fact that T. thiooxidans produced less
+
+                      cid (0.73 =ole) in the Skerman's medium in attaining a greater cell
+                      a
+                                        7
+                                 7 x 10 bacteria/ml than in the other two media (3.66 mmole
+                      population:
+                      for A.T.C.C.(-) and 1.89 mmole for A.T.C.C.) for the initial 70-hr
+                      rotrth interval2.
+                      9
+                               The growth of T. thiooxidans was followed by     electrochemical
+                      measurements.  The fact that-the control half cells (Fig. 7) started at
+                      exactly the same emf was coincidental. They  usually  differed  by  small
+                      amounts. T. thiooxidans was observed as a contaminant  (Fig.  7)  in  the
+                      control half cell for the Skerman's medium after the 502-hr  measure-
+                      ments.  The visual presence of this microorganism was supported by a
+                      corresponding change in pH due to  acid  production.  This  microbiologi-
+                      cal activity caused a decrease in half-cell voltage as indicated by the
+                      values at the 70-hr  interval.
+                                The change from the initial emfls for the Ske=an's and
+                      A.T.C.C2. half cell controls were typical for  these  media.  Since  their
+                      half-cell voltages usually stabilized after  20  hr,  subsequent  experi-
+                      mentation involved preparation and operation of two  control  half  cells
+                      u=tilvoltage stability was observed.  Then., one of the half cells  was
+                      inoculated for comparison of their behavior as a function of time.  These
+                      complications were5 minimzed when working with the A.T.C.C.(-) medium.
+                      Its half-cell emf was less erratic and stabilized quite readily.
+                                                      15
+                                                                                                7.
+                                                                  ;,@ 77,
+
+                            The inoculated A.T.C.C.(-) (FiG. 8) half  cell  had  the  same
+                   initial voltage as its control half cello whereas the other inoculated
+                   half cells were higher than their controls.  After 33 hr  each of the
+                   inoculated half cells had voltages more negative  than  their  control
+                   cells. The behavior of the inoculated  A.T.C.C.  and  2A.T.C.C.(-)  half
+                   cells was comparable after 29 hr  of operation.  These cells gave lower
+                   voltages than the inoculated Skerman's half cell.  The relatively small
+                   difference between the inoculated and control  half  cells  comprising
+                   Skerman's medium pointed out the need to have a  less  complex  medium
+                   intimately following growth of T.,thiooxidans electrochemica2lly.  Thus:
+                   subsequent studies were conducted with A.T.C.C. and A.T.C.C.(-) media.
+                   The biological half cell emfls with these media were found to be more
+                   stable and further-remov,@d,@r;@@Aheir  control  half-ceu  values.  The
+                   removal of the ferrous sulfate from the A.T.C.C. medium offered addi--
+                   tional improv2ement in control and biological  half-cell  stability  And
+                   reproducibility.
+                   B.  Long Term Biological Half-Cell Activ it
+                             Spedial precautions were taken with the  preparation  of  one
+                   experiment which was allowed to run for an extended  period  of  time.
+                   Emphasis was placed on minimizing external contact with the medium to
+                   eliminate the possibility of contamination and3 to increase the probabil-
+                   ity of long life. The supply of oxygen and car'@.-on dioxide for  this
+                                                   16
+                      77@@-
+                                      777777@-
+
+                                                                                      ton
+                                  If cell came from the atmosphere through sterile cot
+                    biological ha
+                                                                 e wires leading into the
+                    p lu,,-   c
+                        ,s pla ed in the small air gaps around th
+                                                                      ogical half cel2l was
+                     cell through the rubber stoppers*  The large biol
+                                                                                 ectrode  at-
+                       ed with its Teflon stirrers pH meter, and the platinum el
+                     us
+                                 It was filled with sterile A.T.C.C. medium'         erized
+                     tachments.                                               charadt
+                   2                                                        oxidand to give an
+                     (-pH, emf, sterility) and then inoculated with T. thio
+                     initial concentration of approximately 7 x 107 bacteria/ml.  Sterile
+                     sulfur was used as the energy source in this  medium.  The  cell  counts
+                     pH and biological half-cell behavior for a 16-day period  are  shown  in
+                     Fig. 9.  Table IV describe2s the behavior of this  cell  approaching  the
+                      lllth day.  Between these times the emf and the bacterial counts fluc-
+                      tuated slightly with a fairly uniform accumulation of acid.- The general
+                      trend of the half cell potential was to become more negative.  After  the
+                      111 days, the biological half cell was observed to be  contaminated  wi
+                      bacteria other2 than T. thiooxidans.  The half-cell emf was observed to
+                      become more positive after b                        This observation was
+                                                   ec=ing contaminated.
+                      consistent with that obtained from other inoculated biological half
+                       cells which became contaminated with foreign bacteria.
+                                                       17
+
+                                                     TABLF, IV
+                             SUPPUVC,L'TARY DATA FO',R LOrk@j TERII BIOLCGICAL HALF  CELL
+                                             thiooxidans Utilizing Sulfur)
+                       Time Period      Half-Cell emf
+                           (clays)            (v)               pH            BacteriaLml
+                        2                                                           x  107
+                             72              -0.61              1.18            5
+                                                                                   x  107
+                             76              -0.62              1.09            5
+                                                                                       7
+                             79              -0.61           2   1.05            3  x 10
+                                                                                       7
+                             83              -0.62              0.97            4  x 10
+                             90              -0.63              0.92            4  x 107
+                                                                                       7
+                             99              -0.63              0.921            6  x 10
+                                                                                       7
+                             106             -0.64              0.95            4  x 10
+                             ill             -0.64              0.92            3  x 107
+                                  Several  interesting  features  were  worth   noting in this long
+                       term experiment.  lihe initial inocul2ation gave a population of 7 x 10      7
+                       T. thiooxidans/ml.  Death occurred lowering the population beloer the -
+                       level of  detection  by  the                                     end of thg-
+                       initial day of operation, the population was observed to increase to
+                       1.5 x 107.  Fluctuations  between  this  value  and  3  k  10 7 were observed
+            2           throughout the 17-day interval shown in Fig. 9.  Between the end of this
+                                                                                7
+                       period and the lllth day, a maximum count of 5 x 10  was obtained.  The
+                                                      7
+                       Population dropped to 3 x 10     bacteria/ml towards the end of the experi-
+                       ment.  The ecological factors  6  effecting bacterial growth kept the cell
+                       population in this range.  The    pH of the medium   changed from an initial
+                       value of 4.85 to about 1..7 units after 15 days.  Changes in its value
+                       after this time were small since appreciable amounts of acids had to be
+
+                    produced relative to the total amount present in order to bring about  a
+                    change in pH.  The fact that T. -thiooxidans was not increasing its popu-
+                    lation suggests inactivity but the increase in sulfuric acid  concentra-
+                    tion indicates that a constant cell division and death rate  existed.
+                    The general trend in the half-cell emf throughout this time period  was
+                    t2o become more negative.
+                              The consistent trend in the curves obtained in this experi-
+                    ment indicated that many of the past variations in hilf cell  potentials
+                    were no longer present and that reproducibility of subsequent  biologi-
+                    cal half cells should be expected. One exception to  this  consistent
+                    trend toward a lower half cell potential may be significant.  A  notice-
+   2                 able decrease in cell population appeared to take place after the eighth
+                    day.  Thj,,s d4p,.        recovery seemed to cause a simultaneous change
+                    in the electrochemical potential.
+                    C.  ReDroducibi2.ity of Biological Half Cell
+                              Several biological half cells were prepared with T. thio-
+                    oxidans utilizing sulfur in the A.T.C;C.(-) medium to determine  repro-
+                    ducibi2.ity of results. Figure 10 records their biological  half-cell
+                    emf for a five-day period. Initially, the cells started  at  approxi-
+                    mately the same voltage followed by a slight rise and then a  decrease.
+                    A slight divergence in values then takes place for one and one-half
+                    days. After this interv5al they gave equivalent  results.  The  effect
+                                                   19
+
+                                                                             er three  days
+                                              shown in Series XLVI when aft
+                    of hie.,er teuperature
+                                                                                        bath
+                                                      his time the thermostat for its
+                    the emf decreases markedly.  At  t
+                               2                                                         enced
+                    malfunctioned and temperatures   exceeding 60* were probably experi
+                    during the evening period.  This irreparable damage caused formation o
+                    a lower ha3-f-cell emf, measured upon return and subsequent control at
+                     290.
+                               Figure 11 records the change in pH of  each  of  these  half
+                     cells.2  One can readiiy see that after the initial inoculation, a slight
+                     divergence takes place.  This divergence disappears after about one day,
+                     giving rise to similar amounts of acid formed in each of the cells.
+                                The divergence in the microorganisms' contribution to emf and
+      lp
+                      acid formation between the one-fourth and one and one-half day period
+                              2                                          p                 g phase
+                                                                   pi-sm- x eriencing a  la
+                      appears to@-be,. c=3@,st--
+                      in each of the biological half cells throughout this time    interval.
+                      Figure 1P  shows the bacterial cell count per milliliter as a function
+                      of time.   A lag phase existed in each ce5U with a slight inconsistency
+                      in the  recovery time.  In general, the cell populations duplicated
+                      themselves in each of the cells.  The last two values for the cell
+                       count in Series XLVI reflect the damage caused by the temperature of
+     7@
+                       the bath exceeding the control value.
+                                                        20
+
+                                            V.  DISCUSSION
+                             The existence of an electrochemical contribution from T. thio-
+                   oxidans was established during the initial investigations with combined
+                   half cells comprising biological and contrar half cells with  either  a
+                   calomel or oxygen-carbon electrode.  The cell comprising T. thiooxidane
+                   utilizing sulfur made contributio2ns to an  electrochemical  potential
+                   which reflected microbiological activity.  Subsequent  experiments  with
+                   well defined biological half cells, comprising emf, pH,  and  bacterial
+                   count determinations, supported the initial  observations.  The  inter-
+                   action of T. thiooxidans with the various nutrients as well  as  sulfur
+                   gave half cell emfls which were distinctly different t2han  control  half
+                   cells operated for comparable periods of time under identical  experi-.
+                   mental conditions*  The reduction in -the-n=berof.nutrient ions for
+                   growth of T. thiooxidans improved one's ability to measure  its  more
+                   intimate contributions to an electrochemical emf.  However,  since  the
+                   measured half cell emf is an algebraic resultant of  each  ele2ctrochemi-
+                   cal contribution in the half cell
+                                                      it is not possible at.this  time  to
+                   say how T. thiooxidans is imp3-icatede If sufficient  activity  coeffi-
+                   -cients at these ionic concentrations would be available,  the  theoreti-
+                   cal contributions of the constituents of the media could  be  calculated
+3
+                   so the remaining biological contribution could  be  identified.  This
+                   calculation is much too complicated at present.  However,, as further
+                                                   21
+                                                                                       77
+
+                       experimentation progresses towards finding the minim= n=ber of miner-
+                       als necessary for growth of T. thiooxidans utilizing sulfur the Dossi-
+                       bility of calculating the actual contribution of each constituent and
+                       thereby the specific contribution of T. thiooxidans becomes much greater.
+                       The premise that the study of electrochemical behavior!of autotrophs.,,
+                       especially Thiobacillus Sp., may be simpler than heterotrophs has not
+                       been resolved in thete-investigations.  Additional study with both-types
+                       of species will be needed before a conclusion can be made that one or
+                       the other will offer the simpler approach to gaining a better under-
+                       standing of electrochemical processes that take place during micro-
+    2                   biological growth.
+                                                Ackno,@iled_7me,.it
+                                -The authors
+                                                           -t@who acted as consultants for
+                       obtaining optimum conditions for electrochemical measurements and
+                       microbiological growth.
+                                                       22
+3
+                            7
+                                                                        7@
+
+                                                 REFERRICES
+                     i.  M. C. Potter. Proc. ROY. SOc. (T-ondon), 84B, 260 (1911).
+                                   J. Bact.., 21, 18 (1931).
+                     2.  B. Cohn)
+                     3.  E. L. Starkey, J. Bact..* ioy 135-163 (1925).
+                     4.  R. L. Starkeyy J. 2Bact.-t 28jp 387-399 (1934).
+                                                                                   n. MicrobiOl.
+                                                  nes
+                     5.  E. L. Starkey, G. E. Jo        and L. E. Fredrick, J. Ge
+                            15., 329-334  (1956).
+                                                        it. Soil Sciencej,  51,  331-339 (1941).
+ 2                    6.  K.  G. Vogler and W.   W.  Umbre
+                                                          Gen.  Microbio]L.,  8  344-346 (@1953).
+                      7.  C. D. Parker and J.   PriSk,  J
+                      S.  V. B. D. Skerman., A  Guide t  Identification  of  the  Genera of
+                            Bacteria, Williams and Wilkins    Company,  143-144  (1959).
+                      9.  E  Kabat and M. Mayer, 5Experimental Imm'UnOcllemistry, Second Edition,
+                                   s C-.  Themas-
+                             Cnarle
+       71
+                                                          23
+
+                                 Ili tLi ti  O' bd>
+                                                                                                                                      P.
+                                 td             )-d
+                                                     Ld
+                                 H. ct
+                                 la, @ii 0
+                                         0      ci-
+                                 aq
+                                 (D ra En            (D
+                                   ct 0)
+                                      ci-
+                                         (D    (D
+                                         PV    (D
+                                   fA OZI (D   :i
+                                   0  M  4     0
+          2                                     (D0
+                    (D           Cf-           FAm
+                                 (D0
+                                               0(D
+                    ci                         C+ r)
+                                                (+
+                                 r)            0II
+                                 (D            CL0
+                                     5          mP.
+                   ct
+                   (D
+                   ct
+                   $.It
+                                                                                                                   ci
+
+                                          bJ    @l- 1-4                                                                                        
+bJ
+                                                                                                                                               
+2    tzi
+                                CY'    ct-      0
+                                                      H
+                      ro
+                                                      ID
+                                      FJ
+                                                4D
+                                                      Fl
+                                                                                                   2                                           
+t-i
+                                             t-i
+                       Fi
+                                       o(D
+                                             0    cn
+                                       ct0
+                       Fl              ct En
+                                       ci-
+                                 3      c+    F-
+                                             C+   P,
+                                       C+
+                                                   C+
+                                       ct
+
+                                                                                                                                               
+Bacteria/ml
+                                                                                td
+                                                                        I       0
+                                                                        0                                                                      
+2                                                                                                                                              
+ell.
+                                                                                                                                               
+C>                                                                                                                                     0
+ 6                                                                                                                9--= C=
+                          I:d
+                           0
+       >      0
+               >
+        cn
+                             CD         cn
+                                          CD
+
+                        0.12
+                      0
+                         0.08
+                      0
+                      0
+                      0  0.04
+                         0.00                                                                                      28
+                                                                                         20           24
+                                         24
+                             O'                       8          12           16
+                                                                   Time (days)
+                                                                                                   -Tubes
+                                                 Voltage Difference Between Control. and Biocell, U
+                                        Fig. 4
+
+                                                  (D 0
+                                                  I  0  ct- :k:
+                        ot4     0
+                        cn
+                        bJ
+                        ct
+                        CD
+                     c-t
+                        FJ
+                     C-L0
+                        ct
+            4                  En
+             1>o                0
+                     ct @:i
+             H  @-3
+                     (n Fi
+          (n            ci-
+                        CD
+
+                                     0-0
+                                     V-17
+                         VTPD;I ;UaaDjlTc UT poznzcza PTOV 9 gTa
+               09        Os         ot         or,                   OT        0
+                                                                                 100-0
+                         2                                                        1010
+                                                                       eo
+                                                                                 I-o                               ti
+
+                                                                     . . .    ..............
+                                            0.3
+                                                                        A-A                                                          0-0
+                                      rA ft                             0                    0-
+                                                       ap"2,
+                                                    0                                                                                          
+oi@-C
+                                            0.4
+                                                                                        0 0.---'.
+                                          0
+                                            0.5
+                     2                             0                 10                20                 30                 4 0               
+5 0                6 0                7 0
+                                                                                                            Time (hours)
+                                                                              Fig. 7         Control flalf Cells with Different                
+Media
+                                            2                                                         (sulfur suspensions)
+                                                                                                                      C) A.T.C.C.(-)
+                                                                                                                           A.T.C.C.
+                                                                                                                           Skerma4n's
+
+                                -0.3
+                                   )t O.O.-O
+                                              O         O.... 0
+                                                 -O
+                                                                                        0-0. o@O                     0
+                               0  4
+                                       0.
+                        2                  0-0
+                          r4
+                           Ca
+                             bo
+                             0 - 0.!5
+                                                                                                     0
+                               0.61
+                                  0           1.0         20           30          4 0         50          60          7 0
+                   2                                                    Tizae   (hours)
+                                                     -Lv>- 8 Inoculated Ifalf Cel.l.s wi.tli Different Media
+                                                                (T4 thiooxidans utilizing sulfur)
+                                                                                    A.T.C.C.(-)
+                                                             8                       A.T.C.C.
+                                                                        O@@ 0       Skcritian's
+
+                                             k
+                                                                     lift
+                -0.40
+                -0.45
+              to
+              0
+              Id
+                                   o 0
+                                                                                      0 0
+                                    A A
+                                                           2                                                            0
+                                                                                                                      AC==.3 A
+                                                                  A,'-c=:30A           A                        A
+                     0            2            4                         8            10           12           14          16
+                      6                                                   Time (days)
+                                                     Fig. 9    Long T'erm Biological lialf Cell Behavior
+                                                                 (T. thi.ooxi.dins, Siilfxir, A.T.C.C.)
+                                                                                   0
+
+         .4
+                        00
+                      Cb
+                                               C@
+                                                    0
+                                                                         0
+                          1          2           3           4          5
+                                                  Time (days)
+                             Fig. 10  Rep9roducibility of Biologic,-.1 Half Cel-1, e,-,,f
+                                        (T. thiooxidans, A.T.C.'C.(-), sulfur)
+                                                     0-0 Series XLVI
+                                                               Series XLVII
+                                                      0-0 Series IZT
+
+          o
+                                                                                    10
+                        I           2           3                      5            6
+                                                Ti!rie (days)
+                           Fig. 11   Reproducibility of Biological Half Cell, pH
+                                       (T. thiooxidans, A.T.C.C.(-)5, sulfur)
+                                                0-0 Ser-ies XLVI
+                                                          Series XLVII
+                                                0      0 Series LII
+
+                                                                                            0           0
+                                                   _.Z 0
+                                           0
+                                                      0
+                               7
+                             10
+                                                       2                       4           5           6
+           2                                                         Time (days)
+                                       Fig. 12   Reproducibility of Bacterial Growth in Biological Ifalf Cell
+                                                      (T. thiooxidans, A.T.C.C.(-), sulfur)
+                                                                       C)@@o Series XLVI
+                                                                                 Series XLVII3
+                                                                                 Series LII
+
+                                                                     July 1, 1965
+                        Dea--
+                                                                 e
+                        Encrosed are two copies of our paper  '?El ctrochemical Observations
+                        in Microbiological Processes.  II. Gro,4th o-l' Th-iob@x@lu@-, Th ans.
+                            2                                         'or release of this
+                        I would appreciate your making arrangements
+                        paper for publication.  Any co=ents thel, you or yocx --s.sociates
+                                       -proving the paper
+                        may have for im                  would be well received.
+                        Thar-k you for your kind assistance in getting this paper released.
+               9                                                   Very truly yours,
+
+      low
+                                               -RVATIONS IN ICCriOBIOLOGICAL PROCESSES.  II-
+                           ELEC-LROCHM.EECAL OBSZ
+                                       GRO14TH OF T.TIIOBACILLUS THICOXIDANS
+
+                                                    SUI-24ARY
+                                 The electrochemical activity of the individual chemicals
+                       in the nutrient medium for growth of Thiobacillus thiooxidans was
+                       studied along with the effect of the gases in7equilibri@= with   their
+                       solutions. Several chemicals were  active  individually,  howe2ver  the
+                       magnitudes, as measured by changes in half-cell potential,  were  less
+                       than that observed when T. thicoxidans was present in their com-
+                       posite mixture. Sterilized Skerman's mineral salts  and  the  American
+                       Type Culture Collection (without ferrous sulfate) media were not
+     @74               sensitive electrochemically to changes from pure oxygen to nitrogen
+                     2  atmospheres.  When T. thiooxidans was present in these media,the
+                       biological half-cell emf became sensitive to changes in the oxygen
+                       content of the atmosphere in equilibri= with the organism and
+                       nutrient.  The ability of T. thiooxidans to make an electrochemical
+                       contribution, as registered by a platinum electrode, is substantiated
+                       further by those investigations.1
+
+                                               I.  Introduction
+                                   The existence  of an electrochemical contribution by
+                         Thiobacillus thiooxidans  utilizing sulfur during growth was previously
+                         established.   The fact,  that this electro'chemical behavior existed,
+                         raised several questions  about its origin.  A review of the possible
+                                        2
+    2                     half-ce
+                                11 emfls  which may exist when sulfur is oxidized in this
+                         system to sulfite thiosulfate, polythionate,  or  sulfate,  suggests
+                         that the previously measured emf may be the resultant of several
+                         potentials due to the steady state concentrations of such intermediates.
+                         Even though Starkey  and subsequent workers fo=d 2that only sulfate
+                         was formed by T. thiobxidans utilizing sulfur, the magnitude of the
+                         observed biological half-cell emf was such that it could  rise  from
+                         the presence of small amounts of intermediate products in steady
+                         state ratios.  Therefore, microtechniques of analysis were employed to
+                         check whether or not any heretofore undetected   oxidation-reductio2n
+                         reactions contributed to the observed biological half-cell emfls.
+                                   Since T. thiooxidans is an aerobe, its growth depends
+                         upon the availability of o.-cygen. The effect of oxygen or the  lack
+                         of it on the electrochemical character of control and inoculated
+                         half cells, was investigated also to isolate T. thiooxidans'con-
+        3                 tribution to a half cell potential.
+
+                                      II.  Electrochemical Accessories
+                                  The electrochemical apparatus used in these studies was
+                         equivalent to that described in the previous paper except for  some
+                         minor additions.  Of necessity, the vacuum @ube voltmpter and re-
+                         corder combination were used to measure the immediate electrochemical
+                         response to 2changes from aerobic to anaerob c atmospheres above the
+                         half cells.  Figure 1 shows the essential elements of the circuitry
+                         ccmprising the electrochemical measurements.  The voltage output
+                         on the output resistor was fed as an input signal to a Daystrom-
+                         Weston Model 6701, Type 1 continuous chart recorder.  This recorder---
+                         (an automat2ic recording potentiometer) remained continually bal-
+                         anced with the potential input from the voltmeter.  The voltmeter
+                         output current was the direct result of the difference  between  the
+                         biological half-cell and the calomel reference,half-cell potentials.
+                         Open circuit conditions were maintained by use of this  vacuum  tube
+                         voltmeter. Calibrations with a stand2ard cell  via  a  Leeds-Northrup
+                         K-3 potentiometer before and after experimentation  insured  correct
+                         recorder measurements of half-cell potentials.  All half-cell emfls
+                         quoted in this paper are based on the standard  hydrogen  electrode.
+                                   The large volume biological half cell, utilizing the
+                         platinum, glass, and calomel electrodes,agar-KC1 salt bridg9e, and
+                         Teflon stirrer, was used for these investigations.  The preparation,
+                                                     2
+
+                         inoculation, and oueratio,-l of this cell duplicated our earlier  in-
+                         vestigations  except for one additioa to the cell design.  A gas
+                         sparger was inserted into one of the five necks of the one liter
+                         flask.  One of the rubber stoppers in an adjacent neck was perfo-
+                         rated to p;ovide an exhaust vent for the gases bubbled into the half
+          2               cell.  This vent insured that the total pressure of the gases above
+                         the nutrient would not exceed that of the outside atmosphere.
+                                   A Precision Scientific 'llet Test Meter" was used  to  measure
+                         the amount and flow of various gases into the  half  cells.  This  meter
+                         also saturated each gas with water vapor, thus reducing losses by
+                         evaporatio2n from the biocell.
+                                   The effects of stirring the biocell and bubbling  gases  into.
+                         the media;-iveT@eL-d-L-teT-m±net@,,Pm-,,ftftl,,A'n-tt?-trgeir,'"-,=,d,,,o@c@.@   MV@-that,&s
+                         in magnitude of the half-2cell voltage for pure  nitrogen  and  oxygen
+                         for each of the media were equivalent to those  reported for  air  in
+                         the earlier paper, i.e. static atmosphere  versus  sparger  bubbling,
+                         less thaa one millivolt; cn-off stirring action, less than two
+                         millivolts for each of the media considered in these studies.
+                             III.  Microbiological Preparations and Observations5
+                                   T. thiooxidans for these biocell investigations were taken
+                         from five-day-old mature shaker cultures grown at room temperatures.
+                                               77777777--,
+
+                                                                              a
+                         These cultures, comprising separately Skerrmn's' ATCC  and
+                       ATCC (_)b mineral salts, were groiin in 250 ml Erldnmeyer flasks
+                       with ldp sulfur for an energy source.  The mature cultures were har-
+                         vested by centrifuging the organisms at 9 000 rpm for 5 min.  The2
+                         supernatant was then decanted, the cells washed with fresh sterile
+                         medium, resuspended and recentrifuged.  After another washing, they
+                             resuspended in the chosen sterile medium controlled at 29"C
+                         were
+                         for the biological half-cell investigations@
+                                 IV.  Analysis for Sulfur Intermediates
+            2                      The desire to relate emf changes to specific oxidation-
+                         reduction states within the sulfur system, made it mecessary to
+                         investigate the--possible--exis-tence-.nL-Rnlfur-intex=edi-a-tes-and-thejx__
+                         changes with time.  The approach to the analysis of the biocells
+                         was initially divided into two2 phases.
+                                  Phase one was concerned with the  gross description of thle
+                         cell medium at increasing time intervals during the experiments.
+                         Phase two concerned itself with the measurement of the amount of
+                         intermediate products formed during biocell operation.
+                         a.  American Type Culture 1-tedium, mg/100 cc:  (NH4)2SO4, 20.0;
+       1                                    50.0; CaCI2, 25.0; FeSO4, 5.0; KH
+                              14gSO 4 - 7 HL                                2@04, 300-0.
+                         b.  Same as (a) without FeSO4.
+                                                     4
+                                :77
+
+                                   During the invettigations, the                   biocell
+                             wA@-- by titrating with standard bases and oxidizing agents.
+                         was i
+                         Sex:ples of the medium after different periods of growth showed that
+                         the presence of strong acid (sulfurid) could be assayed by titration
+                         with alkali to a pH o2f 5.0.  An extension of the titration to a
+                         pH of 8.5 was employed to detect the presence of weak acids.  These
+                         pH values were chosen frcm inflection points observed during ti-
+                         trating samples from the bi6cell.  Since several of the possible
+                         sulfur intermediates that could be formed react with iodine, in-
+                         dependent and simul-taneous iodine tit.-ations were also conducted.
+                                   Phase two concerned the development and application of
+                         a collirm chromatographic separation for the potential metabolic
+                         intermediates.  This method was derived from' an adaption of
+                                    5
+                                                                                        6
+                         Trudinger's2  work on the medium of Thiobacillus X, and Iguchils
+                         methods  of anion separation with anion-exchange resins.
+                                   Approximately 10 =1 samples of cultures were removed from
+                         the biological half cell at prescribed intervals, and after fil-
+                         tration to remove all sulfur and bacteria, ala exact volume of 10 ml
+                         was eluted through a c8olumn of 3 g washed Dowex 1 x 4 anion exchange
+                         resin contained in an 8 = O.D. glass tube fitted with a glass stop-
+                         cock for flow control.  The various fractions were eluted as follows:
+                                                      5
+
+                                     1. The sulfite  and  sulfide  fractions  were  eluted  with
+                          20 ml of 0.5 M a=onium acetate, pH S.
+                                     2. The thiosulfate was eluted  with  10  ml  of  2  M  a=onium
+                          acetate, pH 5.
+                                     3.  The polythionate fraction was removed in the following
+                          manner. A mixture of. -2l.ml bf I per -cent--qodi=- cyanide and .2  -ml
+                          of 1:10 annoni= hydroxide was added to the column and allowed to
+                          react with the remaining constitutents for 5 min.  The solution
+                          was eluted and the resin was  washed  thoroughly  with  20  ml  distilled
+                          water. Two milliliters of 1:10  nitric  acid  was  added  to  t2he  column
+                          and allowed to react for 5  min.  The  eluate  was  then  washed  through
+                          with 1 ml of distilled water and collected in a graduated tube.  The
+                          eluate, and-washings                             -to-tal--vol-ume-of S-m-2',
+                          with distilled water.
+                                     The amounts of sulfite and thiosul..'Late eluted  were  deter-
+                          mined by  iodine  titration.  The  polythionates  were  assayed  after
+                          the addition of two drops  of  10  per  cent  ferric  a=oni=  sulfate  to
+                          the prepared nitric  acid  eluates.  The  amount  of  color  developed
+                          was determined by absorbance measurements of 460 nip with a Beckman
+                          LU spectrophotometer.  4These procedures were checked with known
+                          mixtures of the sulfur intermediates  in  cell  media  with  and  without
+                          T. thiooxidans before being applied to the analysis of biological
+                          half  cells.
+                                                         6
+                                              7777
+
+                                  The results from the analysis for the gross desdriptica
+                        of the shaker and biocell cultures are stn-..p ized in Tables I and 11
+                        for typical changes in compositions as a function of time.  Table  III
+                        represents typical analyses for the specific sulfur intermediates.
+                                                          earlier observations 2with more
+                        These results are consistent with
+                        rapid accumulatioa of acid in the shaker culture as compared to
+                        the large biocells.  Specific observations gove rning the data in
+                        these tables are as follows:
+                                  1.  The accumulation of strong acid, indicated by alkaline
+                        titraticn  to pH 5, was shown by subsequent precipitation with bar2i=
+                        chloride to be a direct result of the formation of sulfate ions.  It
+                        was not unusual to obtain a pH of 1.0 within several weeks of
+                        operat                                     -d "giver a total of 60--iM
+                             ion., - -For a,600 ml --bi@ocel-l-, th:ts-,woul
+                        of hydrogen ion or 30 mli of sul2fate ion.
+                                 2.  The concentration of the weak acids, indicated by
+                        the second titration to pH 8.5, was very small, below 0.04 meq/ml.
+                        A significant increase during growth of T. thiooxidans was not ob-
+                        served.
+                                 3.  The total oxidizable intermediates of the inoculated
+                        cells (Tablesl and II) was in9itially very small, below O-OC02 meq/ml.
+                        This concentration did not increase as a function of the time.  The
+                        unimoculated controls showed essentially the same concentrations of
+                        these products as did the biocells.
+                                                   7
+
+                                                       TABLE I
+                             CROSS DESCRIPTION  OF ACIDS MID OXIDIZABI@L" IIM-V-RMEDI-017LIS
+                                   FORI@IED DURING LARGE- SEA=,-R CULTURE C-ROI-ITH
+                                                   (Medi=, ATCC)
+                           Time                Titrati2ons  (millieguivalents)  For  10  ml  Sample
+                          (days)     pH        NAOH to pH    5     NAOH to pH     8.5       Iodine
+                            0       2.20             0.27                0.25              0.002
+                            1       2.16             0.30                0.26              0.003
+                            4       1.52             1.41                0.27        2      0.003
+                            5       1.40             1.71                0.27              0.004
+                            6       1.38             2.19                0.28              0.004
+                            a       1.50             2.97                0.31              0.002
+                            10      1.07             3.85                0.29              0.004
+                     3       IP      1.04             4.40                0.25              0.003
+                                                          8
+
+                                                     TABLE II
+                            GROSS rr-.ccRIPTION OF ACIDS AIID OXIDIZABLE Illrrr-I.RIIEDIATES
+                                  FCRIE-D RURING BIOLOGICAL F-us-CELL 001-ITH
+                                                  (Medi=, ATCC)
+                                                  Titrati2olis ('Lliillieguivalents) For 10  ml  Samples
+                            Time        pH        NAOH to pH    5      NAOH  to  pH  8.5       Ic,.I-ine
+                           0           4.45             0.01                  0.24              0.002
+                           4 hr        4.00             0.01                  0.30              0.002
+                           7 hr  2      3.68             0.01                  0.36              0.002
+                           1 day       3.00             0.05                  0.30              0.002
+                           2 days      2.42             0.21                  0.26              0.002
+                           3 days      2.13             0.37                  0.26              0.0015
+                           5 2dajs      1.95             0.49                  0.26              0.002.
+                           7 days      1.94             0.62                  0.24              b.002
+                           9 days      1.94             0.68                  0.23              0.002
+                           13 days     1.84             0.65                  0.26              0.001
+                 3                                         9
+
+                                                     TABLE- III
+                                     AITALYSIS FOR OXIDIZ-ABLE INTERIC-DIATES
+                                   FORIC-D DURING BIOLOGICAL HALF-CELL GROWTH
+                                                   Titraticns  (14illiequivalents)  @or  10  ml   Sa=les
+                           Time        pH            Sulfite           Thio2sulfate        PolythionatEs-
+                          (days)     C*l   B*2      c         B         c      B         c         B
+                            0      4.90
+                                         4.80    0.0012    O.CO12    0.0022    0.0022  0.022     0.022
+                            1      4.90  2.72    0.0012    0.0017    0.0005    0.0007  0.0190    0.026
+                       2     2      4.90  2.35    0.0010    O.CO10    0.0007    0.0007  0.0190    0.026
+                                   4.go  2.2o    0.0010    0.0010    0.0007    0.0007  0.0190    0.029
+                            3
+                            6      5.00  1.90    0.0012    0.0015    0.0007    0.0007  0.0190    0.019
+                            a     9 '5. 00 1.87   0.0012    0.0015    0.0007    0.0007  0.0190    0.019
+                            9      5.00  1450    0.0012    0.0015    0.0007    0.0007  0.0190    o.oi9
+                           *1 Control  half   cell
+                           *2 Biological half   cell
+                                                           10
+
+                                                                          r sulfite or
+                                4            for the accumulation of eithe
+                                   Evidence
+                      thiosulfate ions over and above the control concentration which was
+                      below 0.00015 meq/ml (Table III) was not obtained.
+                                5.  There may have been a slight increase in the poly-
+               2       thionate concentration in one biocell (Table III) during the second
+                                                   -ntration
+                      day of incubation.  The coace.        went from 0.0022 meq/ml to
+                      0. 00,'z.G me
+                               q/ml- on this day.  This change may be a'signi.'icant in-
+                       crease. The control did not show a similar gain.  This polyth2ionate
+                       concentration in the biocell subsequently rose to a high of
+                       0.0029 meq/ml by the fourth day and then returned to control levels
+                       of O-CO19 meq/ml.
+                                 These analytical results show that T. thiooxidans utili-
+                       zati= of  sulfur gave rise primarily to accumulation of sulfate ion.
+                       If other intermediate2s are formed, their concentration levels are
+                        essentially below the limit of these methods of.inorganic analyses.
+                        Future analyses should be made for these intermediates on the sur-
+                        face or inside of the cell
+       3c                                          wall of these bacteria since they do not
+                        appear to accumulate as metabolic products in the nutrient medium.
+                          5           V.  Electrochemical Observations
+                                  Skerman's medium with 1 per cent sulfur was placed in the
+                        biological half cell  which in turn was set in a constant temperature
+
+                         bath. The Daystrom-Weston recorder  was  connected  to  determine  in-
+                         stantaneous27 changes in the half-cell  emf.  After  an  initial  ob-
+                         servation period which showed the half-cell  emf  to  be  constant(the
+                         air bubbling into the cell), the air was  replaced  with  pure  nitro-
+                         geii.  The top cu2rve in Fig. 2 shows that the presence Iof  pure  nitro-
+                         gen bubbling into the cell had little effect on  the half-cell
+                         potential during this time period. This curve  as  well  as  those  that
+                         follow are direct tracings from the  recorder  paper.  A  similar  ex-
+                         periment in which the air in 'the bubbler was switched  to  pure  oxygen
+                         indicated a slight, negligible reduction  in  2the  half-cell  voltage.
+                                   After the Skerman's medium had  been  inoculated  with  T.
+                         thioo,.Kidans and equilibrated with the air bubbling into  the  cell
+                         a change from this air to pure oxygen  gave  an  i=ediate  change  in
+                         the half-cell emf (third graph, Fig.  2).  The  remaining  curves  on
+                         this page show that a change to air an2d nitrogen after the pure
+                         oxygen has Ibeen bubbled into inoculated medium for a  time,  also  gave
+                         changes in the biological half-cell emf.  Figure  3  shows  the  re-
+                         producibility of the oxygen effect in the inoculated Skermanla medium.
+                         These two curves were taken after the  biocell's  voltage  had  been
+                         stabilized =der pure  nitrogen  app6roximately  3  hr.  Pure  nitrogen
+                         raised and oxygen lowered the  inoculated  half-cell  emf.  The  ex-
+                         tent of the gas effect under prolonged experimentation was observed
+                                                      12
+
+                         to depend udon the concentration of the inocul= as well as the
+                         time period after inoculation.  Figure 4 gives an example of initial
+                         and subsequent oxygen effects c7oserved in an inoculated  Skerman's
+                         medium.
+                                   The majority of the effects, obtained from using  the  pure
+                         gases, took, place- --over- -a@ periiod@ of -several -minutes -i7a--thL- i=cul-ated-
+                         Skerman's medium. Appreciable oxygen, nitrogen,  and  carbon  dioxide
+                         effects on the biological half-cell potential were observed only
+                         after the centrifuged, washed T. thiooxidans were placed in the
+                         medium.  The latter effect, carbon dioxide, was not shown in2 the
+                         graphs; however, it essentially duplicates the effect  observed  with
+                         nitrogen.
+                                   The ef f ex-t@ o@t- X-h=lgim.
+                         atmosphere in equilibrium with the biological half cell  was  found
+                         to be somewhat more complex when Skernnn's was replaced  with  ATCC
+                         medium.  Switching f2rom pure oxygen to nitrogen caused changes
+                         in the emf of both control and biological half cells.  The changes
+                         in emf of the biological half cell were much greater than that ob-
+                         servea with the control half cell.  The following  series'of  experi-
+                         ments were initiated to individually, and then  collectively,  con-
+                         sider the degree of the gas effect for e7ach constituent in the
+                         ATCC medium.
+                                                     13
+
+                                 The large biological half cell with the platinum electrcde
+                        was filled with approximately 600 ml of sterile distilled water.
+                        High voltages of approximately -0.24 v were obtained for a pure
+                        nitrogen atmosphere and a low of -0-30 v for pure oxygen atmosphere
+                        were obtained with this electrode.  The half-cell emf'was allowed
+                        to s2tabilize with pi)re oxygen bubbling into it before the individual
+                        constituents of ATCC were added.  After the addition of an individ-
+                        ual compound, the effects of the pure gases were determined by
+                        allowing the voltage to stabilize.  This stability was identified
+                        by recording voltages until no change in half-cell emf was observed
+                        over a 10 min period.  The2n  the biocell was emptied and filled with
+                        fresh sterile distilled water for the next constituent   Table IV
+                        silTr,.-narizes in part the results obtained from these investigations.
+                                 These individual constituents make electrochemical con-
+                        tributions which in an oxygen atmosphere may bL- as high as -0.13
+                        and as low as -0.426 v depending upon which one is selected.  Except
+                        for calcium chloride and ferrous sulfate, the nitrogen and carbon
+                        dioxide effects almost duplicate themselves.  Furthermore, it is of
+                        interest to note that there was relatively little difference in the
+                        nitrogen and oxygen effects except for KH2PO4.  To silr.Tnn ize, varia-
+                        tions in partial p3ressures of carbon dioxide may affect the CaCl2
+                        and Fel-:@04 contributions to emf, and variations in the nitrogen-oxygen
+                                                    14
+
+                                                  TABLR, IV
+                              C-ASI-:OUS EFF-NTS ON ATCC COI.TSTITURLLTS AS I-T-ASL-RFD
+                                              BY HALF-CELL DiF
+                                                                  Stabilized  Half  Cell  E4F
+                                                                      Pure Gases  (2v
+                                           Coacentration
+                                                                                            Oxygea
+                              tituent
+                         Cons                 (gm/l)           Carbon Dio-.ide  Nitro
+                                                0.5                 -0.25        -0.20      -0.23
+                         J-'!gSq4'1.H 20
+      2                   CaCl                   0.25                -0.19        -0.10      -0.13
+                              2
+                         F e l,'O               0.03                -0.72        -0.41      -0.42
+                              4
+                         KH2PO4                 3.0                 -0.32        -0.38      -0.46
+                          (NH4:)2SO4            0.2                 -0.23        -0.22      -0.24
+
+                         pressures may affect the KH2PO4  contribution  to  an  emf.  Each of
+                         these ccmpouads and pure water, except for FESO., contribute    electro-
+                         chemical voltages which were found  to  be  significantly  higher in
+                         the hydrogen scale series for  half-cell  potentials  than  have  been
+                         observed with T. thiooxidans  oxidizing 2 sulfur  in  thelpresence of air,
+                         i.e.  -0.6 to  -0.64 v.   The  half-cell.sensitivity  to  the  FESO  and
+                                                                                          4
+                         carbon dioxide  interaction were part of the  reason for eliminating
+                         FESO  from the ATCC medium in subsequent studies.
+                                   The individual behavior of  the  2constituents  in  ATCC
+                         toward the various gases does not mean that such behavior is carried
+                         over in the complex medium. In order  to  further  obtain  data  on  how
+                         the half-cell emf may be aa'fected by these constituents, an experi-.
+                         ment.,was conducted in which the half-cell emf was recorded     during
+                         an arbitrary sequence of adding each constituent2 to sterile    distilled
+                         water while  bubbling air into the mixture.  Table   V shows the stabi-
+                         lized voltages that were  obtained  after  the  sequential  additions,
+                         starting with FESO     During the experiment, the  time  for  the  half-
+                         cell voltage to stabilize was observed to vary with the individual
+                         components.  Approximately   47 min was necessary  for  1the  FESO  and
+                                                                                          4
+                         approximately 3-1/2 hr for   the KH2po4 addition  to  stabilize.   These
+                         variations in voltage suggest that the initial electrochemical be-
+                         havior of an ATCC medium may change if the  time  factor  is  not
+                  ;7 7
+
+                                                   TABLL@ V
+                                ,TAU-Cr.LL Elg.,,S ruRII-IG SL,=TIAL  ADDITIONS
+                                   OF ATCC CONSTITU,-@i':iTS (AIR A7LI@OSPKr---Rl','
+                         Sequential Additions to              Sequential Stabilized Half-
+                                       2                            Cell F,1,7's
+                             Distilled Wate:@
+                                   FESO                                  -0.36
+                                       4
+                                                                         -0.35
+                                       4
+                                                                         -0.34
+                                 (NH
+4                                    4)2SO4
+                                                                         -0.29
+                                   CaCI2
+                                                                         -0.42
+                                   KH2po4
+                                                         17
+
+                          sufficient for obtaining stability.  This fact may explain some Of
+                          the variations that have been experienced in the past except for
+                          one additi=al step in the procedure which should contribute towards
+                          stability.  After the media were prepared and thoroughly mixed., they
+                          were autoclaved for sterilization.  This step should!act as a stabi-
+                         2 lizing or uniform aging factor.
+                                   In general, a review of the stabilized voltages obtained
+                          in this sequence shows that the resulting voltages are close together
+                          having a low of -0.42 and a high of -0.29 v.  The addition of sterile
+                          powdered sulfur to the final mixture and subsequent sterilized media,
+                          did not change the electrochemical potential-of2 the media in the
+                          half cell$.
+                                   An assessment of the previous experimental results di
+                          rected a study of changes in atmospheric composition in equilibrium
+                          with the ATCC medium without its ferrous sulfate constituent, ATCC(-).
+                          Figure 5 (top) shows that the short and long term operation of the
+                          sterile ATCC(-) medium under an atmosphere of pure nitrogen resulted
+                          in a relatively small and negligible change in half-cell emf as
+                          compared to air.  After this determination, the nitrogen in the
+                          sparger was switched to oxygen (Fig. 5, bottom) and again a negligible
+                          change in half-cell emf was observed for the short and long term
+                          treatment.  Thus, this medium responded to these two pure gases
+                          like the Skerman's and not like the original ATCC medium.
+                                                      18
+
+                                  The next experimental sequence involved studying the
+                         specific gas effects an the inoculated ATCC(-)  medium.  Figure  6
+      4                  shows that the presence of T. thiooxidans  utilizing sulfur causes
+                         an instantaneous decrease in the half-cell emf when the air
+                                                                                      s effect
+                         in equilibrium with the cell was changed to pure oxygen.  Thi
+                         was similar to those observed in both the Skermnn's and ATCC media.
+                         The ha lf-cell voltage, after 1. 2, and 4 hr, was higher  than  its
+                         original value and appeared to stabilize at -0.30 v.  Similar treat-
+                         ment with the inoculated Skerman's medium reduced th  half-cell
+                                2                                             e
+                         voltage and caused it to remain below its original value.
+                                  In another inoculated biological half cell (Series  Lll)
+                         that had been operating under a normal air atmosphere, the air was
+                         changed to pure nitrogen (Fig. 7).  The short term effect of this
+                         change was no'%, noticeable on the half-cell emf; howe2ver, the longer
+                         ter= effect, 1 and 5 hr, was appreciable.  After  this  half-cell
+                         emf had stabilized in the presence of pure nitrogen, a change to
+                         pure oxygen was made (Fig. 8). In a relatively  short  period  of
+                         tire, the half-cell voltage dropped to a value slightly below
+                         that experienced in Series '.KLVII (Fig. 6).  Afte9r 2 hr this stabilized
+                         half-cell emf obtained from this switch to oxygen (i.e.p after a
+                         long term treatment with pure nitrogen) appeared to be different than
+                                                     19
+                                                                                    n7
+                                                                77
+
+                         the oxygen treatment of the air stabilized biological half cell
+                         (Series LXVII). The latter gave a value of  -0.35  v  which  was  above
+                         its initial cell emf while the former (Series Lll) gave a value
+                         which was lower, -0-55 v.  Thus, the prolonged treatment wlth nitro-
+      -"A                gen on this biological half cell (Series LII2) suggests that a
+                         significant change from its-original character took-place.
+                                               VI.  Discussion
+                                   The analysis for the existence and accumulation of partially
+                         oxidized sulfur intermediates did  not  reveal  any  concrete  evidence
+                         for explaining the electrochemical  contribution  that  T.  thiooxidans
+                         appears to ma2ke when added to  sterile  media.-  If  such  intetmediate
+                                                                                               .s
+                         exist, their concentratiQx3.g glre at or below the limit of analyses
+                         developed in this study.  Other   sources, such as the surface or inside
+                         of the T. thiooxidans' cell wall may make electrochemical contri-
+   2                      butions.  Justification or encouragement to explore such possibilities
+                         exist from this study.  The investigations on individual and co=bined
+                         electrochemical investigations on the  compounds  comprising  the  ATCC
+                         and ATCC(-)  identify  their  electrochemical  activity.  The  activity
+                         of these ions reflected by their half-cell emfls especially with the6
+                         ferrous sulfate eliminated from the nutrient, is higher in the hydro-
+                         gea electromotive series  scale  than  experimentally  observed  during
+                                                          20
+
+                                                                          idans.  Thus
+                      active bibicaical half-cell operation with T.  thioox
+                                                     sm by its presence makes an electro-
+                      the fact  that this microorgani
+                      chemical contribution to the half cell  is further substantiate
+                      through these investigations.
+                2                The greater sensitivity of the   biological than the control
+                      half-cell                                           t of the atmosphere
+                                potential to changes in  the  oxygen-ccnten
+                       and nutrient further suggests that viable T. thio@xidans is electro-
+                       chemically active.  The actual individual or group of oxidized and
+                       reduced comPoundScontributing 2to this electrochemical.  activity
+                       must still be iso
+                                        lated.
+                                             Aclmowledgmeg@@
+                                  The auth=e art-i-adebted.:L,,-
+                                                                who acted as consultants
+                        for identifying the electrochemical chax8,cte,--istic1s associated with
+                        T. thiooxidans utilizing sulfur.
+                                                       21
+
+                                                REFERENCES
+                         2.  Latimer, W. M., The Oxidation States of the Elements and Their
+                               Potentials in Aqueous Solutions, Preatice-Hall,, Inc., p. 81
+                               T1952).@
+                         3.  Starkey., R. L., J. Bacteriology, 10, 135-163 (1925).
+                         4.  Skermpn, V. B. D.) A Guide7 to Identification of the Genera of
+                               Bacteria, Williams and Wilkins Company, p. 143-144 (1959).
+                         5.  Trudinger, P. A., Aust. J. Biol. Sci., 17, p. 446-458 (1964).
+                         6.  Iguchi$ A., Bull. Chem. Soc. Japan, 31, 597-600 (1958).
+
+                                                                                 @ll'[:P%@IATIOt.IAL
+                                                                                       CELL
+                                                 CALOi@,,]El-                  P O'I'E i\1'1- I 0 iN.,'] E T E R
+                          AGAR
+                                               2         E @ ICE
+                                               I % L
+                        BRIDGE
+                                               ELEC'F 'IODE
+                                                                                             -F U 0
+                                                                                VACIJUM                      0 U'I' f) u
+                         C E L- I.- 0. I
+             2                                                                     VOLI-i@/IE-I'Et@          RESIS'fOl@
+                              -F I i\l (J @A
+                         PL-A
+                                                                                                                                   c 0  1)
+                        ELECI-,'IODE
+                                               2              -rci
+                                                                                                 -!'A @l -F VOLTAGE
+                                                                                          COI\IS
+                                                                                              T 11 A t@l S t-- OR \!I E R
+                        CELL- @10.2
+                         I-J L AT I @,l U t!ll
+                                -1@ODE
+                        EL.-ECI
+                                                                                                    120 V
+                                                                                                      A.C.
+                                                                                                     6 0
+                                               1      FJ.g. I - 131.ock
+
+                                                                                                                                               
+43
+                                             41
+                                                                                                                                               
+2                             4-1
+                                                                                                                                               
+'-tj
+                                                                                                                                       2       
+Pt
+                                                                                                                                               
+C   141
+                                                                                                                         4                     
+L3
+                                                                                                                                               
+tv
+
+             L)
+               -0 3
+                                                                                                                                               
+uliteil (",,cr,tiian's
+                                                                                   Fig.         Consistency of tli(.-     OxY l,'c n L" f Ce c
+LI no
+                       2                                                                                                    I lll.'L
+                                                                                                                                f -Cell
+               -0
+                                                                 ini-,o Cell
+                                             0,@yffen Btibbled
+                                     u     1                            c     lir
+                                                           Ati,.iorl)licr
+                                                                                                                                               
+9
+                                                                                       4                                6
+
+                                                                                                              lojr
+                                                                                                                 , OC
+                                                                      ,IC-cc,-.,L pototiL.i.al- ACL
+                                                   0..,CYGCI2I 1!"f.rect Oil li@ .I                                                       1. ..
+                                         VIC,. 4                                             Sulf Ur)
+                                                        Llii
+                                                                             Lll-)bled
+                  -0.3                                              oxygen   B
+         2                                                             inlo cells
+                            Air Atinospl-iere
+             o
+                  -0.4
+              d
+                                                           iie Media
+                                                       Ster
+                                                       Ill),-nedia-tel'Y After InoculatiOll
+                   -0.5
+                                                       Several Days  f,-fter Inoculation
+                                                                                                      6            7
+                                                                                          5
+                                                                             4
+                                                   2            3
+                          0
+     1                                                                             Lnutes)
+                                                                           Tiine (M
+
+                                                  A i
+                                                                                  BLII)].).I.eft i.nio Cel.1
+                       -o.:50
+                                                                     Oyygen ]3ttl)bled into Cell.
+                       -0-35
+                             2                           o3eii ALitiosplici-c
+                                                  N:L Lr
+                       -0-40
+                                                                                                                                               
+-ibilizc(-l V,.tltte
+                                                                                                    5                                          
+(-I aiitt 2 hi-  ItLLr)
+                       -0.45
+                              0                                    2                  3                 4                  5                 6 
+7
+
+                   -0 .4
+                                                     Air ALjiiospliere
+                                                             0;,yl-.,,Cn BLtbbled iiito Co!'I-l
+                                                                                                         14inut-,c,.)
+
+                              CA
+                                                                  t;i
+                              C7,
+                    ri
+
+                                            i,1.1. Li, o'i)ti A I-IlitL),;Vtit-,.L-c
+                                            0     ii 13Ltbbl.t-LI itilo Ct@]
+                  -0.4
+             U)
+                                                                                                                     2              
+S-Labilized Value
+                                                                                                                                        (2 hr
+later)
+                                                      Fig. 8     Oxygeh Effect in Itioctil.a-ted AII'CC(-) 14oditun
+                                                                  (Series III, Age       Six Days)
+6                       0                             2              3              4              5              6
+                                                                                        (TJ.me, A'-Ii.iiutes)
+

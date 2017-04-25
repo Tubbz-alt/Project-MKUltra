@@ -1,0 +1,464 @@
+                                                                  - - - - - - - - - - - - - - - - - - - - -
+              MEMORANDUM
+              -12 February 1971
+              TO:
+              FROM:
+              SUBJECT:    Comments on U.S. Patent 3,523,538 by.Kunio Shimizu
+              The device  as detailecl in Figure Z on sheet 1 of the pate-,it appears to be a
+              working system, capable of delivering a non lethal (to normal healthy subjects)
+        2      shock to the victim.  However, there are practical considerations which could
+              seriously degrade the device's effectiveness.
+              It is questionable exactly how far the projectile would travel since any kinetic
+              energy imparted the projectile would be partly expended unwinding the wire
+              from the device against the friction of air and the take up motor.  The wire
+              would have to be extremely light and flexible, yet strong.  This might result 2in
+              excessive electrical resistance, however.  Additional energy from the projectile
+              would be required to overcome the restraining  spring tension holding the needle
+              protector in the safe position and to compress the clothing of the victim.
+              Adequate tenacity of the projectile for proper needle insertion does not appear
+              to be insured by the "spearhead- shaped projections" on the projectile's ogive.
+              The spear2s might penetrate and slightly compress the clothing but will not
+              insure that the needles would stay implanted in the victim.
+              To circumvent the possibility that the victim is wearing an overcoat, suit coat,
+              shirt and undershirt', the needles would need to be extended about 2 cm in the
+              protracted position, These long needles, when used on a victim in light attire,
+              would be sufficient to provide lethal penetration or put 9an eye out.
+              The possibility of serious infection from contaminated needles, sk-"n or clothing
+              cannot be overlooked.  Sterilizing the needles or coating them with an antiseptic
+              gel,or paste would not preclude the possibility of infection.
+                               -7e
+                                      77
+
+                The bore of the pistol (Figure 1) appears to be about I- 1.,5 cm in diameter.
+                Scaling the'bore diameter to the diameter of the projectile would indicate that
+                the spacing of the needles could be no more than 0. 8- 1. 3 cm.  The paralyzing
+                effects on the victim would not extend beyond 1 cm radius from the axis of the
+                needles.  Therefore, the effective area of paralysis would 2resemble an elliptic
+                paraboloid with the approximate dimensions of depth 3 cm, major axis 2. 3 cm
+                and minor axis I cm.
+                The "false epilepsy" referred to in the patent, probably is the result of Mr.
+                himizu's limited research and confusion on the sub ect of electroshock therapy.
+                s
+                Needless to say electrodes must be correctly positioned on the head before
+                convulsions can be produced..  His 2device cannot do this.
+              -The basic resemblance of the device to a conventional pistol might cause an
+                armed, nervous assailant into a defensive position, possibly injuring the person
+                with the shocker gun.
+                Conclusions:
+                The device invented by Mr. Shimizu will not supply incapacitating energy to
+                disarm or disable a man.
+                Disadvantages of the device are:
+                   1.  Possibility of5 bfinding, bodily harming or killing the victim.
+                   2.  Limited. range due to friction, air drag and energy required to arm
+                      projectile.
+                   3. Incomplete incapacitation of victim due to low volume of tissue subject
+                      to paralysis.
+                   4. Basic resemblance to a conventional pistol.
+
+                                                                                                        p
+                                                                                                                                               
+3,523,539
+                                                    1721       inventor             Kunio Sliir-iizu
+               2                                                                                                     -ayi, Nlinaint,           
+2,805,067              9/1957         Ryan      ..................... . .. .  .                     43/6X
+                                                                                    33- 2. 1 -chottic. Asa,
+                                                                           2                                                                   
+2.966,621              1211960        Voll    .................. . . . .....  .
+                                                                                    Sur inamiau. Tok) o, J 2 pi n                              
+23112(E)X
+                           2                                                                                                                   
+113.766            4/1871         Havilind      et      at ............
+                                                                                                                                               
+124115
+                      2                              1:11       Appi. No.            S99,4-46                                                  
+2,033.397              3/1936         Richman         . ....... . ...... .  ...               128/303.ISX
+                                                                                    Dec. 6, 1966                                               
+2.516.8S2              8/19250         Kalom       ......
+                                                    1221       Filed                                                                           
+... . ..... . ......  .  129/303.      1      r.X
+                                                    it5l       Patented             Aur. 11. 1970                                              
+2 2.763.935              911956         Whaley et at         . ........... .  ...               123/303.18X
+                                                    (321       Priority             Dec. 6.1963; Feb. 10, 1966;,%12r. 5, 1966
+                                                                                                                                               
+3.027.333              3/1962         Friedman          ...... .   ..........   .                1281417X
+                                                                                    Japan
+                                                    (331
+                                                                                                                                               
+FOREIGN PATENTS
+                                                    [311                            40174,635; 41/7,409; 41/13,713
+                                                                                                                                               
+476,508            1211952        Italy             .......................                  231/2(E)
+                                                    1541       ARREST DEVICE                                                          2        
+407,648            3/1934         Great            Britain ............                          43/6
+                                                               9 CLsims, 6 Dra% in.- Figs.
+                                                    [521       U.S.                                                                            
+Primary E-rantiner- Richard A. Caudet
+       2                                                                                                                .  .  .  ......        
+128,'404,
+                                                                                                                                    
+124/15,43/6                   Assi-itant Era;niner- Channing L. Pace
+                                                                                                            2                                  
+Attorney- Eliot S. Gerber
+                                                    1511       Int.                                      .    ......    .............. A61m    
+21/00,
+                                                                                                                                       
+A6ld7/00.A6lm37/00
+                                                    12501       Field atscarch         .............. . ...........  .  ...............        
+4211,84;         ABSTRACT:      A      device      for      subduin-,      a      criminal      includes      a       pro.
+                                                                         102/46.92.1.92.4-.124/15;                   128/303.13,               
+303.18
+                                                            2                                                                                  
+I         jectile       having        two        needle        electrodes        which        have        different
+                                                                                404.4.17;      273/106.5(D);       231/2E;       4316;      
+12413.       15       potentials      and      2fC      2dapted      to 2     pierce       the       skin.       means       for
+                                                    1561                               References Cited                                        
+propelling     the     projectile     at     the     criminal.     and     a     supply     of      elec.
+                                                                                                                                               
+tric     current     con2nected     to     the     electrodes.     The     current     is     of      suf-
+                                                                            UNITED STATES PATENTS                                              
+ficient     intensity     so     that     when     the     projectile     strikc,4      the      criminal
+                                                           8,843        3/1852   Souncnburgetal                     .... .....     2           
+4316         andtheelectrodespierechisskin.aralsest2teotepilepsyisin.
+                                                    2,561.122           7/1951    Juergens            ....... . .. . ..                        
+231/2(E)         duced, thusrendering the criminal helpless.
+                                                                                                                                           2   
+27
+                                                                                                                                        23
+                                                                                                                                               
+21
+                                                                                                                              2G
+   2                                                                                                                         24
+                                                                                                                             2E
+                                                                                                                                        23
+                                                                                                                  6                           
+3              122                     @28
+
+                                                                                                3,523,538
+                             Patented      Aua.    11, 1970
+                                                               Sheet         of 2
+                                                                              FIG.       I
+                                                          t9-
+                                                                        2 21
+                                    9
+                                                              FIG.     2         14      17    15
+                                                                                                          6
+                                                                                                    13
+                                                                is
+                                                              2                           10
+                                                                                    I lb       lid
+                                                  FIG.      3
+                                                        IZ7
+                                                                        21
+                                        2t4
+                                                                            k2O
+                    2                    26                              25
+                                               31           2@ "28
+                                                                          4
+                                                                 FIGO
+                                                              27    30
+                                                   23
+                                                                        2     21
+                                                  Z5
+                                                                      29  8
+                                                             22
+                                                                                                  14Y v eV
+                                                                                              RUVI o     Sql,-Ilzel
+ 3                                                                                                       4 77
+                                                                                        "7-@
+
+         -is
+                         P'atcntcd AU"T.       Ilt  ID70                                   3,523,533
+                                                           Sheet         of 2
+                                      FIG.     5                          FIG.     6
+                                            0 1144 46 41,4               52
+                                53  43  504                5                @3   52p 40 51  46 41 45
+                                                             23
+                                                               26
+                                .4Z
+                                                                       .42
+                                                               6
+                                                            2z
+                                         51  43 44  4 r, 45                          51'4!4 4'6 "45
+         :,I
+          'f4
+                                                                                      IOY
+
+                                                                                                     3,523,5 3 8
+                                                                                                                                               
+2
+                                                       ..:...Arl'EST D--VICE.                                                                  
+-incou.s  f,22t  laycr.(in,:cjd  of
+                                                                                                                 ..into 1.ic lower pri.or.the
+subcul
+                                                                                )43ns   and   more    pzrticu.         -in surface) in o,-.'c.-
+to  cause  a  temporary  false  epilcpiy,
+                                       7he pgc%cnt invention rt;latcs to we@.,                                   the sk
+                                                             hich the police may subdue a criminal.              The  false  ep:lcpsy  is 
+effective   in   rer.L4.trino   the   criminal
+                                    firly 11) 2 device wit-@ w
+                                                prcicnt   time   the   r.%:thads   of   p!aciiig   a   violent   'hciplc-ss and )-et is safe,
+as  it  uses  a  relatively  small  electric
+                                       Al 0-9
+                                    ctilri..Ijl or an itis;jric person und--r arrest may  lead  to  his  o2,%,n 5  shock. current. -
+                                                          of tic police  or  of  innocent  p;.-rsons.  If  the     In the first embod-mcnt 
+shown  in  F7CS.  I  to  4,  a  piston  3  is
+                                    injjf). or the injury
+                                 -@police       lh6r guns. th-. criiiiikia2l may be killed or  innocent-  ..-Ioad@-d  (corrprcssed)  by  a 
+stron.-  spring  4.  Piston  3  is  ri:.cd  in
+                                    b),it3nders shot. If the police  atteript  to  us.:  th;.-.r  clubs.  they   a cylindrical air  chamber  2,
+which  is  fixed  to  a  stock  1.  When
+                                    inal  be  injured  by  the  criminal   when   they   approach   him.   The   the barrel 5 is rotated
+(tlirourh a  hinge  6)  -.vith  respect  to  the
+                                    use  of  itir  &.is  is  limited  to  confined  places   and   rtay   only I   0stock 1.  the  sprine  4 
+is  compresstd  by  a  lever  7.  Lever  7  is
+                                    Clu%c the criminal to at2tack the police.
+                                                                                                                 'ited to boh  the  stock  I 
+and  barrel  S.  The  piston  3  is  sclcc.
+                                       similarly,  those   who   wish   to   protect   themselves   or   their   tively released by a triSScr
+S. Aft,:r the  barrel  5  is  charged  with
+                                    kol2%lcs  rnay  hciit-,te  to  shoot  a  gun  at  a  criminal  because   or   a bullet 21  @nd  the  barrel
+is  returned  to  its  original  position
+                                    (cat  that  they  rti2y  kill  him.  For  tX2MPIC.  the  home  oviner  who   and the  trio.-er  is  pulled,
+the  discnoa;ed  piston  3  quiclly  ad-
+                                2    hicars a burglar  now  can  only  attempt  to  shoot  him,  if  he  has  aIs             -
+                                                                                                                 vances. The. piston gives a
+strong pressure to  ti-.r  air  in  tie  air
+                                    sun,or attempt to  strike  him.  if  he  can  approach  the  burglar.        chamber 2 and  shoots 2 the 
+bullet  2  1.  This  type  of  structure  Is
+                                       It  iu  the  ol,,jcctivc  or  itc  present  invenion  to   provide    a   known  as  a  spring-type  air
+gun.
+                                    d@cvi,;e  for  subluirs  crimin@ds   %vithout   killing   or   permanently     In this embodiment  of  FIG.
+1,  the  gripp-"2;n-.3  part  9  (handle)
+                                    wtifinv them.
+                                                                                                             2,D of the gun is charged with dry
+cells  IO.  A  switch  I  IA  is  opera.
+                                       tt  J3  4  fqtthcr  ob,,ectivc  of  t@e  present'L-%v-.rtion  that  the   2tively  connected  with  the 
+trigger  S.  Aii  -leciric  shock  current
+                                    cl@nict;il  in3y  be  terdcrcd  helpless  without  the   unsafe   accessi.   gentratina. device 12 flows
+the low  volt--  go  zizr.-:nt  of  the  dry
+                                                            ctl-ninal iiordcr tostrike hir.,%.
+        2                                                                                                         -cells  10  as  an  electric 
+shock  current  of  a   desired   strength
+                                       lit accordance with the  present  i.-tvc.-ttion.  a  bullet-like  pro..   avainst the resistance of the
+human body as the load.
+                                    jectilc is fired f.-o-n an  air  gun.  Th2e  projectile  has  two  protrud.
+                                    ir.g  ctzctrodc  ritcd'  es  which  pierce  the  skin  and  cake   contact 25  An  electric  circuit 
+diagram  of  an  example   of   such   electric
+                                    %i,l@% tl%c 4ubcutar--,ous E-.t Layer c&' the skirl  The  ejectr@-d2as  are   shock current generator 12 is
+shown  in  FIG.  2.  In  FIG.  2.  a  cir.
+                                    cgt-tt-.cied.  for  cxa-ipfc.  through  a  wire  carried  a!ono  with  Lte   cuit  breaker  (vibrator)  13 
+and  a  primary  coil  15  wound   on   a
+                                                                                                      2           coe  14  of  a  transformer 
+are  connected  in  --cries.   A   condenzr
+                                    Cw,,tctitc.  to   art   z!zcrxlatii-   source   of   curreml   The   Lrrient   'm
+                                                                                                                 16.  used  for  = 
+suppression,  is  connected  in  p2arallel  -*.t@  the
+                                    tg'Tiizitnt   to   stun   the   criminal   to   a   temporary   state    of    "a 30 contact  point  of 
+the   circuit   breaker.   An   electric   shock   current
+                                    czitcrsl.   wbL(-,h   tclders   him   hefple=   The   s.;icck   is   rat   s2uffi-
+                                                                                                                 ofad--sired  value   may   be 
+obtained   from   the   secondary   coil   17.
+                                    C%:Iat to tUl or qotrnart-itl@ injure the criminal
+                                                                                                                 --by   mutua2l   irdlction.  
+when   a   low   voltage   current   flows   from
+                                                        -t  of   the   it-.:cnticit   utilizes   a   -ctted   mzt=W
+                                                                                                                 the  cells  TO  to  &.e 
+primary  coil  15   and   is   interrupted   by   the
+                 2                   at7t  t:@   t@t   cecd!e,   clectrod,.s.   The   m.-cd!cA   =d   skin   area   =c
+                                                                                                                 br=ker  13.  This  electric 
+current  will  pass   to   a   Icai   -zire   10.
+                                    ue-tt@,-d2  -cth  a  s;eciat  chi:mic2t  sot.:tion   so   th2t   icss   electrical
+                                                                                                             35  Wir--  '-70  is  wound  and 
+fixed  at  one  end  on  a  reel  19.  The   reel
+                                    c4@--,tat  iA  ctedcd   to   produce   the   desired   P-I2TCCL   The   proiectile 19 is rotatabiv fieted
+to the stock I through contacts 18.
+                                         czrrz  a   t2tt-,r@   a,-td.   with   the   use   or   SUCII   ch=i-ilsotu-
+                                                                                                                   M=  L2ead  W=   '.10   is  
+electrically   connected   at   the   other   end
+                                                btus.-d-,xithcutwires.
+                                                                                                                 with   electric   shock  
+needles   23.   Needles   23,   in   a   pair,   are
+                                       bk    ;tr2.-othcr    tmbodiment.    the    ceedles    =1    bt,,    ser--cdvcly
+                                                                                                                 secured  to  an  outside  case
+2-1   of   the   bullet   projectile   ZL   A
+                                                 from a hand-carricd de-.fice,
+                           2                                                                                  4(i ptmrecdve   cylinder   24  
+is   provided   with    small    holes    Z6    in
+                                       Qt)ii%z  obi-.-,tivts  anct   features   of'thr   ;rcscnt   ia-.,crtiam   will
+                                    k,*.,  2:t-@arcat  from  LI@t  detailed  d.-scriptiort  whiclt  fbilaws   ar  wtiicfx  the  electric  shock
+needles  23  are  to  be   firtecl   i:ylirtdcr
+                                                                                                        am
+                                                                                                                 Z4  is  2fftred  ia  said 
+outside  case  =   and   lazdcd   by   sprin;;   "7.
+                                       @odiintat.    tz@--,m    in    conjunctica     with     tbr:     acccm-_amiu*l
+                                                                                                                
+WliemapushrodZSintherearparroftheprorectivecylinder,
+                                                                                            ant,-dbx
+                                                                                                                 Lmmlc=n-.  our  of   the  
+outside   cast   ZZ.   Es   ;rushed   against   the
+                                                           rcrereict numerals.
+         2                                                                                                    4*  f;-,L--  of  the  spring  Z7.
+a  projection  29  firred  to  tliz  protective
+                                       la. th t draw in,-z
+                                                                                                                 cylu7dcr Z4 enpgci 2wi th a
+rects i  30  izL  the  o  u  Es  i  de  c3sc:.  due
+                                       gtfz&  t   la   4   in4strv-,@--;t   Srst   cm,.bodlm=t   zcmmcdln-   tm   thm
+                                                                                                                 tm  &sprin.-   ZS.   The   tip
+parts   2or   the   cfectric   shock   needles
+                                                                                                                 hfcrcfrrthe-protecdvecylinder.
+                                             t  i;t  a.  cv-@A-scg:tionetL  &ercrat   sidz   view   of   m   sg=:iar
+                                    lle2=-P tZp-- zi:-                                                              13z--bunetZL  will   be  
+projected   in   L5is   state   ourattht   airt-4n
+                                       E-tlZ,   Z   i--   @x   c@mit    4!2rram    of'the    elcznc    shoci@    =zr= mT& will f2Ty while 
+playing  the  lead  wi:-c  ZO  out  of  ti.e.  rr.--l  19.
+                                                                                                                 '%Ub= thr-  bullet  ZI  hits 
+a  cr-..ijr.;il,  the  protective  cylir,6er  24
+                                                                                  vip               C-Xt2njrctpm- wilr  L@--  disemipged   =d  
+will   rctmat   due   to   the   fame   ef   the
+                                                     -ar.-c=ss-stziahal'sid-  -w.%cz
+                                                                                                                                               
+=..T.Imclecuicshockneed2lcsZ3wilibeexposed(asin
+                                                                                                    t      gro-  SpTlrm
+                                                                                                             m   @,t),mTdwiU   be-   pushed  
+into   the    body    of    the    crimirml.    At
+                                       C-IJZ&   I   znd-   (t   zrt   cro--s-s=ionctL   sidr-   vitwi.   of'm    50et this   momwr-   =  
+electric   current    from    the    generiz!jyg    device
+                                              4 vqp-nd: er,-,bo4j'ment of-thc p
+                                                                    2              resr--.t    inv4wtio-r.    =it 1'-"'wilLiTavxinto   the-body
+of   the   criminal   through   th--   eadwire
+                                                     FIC.S..3.:and-.I@.respcctiveJy.
+                                                                                                                     antt  dm-   eje=ric  
+shock   needles   23.   Thr-   criminal   will   fall
+                                       7JIctci=Tic--rrt@iist2mr--arthatskirr         or--the:h%L=zrbrod)L         4x-
+ii2to-thr-,=tr-of.Ltr-npor2ry   false   epilepsy   =d   will   be   able    to
+                 2                                            st-tzand-thtsiz=of                   ttccort=surface- &z bmc-sily arrtste&
+                                                              Li,-rcsist-an%,zinsidtth=body        is        saidnz Frre=mbly,      many     
+spearhe2d-shaped      projections      31       am
+                                    b--               5,,7@ Z oh  ns,  Thtstrer,,,,t  trof  thceicciric;d  sholLAC. rorrneaarrtheautersurface  
+of     thr-     bulleth=d.     These     projec-
+                                                 to.-  OM,  streftgttt  of-'  44t  clcctrir-   =rr=::   p-assir.-c_- tiom  n  ur-  of'a  soft  
+elastic   material   sa   that   the   bullet   may
+                                    It-.-,Ikbth--.hur.-t-n-body     s4zthar.,cvmirthe     voltagt-is     hi&h     an& =sily_  stick.  ta   the-
+clothing   and   not   fall   dowrt.   rmr=by   in
+                           2                                            L-ie@nad--rra@r  For-r--a,-tple-  iir.  6LT  ard=to  rr-=ver  the  lead
+wire   20   and   the   bullet   into   the   reel
+                                                                currencof       Lhtcoriric;rjal        fraruenl-f. L9@  aswitcjr  2Ub  is  SCL 
+An   electric   motor.Ni.   contained   irr   the
+                                                                       a-considerable     p-airrwill      brtrdt. stock  r-  rotates  the  reel
+19  and  winds  up,  tlitt  lead  wire.  As  no
+                                    v-@t.'I@@,,@out:f,-r.,1,3..Or.current;,arrunbt2f3bir-p:iitrwill          L-ef@lt. =plmivc.  is  "-td  and 
+there  is  no   stron);   c.,cplosive:   sound.   in-
+                                                                                                     Lm-nvl.ta.  =cent hys=dcxs are not frish
+tcred.
+                                    fft0ve-2wit,'r2VmA,    and    adzn2er    of'clcctric-sl-ock     d-.uttrwill     bt 7Cr The-   second  
+embodiment   is   shown   irr   FICS.   S   and'6.   Al   is
+                                    c3used   with   50   mA.   Such    electric    s@.ocks    have    been    already evident from  the 
+drawinr,,2s,  it  is  the  same  as  in  the  first  embodi-
+                                    utilized    for    a    special     therapy     (so-called     electric     shock ment    in    some   
+respects.    Niany     spearhcad-shap;:d     projections
+                                                                                                                                               
+2     -icr    on
+                                           Y)   in   the   treatment   of   p5,ychosis.   The   present    invention 31. of a soft elastic
+material. are formed closely togct'
+                                    glilizr5.  the.  electric.  shoc@..  effect  and  flows   an   e-',-ciric   shock the-  a-iter  surluce  of
+a  bullet  head  ,  I  at  the  tip  o2r  a   bullet
+                                    4aufj!.It     tilroukh     thc.@um:irt@L-ody.     Apuirof     ntedlesarr-push'LLJ 7'y  cyjinjcr  40.  In 
+this  embodime.-%t.  die  cf;.-,Iric   source   crlls   and
+                                                                                         4                                               7:    
+7-,-
+
+                                                                                                    523,538
+                                                                   3                                                                      -4
+                                  Lbe electric shock- current  gencratin,&  device  zrt  contained  in  a     Only  preferable  cribodimt:nts 
+accordin-  to  the  present 2  in.
+                                  cc
+                                     nt3iner  50.  The  cont-iiner  So  is  inserted  into   the   bullet  vcntion ha% c been 5!.own above'   
+Ffowcvcr.*Clcn  if  any  alterna.
+                                  cylinder 40 and then a cover 42 is 2pplied.                              tion or modification is  mad,: 
+within  the  scope  of  2the  appended
+                                  -E--ch of the c!.-citic shock- nec@ll" 23. in a  pair.  is  f'attcd  in- claims.  it  will  not  deviate 
+from  the  subject  matter  of   the
+                                  -t!ie bullet head @'D so as to be reiililndy  pressed  on  the  flange-5 present invention.
+                                  ahzpc2d base part 44 by a spring  45.  %%'hen  the  Lullet  head  41  of     I claim.
+                                  the projectile hits  a  criminal.  the  container  -'O  in  t@z  bullet     1. In a device for  subduino  a 
+criminal  in:ludino  a  projector
+                                --cyrtnder 40 still zdvances. due to  it-.  ircrtia,  z-oinst  the  force  and a ptojec,.ilc,  th2e 
+improv,@ent  in  the  projcctila  comprising
+                                  of the  spring  43.  The  output  ter..niials  51  w;ich  ire  at  dif-  a body. two needle  electrodes 
+adapted  to  pierce  the  skin.  said
+                                                                                                        to n
+                                                                        c base  parts  44  of  the  cle2c-    ccd!c  electrodes  bein'Z 
+normally  concealed  within  said  body.
+                                  terent polarities wUl collide with th
+                                  tric shock
+                                              cecdlcs  and  cuse  the  ciectric  shec'-  nced!cs  23   to  means for  concealing  said  two 
+needle  electrodes  insile  of  the
+                     2             project out of the  small  holes  26  r.%2de  in  the bullet   head    41 front face of said body  before 
+the  projectile  hits  the  criminal
+                                  a-ainst the  forces  of  the  springs  45.  The  tips of   the   electric and  for  projecting  the  said 
+two  needle  electrodes  outside  of
+                                  shock needles 23  will  be  pusl-ed  into  the  body  of  the  criminal  the front f2ci- of said body due to
+inertia  only  when  the  projec-
+                                  and. at the moment. the criminal  will  fall  into  a  state  Ora  tem- 15 Lilt  hits  the  criminal.  and 
+passages  through  which  said   two
+                                                                                      'TECL                needle  electrodes  are  concea2led 
+and  pro,,ccted,  and  2   supply
+                                -por2ry fal!e cpilpsy  due  to  the  et=tric  shock  c.
+                                     Further.  in  this  embodiment.  each  electric  s!:ock  needle   13  of  clcctric  current  of 
+sufricient  intensity  to   induce   false
+                                  issurrounded   by   acotionorsponge   body   46    ir.-pr2en-ted    with  epilepsy.  said  supply  being 
+connected  to   said   needle   clec-
+                                  a  ch.-mical  solution.  The  surface  of  tic  electric  s@ock  needle- trades.
+                                  23 i-- -,I,.vayswet with asolution.        clcc,,ric   shock    needles 20  2. A  device for subduina  a 
+criminal  incit2.-ding  a  projectile
+                                  23  are  pushed  into  the  human  body.   the   chemical   will   also  havina   two  needle  electrodes 
+adapted   to   pierce   the   skin.
+                                  enter the  muscle.  Preferably.  this  c.':emical  makes  the  electric  means to propel the projectile  and 
+a  supply  of  electric  current
+                                  current easy to flow in  t.2$ie  human  body.  A  sma!l  electric  shock  of  sufficient  intensity  to 
+induce  falc  epilepsy,  said   supply
+                                  current may have the  same  effect  as  a  large  electric  shock  cur-  being  a  battery  in  the 
+propelling  means  and  being   connected
+                                  itnt  and  wiU  itself  paralyze  the  rnx:scle.  A  pre2erred   example 25 to the needle electrodes by
+wires.
+                                                                                                                                               
+m   I   wherein
+                                         chemical  solution  is  an   aqueo"   solution   of   strychnine     3. A device for subduing a
+criminal as irL C12i
+                                  af th-
+       2                           L-ilL -Ms salt is of rine  white  crystals  and  has  the  property  of  the projectile has gripping means
+on  its  front  face  for  sticking
+                             -.-bcinv  slishtly  dissolved  in   water.   It   hu   been   conventionally  to clothing.
+                                  tl-ed as a medicine.                                       2                 4. A device  for  subduina  a 
+criminal  as  in  Claim  3  wherein
+                                     A prol@.-ction S3. resiliently pressed  by  a  sprin-  52,  is  pro- 30 the said gri;pin- means are soft
+plastic hooks.
+                              a   vid.-d on the ;crip@ c=l wall  of  the  container  40.  iroj-.ctio2n  53     S. A  device  Fr  subduina  a 
+criminal  as  in  Claim  I  wherein
+                                  engages in a recess 43 on  the  inside  wall  of  the  bullet  cylinder  said electric current supply is a
+battery wit@in said projectile.
+                                  40 when the  electric  shock  needles  23  have  be;:a  prol.-cted  to.     6. A device  for  subduirg  a 
+criminal  as  is  Claim  I  whe2rein
+                                  Lb.-ir max--=um. and keep the needles pushed OUL                         said electric supply is a battery in
+the  pro;clling  means  and  is
+                                     Further.  the  spearhead-shzped  projections  31   will   stick   to 35 connected to the needles by wires.
+                                  Oe  cfol'iin-  so  that  the  bullet  may  not 2 fall  down.  After  the                                     
+-1 as  in  Oaim  I  and  also
+                                                                                                              7- A device for subduing a
+crimin-
+                                                                          'et is taken  ofr  and  it  i:s  induding awetchemical solution an
+said niedlc&
+                                  crimL2W has been arrested. the but,
+                                  =or-.Iy  struck  on  the  bottom  p=  or  the  bullet   cylinder   with     S. A dcvi= for  subduing  a 
+crirtinal  as  in  Claim  7.  wherein
+                                  tLe bullet  head    directed    upw=d.    Tne    proi.-=ion    53    wM  said solution is a solution of
+strychnine SAIL
+    2                              b-=me   cesengaged   and   the   container   50   and   the    electric 40  9. A device as in Claim I  and 
+also  including  means  to  adjust
+                                  sbmkc=dlcs23wiIlrcttL-mtotlcircri.-inalpositio=                          the extant of projection of the said
+needle&
+                                      2                                                                  .45
+                                                                                                        so
+                                                                                                        33
+                                                                                                        m
+

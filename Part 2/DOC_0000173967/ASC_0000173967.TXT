@@ -1,0 +1,545 @@
+                         INVESTIGATION OF ELECTRIC FISHES
+                               FINAL REPORT     PHASE I
+                                          by
+                                     Prepared under:
+                                Contract
+                                     28 january 1974
+
+                                              SUMMARY
+                         The African fresh water *veakly electric fish Gnathoiiemus
+                         petersii has been investigated.  The study has been difec-ted
+                         toward the intradermal sensory system with emphasis on
+                         the electroreceptors.  Three types of electroreceptors have
+                         been identified.  The autorhymic activity of2 these electrore-
+                         ceptors has been recorded.  The variation of the electric
+                         signal of the electric organ have been recorded for three
+                         specimens of Gnathonemus petersii as a rest activity and
+                         maximum signal rate when a metallic object has been placed
+                         near the fish.  The number and density of different kinds of
+                         electroreceptors in the dermis have been c9ounted and plotted
+                         against rate chanoe and their sensitivity to a metallic object.
+                         The preparation of the large tank experiments have been re-
+                         ported and the newly developed instrume,litation is mentioned.
+
+                             CONTENTS
+       1.   INTRODUCTION    ..............................   1
+       2.   METHODS AND INSTRUMENTATION   ................   2
+       3.   RESULTS    ...................................   8
+       4.   LARGE WATER TANK PREPARATION FOR
+            EXPERIMENTS    ...............................  26
+
+                                                               FIGURES
+                    Figure                                                                                            Page
+                        1                African fresh water wealcly electric fish
+                                         Gnatlionemus petersii                                ....................        3
+                        2                Electric fish Gnathonemus petersii in a luc2ite
+                                         restraining tray provided with stainless steel
+                                         electrodes      . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .        3
+                        3                Microelectrode amplifier              . . . . . . . . . . . . . . .  .  .        5
+                        4                Microelectrode amplifier and support in its
+                                         shielding tube       . . . . . . . . .2 . . . . . . . . . . . . .  .  .  .        6
+                        5                Microelectrode amplifier ready to be put in the
+                                         shielding tube, face side          . . . . . . . . . . . . . . .  .  .  .        6-
+                        6                Microelectrode amplifier ready to be put in the
+                                         shielding tube, back side             . . . . . . . . . . . . . . .  .  .        7
+                        7      2          Microelectrode     amplifier     input     and      output      wave-
+                                         form and gaiii (see Table            2) . . . . . . . . . . . . . .  .  .      11
+                        8                Microelectrode amplifier            input    and     output     wave-
+                                         form and gain (see Table             2) . . . . .. . . . . . . . . . .  .      11
+                        9                Micro2electrode     amplifier     input     and      output      wave-
+                                         form   and   gain   (see    Table    2) . . . . . . . . . . . . . .  .  .      12
+                        10               Microelectrode     amplifier     input     and      output      wave-
+                                         form   and   gain   (see    Table    2) . . . . . . . . . . . . . .  .  .      12
+                        11               Microelectrode     a1mplifier     input     and      output      wave-
+                                         form  and   n,   in   (see   Table   2) ................                       13
+                                                                    iv
+
+                                                                          e-           13
+                                                 input ',nd outl)ut wav
+                     Wlicx.oeler,trode    r,,Ibie 2)
+                                 .  @see
+    12            forin    Ind    6mul ,, ,,plifier inllut Id output,,Vave              14
+2                        laicroelectrol @see Table 2)
+     13            forin   and    ga"'      lilier input  and outl)ut wave-              14
+                    1,Aicroelectrc,de  OI-L"P    le 2.)
+      14                   and    gain (see     Tab           d output wave -             15
+                                     ,ode arnplifier  input  a2"
+                          laicroelectr       Table 2) - -  -  *
+       15             form  and  g@Lin   (see                       ,t,,t wave             15
+                                          ,,,,,,plifier input and OA!
+                       6icroelectrode
+                                        (see Table 2)
+        16             forin and ga"'                     ut and output Nvave-              16
+                       Mic,roelee,trode
+                                     g@Lin (see Table 2)           'Output wave-
+         11             forrn      and           lifier  input   and                         16
+                                     trode    arnp
+                             Microelec
+          18             forin     and @ain                           Gnathonernus            is
+                                      orgo@'n   (electroreceptor)   Of
+                              Tuberous
+           19                                                                                  20
+                              petersil                             atllonei-aus
+                                                  -y fields of G
+                           The electric sens2or
+            20             petersii - - - I I  . . .                    r-y fields Of           20
+                                                              rs senso
+                                        the electrorecepto. .
+                            l'imits of              li
+             21               nathonenius peters"                               tuberous
+                            G                    2                                      Lst
+                                                 of   raorrnyrorna-s       -rnorrayrom@-          21
+                             Different types     orrayrorlast     C.
+                                            k-rfl
+              22             or  gani  b'   ,view)
+                              (top  and   cut
+                                                      2        the electric fish                    22
+                                     lateral line nerves of
+                23                 The Lljonernus petersii                           of the
+                                  Gna:                               @ and density
+                                            0    etwee    sel"sitiviti us petersii in the           24
+                                    Co 3                     Itllone n"
+                                            C  tors of
+                 24
+                                   ele
+                                  epidern'lis
+                                                           v
+
+                  Figure                                                                                             Page
+                      25               Autorliytmic activity of the electroreceptors of
+                                       Gnatlionemus petersii:  a.   500 Hz calibration
+                                       signal., b.  el(,,ctroreceptors near the chin, c.
+                                       electroreceptors nea2r the eye               . . . . . . . . . . . .  .  .      24
+                      26               Electric activity from the nervus lateral anterior
+                                       innervating    receptor    near    the    proboscis    of     a     mech-
+                                       anical displacement on the chin of Gnathonemus
+                                       petersii when the proboscis has been moved upwards:
+                                       a.   time   mar2ks   =   50   Hz,   b.   electric    activity    in    the
+                                       nerve, c.  movement of the chin proboscis                    . . . . .  .      25
+                      27               12    ft.    diameter    fiberglass    tank    provided    with     heat-
+                                       ing, filtering, countercurrent aeration and double
+                                       rails for electrode support             . . . . . . . . . . . . . .  .  .    2  27
+                      28               Heating tank provided with automatic control of
+                                       temperature to 0. 0 IOC           . . . . . . . . . . . . . . . . .  .  .      27
+                      29               Differential    amplifier    hanging    over    the    water    tank    .      28
+                      30               Close   look   at   the   differential    amplifier    used    in    con-
+                                       junction2 with the electrodes in the water tank to
+                                       record electric activity of electric fishes                . . . . . .  .      28
+                      31               Differential amplifier with remote control.  Ampl.
+                                       factor = x 4000, noise = 1 microvolt                . . . . . . . .  .  .      29
+                      32               Devices    for    restraining    electric    fishes    in    the    water
+           0                            tank  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .      29
+                                                                  vi
+
+                                        1.  INTRODUCTION
+                     In our letter report of 24 July 1973 we mentioned our interest in the
+              moriiiyrid electric fishes.  One of our reasons is that they have an electrical
+              quantifiable behavioral variable.  The rate and amplitude of their electric
+              signal changes when they are electrically stimulated or. discontinuities  ap-
+              pear in their elect6romagnetic field. In our study of  their  electroreceptors
+              we found some mechanoreceptors on the  chin  havinr  a  close  morphology  to
+              the Lorenzini ampulla, a multisensory receptor.  This fact confirms our
+              findings with respect to the Lorenzini ampulla functions  from  our  previous
+              research.
+
+                                                    kND                      INSTRjMr,,NTATION
+                                   Mr          _IODS
+                                        T,                                                           niorln-yrid Iresl"
+                                                                        peltersii                          cxperiraents
+                                 2              oi Gnatholien-lus                    ,,, used ill Our
+                   Three             ,CcillieTis                ric  I  have bep-                    I-, one held se-
+                                               iisll fr oil'                        .,Is   and    ear-
+                    Nveaillily  ccctric                      2 tor three Tnont                ound ra. 9 ,d the ten" -
+         wate              were      in      Our laboratory                   11    was     ar
+          The lisl-ies  1, ,,,lolls aq,,a-riO,,   The water P
+          paratel'Y                                                                                            nbedded in
+                          2                                                         ap  c   ont
+                                .2ec.                                                        'OLets hall  el
+           pero,ture was                       it'h stainless steel P            es during eneriynents lor as
+                           1,,C-te   tr-ay    "v                                                              2 J ('Fig. 2).
+                               I.              3sed   to   restrain    the    fish           etric      activit,
+                  lucite 'Wall %vere                                       ol    their     ele
+             the                     its of the repetition rate                  .  ,,,,y developed'aad           a, d-
+              @essing the       iim   2                          lifiers prev3,0                red, the 0"set POte"t'o-
+                                               -,ctrode                    Starlce         Orclv
+                                       raicroele                                                             croelectrode
+                          The                                    ut resi
+                                               .es ill2 the i:nP              itive a-ad delicate rn'                     metirnes
+                             when          chana     Vienver-Y sells                         entioraeter      was       so   Inirrons-
+                                               ,et-                         e    oliset    Pot                    Of  (.   5
+                rneter    had    to    be    res      resetting Of th     2       ol the microelectr         ode                        ode
+                 recordings        -were made,             the diarneter                  t Support or the Inicroelectr
+                               sible lob Owing to                                 dire                ,able   tor    the    building,    01
+                                                              r  is  a's   o   the              ava       2                       ira
+                  an impos                     de 3.MP""e                    nothing                                       PL
+                  The              Inicroelectro               recently                                  ecs.            in
+                                                   elY until                   tae      necessary   2    SP                   low output
+                                       Tjllfortun'at                inc, all                                   actor)     D.
+                        ?er-                                   hlav   v                        1: fication
+                   pro,                            ,-,,Vl_iier                                  I               2         .   .    ut    re-
+                                                                            sona,ble     3.1-i"P               hanl@         inp
+                                  nicroelectrode   ,,,citance, a rea                           .  tivity  to   c     e    in       d have
+                                    .   h    low                                          ens'               Ittle power all
+                                   vlt             low   noise   lactor   a-id    ..    ins o bad to use
+                     pedalice      N                                                                                     avo
+                                           ver,Y                                 It     als              s quor e w          or lr ol
+                     iln2-pedallce                         to  I IlleghonI.                tion rate               -lium 3 dB -
+                      sistance frOR            50  0        DC   to    50,    000    repeti     within
+                                                    Iroll-I             t,on    j,        I                                   r     Cl 2rnean
+                                       -y   r-    'e                             _tctor                                         Oul
+                              ,,ue,jr          M',                                                                      -niell
+                       a Ire                   with all an-1131ilic"l                                                       2           p@Ic
+                             to                                                                                            DC or
+                        DC                                   e(led    ill    building    Su
+                                                     SUCCC                                   conditions ol sn
+                                                                       11
+                   2                                                          lost,
+                                    We                        un(ler             ,dverse
+                                ,,,Ssitll recordn
+                            S
+                                                                                  2
+
+                                  Fig. 1.  African fresh water weakly electric
+                                           fish Gnathonemus petersii.
+                                         7--
+                             Fig. 2.  Electric fish Gii,,ttlioiic@iiius petersii iii .1 lucite
+                                       restr.,iiiiiiig tray provicied with si-.L-iiilcss steel
+                                                          3
+
+           si@,nials from the clectrorcccl)tors of electric fislies, 'Ind wliicii does not
+           need to reset the offset potentiometer.  The .tmplifiers we used until now
+           were the best which could be built, but they were far from the cal),,tbilities
+           of the new microelectrodo amplifier, which incidentally, could be used in
+           our simulation 6of the electric fish capabilities because of its low noise and
+           very large bandwidth, combined with an insensitivity to change in input im-
+           pedaiice.  Figure 3 shows the schematic of the new amplifier, and Figs. 4,
+           5 and 6. are actual photos of the amplifier.
+                                               4
+
+                                                                                                                   102.4
+                                                                LODO
+                                                                                              oz 1<
+                                                      10-2 K
+                                                                                        2                                                      
+RO u
+                                                                          2       R Tt!t TA6                 I t4oTE  Pla I U.IJDE)r@ f!f TAb
+                                                                                    --LECTI@ODE           AMPLIFIF.'R
+
+                                                 eio
+                                                         t4.
+                                                                    a.nd support
+                                   4.  Microelectrode arnplifier
+                                       in its sliielding tube.
+                                                                           4
+                     0                        icroelectrode -,,1,11)]Lifier re-,idy to be I)ut
+                                 Fig.      M tic si,iolding t'Llbc,  ,,tcc side.
+
+                        Fig. 6.  Microelectrode amplifier ready to be put in
+                                 the shieldint tube, back side.
+                                                   7
+
+                      .. . ...... .... - - ------ - - -- ----- - ----- -- - - ---
+                                          3.  RESULTS
+                    The specimens of the electric fish Gn,,itlioneniu.,; petersii were put in
+             the lucite tray, using their own aquarium water and air was provided  tlirouali
+             • special glass tube.  The temperature of the water has been recorded.  After
+             • few minutes acco2mmodation to their environment the electrodes correspond-
+             in- to the head and tail of the fish, were connected to an amplifier, to the
+             oscilloscope and to a counter.  The rest activity has been read on the counter.
+             Then a carbon steel rod (diam - 3 mm) has been immersed  in  the  tray  in  the
+             proximity of the fish.  The repetition rate increased sicrnificantly and a read-
+             ina of the counter has been made.  Figure 2 2shows the fish in the tray.  Table
+             1 shows the repetition rates of the signals. There is a ratio that could go  to
+             1:23 (Fish No. 3) between the minimum and  the  maximum  rate  of  the  signal.
+             Subsequent experiments could show how the  repetition  rate  and  amplitude  of
+             the sicrnals are related to the size, composition and proximity of the  objects
+                    The microelectrode amplifier has been  checked  for  its  fre2quency  and
+             gain response using a Wavetek waVe,-,eiierator, atteiiuator and a Tektronix
+             Oscilloscope type No. 555.
+                     The upper trace of the photos shows the input w,,tvcform and lower
+             trace shows the output waveform of the amplifier.  Both sine waves and
+             square waves have been used.  Table 2 shows the waveform, amplitude, gain
+             and input resistance.  Six photos we9re made for 50 ohms input resistance
+             and six pliotos were made for 1 niegolim input resistance.
+
+                                                          TAB LE 1
+                                 Rest and Maximum Repetition Rate of the Electric Signal of
+                                         Three Specimens of Gnathonemus petersii
+                                                               Signal
+                     Date        Weight                                                   Water
+           Fish       of         of Fish        Rest           Max.        AmplituT2e-     Temp.
+                                                                                             oc
+            No.    Recording     in Grams     Rep. Rate     Rep. Rate          mv          in        Instrumentation
+             1     8/12/73          15           15            136             500          20       Amplif.: 100x
+                                                                                                    9 Oscil. Tek. 555
+             3     8/11/73          22            7            161             500          20       Frequ. Counter
+                                                                                                     for all Record-
+             4     8/12/73          15           15            135             500          20       ings
+
+                                                    '.rAA.BLE 2
+                                 Microclectrode   Amplifier:   Input    and    Output
+                                             Waveforms and Results
+                                                                       Gain/cm
+                 Photo                Sine       Sweep
+                    No.           @i-i.            cm            In             Out         Input Res.
+             2       6                   1K        2 msec       1      mv        1   v          50 G
+                    7                  10K       .5 msee        1     mv        1   v          5OG
+                    8                 100K                     1      mv        1   v          50 CZ
+                                                                       Gain/cm
+                 Photo              Square        Sweep2
+                    No.           -F'L              cm           In             Out         Input Res.
+                    9                   1K        2 msee        I     mv        I   v           50 Cl
+                    10                 IOK       .5 msec        1     mv        1   v           50 CZ
+                    1 1               IOOK       .05 msec       1     mv        1   v           250 C2
+                                                                       Gain/cm
+                    Photo           Square        Sweep
+                    No.               -F'L          c m           In            out         Input Res.
+                    12                  IK        2 msec        1     mv        1   v         1     meghom
+                    13                 10K       .5 msee        1     mv        1   v2         1     meghom
+                    14                 50K         1 msec       1     mV        1   V         1     meghom
+                                                                       Gain/cm
+                    Photo             Sine         Sweep
+                    No.                J)-           cm           in            Out           Input   Res.
+                    15                  1K         2 msec        I    mv        1   v 9        1    megliom
+                    16                 10K        .5 ms(--c      1    mv        1   v         I     meghom
+                    17                 50K           msec        1    MV        1   v         1    mcgliom
+                                                          10
+
+                           r7
+                                                       -ell
+                        Fig. 7.  Microelectrode amplifier input and output
+                                 -,vaveform and gain (see Table 2).
+                         Fig. 8.   Microelectrode .iniplifier input aiid output
+                                   waveforni ,tiid g,.iiii (see T,-ible 26).
+
+                                     mom                0
+                                                           RIA
+                                  oulintnounn -0
+                                     DomoEmom
+                          Fig. 9. Microelectrodeamplif ier input and output
+                                  waveform and gain (see Table 2).
+                                           3   I Ir@ @4      f.- -Z, L7
+                          Fig. 10. Microclectrode .ti-nplifier imput and output
+                                   wliveform ,tnd gain (see Ttble 2).
+                                                 12
+
+                                                        r;
+                                                           6kJ -.,Mr
+                                        F,. FL@". itoommig IL-1
+                            Fig. 11.  Microelectrodeamplifierinputandoutput
+                                      waveform and gain (see Table 2).
+                                        t:7
+     5                                                         .47
+                             Fig. 12.  Microclectrode aniplifier input ,ind output
+                                       waveforiii and g@.tin (see T,,tble 2).
+                                                     13
+
+                               @ Li
+                                       @l;-i. .r3
+                                    -L7
+                        Fig. 13.  Microelectrode amplifier input and output
+                                  Nvaveform and aain (see Table 2).
+                            777
+                               77:
+                                         L
+                         Fig. 14.  Mi3croelectrode aniplifier input and output
+                                   w-,iveforiii and    (see Table 2).
+                                                 14
+
+                                    L
+                                                    rIl
+                            :-4i i,:                I-
+                                                     ct
+                      Fig. 15.  Microelectrode amplifier input and output
+                                waveform and gain (see Table 2).
+                                                          -4
+                0       Fig. 16. Microelectrode aniplifier input .ind output
+                                 w,tvcforni tnd gtin (see Table 2).
+                                               15
+
+                                                     rj
+                        Ficr. 17.  Microelectrode amplifier input and output
+                                  waveform and gain (see Table 2).
+                                                       L-7
+                                              L@l    i
+                           Fig. 18.  Microolectrode amplifier input and
+                                   2  output w,.,Lveform and gain.
+                                                16
+
+                   For electric receptors we found two types of mormyromasts (A and
+            B) and one type of tuberous organ.  They are confined to well defined
+            areas of the epidermis. The epidermis  of  these  regions  has  a  particular
+            structure, which is developed in the Gymnotoides in a similar way.  Its es-
+            sential components are columns of very thin, flat hexagonal cells 60 4m in
+            diameter, i2nvariable in all species and body sizes.
+                   The height of the columns depends on  location.,  but  increases  with
+            body length. The  mormyromasts  are  not  covered  by  the  hexagonal  cells,
+            but by small polyhedric cells which are arranged in a circular pattern.
+                   The A-type mormyromasts possess an opening toward the surface and
+            are evenly distributed with a relatively wide space between them.  The B-
+            t2ype mormyroi-nasts have no opening to the surface, and are more numerous
+            than the A-type and are also evenly distributed.
+                   The tuberous organs lack an open connection to the surface and form
+            distinct patterns (Fig. 19).  They can be classified according to the number
+            of their giant sensory cells (1 to 10).  All mormyromasts and tuberous
+            organs are innervated by lateral line nerves.  Only the tip of the chin w2ith
+            its Lorenzini ampullae is innervated by the Nerve trigeminus.
+                   Each mormyromast is enclosed by a loop of capillaries.  The common
+            lateral line system has developed only along the trunk and the tail.  In the head
+            only deep laying canals exist, but without sensory cells.
+                   The tuberous organs  are  characterized  by  an  autorhytmic  activity
+            yielding a few mV. and with a high  repetition  frequency  exceeding  1  kHz.
+            The duration of the spikes are approximately 300 psec.  The transmittinr
+            electric org,,tn of Gn:,ttlionemus petersii is located in the tailstalk, occupying
+            2/3's of it and represents approximate i27o of the total length of the  fish.
+                                                17
+
+    op-
+                                                            -7/
+                         Fig. 19.  Tuberous  organ (electroreceptor) of
+                                   Gnathonemus petersii.
+                                               18
+
+                      The repetition rate of the impulses are influenced  by  light.  In  day-
+               li-lit the rest repetition rate is between 7 and 10, in the night it  increases
+                0
+               to 15-20.  It will also increase considerably in the case of a stimulus affect-
+               iiig the fish.
+                      The EMF of the fish Nvith no load and out of  water  is  between2  7  and
+               17 volts depending on the  particular  specimen.  The  internal  resistance  is
+               around a few kilo-ohms.
+                      The electroreceptors sensory fields of Gnathonemus petersii can be
+               clearly visualized if we put the fish in a solution of 1001o buffered formaline.
+               Figure 20 and 21 show the limits of these sensory fields.
+                      There are between 700 and 1000 tuberous organ 2electroreceptors,
+               between  800  and  1000  type  A  mormyromasts  electroreceptors  and   between
+               2100 and 2300 type B mormyromasts electroreceptors in the skin of an adult
+               Gnathonemus petersii.  The total number of electroreceptors varies between
+               3600 and 4300.  These are distributed on the body as follonvs: between 42 to
+               460/o on the hc-ad on 41 to 440/o of the electrorece2ptor fields; between 30 and 327o
+               on the dorsal sides on 27 to 30'0/o of the electroreceptor fields; and  between
+               22 and 260/o on the ventral sides on 25 to 327o of the electroreceptor  fields.
+               The total area of the  electroreceptor  fields  may  occupy  between  2000  and
+               5000 mm  2 area for fishes between 90  and  125  mm  length.  Figure  22  shows
+               the different types of mormyromas2t electroreceptors of Gnathonemus petersii.
+                       With the exception of the sensory receptors of the chin which are mech-
+               anical displacement receptors and are connected to the CNS through the Nervus
+               trigeniinus, the mormyromast electroreceptors are subserved by the lateral
+               line nerves.  Figure 23 shows the main branches of the lateralis nerves
+               system.  All the mormyromasts types (tuberous, A and B) are connect8ed to
+               nerves forniing bundles pertaining to the lateral line  system  and  ending  in
+               the brain.
+                                                    19
+
+                              Fig. 20.  The electric sensory fields of
+                                        Gnatlio,.iemus petersii.
+                         Fig. 21.  Limits of the electroreceptors sensory
+                                   fields of Giiatlionemus petersii.
+                                                 20
+
+                                                  IV,,
+                             Fig. 22.  Different types of mormyromasts:
+                                       a.  tuberous organ
+                                       b.  A-niormyromast
+                                       c.  B-mormyromast
+                                       (top and cut view).
+                                                  21
+
+                                                                                                                          IT
+                                                                                                                         Oro h A(
+                                                                                       N.LAr..
+                                                                                    iv rtA cr -
+6
+                            Fig. 23.  Tile lateral line nerves of the electric fish Gnathonenius petersii.
+
+                      The tuberous orl@,,iii clectrorcccl)tors are itutorytliiiiic and the EMF
+              may re-.icli ,i few millivolts.  The repetition rate varies from 550 to 3900
+              with the most often encountered repetition rate between 0. 95 and 1. 95 kllz.
+                      Figure 24 shows -,t comp2irison between sensitivity and density of the
+              electroreceptors in the epidermis of Giiathonei-nus petersii .iiid Fig. 25 sliows
+              the autorliytmic activity of the electroreceptors near the chin and near the
+              eye.
+                      FiLo,iire 26 shows the autorliytmic activity of the mechanical displace-
+              ment sensory or-ans as an effect of bending the proboscis of the c8hin.
+                      Experiments in this direction would be continued to record wave-
+              form and chan-es in repetition rate as a result of different stimuli.
+                                                  23
+
+                            Fig. 24.  Comparison between sensitivity and density
+                                      of the electroreceptors of Gnathonemus
+                                      petersii in the epidermis.
+                                           a vvvvw@
+                                           b
+                                          45
+                                           c
+                        Fig. 25.7  Autorhytmic activity of the electroreceptors
+                                  of Gnatlionemus petersii:
+                                  a.  500 Hz calibration signal
+                                  b.  electroreceptors near the chin
+                                  c.  electroreceptors near the eye
+                                                  24
+
+                     a.....................................................................................................................
+                     b
+                     c
+                                                            ........... ..................................... ..............
+                       -------------------------------------- ..........
+                     b
+                     C
+                                                        2              s lateral anterior innervating
+                            Fig. 26.  Electric activity from the nervu
+                                      receptor near the proboscis of a mechanical displacement on
+                                      the chin of Gnathonemus petersii when the proboscis has been
+                                      moved upwards.
+                                      a.  time marks = 50 Hz
+                                      b.  electric activity in t5he nerve
+                                      c.  movement of the chin proboscis
+
+                           4.  LARGE WATER TANK PREPARATION
+                                       FOR EXPERIMENTS
+                     The 12 ft. diameter, 4 ft high water tank has been prepared  for  the
+               other experiments that will follow for the Phase H investigation (Fig. 26).
+                     Heating the water is done with 2 x 1000 watts heaters  controlled  by
+               an IIYSI" temperature controller to ±  . IOC and is normall2y held at 250 C.
+               The heaters are in a separate 30 gallon tank and are connected to a relay
+               switching them on and off and controlled by the temperature controller.  Two
+               9 gallon per minute pumps are pumping in and out the water from the 30
+               gallon tank from and into the large tank (Fig. 27).
+                     Rails with nylon strings are provided for the silver -silver chloride-
+               platinized-silver-chlorized electrodes 2which can be moved from one end to
+               the other end of the tank (Fig. 28). The electrodes are connected to a  re-
+               mote controlled differential amplifier (ampl. fact. x 4200) suspended  over
+               thE@ tank and from the amplifier to the differential oscilloscope Tektronix
+               type 555 (Figs. 29, 30 and 31).
+                     An electric fish can be suspended in one of the  restraining  devices
+               shown 2in Fig. 32.  The fish restraining devices are provided with stainless
+               steelend electrodes which are connected to ,in audio-amplifier (ampl. fact.
+                300) and to the oscilloscope and displayed on a second beam.
+                      Our preliminary experiments show good promise for recording the
+               ch,,inges in the field of electric fishes produced by them as a result of stimuli
+               they are presented with.
+        4                                         26
+
+                   ..It$                      It
+                         Firr. 27.  12 ft. diameter fiberglass   talilr- provided
+                                    with heating, filtering, countercurrent
+                                    aeration and double rails for electrode
+                                    support.
+                                    Aug $4
+                            Fi(,-. 285. He.,tting tai-Lk provided with .ititoiiiatic
+                                       control of temperature to O. O loc.
+                                                    27
+
+                            Aga
+                  Fig. 29.  Differential amplifier hanging over the water tank.
+                     Fig. 30.  Close look at the differential anii)].ifier ilsed in
+                               conjunction with the electrodes in the water tank
+                               to record electric activity of electric fislies.
+                6                                 28
+
+                     Fig. 31.  Differential amplifier with remote control.
+                               Ampl. factor    x 4000, noise   1 microvolt.
+                           Fig. 32.  Devices  for restraining electric
+                                     fishes in the water tank.
+                                               29
+

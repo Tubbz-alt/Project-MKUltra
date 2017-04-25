@@ -1,0 +1,244 @@
+               1. Summary of Progress
+                      A comprehensive series of runs involving a variety of electrodermal and other
+               physiological measures has been completed on a population of 26 subjects under a
+               variety of task conditions and contrived psychological "sets" to assess the relative
+               sensitivity and reliability of various electrodermal measures, including the recovery
+               limb time constant. Assessment o2f impulsivity and anxiety by psychological tests as
+               well-as a psychomotor test of fnhi ition have been obtained on the subjects. Data analysis
+               is still in progress, but some preliminary conclusions have already been drawn and
+               are reported here as an interim progress note. Runs on a separate por)ulation of
+               twenty subjects under a -different set of stimulus concutions have been used to examine
+               the 2dependence of recovery limb time constant upon base conductance level and response
+               amplitude. The initial study of the vascular compcnent in the sl-,In potential response
+               has been completed. Develot)ment of the automatic measurement of recovery limb
+               time constant has progressed to the point at which a system is now available, using
+               first derivatives, which overcome many of the di2fficulties of the earlier appro@, ch in
+               N,vhich second derivatives were employed. The new system has been used to print out
+               the time constants for 22 subjects whose data had been stored on magnetic tape. These
+               data are now being subjected to statistical evaluation.
+               11. '@'tudv of Characteristics of Recoverv Limb in Rela,'Uion to Oth--r Electrodermal
+                   h,leasures
+                       a. Der)--nde,,ice of Recovery Limb Time Constant on Base Level.
+                       To determine whether the apparent relatl-ior of recover@,- limb to nature of the
+               stimulus condition was to be explained by diff--rences in base resistance level, compe-risons
+                                                                        Approved for Releas3
+                                                                        Date
+
+                                                                                                       2
+             N,;ere made between base level and recover,
+                                                           .; lirb time constan" for 21 subjects in
+             two conditions, each of which caused activation and consequent decrease in base
+             resistance, but with different degrees of goal oriented task demands.
+                    2 Mean,,, for the two situations were as follonvs:
+                                                  BackNvard
+                                                  Countiag
+             Condition                                 ven.-,)                     Cold Pressor
+             Average time constan@.'
+                 (scale units)                      17. 1                               21.7
+             Average base resist.,.ace
+                 level                             29. 5 K                              27.6 K
+                     7bese de-ta indicate tl,.at despi-Le the fact that the cold pressor task was, If
+             anythin.,-,, -cli,,Yh*,Iy more activating (dffference in level not statistically si,,mLficant) the
+             time constants v.,ere sig,2-.ifican,,Iy differeat (p < .01., paired comporison), tvie difference
+             is therefore not r-ttributable to difference in base level.
+                     It- ic to be expected, however, th.,,t subjects v.,ho shom -,reater activatioa for
+             p--r.lormance of a task migh,, show a refle--',,ioa of this'mob,.I2ization both in base level
+             and in recovery limb time constant.  AccordLi.-ly the co@--elation betyieer. base cor--
+             ductance and rime constant was determined for this same grcup ol' subjects during the
+             bact,-ward countilg tas!c, and it showed a signii@ica,,-t rela-tiorship (--r = -.49. r, 05).
+             -7or the cold pressor si;'Iiation where the --c-.ivation is presumed to be of a different
+             quality, the co-rreL--tion was consideralily lesn (r = -.4'3, @'.S.)
+
+                                                                                                  3
+                      b. Dependence of r-,ecovery Limb  Time  Constant  on  Response  Amplitude
+                       Although the time constant of an exponential decay should, if properly measured,
+                  be independent of amplitude of the curve, there are many conceivable reasons for
+                  suspecting that such may not be the case for the electrodermal response. Accordingl2y
+                  for each of 12 subjects, time constants were compared with peak amplitudes (con-
+                  ductance change) for 30 sequential responses talen across four experimenw.1
+                  conditions (rest, perceptual task, cognitive task, perceptual-motor task). The
+                  Pearson's correlation--, are shown below:
+                  Subiect                Pearsor.'s r          Si-ibiects                Pearson's r
+           2       1                           .29                7                            -.04
+                  2                           .29                8                            .14
+                  3                           .06                9                            -.04
+                  4                             43               10                           .03
+                  5                           -.25               11     2                      -.06
+                  6                           .15                12                           .00
+                        Tne inderendence of these two measures is well demonstrated. Some n@-ga#,-ive
+                                                                 I
+                  correlations might be expected because demandiag tasks could produce higher responses
+                  and also, 2because of the nature of the activation, shorter time constants. For most of
+                  these subje--ts, 1-ioviever, such was clearly not the case.
+                         c. Denendence of Recoverv Limb Time Cons,-,ant on Ouall@tv of Task
+                         A study ivas u@-idertal-,en to answer t%vo cuestions.
+                         1) IDoes the recovc--y limb vary as a funct'lon of the p--rceptual, cognitive,
+
+                                                                                                   4
+               or motor aspects of a task.
+                      2) If it does so, how does its specificity and sensitivity compare vtith
+               those of more conventional methods.
+               A. Method
+                      Twenty-six subjects were used in an experiment in which three tasks were
+               performed, alon,,-, with associated rest periods.2  In order to exclude the variance
+               known to be due to the operator's mode of instruction and his relation to the subject,
+               the tasks were programmed on video tape.
+                      1. Cognitive
+                      Each of a series of 12 Ravens Matrices Problems was presented for 30 seconds
+               followed by a 15 second rest period. Tne subject was to choose the pattern which
+               properly completed the matrix2 and was to report only after the given problem dir,-
+               appeared from tiie screen. Responses were chosen only from thd period in which he
+               was solving the problem. Obviously, contLmL-i-Lints such as visual perception, frustra-
+               tioa, etc., were present, but it was hoped ttiat the group result as a whole would be
+               heavily wei&,Iited by the cognitive performance factor.
+          2            2.  Percen' ,,lal
+                      A fixed pattern remained on the screen for three minutes. At random intervals
+               during this perlod, il@. would disappear, momentarily (40 msec) and for a total of IS
+               times. The subject was to continuously obser,,,e the pattern and after the end of this
+               task, upon command, report the number of disaopearances. All us8eable resoonses
+               d,,lring the observation period were am. l@,zed.
+
+                                                                                                    5
+                  3.  Reaction Time
+                  A series of five reaction time trials was used, cacti having a warning signal
+          arid a 10 second foreperiod.  hicasures were taken -at the time of the reaction key
+          press.
+                  4.  Other Measures
+                  a) Beb-cvior2al.   ln v ddition to the ,-bove, two psychological tests were
+          administered to these subjects, the &-irrett Impulsivity Scale and the Spielberger
+          Tr--it Anxiet@,, Scale. A behaviorl,.l test of motor inhibitl-ion task- .@,as a'L--o administered.
+          In this                     a-irLveatig=r, "-.the subject i.,3 told to turn a knob through
+          2180 degrees, continuously, but as slowly as he can.  Inhibi,6ion is assessed by    the total
+          time taken and by the degree to which ,-,-te is accelerated as t@le task progresses.
+                  b) Phvsiological.  In addition to the skir- conductance measure, skin potential,
+          c@, rdiotachometer recorcling, resdiration (mechanical pr.--u,-ro6-raph2 only) and -frank
+          perspiration were meas=-ed.  The last measure was obtained bv a mod:L4icaticn of the
+          photoelectric p--i.-@m method previously described.  The device has been improved to
+          eliminate vasomator artifacts and to allow use of a lightweight unit secured to the
+          .inz--r tip.
+                  ]During-the-azove-a:uns-;--test-s-were,run2-on-24 of -the subjects toidete--mine t e
+          4
+          serisit@v,.'                                                                             )nal
+                   ,,tyo-.I,thq;recov,-ry limb time constant for-detecting sLybtle-c@.ang,-.s-of emoti(
+                                              test was adopted for th,:-- purpose and
+          c 2e-@-                                                                      ;-,,,,cs used-undel-@
+          three@-differe-.it-derr,@-nd-situations-.- The, use of vit-@co tape was again hclp-.@"u'l'ln-"r'ed-u-'ciag,
+                                                         v;az presented.four let:,,ers andasked to
+                 5                                                                            - - --------------
+
+                                                                                                                     6
+                  choose one and v.,ritc it dov.-n, to  be  turned  in  actcr  the  task-  was  over.  lie  was  then
+                  presented a screen in N,.,hich these four letters appeared in a new order, the group
+                  being preceded by three other lettcrs and 2folio%ved by three more.  An arrow                          I
+                  ppeared and pointed to the first letter where It paused for 15 seco                  It then moved
+                  a
+             i    on to the next in the sequence and again paused for 15 seconds, etc.  The subject
+                  @mc,,v in advance that this would happen in regular sequence.           In  the  first  such  test,
+        2          the subject was to simply observe this sequence without any v--rbal report.  In the
+                      nd test, the   identical sequence
+                  seco'
+                                                                                        La  a  third  series  run  on
+                  13 of these 24 subjects,    the suli.)Jcct was told tli-,t he -,vould earn an extra   dollar  if  he
+                  managed2 to successfLlly7
+                                                                             An entirely new series and new
+                                  .@were used.  At  the'end  of  tL-e  previous  two  tests  he  had  been  told  the
+                  operatorts conclusion as to v;h',-r-h'o,,' the  letters was                        This   time   his
+                  se,,-" had been altered2 by his     knoviled-e of the operator s previous        success   and    by
+                  the added incentive                                 APain he v;as to respond  no" to each letter.
+                  B.  Results to Date
+                           Analysis   of these data Is still in process,     but some early results may be
+                  presented.  Follow-up progress reports viill be made as calculations are completed.
+                  2         I   Data F-aneling
+                           The tapes were made primarily so that Lnalysis            of  these   recor&-   could   be
+                  m--de af-,er furtiic;r development of electronic techniques         for  calculation  cf  the   time
+                  const--,nl@-.  This  development  went  on  as  a  p--rallel  e'kfort  durlig  completion  of   the
+            9      above  series  of  runs  and  has  since  been  co-@nDleted.  The  t-,,-i)es  have  been  run   off
+
+                                                                                                                      7
+                                                                                              out by usc of first
+              and the
+                                                                                                       e'ach    subject
+                                            N@eim and stand:,rcl deviations of responses for
+              d-.rivativ@-I proccsc.L-I"Y.
+                                                           calcul.,tcd In prei@?.,@-atio',l for t-
+              under  each   task   coiidition   are   being                                      tests of diff crences
+              betvicen coi,.dltions.  To d.,:@te calculations (.,n 12 0; t4c 26 subjccts have been completed.
+                        2.  comiriariso,,i BetNt.,ccn Conditionr,
+                        No comparigous acro33 subjects cau be            m   d,,- until all means ard star-&@rd
+                d--vi?-'t'Lon,- have been calct,.L,,ted, but intr,,t-indivi2dual comparisons betvieen t@,sks
+                h-@ve been r:.ade for -Iiose stibiects completed.        'o 11 ',7j2 rossible comparisons, only
+                                                          "d signI.;ica,-cc.   L,,, 10 of the 11 su'3j--cts who
+                3 reached sl&9"-ifir-ance;        aopro.,ch
+                sho-,ved reaction time rezpo=,es, the time corstar@l, for this           tasi: was the  shor@-.e!3t  of
+                the -hree tas"-."F-.o    conzistonl.- dif@ference appe----rs Letween the 'Cognitive and ,ierccptual
+                rlsks for that part of th,-@ p^,,nula,-aO.-. completed.
+                          Using the                                                   orrecti-y idertified tl-C con-
+                                                                    Lhe op-arator c
+                         le-,ter la the first .ex-ies for IS    of the 24 sab;ects.      @.Ioreover, Nvhe-. tl,.c subject
+                                   to  2                    ibv. mon--ta--y  re,,,:ard, th-, operator i,,Ie,-A,,,if ic d it-
+                 co=. ectly In 10.of th2 13 cases.        1,1 5instances,    the op-c!ra,,or   d  failed  to   identify
+                 the letter in the first scr-A.--r-, but, iilien monem. rv--revia.-d v,,2as ad@dcd he correctly
+                 ider--,ific-c! tLe r-ev@-      fo,@: 4 of these    i.L- i c ci--, .Tl,-@., comparison of
+                                                      is note%vor-LIay zhat i:i soi-.,Ie tnsmn c--!: in v;ii@cii
+                  Cl.)ii"uc,Lamcc aclivi@7 g-IY-c               results, tl-,c GP,-.1cal s-weat recordln,@, sho%,,,e%l@ a
+
+                                                                                                          8
+                        4.  Psvcholozical and Nvchomotor Tests
+                        These tests will later be used as a basis for sorting the population into
+                different types of physiological  responders.  To  date,  the  individual  impulsivity
+                ratings on the Barrett Scale have been compared with  tile  time  taken  for  180 2 degree
+                knob rotation. The co2@.-clation was unpredictably a positive one  for  the  26  subjects
+                (r = .0'7. p <.05), i.e., individuals judged  more  impulsive  by  the  Barrett  Scale
+                took longer to rotate the knob, indicating that the type  of  inhibition  measured  by
+                the two tasks is different. Tile Barrett Scale was  also  demonstrated  to  give  ratings
+                wh2ich were independent of  the  Spielberger  Anxiety  ratings.  Later  calculations  will
+                examine the interaction of these scale ratings and physiological findings.
+                III.  Study of a Posrible Vascular Comnonent in the Skin Potential Resnonse
+                        This study, Involving tile effect of arti@riol or venous cuffs upon skin potential,
+                has been completed on a total population of 242 subjects. Results are highly  sin,  if  I-
+                cant and show tha,. the shifl in potential can be more easily demonstrated upon
+                deflatio.n than upon inflation of the cuff, and that the p--la.-it-,r of this r)ost-deflation
+                re-cponse differs according to the type of pressure cuf.L used.  For venous (engorging)
+                cuffs (p = 60 min Hg) the r2esponse positive. For arteriol (occlusive) cuffs  (p  ---  180
+                mm Hg) the post-de.flation response is negative.  The conclusion that these represent
+                vasomotor adjustments is supported by a follow-up pilot study o-.i  the  local  potential
+                responses reported earlie.-.  It had been concluded th,--t the slow component of this
+                positive resr)onse to stre'.ch is o2f vascular origin. If so, it  should  be  demonstrable
+                even whea tile epide--mis is penetrated.  M-icroelect.-odes were pushed through the
+                epidermis until the negative porenf*ial fall prec-lpitously indicating penetralion  of
+                the dermis.  After allowin- time for stnbilization. increase of pressure on the
+
+                                                                                                         9
+               electrode causes a  potential  variation.  These  experiments  must  be  refined  to
+               eliminate the possibility of the "responses" being only a reflection of variations in
+               tip potential or sweat gland activity.  If valid they will offer strong support for a
+               vascular component in the sl,-in potential response.
+               I2V.  Development of ALtomatic Svstem
+                      Comparison of @-,-I&uer:, for recovery limb time constant obtained by template
+               matching with those obtained by the use of first derivatives indicated the inter-
+               changeability of these two methods.  The principle involved in the first derivative
+               method is that the absolute steepness of the recovery  limb  is  a  measure  of  its
+               time constant for responses of equal amplitude.  Responses of higher amplitude
+               having the same time constant will have a greater absolute steepness to the recovery
+               limb.  Hence the absolute slope of the recovery limb can be used as a measure of
+               time constant if a correction for  ampl-,ude  is  made.  In  practice  the  simplest
+               correction is to divide the amp'li-tude of 2the peak slope ('Lirst derivative) of the
+               ascending limb by that of the recovery limb.  This ratio, plotted against the temolate
+               readin,.-., gives a good line-ar relationship.
+                       To accomplish this electronically, the derivatives are obtained by r
+               differentiation and the output stored on capacitors with diode input so that per..k
+    05          ,va
+                                                                                                       10
+                  two frequencies. The output is printed out upon command and the system reset.
+                  At the same time as the above occurs, the value of the peal-, first derivative of the
+                  ascending limb which is proportional to response amplitude is printed out after
+                  measurement by a separate counter. Thus the response amplitude and re2covery
+                  limb time coastant are measured in a single operition.  It is @resumed, ho%,iever,
+                  that most facilities will not have the luxury of t%yo parallel voltage-to-frequency
+                  converters and counters and, therefore, an analog division circuit is being tested.
+                  In this system the two voltages to be divided a-re fed Into a diode division circuit
+                  and the quo2tient, as a voll@.-ave.level is fed into an A -D conversion and printing unit.
+                  This circuit is very simple, and as an alternative the output (proportional to time
+                  coastant) can be written out on an o-!--dinary @,,@-nalog recorder. The system then approaches
+                  practical utility.
+

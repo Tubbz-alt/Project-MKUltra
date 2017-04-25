@@ -1,0 +1,1653 @@
+                         CIO
+         SCIENCE
+                  I
+          SPECTRUM             1216 STATE ST RE ET  POSTOFFICE BOX 3003 -SANTA BARBARA, CALI FOR NIA 93105
+                                                                                      T E L E: P H 0 N E
+              cio                                                                     (80 5) 963-8605
+                  A NEW TECHNIQUE FOR STUDYING MICROORGANISMS
+              2    With differential light scattering you can learn more in minutes about
+                  microbial morphology and physiology than others have learned in years.
+                  Some examples are given in the accompanying Application Notes.
+                  This technique - new to the study of microorganisms - shares some
+                  capabilities of optical and electron microscopy.  Sample  preparation
+                  is simple and rapid; submicron physical details can be studied; a wide
+     2             variety of samples can be examined in many different environments
+                  and states, and physical changes monitored.
+                  The differential light scattering measurements detailed in the accompanying
+                  Application Notes were made with our DIFFERENTIAL I photometer.  In
+                  addition to determining structural parameters, such measurements ena  e
+                  bacterial presence and concentration to be determined easily.  The
+                2  scattering data can be analyzed rapidly, easily and quite accurately using
+                  the Atlas of Light Scattering Curves described in the enclosed flyer.
+                  For more information on these or other applications, or on our products,
+                  simply fill out the enclosed prepaid card.  A copy of our current seminar
+                  schedule also is enclosed.  If you have an@ question regarding the study or
+                  results reported in the Application Notes, pl2ease let us know.
+                  Sincerely yours,
+                  SCIENCE SPECTRUM, INC.
+                  James E. Hawes
+                  Vice President, Marketing
+                  Enclosures
+                                                            Approved for Releasib      13 C)
+                                                                   2 7 F P'P, ', r, 7,1.
+                                                           ,I)ate
+
+          .-WS C I EN CE
+                     I
+            SPECTRUM              121 6 S TAT E S T R E ET POST OFFICE BOX  30.03 SANTA BARBAMA, CALIFORNIA 931C
+                                                                                         T E L E P H 0 N
+                                                                                         (805) 963-86C
+                Jo
+                                                SEMINARS
+           2       Seminars with demonstrations explaining light scattering theory and its many
+                  applications are offered by Science Spectrum periodically at various central
+                  locations throughout the United States, free of charge.  The DIFFERENTIAL I
+                  and DIFFERENTIAL II instruments are also exhibited at selected professional
+                  meetings.   The   seminars and exhibits currently scheduled are:
+                        September 14  -  16, 1971        W2ashington, D. C. - Exhibit
+                        September  17,  1971             Washington, D. C. - Seminar
+                        September  21,  1971             Raleigh, North Carolina - Seminar
+                        September  24,  1971             New York, New York - Seminar
+                        September  27,  1971             Boston, Massachusetts - Semtlnar
+                        October 5, 1971                  Los Angeles, California - Seminar
+            2            October 7, 1971                  San Francisco, Calif. - Seminar (tentative)
+                        October 15, 1 971                Chicago, Illinois - Seminar (tentative)
+                  If you wish to attend one of the seminars listed above, please complete the
+                  form below and return it to the Company, A program will be sent to you about
+                  two weeks before the scheduled meeting, together with a confirmation of your
+                  reservation.
+2
+                  ------------------------------------------------------------------------
+                  I will attend your seminar to be held on
+                  at (city)                                                   Please send my prograrr
+                  to:   NAME                                          TITLE
+                        INSTITUTION
+                        STREET
+                        CITY,   STATE,   ZIP
+                        TELEPHONE(                     8                        EXTENSION
+                  T -,,- - - @,4     -@ -,- - --' -,I - -
+
+                                                 Atlas of Light Scattering Curves.
+             I n t r o d u c t i o n
+                                                                                                                VERTICRL
+                  The  interpretation  of  light  scattering  data   has                                       R   500 nm
+             long been  an  obstacle  to  the  widespread  use  of  this
+             powerful  analytical  tool.  Whil2e  some   scientists   de-
+             voted  their  careers  to  the  theoretical   understanding
+             of light scattering, their results were not readily  adapt-
+             ed  for  use  by  workers  in  other  fields.  High   speed
+             digital  computers  can  now  be   used   economically   to
+             generate scattering data for a variety of model  particles.
+                  The   purpose   of   the   Science   Spectrum    Light
+             Scattering  Atlas  is  to  2make   this   computer-generated                                                    U9
+                                                                                                               159
+             information available in  a  convenient  form  for  a  wide
+             range of light  scattering  applications,  involving  small
+             particles.  Computer-generated  light  scattering  patterns
+             are  plotted  on  the  same  scale  as   the   experimental
+   2                                                                                         9---
+             data measured by the Differential  /  and  //  light  scat-                      .,. m         TERaI.w-@t(xia
+             tering  photometers.  Semitransparent  vellum   paper   has           A sample page from the Atlas showing the light scattering
+             been  used  for  the  Atlas  so  that  accurate  comparison           curves for homogeneous spheri2cal particles of 500 nm radius
+                                                                                   and four different refractive indices.
+             of theory  and  experiment  is  achieved  by  merely  over-
+             laying  the  two  sheets.  Tables  of  normalization   con-     the  scattering  curves  of  spheres  with  radius  between
+             stants for absolute scattering  power  are  also  provided.     0.05  and  1  micrometer  in  steps  of  02.05   micrometer,
+                                                                             for refractive indices  ranging  from  1.33  to  1.59.  The
+             S i n g I e S p h e r i c a I P a r t i c I es i n A i r        refractive  index  of  the  surrounding  medium   is   that
+                  A  wide  variety   of   processes   produce   homogen-     of air (n - 1.0).  Curves  for  both  linear  polarizations
+             aous  spherical  particles  of 2 approximately  one  microm-     are given. Inspection of the scattering atlas  for  spheri-
+             ?ter  in  diameter.  For  example,  photochemical   aerosol     cal particles  shows  that  particle  size  can  easily  be
+             )r "smog"  droplets  and  colloidal  particles  like  those     specified  to  within  0.1  micrometer  diameter.   A   de-
+             n latex paints are  spherical.  Such  small  particles  may     termination of refractive index to  well  within  2ten  per-
+             !asily be suspended in air  by  nebulizing  a  liquid  sus-     cent accuracy is  achieved  for  spheres  by  simply  exam-
+             )ension  and  their  individual  scattering  patterns   are     ining the relative intensities at peak amplitudes.
+             eadily  measured  with  the  Differential   //   scattering     Supplements
+             )hotometer.
+                                                                                  Periodically, additi4onal scattering curves  are  pub-
+                 This important class of  scattering  objects  is  corn-     lished as supplement sections  to  the  Atlas.  Owners  of
+             letely  described  by  two  parameters:  radius   and   re-     the Science Spectrum Scattering  Atlas  will  receive  all
+             -active index. The first  section  of  the  Atlas  displays     supplements  issued  within  two  years  of  the  date  of
+
+              purchase without charge.  Subjects  selected  for  early     diameter at a  constant  refractive  index  can be
+              supplements include: the  effect  of  size  distribution     vided for studies of colloidal size distributions. E6N
+              upon scattering from suspensions of spheres; the  effect     this means sizing accuracy  of  +  10  nm  diameter  can
+              upon scattering of size and  size  distribution  changes     be obtained as reported 2 by  Phillips  etal  in  the  J.
+              in model  bacteria  and  mitochondria;  scattering  from     Colloid Int. Sci. 34 (1970), p. 159.  Scattering  curves
+              conductive particles; scattering from  absorbing  parti-     on absorbing spheres can also  be  computed  as  needed.
+              cles; and scattering from  airborne  bacteria.  Measured     Curves on  -any  spherically  symmetric  structure  with
+              scattering curves  from  known  non-spheri2cal  particles     varying  complex  refractive  index  can  be  generated.
+              may also be provided.                                        Specific applications for specialized  shell  structures
+                                                                           include  bacterizf,  bacterial  spores,  microencapsula-
+                   Computation of special scattering  curve  sets  for     tion particles, compound aerosol  particles  with  large
+              a wide variety of  o2bjects  will  be  done  at  moderate     nuclei, etc. Even more varied  shapes  can  be  computed
+              cost  using  proprietary  Science   Spectrum   compu-ter     exactly when the particle  nearly  matches  the  refrac-
+              codes. The scattering from spheres  of  different  diam-     tive index of the medium in which it is immersed
+              eters or refractive index  can  be  computed  on  order.     as in the case of bacteria in water.
+              For example, curves for  smal2l  variations  in  particle
+                       Please send me - - - - copies* of the Science  Spectrum  Scattering  Atlas  at  $25.00  each,  plus
+                       $1.25 sales tax if delivered in California.
+                       I understand that I will receive, without further charge, all supplemental sections  to  the  Atlas
+                       published in the next two years. Also, if payment is  enclosed  with  my  order,  Science  Spectrum
+                       will pay s2hipping costs.
+                       If I am not satisfied with the Atlas, I may return it postpaid within 10 days for a full refund.
+                       Name
+                       Title
+                       Department
+                       Organization
+                       Street
+                       City, State, and Zip
+                       My main interest in light scattering is:
+                       The supplement I am most interested in is:
+                         Purc5hasers of a  Differential / or Differential    photometer receive with the instrument two
+                       copies of the Atlas and all supplements for two years.
+                                                                                                                         Al-17-061(2)
+
+                                              Physiological           Monitoring of Bacteria and Mitochondria
+                       Introduction                                                                  servatives  such  as  phenol,   formatin, 
+or   alcohols   can   be
+                                                                                                     measured  precisely4.  Subtle  changes  in
+response   to   elevated
+                             Optical  2methods  ranging   from   microscopy   to   turbidi-           temperatures5   or   pressures   are  
+easily    determined.    Size
+                       metry  have  long  been  used  to  monitor  bacterial  growth   and           modification  and  cellular  damage  
+occuring   in   phage-infected
+                       division.  However,  the  optical  microscope  is  unable  to   re-           bacteria  can  be  measured.  The  process
+of   spore   germina2tion
+                       solve features smaller than a few wavelengths  of  light  in  size.           can  be  monitored  as  it  proceeds.  The
+response   of   chloro-
+                       Turbidimetric   measurements   are   subject   to   large    errors           plasts   to   various   processes  
+including   photophosphorylation
+                       because the attenuation of light  is  a  function  of  the  product           have  been  followed  by  light 
+scattering6-8.  The  sus2ceptibility
+                       of  particle  scattering  cross  section  and   particle   density.           of  bacteria  to  various  antibiotics 
+can   be   measured   within
+                       Since the particle scattering  cross  section  is  not  in  general           minutes  of  contact9.  Changes  in  mean 
+cell  size  during   syn-
+                       the same as the  particle's  geometrical  cross  section,  signifi-           chronous   growth   can   be   monitored  
+with   an   a2ccuracy   of
+                       cant interpretive  problems  arise.  A  given  value  of  transmit-           ±  20  nm.  The  effect  of  different 
+growth  media  on  the  size
+                       tance will  often  correspond  to  several  different  products  of           distribution of cells can  be  seen 
+clearly  via  light  scattering
+                       particle density and particle size.  On  the  other  hand,  differ-           patterns.   These   measurements   can  
+be   made   wi2thout    dis-
+                       ential  light  scattering   measurements   (i.e.,   recording   the           turbing  the  growth  of  the  culture.  
+Some   details   of   such
+                       pattern of light scattered by  such  particles  as  a  function  of           studies are discussed below.
+                       angle relative to the  direction  of  the  illuminating  beam)  are
+                       unambiguous,  often  yielding  size  and   shape   information   of
+                2       much    hig'her  precision  than  obtainable   with   a   microscope.                LASER                       
+CUVETTE
+                       Under  optimum  conditions,  cell  size  determinations  of  ±   2%                                                   0
+                       accuracy  are  achievable  with   differential   light   scattering                E::@
+                       measurements.
+                                                                        2                                       Figure 2
+                                                                                                                                               
+R
+                                                                                                       The Differential I Photometer
+                                                                                                             The Differential / light
+scattering photometer       2   is   a
+                                                                                                       highly  versatile  instrument,  uniquely
+suited  to  the  study  of
+                                                                                                       liquid suspensions of bacterial cells.
+It is shown  in  Fig.  1  and
+                                                                                                       its operation is represented
+schematically in 2 Fig.  2.  In  use,  a
+                                                                                                       cuvette  containing  the  suspension  is
+placed  in   the   instru-
+                                                                                                       ment   and   illuminated   by   the  
+intense   monochromatic   beam
+                                      Figure 1                                                         of an  argon-ion  laser.  A  spec2ially 
+designed  scanning  detector
+                                                                                                       system  records,  as  a  function  of  
+the   scattering   angle   0
+                                                                                                       relative to  the  beam  direction,  the 
+intensity  of  light  scat-
+                               A  variety  of  biologically  important  processes   can   be           tered by the  cells.  This2 
+differential  light  scattering  pattern
+                        accurately  studied  by  differential  light  scattering.   Physical           embodies  a  wealth  of  information 
+about   the   cell   ensemble,
+                        changes  in  mitochondria   subjected   to   various   enzymes,   pH           such as  cell  size,  shape,  structure,
+size  distributionio,i  1,
+                        variations,   and   osmotic   stresses   can   be   directly   moni-           and 0 even  structural  details  such 
+as  cell  wall  thickness  and
+                        toredl,3.-  Systematic  distortions  of  bacterial  cells  by   pre-           the refractive indices of the cell wall
+and cytoplasml2.
+
+                                A    final     example     of     considerable     interest     concerns     the                radius of 432 ±
+1 Onn which decreased to 403 ± 1
+                       effects   of   heat   killing    on    cell    size    and    size    distribution.    In                30 minutes
+heating. Theaverage cell wall thicknessrem@,,--
+                       preparing       autologous       staphylococcus       vaccines,       many        labora-   2             nearly   
+constant    at    108    ±    20nm    despite    the    heating,    but     th,
+                       tories    use    heat    as    a    sterilization    procedure.    Such    a    treatment                breadth     of 
+the     size     distribution     increased     by     15%      after'
+                       supposedly     does     not     destroy      the      immunogenic      properties      of                heating.
+                     2  vaccines    and    would    be    expected,    therefore,    to    have     little     or
+                       no   effect   on    cell    walls.    Figure    7    shows    the    changes    in    the                References
+                       differential    light    scattering    patterns    as    a    function     of     heating
+                       times     for     S.     epidermidis     broth     suspensions     at     600C.      ithe
+                       curves    have   2 been    broken     at     650     and     displaced     relative     to                 I .     G.   
+S.    Gotterer,    T.    E.    Thompson,    and    A.    L.     Lehninger,
+                                                                                                                                        
+'.Angular    light-scattering     studies     on     isolated     mitochondria,"
+                       each    other    for    visual    clarity.)    A    subsequent    analysis5    of    this                         J.   
+Biophysical    and     Biochemical     Cytology     10,     15     (1961).
+                       data    showed    that    the    un-heat     treated     cells     had     an     average                 2.      L.  
+Packer,   "Metabolic    and    structural    states    of    mitochondria,"
+                                                                                                               2                          J.
+BioL Chem. 235, 242 (1960).
+                                                                                                                                 3.      L.  
+Packer   and   k.   H.   Golder,    "Correlation    of    structural    and
+                                                                                                                                        
+metabolic     changes     accompanying     the     addition     of      carb2ohy-
+                                                                                                                                         drates
+to   Ehrlich   ascites   tumor   cells,"   J.    Biol.    Chem,    235,
+                                                                                                                                         1234
+(1960).
+                                                                                                                      2           4.      R.   
+M.    Berkman,    "The    effects    of    formaldehyde,    phenol,    and
+                                                                                                                                         other 
+alcohols    on    bacterial    structure     deduced     from     light
+                                                                                                                                        
+scattering,"    Am.    Soc.    for    Microbiol.    Proceedings,    May    1971.
+                                                                                                                                 S.      R.  
+M.   Berkman   and   P.   J.   Wyatt,   "Differential   light    scattering
+                                                                                                                                        
+measurements    of    heat     treated     bacteria,"     Appi.     Microbiology
+                   2                                                                                                                      20,
+510 (1970).
+                                                                                                                                 6.      L. 
+Packer,  P.   A.   Siegenthaler,   and   P.   S.   Nobel,   "Light   induced
+                              -                                                                                          2                high 
+amplitude    swelling    of     spinach     chloroplasts,"     Biochem.,
+                              30 m' n-,                                                            30 min.,                             
+Siophys. Research Communications 18, 474 (1965).
+                              -io                                                                                                7.      L.   
+Packer,    "Structural 2   changes    correlated    vv;th     photochemical
+                              10 m@n                                                                450,C
+                              -60 C                                                                                                     
+phosphorylation     in      chloroplast      membranes,"      Biochimica      et
+                                                                                  2                                                      
+Biophysica Acta 75, 12 (1963).
+                                                                                                                                 8.      L.   
+Packer,    R.    H.    Marchant,    and    Y.    Mukohata,     "Structural
+                                                                                                                                        
+changes    related    to    p2hotosynthetic     activity     in     cells     and
+                                                                                                   10 min..                             
+chicroplasts,"   Biocl?imica    et    Siophysica    Acta    75,    23    (1963).
+                                                                                                    60'C                         9.      R.  
+M.   Berkman,   P.   J.    Wyatt,    and    0.    T.   2 Phillips,    "Rapid
+                                                                                                                                        
+detection    of     penicillin     sensitivity     in     Staphylocaccusauteus,"
+                                                                                                                                         Nature
+228, 458 (1970).
+                                                                                        2                                        10.      A.  
+L.    Koch,    "Theory    of    the    angular    dependence    of    light
+                              Control
+                                                                                                                                        
+scattered   by   bacteria    and    similar    size(J    biological    objects,"
+                                                                                                                  2                       J.
+Theoret. Siol. 18, 133 (1968).
+                                                                                                   3 min.,
+                                                                                                    60'C                        11.      P.  
+J.   Wyatt,   "Differential   light   scattering:   a    physical    method
+                                                                                           2                                              for  
+identifying   living   bacterial   cells,"   Applied   Optics   7,    1879
+                                                                                                                                        
+(1968).
+                                                                                                                                12.      P.  
+J.   Wyatt,   "Cell   wall   thickness,   size   distribution,   refractiv2e
+                                                                                                   Control                               index 
+ratio,    and    dry    weight    content    of    living    bacteria,"
+                                                                                                                                         Nature
+226, 277 (1970).
+                                                                                                              2                  13.      Atlas
+of    Light    Scattering    Curves,    (Science    Spectrum,     Inc.,
+                                                                                                                                         Santa
+Barbara, California, 1971).
+                                                                                                                                14.      T.  P.
+Wallace   and   J.   P.   Kratahvit,   "Particle   size   analysis2   of
+                                                                                                                                        
+polymer  latices  by  light   scattering",   J.   Polymer   Sci.   C,   25,   89
+                                                                                                                                        
+(1968).
+                                                                                                                       2         15.      T.  
+P.   Wallace   and   J.   P.   Kratohvil,   "Size   distribution   analysis
+                                                                                                                                         of
+polymer latex systems by use of extrema in the                        angular
+                                                                                                                                        
+scattering  intensity," J. Polymer Sci.  A-2, 8,  1425                   (1970),
+                                       40         60          80         100i        120          140                           16.      P.  J.
+Wyatt,   "Light   scattering   in   the   microbial   world,"   On   the
+                                                          SCAT-TERING    ANGLE                                                          
+Occasion    of    the    Centennial    of    R,,yi2eigh    Scattering     Theory,
+                                                                                                                                         Am.  
+Chem.   Soc.,   Sept.   1971   (to   be   published    in    J.    Colloid
+                                                                                                                                         and
+Interface Science).
+                                                                                          2                                      17.      R.  
+J.   Fiel,   "Small   angle   scattering    of    bioparticles,"    Experi-
+                                                               Figure     7                                                              mental
+Cell Research 59, 413 (1970).
+                                                     For further information
+                                                             Call  or write the Director o2f Advanced  Technology, Science Spectrum,  Inc.,
+                                                             1216 State Street, Santa Barbara,  California 93105; telephone (805)  963-8605,
+                                                                                                                                               
+Ml-17-081
+
+                                                                 Rapid Assay of Bacteria in Urine
+                        I n t r o d u c t i o n                                                           LASER                        CUVETTE
+                             The  detection  of   threshold   concentrations   of   bacteria                                               0
+                        in  specimen  solutions  such  as  urine   presents   an   important            E2::
+                        medical challenge. If it  were  possible  to  make  a  rapid  deter-
+                        mination  of  whether  the  bacterial  count  in  urine  is  greater
+                        or less than 104/ml  (0.1  critical  level)  l,  it  would  expedite
+                        enormously  what   is   now   a   very   time-consuming   procedure.
+                        A testament  to  the  urgency  of  this  need  is  the  recent  work                  2                                
+D   ECTOR
+                        at  NASA2,  whose  luciferase   -   ATP   assay   to   detect   life
+                        on  other  planets  is  being  considered  for  detecting   bacteria                                  Figure 2
+                        in urine.
+                             A   more   direct   bacterial    counting    capability,    one
+                        which  is  simple,  effective  and  rapid,  is  available  via   the              2Differential  light  scattering 
+patterns  can   be   analyzed
+                        technique  of  laser   light   scattering   using   a   commercially       theoretically   using   computer    software
+already    developed,
+                        available    table-top    instrument,    the     DIFFERENTIAL     1.       or   simply   compared   to   previously  
+compiled   "known"   scat-
+                                                                                                   tering2  curves  in  a   pattern  
+recognition   approach,   analogous
+                                                                                                   to  fingerprint  identification.  An  Atlas 
+of   Light   Scattering
+                        DIFFERENTIAL I Photometer                                                  Curves5  is  available  which  permits  even
+those  not   previously
+                                                                                         2          familiar  with  differential  light  
+scattering   to   quickly   and
+                                                                                                   accurately  determine  many   of   the  
+important   physical   para-
+                                                                                                   meters  of  cells  in  suspension.  In 
+addition,  measured   changes
+                                                                                              2     in  the  light  scattering  pattern  can 
+be  employed   to   monitor
+                                                                                                   the   effects   of   variation   of  
+conditions   (heat,    nutrient
+                                                                                                   changes,  drug  treatment,  etc.)   on  
+bacterial   suspensions.   A
+                                                                                                   2number  of  these  applications  have 
+already   been   carried   out
+                                                                                                   using the DIFFERENTIAL I instrument4,6,7,8.
+                                                                                                   Urine Specimen Assays
+                                                                                                          The   simple   task   of  
+determining    concentrat2ions    of
+                                                                                                   bacteria  does  not  need  to  utilize 
+these  analytical  aids  how-
+                                                                                                   ever.   In   studies   of    bacterial   
+suspensions    using    the
+                                       Figure 1                                                    DIFFERENTIAL   I    thedetection    of    
+bacterial    concen2trations
+                                                                                                   of  105/mi  is  routine.  Indeed,  in 
+applications  such  as   anti-
+                                                                                                   biotic  susceptibility  testing,  solutions 
+are  prepared  at  about
+                              The   DIFFERENTIAL   I   laser   light   scattering    photom-       this  concentration  for  optimal  results. 
+At   these 2  concentra-
+                        eter  is  a  highly  versatile  semi-automatic  instrument  designed       tions and  lower,  the  intensity  of  the 
+scattered  light  at  any
+                        to  study  liquid  suspensions  of  cells   with   minimum   altera-       angle  relative  to  the  background  from  
+the   liquid   system-is
+                        tion  of  their   normal   environments.   The   instrument,   shown       approximately   proportional   to   the  
+number   and   densi2ty   of
+                        in Fig. 1, records the intensity variation with  angle,  0,  of  the       cells,  especially  when  the  cell  size 
+distribution  is   narrow.
+                        scattered light  which  results  when  a  cuvette  of  the  solution       Thus, calibration of  the  light  scattering
+patterns  in  terms  of
+                        under study is  illuminated  by  a  laser  beam.  The  operation  is       cell concentration is straightforward.
+                2        shown schematically in Fig. 2.                                                    Figure  3  shows  a  set  of   light
+scattering   recordings
+                              The variation with  angle  of  scattered  light  intensity  is       taken   on   the   DIFFERENTIAL   I   for  
+pure   distilled    water
+                        detected   by   a   speciaily-designed   scanning    system    which       and  with  several  bacterial 
+concentrations   as   indicated.   The
+               2         records the output on a  strip  chart  or  x-y  recorder,  or  on  a       detectability of these levels can be
+clearly seen.
+                        digital data card punch unit.                                                     In  specimen  solutions  such  as 
+urine,  appreciable   back-
+                              When  the  size  and  internal  structure   of   the   illumi-       ground  light  may  be  scattered  from  
+various   materials   other
+                        nated   p2articles   have   dimensions   approximating   the    wave-       than  the  bacteria,  materials  such  as 
+tissue  cells,   granules,
+                        length  of  the  incident  light,  as  do  bacteria,  the  scattered       cel I debris,  leukocytes,  erythrocytes 
+and  various  crystals.  To
+                        light pattern is particularly sensitive  to  these  particle  param-       gauge  the  magnitude  of  this   background
+scattering,   bacteria
+                        eters.  The2   features   (amplitude   and   angular   positions   of       in   known   concentrations   were   added 
+to   unprocessed   urine
+                        maxima  and  minima)  in  the  scattering  pattern  give  a  precise       and   the   samples   examined   in   the  
+DIFFERENTIAL   1.    Some
+                        measure of the  size,  shaoe,  structure,  and  size  distrit)@ition       of thP Tvni(-?] 1,;rRt'rPrinn ni8ttOIr'f ?rP
+il r-;' 4. It
+
+                                                                                                                                              
+Figure 4
+                                                                    Figure 3
+                                                                                                                                       
+Bacteria added to urine
+                                                                S.aureus in water
+                            2                                                                                               2 5lo,lcc
+                                                                                                                                           2.3
+10 'CC
+                                                                                                                                               
+2 205ec
+                                      2                                                                @.GR    D
+                    z
+                                                                                                                                              
+130     150
+                    >                                                                                  30      50               -G LE.
+                                                                              2                                                             
+Figure 5
+                                                                                                                                      Clinical
+urine samples
+                                                                            7 . 105 ML.
+                                                                            7 . 104 ML.      >
+                                                                                  2           I..
+                                                                            PURE H20         0                         B
+                                                                                             z
+                                40        SCATTERING ANGLE. d"lsft     120                                                     WITH COLIMYCIN
+                    able, as expected; even at a lower concentration of 2.8 x                W
+2                    104/mi  the  pattern  is  emerging  from  the   background   signal.
+                          These  results  for  untreated  urine  are  very  encouraging.
+                    Simple  techniql;es  such   as   warming,   mild   acid   treatment,
+                    and  sedimentation  all  of  which   are   compatible   with   rapid                                   DN 1*1
+                    processing,  and  should  not  affect  the  bacteria,   can   remove
+  2                  most  of   the   background-producing   material,   thereby   reduc-
+                    ing  the  background  scattering  levels  so  that  bacterial   con-
+                    centrations  appreciably  lower  than  105/mi   can   be   measured.
+                    Qualitative Studies
+                          Figures  5A  through  5D  show  light   scattering   patterns,                    40      SCATTERING ANGLE, degm-m   
+100
+                    t2aken   with   the   DIFFERENTIAL   1,   based   on   four   patient
+                    urine samples9. The protocol for all four was:                              References
+                       *  1 loopfull of urine  was  placed  in  trypti  case  broth  and        1.  R. N. Barnett, "Conference on the Medical 
+Usefulness  of  Micro-
+                          incubated for six hours;                                                  biology," Amer. J. of Clinical Pathology 54
+Part 11, 521  (1970).
+                                                                                                2.  G. L. Picciolo, B. N. Kelbaugh, E. W.
+Chappelle, A. J. Fleig, "An
+                       *  0.5  ml  of  the  incubated  solution  was  placed   in   13.5            Automatic  Luciferase  Assay  in   Bacteria
+in   Urine,"   NASA
+                          ml of distilled water in a cuvette;                                       Goddard Repor2t X-641-71-163 (Apr. 1971).
+                       *  the  cuvette  was   placed   in   the   DIFFERENTIAL   I   and        3.  A.  L.  Koch,  "Theory  of  the  Angular 
+Dependence   of   Light
+                          scanned.                                                                  Scattered by Bacteria and Similar-sized
+Biological  Objects,"  J.
+                                                                                                    Theoret. Hiol. 18, 2133 (1968).
+                          Samples   A,  C,  and  D   showed   no   growth   when   incu-        4.  P. J. Wyatt, "Cell Wall Thickness, Size
+Distribution,  Refractive
+                    bated  overnight  on  a  nutrient  plate.  Sample   B   showed   the            Index  Ratio,  and  Dry  Weight  Content  
+of   Living   Bacteria
+                    presence  of  growth  after  incubation  overnight   on   a   plate,            (Staphylococcus aureus)," Nature,  2262,
+227  (1970).
+                    corroborating  the  clear  indication  of  bacterial  cells  in  the        5.  Atlas of Light Scattering Curves (Science
+Spectrum,  Inc.,  Santa
+                    light  scattering  pattern   (specimen   curve).   The   effect   of            Barbara, California, 197 1). A flyer (Al)
+describing the Atlas is
+                    treatment  with  an   antibiotic   (colimycin)   was   also   deter-            available on request.
+          2                                                                                      6.  R. M. Berkman and P. J. Wyatt,
+"Morphological  Changes  in  Heat-
+                    mined.  As  shown  in  Fig.  5B,  simply  by  adding  it  to  sample            treated  Staphylococcus  epidermidis  as  
+Derived   from   Light
+                    B and then  rescanning  its  resulting  light  scattering  pattern8,            Scattering," Applied Microbiology, 20, 510
+(1970).
+2                    susceptibility  was  clearly  indicated  by  the   dramatic   change        7.  P. J.  Wyatt,  D.  T.  Phillips,  and  R. 
+M.  Berkman,  "Osmotic
+                    in the pattern. This  illustrates  the  rapid  antibiotic  suscepti-            Sensitivity in Staphylococcus aureus 
+Induced  by  Streptomycin,"
+                    bility   test   capability   of    the    DIFFERENTIAL    1.    When            (submitted).
+                    coupled  with  the  simple   yet2   sensitive   capability   of   the        B.  R. M. Berkman, P. J. Wyatt and D. T.
+Phillips,  "Rapid  Detection
+                                                                                                    of Penicillin Sensitivity in Staphylococcus
+aureus," Nature  228,
+                    instrument  to  measure  bacterial  concentrations  in  urine,   the            458 (1970).
+                    importance of differential  light  scattering  as  a  clinical  tool        9. 2 Recorded  by  Dr.   S.   Pantelick,  
+Yale-New   Haven   Hospital
+                    is evident.                                                                     (unpublished).
+                              For further information
+                                     Call or write the Director of Customer Liaison, Science Spectrum, Inc., P. 0. Box 3003,
+                              1216 State Street, Santa Barbara, California 931 05; telephone (805) 963-8605.1
+
+                                                standardization of Bacterial Culture Media
+                                                  and Suspensions Using the Differential I
+                 I n t r o d u c t i o n                                                       By  comparing  data  obtained  with  bacteria 
+grown   on
+                                                                                          different  media,  one  can  immediately  determine 
+similari-
+     2                  In the process  of growing bacteria, it is often  neces-           ties or differences in the growth patterns. In
+addition,  this
+                 sary to. maintain a  strict uniformity of. the  cultural  con-           simple  comparison  technique  can  easily  be  
+extended   to
+                 ditions from one day to  the  next.  The  success  of  a  long           measuring the effects of toxins, antibiotics2,
+temperature 3 ,
+                 and often costly experiment  2is  directly  dependent  both  on           chemicaIS4, irradiation, and  moisture  on  growing 
+bacteria.
+                 the quality and on the uniformity  of  the  growth  media.  In                An Atlas of Light  Scattering  Curvess  can  be 
+used  to
+                 clinical laboratories,  the  lack  of  uniformity  of  culture           determine quickly  and  accurately  particle 
+parameters  such
+                 media  can  lead  to  grave  consequences.  For  example,   in           2as size, refractive index, and size distribution 
+for  various
+                 antibiotic susceptibility testing, errors  not  only  in  pre-           species of bacteria and similar particles.
+                 paration of the culture medium', but  also  variation  between
+                 batches of media supplied  by  the  manufacturer  can  produce
+                 erroneous results. In commercial  laboratories  (drug  houses,
+                 chemical manufacturers, etc.) a major  obstacle  to  obtain2ing
+                 optimum biological or  biochemical  yields  arises  from  lack
+                 of  a  precise  means  to  measure  and   standardize   growth
+                 media.
+                       The  formulation  printed  on  bottles   of   dehydrated
+                 culture  media,  unfortunately,  only  approximates  many   of
+                 the  actual  components.  The  chemical  composition  of  com-
+                 ponents  such  as  peptones,  tryptic  hydrolysates  and  meat
+ 2                extracts  are  known  to  vary  greatly  from  one  medium  to
+                 another.  In  addition,  analyses  or  descriptions  of  amino
+                 acid sequences, lengths of peptide chains,  vitamin  contents,
+                 and contents of all other  growth  and  inhibitory  substances
+                 which  may  be  present  in  complex  media  are,  of  course,
+                 not normally provided nor available.                                           Figure 1
+     2                  In rehydrating and sterilizing  a  culture  medium,  the
+                 chances of altering  the  medium  to  an  unknown  degree  are
+                 high.  Temperature  and  duration  of  autoclaving,   tempera-
+                                                                                          Differential  I
+                 ture of medium  when  plates  are  poured,  ambient  ternpera-
+                 ture and humidity, thickness of the medium,  and  agp  of  the2
+                 plates affect subsequent growth.                                              The DIFFERENTIAL           laser light
+scattering  photo-
+                       The difficulties in  standardizing  cultural  conditions           meter  is  a  highly   versatile   semi-automatic  
+instrument
+                 are  quite  apparent.  However,  Science  Spectrum  now   pro-           designed to  study  liquid  suspensions  of  both 
+viable  and
+                 vides an  instrument  to  monitor  2with  high  reproducibility           nonviable cells. The instrument,  shown  in  Fig. 
+1,  records
+                 and precision, variability  in  culture.  media  and  cultural           the directional pattern of scattered light  intensity
+from  a
+                 conditions  in  general.  The  DIFFERENTIAL  /  measures   the           bacterial  suspension  illuminated  by  a  laser  
+beam.   The
+                 physical and physiological state  of  growing  bacteria,  pro-           operat7ion is shown schematically in Fig. 2.
+                 viding  a  means  to  quantify  variability  of   the   growth                The pattern (i.e. the intensity of scattered
+light  as  a
+                 conditions.                                                              continuous function of angle relative  to  the 
+incident  beam
+
+                      LASER                        CUVETTE
+                                                       0
+                                                                                                                                               
+Figure 3
+                                                                                                                                               
+S. aureus
+                                                                 2                                                   2.0 x 10'lmi
+                                                                                                                      1.5 x 101/mi
+                                                                                                                        1.0 x 10'/ml
+                        Figure 2                                                                                          5.20 x 101/mi
+               direction)  is  recorded   by   an   automatic   scanning   detector
+               system,  the  output  of  which  is  designed  to  drive  either   a           cn
+                                                                                               z
+               chart recorder or a digital data card punch unit.
+                      If the  average  radius  of  the  bacteria  approximates  the
+               wavelength  of  the  laser  light, 2 the  interaction   between   the
+               cells and the light is strong.  Hence,  variation  in  intensity  of
+               the scattered light  is  particularly  sensitive  to  the  size  and
+               structure  of  the  bacteria.  Conversely,  the  features   of   the
+               light  scattering  pattern  generated  by  and   measured   with   a
+               DIFFERENTIAL   /   can   be   used   to   deduce    average    size,
+               size distribution6 and even  general  st2ructure  of  the  particles.
+               Measuring  Relative  Cell
+               C o n c e n t r a t i o n s                                                                 50           70            90       
+110
+                                                                                                                SCATTERING ANGLE (DEGREES)
+                      To   determine   cell   numbers   by    differential    light            Monitoring  of Solid  Media for
+  2             scattering,  a  standard  set  of  light   scattering   measurements            Growth Potential
+               for  different  known  concentrations  of  bacteria   is   used   to
+               establish   control   patterns.   In   making    subsequent    light                  Difco  Tryptic   Soy   Agar   (TSA),  
+Nutrient   Agar   (NA),
+               scattering  measurements,  a  quick  comparison   to   the   control            and  Heart   Infusion   Agar   (HIA)   were 2 
+evaluated   using   S.
+               curves  allows  a   very   accurate   determination   of   bacterial            aureus   (Seattle)   and   the   DIFFERENTIAL  
+/.   Cells   removed
+               concentrations.  Differences   in   cell   concentration   of   less            from  each  plate  after  incubation  for  8 
+hours  at  370C   were
+               than  five  percent  are   easily   recognized   by   this   method.            resuspended  in  water  to  an  optical  
+density   2(OD)   of   0.38
+                      Figure 3  shows  a  typical  standard  set  of  curves  which            (N =  650  nm).  For  the  differential  light 
+scattering  measure-
+               were  used  as  control  patterns.  In  this  case,   Staphylococcus            mervts,  the  cells  were  then  diluted  1/40, 
+corresponding   to
+               aureus (Seattle) was  the  test  organism.  The  cells  were  spread            cell counts of approximately 8 x       2 106 
+bacteria  per  mi.   In
+               evenly  on  Heart  Infusion  Agar   (HIA)   and   after   incubation            addition, a set of  four  Tryptic  Soy  Agar 
+plates,  freshly  pre-
+               at  37"  C  for  10  hours,  an  aqueous  suspension  of  cells  was
+               prepared. The initial cell concentration was 2.0 x       107   cells                                                    Figure 4
+               per mi; by dilution concentrations of 1.5 x  2     107, 1.0  X  107,                                                     S.
+aureus from fresh
+                            106
+               and 5.0 x          bacteria  per  mi  were   also   prepared.   Note                                                    Tryptic 
+Soy   Agar   plates
+               from  the  figure  that  large  differences  in  overall  scattering
+               were  produced  with  cells  differing  by  only   25   percent   in
+               concentration2.  The  position  (scattering  angle)  of   the   maxi-
+               ma, i.e,  the  primary  peak  (arrow)  provides  a  measure  of  the
+               average  size  of  the  bacteria.  Note  that   dilution   has   not
+               altered the angular  position  of  this  peak,  nor  has  it  signi-
+               ficantly  changed  the  overall  appearance  of   the   curves.   If
+               the  bacteria  were  of  smaller  average  size,  the  position   of
+               the  peaks  0would  have  been  shifted  to  larger  angles  (to  the
+               right)  or  to  smaller  angles  were  the  average   size   larger.
+               But the  overall  intensity  level  of  the  curves  is  essentially
+               only a function of cell concentrations.
+
+                                                                                                      Figure 6 Effects of media on  growth  of 
+S.  atireus
+                                     D                     Figure 5
+                                                       SIZE DISTRIBUTION
+                                                       EFFECTS N SCATTERING FROM
+                                                       @ML BACTERIAL SUVENS.aft
+                                                          EM M@ETER 900
+                      1.0 -                               . . . . . . .
+                      120 -
+                      100 -
+                               C
+                                                                                                   Figure 5  shows  a  series  of 
+computer-plotted  curves
+                            2                                                                 for cells of varying size distribution. The loss
+in peak defl-
+                                                                                             nition is clearly increasing with widening of the
+size distri-
+                                                                                             bution.  The  Science  Spectrum  Atlas  of  Light 
+Scattering
+                                                            2                                 Curvess  can  be  referred  to  for  excellent 
+approximations
+                                                                                             of size and size distribution.
+                                A
+                       20 -                                                                        The scattering curves shown  in  Fig.  6 
+were  obtained
+                                                                                             when S. 2aureus was grown on  various  solid 
+media  for  8  hr
+                                                                                                                                               
+0  '
+                       0                                                                     at 370 C. The plates contained (A) TSA,  stored 
+at  4  C  for
+                        a      20            N      so     100    120    140      160        16 days, (8) TSA2, freshly  prepared,  (C)  NA, 
+stored  for  6
+                                            SCATTERING ANGLE, d.W-
+                                                                                             wks at 40 C, (D) HIA, 6 wks at 40C,  and  (F) 
+HIA,  sealed  2
+                     pared, served as  a control for variability  within  a  single          mos at 40 C. At first glance  the  differences  in
+scattering
+                     medium batch. The four contro2l curves  are  shown  in  Fig.  4.         appear small; however, a composite of  Curves  A,
+C,  and  E,
+                     Note that while the  relative  heights  of  the  peaks  differ          shown to the right, clearly reveals some 
+significant  quanti-
+                     slightly, the four curves are almost identical in shape.  (The          tative and qualitative differences in three of 
+the  cultures.
+                     differences in peak  height  suggest  that  the  cell  concen-     2     Such  differences  cannot  be  measured  with 
+other   conven-
+                     tration of each sample  differs  by  a  small  percentage,  an          tional particle sizing  or  monitoring 
+instruments.  Only  by
+                     error resulting from lack of sensitivity of the  spectrophoto-          differential scattering measurements could it  be 
+ascertained
+                     meter used to prepare the suspensions.)                                 that, for example,  the  cell  conce2ntration  is 
+highest  for
+                           30'        30'              30'        30'        30,              30'
+                                                                       D                           F                         Figure 7
+                                                                                                                             Endogenous growth
+                                                                             5                                                of S. aureus
+                                                                     SCATTERING ANGLE (in 10 degree increments)
+
+                   Curve A    and  lowest  for  Curve  C.  (The   OD's   for   all   three            was  barely  detectable.  Note  also  how
+cell   shrinkage,   readily
+                   ,suspensions  were  the  same.   The   so-called   OD   as   determined            deduced  from  shifts  of   the   primary
+peak   to   larger   angie%
+                   with     conventional     spectrophotometers     depends     critically            (A,  8,  D,  E,  F)  can  be  obse2rved 
+to  various  degrees  for  each
+                   upon  the  average  size  of  the  particles  and  is   not   a   mono-            of  the  six  preparations.  Lastly,  
+one   can   deduce   that   cell
+                   tonic   function   of   this   average   size.)   Furthermore,    cells            size  distribution   had   narrowed  
+significantly   in   some   cases
+                   producing  Curve  C  are  smaller  than  the   others,   as   evidenced            (e.g., curves 8,  2D,  E,  and  F)  as 
+is  evident  from  the  signifi-
+                   by  the  shift  of  the  scattering  peak  to  higher  angles.  Lastly,            cant sharpening of the primary peaks.
+                   the  cells  producing  Curves  A  and  E  are  similar  in  size,   but                   In  a  set  of  control 
+determinations  (not   shown)   inocula
+                   differ  in  that  the  size  distribution  among   the   latter   cells            on  four  plates  made  from  a  2single 
+batch  of   TSA   were   found
+                   (E) is narrower.                                                                   to   change   uniformly   when   held  
+in   water   for    8    hours.
+                         Of  equal  significance   is   the   ability   of   the   DIFFER-
+                   ENTIAL  /  to  measure   physiological   differences   in   the   cells
+                   taken  from  these  six  cultures.   The   method   is   described   in         2   Summary
+                   the next section.                                                                         Differential   light   scattering 
+measurements    provide    a
+                                                                                                      sensitive  means  to  measure  numbers,  
+size,   size   distributions,
+                                                                                                      refractive  index,  and   refractive  
+index   dist2ribution   of   bac-
+                                                                                                      terial   cultures.   With    the   
+DIFFERENTIAL    I    laser    light
+                   Endotrophic Metabolism, a measure                                                  scattering   photometer   the   most   
+critical    applications    in-
+                   of cell  quality                                                                   volving   standardizing   of   culture  
+2media   are    possible    and
+                                                                                                      practical.  In  addition   to   its  
+ability   to   monitor   quantity
+                         The   cultures   tested   directly   from   agar    media    have            and  quality  of  bacterial   growth,  
+the   instrument   provides   a
+                   characteristics  which  differ  not   only   with   respect   to   size            sophisticated   means   to    s2tudy   
+physical    and    physiological
+                   or  size  distribution,  but   also   with   respect   to   nutritional            changes in growing and resting cells.
+                   makeup.    The    DIFFERENTIAL    I    can    also    measure     these
+                   nutritional  or   physiological   differences   simply   by   measuring
+                   changes   in   light   scattering   among   cells    reincubated    for            R e f e r e n c e s
+                   sever2al  hours  in  liquids  having  no  nutritional  value,  such   as
+                   water or certain buffer solutions.                                                 1.     A.W. Bauer, W.M. Kirby,  J.C. 
+Sherris,  and  M.  Turck,  "Anti-
+                                                                                                             biotic susceptibility testing  by 
+a  standardized  single  disc
+                          Figure  7  shows  the  scattering  cur2ves  of  the   same   cell                   method." Arner. J. Clit7. Pathol.
+45, 493 @ 1966)
+                   suspensions as Fig. 6 taken after changes due to               endotra-                                                     
+apid   de-
+                   phic  metabolism  had  occured.  The   data   of   Fig.   6   are   in-            2.     R.M. Berkman, P.J. Wyatt, and D.T.
+Phillips, "R
+     2                                                                                                        tection of penici)lin sensitivity
+in  Staphylococcus  aul-ems,"
+                   cluded  in  Fig.  7  as  broken  lines  for   the   purpose   of   com-                   lvature 228, 458 (1970)
+                   parison.   The    solid,    unretouched    curves    show    how    the            3.     R.M. Berkman and  P.J.  Wy2att, 
+"Differential  light  scattering
+                   scattering  signatures  changed  for   each   of   the   six   cultures                   measurements  of  heat  treated 
+bacteria,"  Appl.  Microbiology
+                   when  they  were  allowed   to   stand   in   the   cuvettes   contain-                   20, 510 (1970)
+                   ing  water  for  an  additional  1  0  hours  at  250  C.  The  changes            4.     R.M.  Berkman,  "The 2 effects  of
+formaldehyde,   phenol,   and
+                                                                                                             other  alcohols  on  bacterial 
+structure  deduced  from   light
+                   observed  consisted  of  changed  in   cell   numbers,   average   cell                   scattering," Am.  Soc.  for 
+Microbial.  Proceedings,  May  1971
+                   size   and   size   distribution.   Endotrophic   growth   was   appar-            5.    2 Atlas of  Light  Scattering 
+Curves,  (Science  Spectrum,  fnc.,
+                   ently   best   among   cells   previously   grown    on    fresh    TSA                   Santa Barbara, California, 1971)
+                   (Curve  8)   since   the   scattering   curve   was   shifted   upwards            6.,    P.J. Wyatt, "Cell wall thickness,
+size distribution,  refractive
+                   significantly.  On   the   other   hand,   the   residual   growth   of          2         index  ratio,  and  dry  weight 
+content  of  living  bacteria:'
+                   Staphylococcus   aureus   taken   from   Nutrient   Agar   (Curve    C)                   Nature 226, 277 (1970)
+                                           For further information
+                                          Call or write the Director of Technical Liaison, Science Spectrum, Inc., P.O. Box 3003
+                                           1216 State Street, Santa Barbara, California  953105;   telephone (805) 963-8605.
+                                                                                                                                               
+M4-17-091
+
+                                     New Laser Instruments f or M icrobio lozy Demonstrated
+                                                                                                                With  the  advent  of  new  
+laser   light   scattering   instrum
+                                                                                                           tation,  on  display  by   Science  
+Spectrum   at   booths   812-813.
+                                            2                                                               is no longer  necessary  to  wait 
+for  days  to  determine  the  resl
+                                                                                                           of   an   experiment   involving  
+microorganisms.    Bacteria,    spo
+                                                                                                           and   other   microorganisms   now  
+may   be   examined    with    Ic
+                   2                                                                                        powered  lasers,  permitting  their
+structural   characteristics   a
+                                                                                                           their   responses   to   various  
+environments   and   processes   to
+                                                                                                           quantified accurately and rapidly.
+                           2                                                                                      One of the  basic  laser 
+instruments  for  such  studies  is  I
+                                                                                                           DIFFERENTIAL     TM     light    
+scattering     photometer,     shown
+                                                                                                           the  left.  Applications  of  this 
+new   instrument,   and   this   n
+     2                                                                                                      approach   to    microbiology,   
+demonstrated    by    the    Company
+                                                                                                           its  exhibit  include  quantifying  
+the   effects   on   microorganis
+                                                                                                           of  pesticides  and  germicides,  
+antisera, 2  and   various   chemicz
+                                                                                                           Antibiotic   susceptibility  
+determinations   also   will   be   dem(
+                              The Differential   instrument                                                strated.
+                              for studying microbial suspensions and molecular solutions.                        Another    basic    laser   
+instrument    being    demonstrated
+     2                                                                                                      Science    Spectrum    is    the   
+DIFFERENTIAL     /ITM     photome
+                          Periodic  Demonstrations  Scheduled                                              for  studying  single  
+microorganisms.   Using   this   unique   inst
+                                Periodic  demonstrations  of  each   instrument   will   be   given        ment,  the  structure  of  single 
+bacteria  2and  spores  can  be  det
+                          by Company personnel at its exhibit booths 812-813.                              mined  while  the  individual 
+particles  are  still  viable  and   ir
+                                Every  two  hours,  beginning  at  9:30   a.m.   various   applica-        natural environment.
+                          tions  of  the  DIFFERENTIAL  /   will   be   presented.   These   appli-               Another  instrument,  one  
+very   important   to   th2e   clini
+                          cations include -                                                                laboratory,   is   the  
+DIFFERENTIAL   //ITM.    Shown    below,    t
+                                •  bacterial growth and morphology                                         instrument  enables  antibiotic 
+susceptibilities   to   be   determir
+                                •  the  effects  of  various  alcohols  on  bacterial   suspensions        automatically  and  rapi2dly.  It 
+will  be   demonstrated   periodicz;
+                                •  antibiotic susceptibilities                                             by  Company  personnel  for  the  
+duration   of   the   exhibit   usi
+                                •  accurate   measurement   of    bacterial    concentrations    in        viable  organisms  and  several 
+antibiotics.  Susceptibilities   will
+                                   suspension                                                 2             computed  by   the   instrument  
+within   two   minutes   of   sample
+                          Many  other   applications   will   be   discussed.   Also,   Application        troduction.  Samples  of  the  data 
+card  printed  with  the   compu@
+                          Notes  will  be  available  for  inspection  and  discussion  with   Com-        susceptibilities  will  be  
+distributed   together   with   brochures
+                          pany personnel.                         2                                         scribing the instrument and test.
+                                The    DIFFERENTIAL    ///    instrument    for    the    automatic
+                          determination  of   antibiotic   susceptibilitieswill   be   demonstrated
+                          each   morning   at   10:30   A.M.    Afternoon    demonstrations    will
+                          start  at  12:30,  2:30,  and  4:30  P.M.  During   each   demonstration,
+          2                susceptibilities of viable  bacterial  isolates  to  several  antibiotics
+                          will   be   automatically    computed    by    the    DIFFERENTIAL    IIL
+                          Samples  of  the  data  card  printed  with  these   computed   suscepti-
+                          bilities  will  be  distributed,  together  with   brochures   describing
+                          the instrument and test.
+                          Differential  Light  Scattering  Papers
+  2                               Exciting results and potentials  of  differential  light  scatter-
+                          ing  investigations  were  discussed  in  papers  presented  during   the
+                          Annual  Meeting.  W.  Khan  et   al   described   "Rapid   Detection   of
+                          Bacteria  and  Antibiotic  Sensitivity  in  Body  Fluids   by   Differen-
+                          tial   Light   Scattering",   paper   M45   presented   in   Session   24          The D2ifferential I// instrument
+for automatically det              -b-
+                          Monday   afternoon.   M.   W.   Wolfe   and   D.   Amsterdam    mentioned          susceptibilities.  'Approved f
+                          some  preliminary  differential   light   scattering   measurements   re-
+                          lated to  their  study  of  the  "Interactions  of  Bacteria  of  Medical                           Date      2 7
+                          Importance  with  Plant  Agglut2inins",  paper  M  107   of   Session   69          The  DIFFERENTIAL  III           
+I
+                          Tuesday afternoon.                                                                        The   new   DIFFERENTIAL   
+///    instrument,    shown    abc
+                                 A  survey  of  the  potential  of  differential  light  scattering          rapidly  and  automatically  
+determines   antibiotic   susceptibili-
+                          was 2 discussed  in  a  seminar,  Session  25,   held   Monday   afternoon          of  microbial  specimens   in  
+an   entirely   different   arxl   nc
+                          and   titled   "Instrumental   Approaches   to   the   Rap@d    Detection          manner.   It   will   be  
+demonstrated   periodically    throughout
+                          and ChAr,-,-terizitior,. r@f Partqrii".             h\, r),ivi(i Am@.rpr-                                  c@pllr
+p@n-4 co@lp,;,[          ?ni  dete--
+
+                         Differential Light Scattering Papers cont.                                             The DIFFERENTIAL /// TM
+Instrument cont.
+                         dam,   Kingsbrook   Jewish   Medical   Center,   Brooklyn,   the    speakers           ing  susceptibilities   in   a 
+few   minutes.   During   each   demonstra-
+                         were   Donald   A.   Glaser,    University    of    California,    Berkeley;           tion,  first  sample 
+suspensions  of2  the  bacterial   isolate   are   pre-
+                         Henry   Lubatti,   University   of   Washington,    Seattle;    Norman    G.           pared  and  exposed  to 
+different  antibiotics.   Then   in   the   instru-
+                         Anderson,   Oak   Ridge    National    Laboratory;    Philip    J.    Wyatt,           ment,  each   sample   is  
+illuminated   in   succession   with   a   laser
+                         Science  Spectrum,   Inc.,   Santa   Barbara;   and   Henry   D.  2 Isenberg,           beam  of  low  power.   The  
+illuminated   bacteria   scatter   the   inci-
+                         Long  Island  Jewish  Medical   Center.   An   abstract   of   Dr.   Wyatt's           dent   radiation,   producing  
+characteristic'light   scattering   patterns
+                         presentation   "Applications   of   Differential   Light    Scattering    in           which   respond   in   a  
+manner   corresponding   to   the   response   of
+                         the C2linical Microbiology Laboratory" follows:                                         the  cells  to  the  
+antibiotic.   The   patterns   produced   by   suspen-
+                               Dr.  Wyatt  described  a  powerful  new  approach  to  many   of   the           sions   incorporating  
+antibiotics   are   compared   in   succession    to
+                         problems of clinical microbiology. Noting that  the  size  of  bacteria  and           the   pattern   produced   by  
+a   control   2suspension    without    anti-
+                         the wavelength of visible light  are  about  the  same,  Dr.  Wyatt  pointed           biotics.   The   degree   of   
+susceptibility    indicated    by    pattern
+                         out thatasa consequencea variety  of  unusual  effects  are  observed  when-           changes  then  is  
+automatically   computed   and   printed   on   a   data
+                         ever laser light is scattered from  bacteria.  By  carefully  measuring  an2d           card.
+                         interpreting  the  manner  by  which  such  microorganisms   scatter   laser
+                         light,  numerous  microbiological  phenomena  may  be  rapidly  and   accur-                 A    DIFFERENTIAL    /// 
+placement     and     evaluation     pro-
+                         ately characterized. These light  scattering  techniques  have  thus  opened           gram  will  begin  shortly 
+after  the  ASM  meeting  in   several   labora-
+  2                       the  way  for  extensive  new   instrumentation   that   promises   dramatic           tories   throughout   the  
+nation.   The   results   of   this   evaluation
+                         changes in near future for the  clinical  laboratory.  Dr.  Wyatt  described           program   will   be    made   
+available    periodically    to    interested
+                         instrumentation and techniques currently  available.  including  a  new  and           clinical  laboratories.
+2                         revolutionary  automated   system   (DIFFERENTIAL   111)   that   determines
+                         the antibiotic susceptibilities of  exponential  phase  isolates  within  12
+                         minutes. He also described other  instrumentation  to  be  developed  within
+                         the next decade using light scattering techniques that  could  permit  rapid           Differential  Light 
+Scattering,  Briefly
+                         identificati2on and susceptibility  testing  of  clinical  specimens  without                 When   particiesare  
+illuminated    by    light,theywill    ingeneral
+                         the requirement for initial isolation and  incubation.  All  the  techniques
+                         described appear to be equally  applicable  to  aerobes  and  anaerobes,  as           scatter this light  in  all 
+directions.  The  intensity  of  the  scattered
+                         well as the more fastidious myco2bacteria. In  this  la"er  regard,  a  high-           light  as  a  function  of 
+thedirection  has  been  termed  the   differen-
+                         light of his talk was  the  preliminary  repo"  that  Dr.  Claude  Reich  of           tial  scattered  light 
+intensity.  This  is  illustrated  schematically  in
+                         Johns  Hopkins  (Leonard  Wood  Memorial)   had   measured   an   antibiotic           the  figure  on  this  page. 
+The  trace  adjacent   the   schemati2c   shows
+                         effect on a species of mvcobacteria  in  less  than  15  minutes  using  the           such  a  differential  light 
+scattering  pattern  (measured  in   a   plane
+                         differential light scattering technique.                                               with  respect  to  the 
+direction  of  the  incident  light)  for  a  single
+                                                                                                             2   Bacillus   sphaericus   spore.
+Comparison    of    this    pattern    with
+                                                                         swe                                    theory   permits   the   unique
+determination   of   the   spore's   diam-
+                                                                   ARTICAL                                      eter  and  refractive  index 
+of  the  spore's  cortex  and  coat.  For  the
+                                          2                                                                      example  shown,  the  radius 
+of  the  spore  was  found   to   be   483   +
+                                                                                                                5nm,  the  coat  thickness  80 
++  10nm,  the  refractive  index   of   tt@e
+                                                                                                                cortex 1.56 + 0.02 and of th2e
+coat 1.48 + 0.03.
+                                                                                                                Your  Invitation
+                                                A schematic of the differential                                       To  see  the 
+instruments,  and  to   discuss   the   application   of
+                                                light scattering measurement                                    particular  interest  to   you,
+please   drop 2  by   booths   812-813   at
+                                                and a sample of the resulting                                   your  convenience.  Company 
+scientists   will   be   there,   and   litera-
+                                                   tt    f      ngle spore
+                                                                                                                ture  and  data  folios  will 
+be  available  for  your  inspection.   Also,
+                     2                                                                                           you may fill out  a  request 
+form  to  receive  -  free  of  charge  -  any
+                                                                                                                Company publications you
+desire.
+                                                                                                                      Should  you  care   for  
+more   information,   or   copies   of   our
+          2                                                                                                      publications,  please  call 
+of  write  the   Vice   President,   Marketing,
+                                                                                                                Science   Spectrum,   Inc.,  
+1216   State   Street,   Post    Office    Box
+                                                                                                                3003,     Santa      Barbara,2 
+California     93105,           telephone
+                              T     2a'         w     a    IV    120'  la'   law    ior                         (805) 963-8605.
+                                                    SCAMRING ANGLL
+                                                             PUBLICATIONS AVAILABLE FROM SCIENCE SPECTRUM
+                         Reprints                                                                           2    Light Scattering in the
+Microbial World, P. J.  Wyatt,  J.  of  Colloid  and
+                         Differential Light Scattering., A Physical  Method  for  Identifying  Living           I nterf ace Science 40 (1972)
+in press.
+                         Bacterial Cells, P. J. Wye". Applied Optics 7, 1879 (1968).                            Dielectric Structure of Spores
+from Differential  Light  Scattering,  P.  J.
+                         identification of Bacteria2 by Differential Light Scattering,  P.  J.  Wyatt,           Wyatt, Spores V, (1972) in
+press.
+                         Nature 221, 1257 (1969).                                                               Bibliographies
+                         Call Wall Thickness, Size Distribution,  Refractive  Index  Ratio,  and  Dry           DIFFERENTIAL  I  bibliography 
+-  selected  reference   material   including
+                         k*ight Content of Living Bacteria  (Stap2hylococcus  aureus),  P.  J.  Wyatt,           particle suspensions and
+molecular studies.
+                         Nature 226, 277 (1970)                                                                 DIFFERENTIAL  11  bibliography 
+-  selected  reference  material   including
+                         Morphological  Changes  in  Hear-treated   StaphVIococcus   epidermidis   as           single particle measurements.
+                         Derived from Light  Sca2ttering,  R.  M.  Berkman  and  P.  J.  Wyatt,  Appl.           Application Notes:
+                         Microbiol. 20, 510 (1970).                                                             Physiological Monitoring of
+Bacteria and Mitochondria
+                         Measurement of the Lorenz-Mie Scaffering  of  a  Single  Particle.  Polysty-           Rapid Assay of Bacteria in
+Urine (currently being updated)
+                         rene Latex, P2.J. Wyatt, 0. T. Phillips  and  R.  M.Berkman,  J.  of  Colloid           Standardization  of  Bacterial
+Culture  Media  and  Suspensions  Using  the
+                         and I nterf ace Science 34, 159 (1970).                                                DIFFERENTIAL I
+                         Rapid Detection of Penicillin Sensitivity in Staph ytococcus aureus'  R.  M.           Size Measurements of Single
+Microparticles
+                         Berkman,  P.2  J.  Wyatt  and  0.  T.  Phillips,  Nature  228,  458   (1970).           Characterization  of  Airborne
+Particulates  Using  the   DIFFERENTIAL   11
+                         Evolution of a Light  Scattering  Photometer,  0.  T.  Phillips,  BioScience           The Structure of Individual
+Microorganisms
+                         21, 865 (1971).                                                                        Measuring  Antibiotic 
+Susceptibilities  and  MI2C's  by  Differential  Light
+                         Size Distribution of Bacterial Cells, V. R. Stull, J. Bacteriol.  109,  1301           Scattering
+                         (1972),                                                                                Brochures describing -
+                         Osmotic  Sensitivity  in  Staphylococcus  aureus  Induced  by  Strepromycin,           DIFFERENTIAL   I   instrument  
+for   studying   microparticle   suspensions
+         2                P. J. Wyatt, R. M. Berkman and  D.  T.  Phillips,  J.  Bacteriol.  110  (May           and molecular solutions
+                         1972) in press.                                                                        DIFFERENTIAL  11  instrument  
+for   studying   individual   micropar-ticies
+                         A New Instrument for the  Study  of  Individual  Aerosol  PartiCleSr  F)  J.           DIFFERENTIAL  III  instrument 
+for   autom5ated   antibiotic   susceptibility
+
+                                                                 01@IGI.N OF Tlli-.- (;ALVA-,IC 5KIN' I-,LSPONsrr.                             
+559
+                              were   used   to   identify   the   cells   which   were    pre-    vi(le the active pht,,,ocytic population.
+                              1).trin,,,   for2   di%-isioii   tiid   colloi(lal   !;accharated       i.  Kelly,  L.  S.,  I)ob-@on,,  E.  L.,-
+Finney,   C.   R.,
+                              iron    oxide    was    used    to    identify    the     active    Hirsch, J. 1)., @t?;t. J. Phvsiol., 1960,
+%-19S, 1134.
+                              pha.,,,oc),tic   cells.   In   livers   of   mice   whose    re-       2.  Abercr4)iiit)ic,  M.,  Harkness,  R.  
+D.,   Proc.   Roy.
+                              tictilo-eii(lotlielial    systeni    was    stit-nulated'    I)y    Soc., seri(,s 8, 1951, vl3S, S44.
+                                                                                                     3.  Be.Lr(l, 1. W., Itous, P.,     1. 
+Exp.   Alctt,   193.1,
+                              cstra(liol,  it   was   established   that   the   cells   pi-e-
+                              parin-,   for    division    and    those    which    had    re.    v-9, -"D3-
+                                                                                                     4. linwat-d, J. G., 2Rowley,        1)., 
+War(lltw,   A.   C.1
+                              centlx,  (li%,idc(l     were     actively     pha-ocytic.     In
+                                                                                                  liol??:Ii?zology, 1958, VI, 181.
+                              livers  of    mice    Nvhose     reticulo-eild2othelial     s@,s-
+                                                                                                     5.  Bensch,  K.  G.,  Simbonis,'  S., 
+Hill,   R.'B.,   King,
+                              teni     liici     been     "blockaded"     with     saccharated    D. %%'., Nal8tre, 19S9, vIS3, 47S.
+                              iron   oxide,   it   %vis    established    that    t2he    cells       6.  Kelly,  L.  S.,   Dobson,'E.   L,  
+Fed.   Proc.,   1961,
+                              which    had    phagocytized    colloid     were     able     to    v2O, 265.
+                              divide   in   the   process    of    recovery    from    "block-       7. Howard. J. G., J. Patig. Bact., 1959,
+v78, 465.
+                              ade."    No   evidence   was   found    for    a    stem    cell   2    8. l,ison, 1,., Smul(lers, J., Nature,
+1948, vl62, 65.
+                              which    proliferates     and     differentiates     to     pro-    Acceived May  14,  1962.          P.S.E.B.M.,
+1962,     vIlO.
+                                                         Origin of the Galvanic Slcin Response.*   (27579)
+                                          BENJA'.1l.v A. SI-IAVER, JR.t  SAUL W. BRUSILOW,- i%ND  ROBRRT                              E. CooxE
+                                                                          (Introduced by C. P. Richter)
+                                    Departrite?tt of'Pediatrics, Johns -Hopkins U@tiversity School of Vedicijte and Ararriet Lane Monte,
+                                                                      Johns Hopkins2 Hojpilai, Ballititore, Afd.
+                                 If   a   metal   plate   electrode   is   placed    on    the    skin    reflex    and    the     galvanic    
+skin     response,
+                                                                                                                                               
+f
+                              sl-iii   surface   of   the    human    palm,    o2r    on    the    wneii  recor ed  from                       
+te     electrda-ds-
+                              foot  or   toe   I)ads   of   the   cat,   and   the   body   of    Cnereatter referred to as 4'macroeiectro
+                              the                     subject      -rounded      by      means                                            
+1.@'s    suriace    are
+                              of   arotlier    metal   2 plate    electrode    at    some.point                                              
+difier    as    would
+                              on   the   body   at   a   distance   from   the   first   elec-                                              ce 
+in    the    path
+                              trode,   a   chaii-e   in   electrical   potential   will    oc-    length    and    conduction    time    of   
+the    nerve    fi-
+                              cur   betwee2n   the   2   electrodes   in    response    to    a    bers carryin- the stimulus to the skin(l).
+                     ,k
+                              stimulus   transmitted   to   the    skin    by    the    s3,in-       Various     theories   of    ori-in    of.
+the    -alvanic
+                                                                    There   is    a    -simul-                            the  -alvanic  skin  
+response
+            2                  pathetic nervous system.                                            skin  reflex  and
+                                                              ski
+                              taneous decrease in the             n's   resistance   to    the    have been      advanced       at  one time or
+another
+                              passage   of   ar.    electric    current.    When    the    po-    qince    their     discovery     by    
+Fere(2)     and     2Tar-
+                              tential  chan-e  is  elicited  bv   any   p7a-i'hf   -I,'-   are
+                                                                                 u  st r -@"      chanoff    (3),    respectively,    over   
+70    years     ago.
+                              ing,   or   t   reatening    event    in    t    e    nvironment    1'era-uth(4),      by       implanting      
+the       grounded,2
+                                                                       h  -6
+                                                                                                  or    indifferent,    electrode   
+beneath-the     skin     sur-
+                              ot    e txper,.menta  subject,           it is  referred      to
+                                                          rc  ex.    When      the    stiiiiu-
+                              as t e2    ,alvanic ski;,i@'                                         face,     demonstrated     that     the    
+potential     change
+                              f@@is applied peripherally           as when      a     peril)h-    ori-inated    within    the    skin,   
+rather     than     from
+                              eral   sudomotor  nerve,  or            the          sympathetic    muscle     and      other      underlying    
+tissues.      The
+  2                            tt:'uii@--@o the hin-d   'extr"e -mity is    stimulated,.    the    controversy       primarily       centers   
+around       the
+                              pii(-Cn-tiai c@aii,,e    is   called    the    galvanic    -skin    cluest-.on     of      whether      this     
+phenomenon      is
+                              rcspo;ii-c- The       -%@ave 2   forms    of    the'     galvanic    caused    by    sweatin-,    the    widely  
+accepted     view.
+                                  This  project    was   supported   in    part    by    grant    These     theories     and     the    
+experimental     evidence
+                              from U. S.    Public  Health Service.                               suj)l)ortin-    them    have    been   
+reviewed     by     Wan-
+                                i Fellow   of 2Nfaryland Heart Assn.
+                                  Senior   Research Fellow, U.S.P.H.S.
+                                                                                                     Richter(S)      pointed     out   that   
+the    skin    1)o-
+                                                                                                                                               
+:ro
+                                  9                                                                                                            
+r
+                                                                                                                                      Approve
+                                                                                                                                      'nato
+
+                                      560                      ORIGIN OF THE GALVANIC SKIN            Rnspo-,qsE
+                                      tential  tracings  obtained   from   the   palm   of     pipette  was  provided  for  by  inclusion   of 
+a
+                                      he  human  sub   ect   contain   2   components:   a     silver-silver chloride  electrode  as  an 
+inte-ral
+                                      t
+          2                            fast  component,  negative  in  direction,   and   a     part of the electrode holder.
+                                      slow  component,  positive  in   direction.       He     Indifferent,  or  ground  return,   electrodes  
+of
+                                      recorded   the   slow   positive   component    from     several kinds, placed in  a  variety  of 
+locations
+                                      the  skin  of  a  patient  with  congenital  absence    2 were   used   with   uniform   results.  
+Electrode
+                                      of  the  sweat  (,lands.  The  fast  negative  corn-     materials  included  platinum,   steel,  
+stainless
+                                      ponent was absent   in   this   patient.   He    con-    steel,  and  zinc.  Locations  included   the  
+ab-
+                                      cluded Liat the   fast    negative    component    was   doininal cavity  of  the  la2l),trotomi7ed 
+animal,.
+                                      related to sweating,  but  that  the  slow  positive     skin  of  the  thigh,  muscle  of  the  thigh, 
+the
+                                      component was  not,   and   had   its   or:,Iin   in     ton-ue,  and  the  external   car.   The  
+recorded
+                                      capillary or epithelial cells  of  the  skin.            responses  were  not  affec2ted  bv  the  na,ure
+or
+                                      Lloyd (6),  studying   the   galvanic    skin    re.     location  of  the  indifferent  electrode,  
+unless
+                                      sponse of  the  skin  of  the  cat's  paw  pad,  re-     the  latter  was  placed  near   the  
+stimulatin",
+                                      centlv   discovered   that   Richter's   observation     electrode   within   the   abdominal   cavity.  
+In
+                      2                (5) OL'  2  components  was  valid  in   that   species  the latter case,  as  would  be  expected, 
+consid-
+                                      -ilso.                                                   crable  stimulus  artifact  was   introduced  
+into
+                                          However,    Lloyd    interpreted    his     data
+                                      to  indicate  that  the   slow   component   was   a     the traci2ngs.
+                                      @,weat  -land  "secretory,  potentiaf.'   that   was     The  si-   al from   the    recording   
+micropipette
+                                                                                                      n
+                                      related to reabsorption, and to the  amount       of     electrode  was  fed  into  a   couplin-  
+amplifier
+                                      moisture in the sweat2 cland ducts.                       employing   asin-le-encled CK-588
+                                                                                                                                   9    
+electrom-
+                                      The present study     was    undertaken    to    de-     eter   tube.   The   measured   electrometer  
+tube
+                                      lermine which of these conflictin-      interi)reta-     ,,rid current 2was   10-14   amperes.    The   
+signal
+                                      tions is  valid.  Cats  were  employed  as  the  ex-     was furl,her  amplified  by  Offner 
+transistorized
+                                      perimental iubjects.  The   use   of    micropipette     voltage   and power anplifiers.
+                                      electrodes permitted  direct     measurement      of     The  electrical  resistance  of  the  
+micropipette
+      2                                the electrical  potential  from  the  lumen  of  in-     electrodes  used  in   these   experiments  
+ranmed
+                                      dividual  sweat  -lands  and  from   the   epidermal     from 2(> to 60 me-ohms.  This    resistance    
+was
+                                      and   (lermal   tissues   surrounding   them,    Si.     contintiouslv  monitored  by  means  of  the 
+pulse
+                                      nitiltaneouslv,  the  galvanic  skin  response   was     injection  technic,  and  did  not  
+sil-nificantly
+                                      recorded  from   a   macroelectrode   covering   the     change  durin.-  the  experiments  reported  
+here.
+                                      --urface of a  paw  pad  of  the  same  extreiility.     riie u,@ual precautions  in  selectin-  
+niicropip-
+                            2          Tticthods.  In   our   experiments,   the   -alvanic     t!tte  electrodes  with  low  tip  potentials 
+were
+                                      skin  response  was  studied  by   meastiriii-   the     obseev(-d.  '\Te,-ative  feedback   was   used  
+to
+                                      el,.@ctr;cal potential arisiner in the skin of    the    cincel out  input capacitance.
+                                             2                   C,
+                                      paw  pad  of  anesthetized   mongrel   cats in   re-     The    microelectrode     imt,-)Iantations    
+were
+                                      sponse to  electrical  stimulation  of  the  Itimbar     made  tinder  direct  vision  with  the  aid  of
+a
+                                      sviiipathetic  trunk   supplyin-   the   homolateral     dissectin-  microscope  and  a   Zeiss  
+micromani2-
+                                      hin(i  extremil@v.  A  nerve   preparation   similar     ptilator. To  obtain  the  -alvanic  skin 
+response
+                                      to  thit  of  Dale   and   Feldberg(7)   was   used.     in the @ame animal, a  small  stainless  steel 
+cup
+                                      The   apparatus   and    technics    employed    are     electrode, 1.5  cm  in  diameter,  covered 
+another
+            2                          similar to those used  in  the  microclectro(le  im-     toe pad of. the  same  paw.  A  layer  of 
+electro-
+                                      palenient  of  single  nerv@  fibers.  Glass  capil-     lvte-coiitaining  paste  was   interposed  
+between
+                                      larv tubes  were  rlranvn  out  into  microl)ipettes     the toe pad and  the  cul)  electrode.  The 
+latter
+        2                              with  a  pipette  puller  similar  to  the  one  de-     electro(le  was  connected  to   an  
+in(lependen',
+                                      ,crii)c(l  I)v  Alexander   and   Na!;tuk(,I).   The     liirect-current differential amplifier.
+                                      electrodes  were  filled  with  methanol  I)v  boil-     Beciuse 'of its ready availabilitv      and 2  
+con-
+                                      iiig  tinder  v;icuum,  and  subsequentlv  with   3-     v(,nience,  the  electrolvte  paste  used  in 
+most
+                                      Noriiial  potissium  chloride  bv  (lifftision   re-     of  these  experiments  was  that  made   bv  
+tile
+                                      1)lacement  of   the   methanol.   Flectrical   con-     Stnborn Co. to b1e used between the qkiii      
+ajid
+                                      tact  with  the  electrolvte  solution  within   the     aii  electrocardio-raph   electrode.   To  
+exclude
+
+                                                       ORIGIN OF TIIE GALVANIC SKIN RESPONSE                                     561
+                             polarization phenomena    at   the   skin   Lnd    in- IA)   show   this   slow    positive    component,    but
+                                                                                                                                               
+ti
+                             different  electrodes,2   the   results   obtaineti   when the   simultaneously   recorded   galvanic    skin   
+re-
+                             usin.-  the  Sanborn  paste  and  a   st-.iinILss   steel sponse  (Fig.  1B)   frequently   did.   All   of  
+tl-.e
+                             macroclectrode     were     compared     with     results microelectrode    responses     obtained     from    
+in-
+                             obtained    when    using    a    zi2nc    macroelectro(le dividual  sweat  -lands   were   identical   in  
+wav(.--
+                             covered  witli   a   paste   composed   of   kaolin   and form   to   that   shown   in   Fig.   IA.   The  
+latent
+                             a  saturated   aqueous   solution   of   zinc   sulphate. period   varietl   from   0.6   to   0.8   second,   
+the
+                   r.        The     zinc-zinc     sulphate     mac2roelectrode     was mean   and   median    values    bein-    0.7   
+secon(l.
+                             used   in    Richter's    experimcnts(5,10),    and    is The   magnitude   6f   the   peak   ne,,ative   
+response
+                             a   combination   in   which   polarization   over    the varied  with  stimulus   intensity,   the   niore  
+elec-
+                             voltage   range   in   these   experi2ments   is    negli- trone,@.ative  responses   beinl-   obtained   with  
+the
+                             -ible.   Under   the   conditions    of    the    experi- hi-,her    volta-e    stimuli.    The    positive   
+Com-
+                             meiits   reported   here,    the    results    obt,-Lined ponent of the -alvanic skin     response     (Fi".
+                             witii   the   2   electrode   and   paste    comb2inations IB)   was   not   always   present   in   the   
+trzcings
+                                                                                                                                               
+i
+                             were identical.                                     obtained  from  the  macroelectrode.     It     ap-
+                               The   output   si-nals   from   both    the    amplifier I)eired  mcist  consiste2ntly  in  response   to  
+hi,-her
+                             coni.ected  to  the   microelectrode,   and   tl-,e   am- voltage  stimuli.   Its   presence   or   al).ience  
+ap-
+                             plifier connected to    the     macroelectrode     cov- peared to be related to the   intensity   of    the
+                             crin,,,  the  toe  pad,  were  fed  into   a   2-cliannel stimulus,   discussed    below.
+  2                           Offner    recordin-    galvanometer    by    melns     of Repetitive    sqztarcwave    stimulatioi;.    In    the
+                             which  the   2   signals   could   be   recorded   ,imul- exi@)erimcnts   performed    with    repetitive   
+qtimu.
+                             tancotisly.                                         litioll,  a  stimulatin.-  frequency  of  120   per   sec-
+                               A   Grass   stimulator   supplied    the    stimtilatinr oii(i   was   employed.   In   response   to  
+repetitive
+                                                                                 stimulation   (Fio,.   2),   the   microelectrode   with-
+                             pulses to a platinum boot electrode   placed      at
+                             laparotomv     around     the     lumbar     svmpatlieti2c in  a  sweat   -,land   duct   lumen   held   a  
+uniform
+                             trunk   supplyiii-   the   hind   extreniity    of    the negativity  for  the  first  half   minute   and  
+there-
+                             animal.   Squarewave     pulses,      varyin,,      from after   be,-an   to   decay   toward   the   base   line,
+                             thresliold, usually 2 to 3 volts, tr.) 7 to 10    N,olts and   finally   rose   to   l2umen   positivity   by  
+the
+                     r@      were   employed.   Pulse   duration   was   i    -,o    5en(! of  th,@-  third  minute  of  repetitive  stit-nula-
+                             microseconds.                                       tion,   whereas   the   galvanic   skin   response    re-
+                               Results.    Single  pulse  stimulation.        In corded   from    the    niacroelect-rode    cov2erinr    a
+                             tracings     recorded     simultaneously     from     the toe pad became positive early in thi
+                                                                                                                      e  first  miti-
+                             ruacroelectrode   coverin-   a   toe   pad    and    fr6m ute  of  stimulation  after  an  initial  negative  
+di!-
+                             a   microelectrode   with  2 the   duct   of   a   sinale. flection.
+                             sweat  gland  of  the  a@djacent  toe   pad,   the   ini- f§cct of  stimulus  voltage   on   fast   a?zd   slow
+                                                                                                            sk    es             The
+                             tial    fast    ne-ative    (downward)    component    of components of gaivayiic in r  ponte.
+ 2                            the  two  curves  ran   an   almost   identical   course. voltage  threshold   necessary   to   elicit   the  
+slow
+                             The   exponential   decay   of   the    fast    component positive   component   was   hi-her   than    that   
+re-
+                             in   returning   toward   the   base    line    proceeded quired  to   elicit   the   fast   negative  
+component.'
+                             more   rapidly   in   2the   case   of    the    recording In   one   experiment,   the    latter    was   
+obtained
+                             iiiade   from   the   macroelectrode    (galvanic    skin from    thq    macroelectrode    with    a    
+squarewave
+                             response)   and    became    positive    with    resl)ect pulse  of  2  to  3  volts  in   a   fresh  
+preparation.
+                             to  the   restinff   potential,   whereas   the   tracing Increasing  the  2stimulus   to.   4   volts,   the  
+fast
+                             from ,he  luiren  of  a  single  sweat  gland  did  negative  and   the   slow   positive   components
+                             not  (Fil-.  1).  The  electrical  response   from  were  obtained  in  the  same   preparation.   The
+                             over  a  thousand  individual  sweat   -lanes   in  volta-e threshold  for  the  slow  positive  corn-
+                             20 cats2 always returned to  the  base  line  after  ponent  was  more  variable  than  that   required
+                             a decay period of from 4  to  6  secoiids  follow-  to elicit the fast negative  response  and  became
+                             in- the initial ne-ative deflection.   In. n(:i in- lower with the application  of  frequent  stimuli.
+                             staiice did the  tracin-,  from  a  microelectrode  If the preparation was rested,  thi?.  effect  was
+                             in  the  lumen  of  a  single  swelt  gland  (Fia.  reversed.    'ne   same   threshold   effect   was
+
+                                           562                                 ORIGIN OF Tiir GALVANIC SKIN REspoNsE
+                                                                                                                            +10
+                                                                                                                                4,
+                                                                                            2                                A0
+                                                                                                                            lo.
+                                                    I sec.
+                                                                                                                            0.
+                                                                                                                            B
+                   2                           >                                                                             -IOJ
+                                              E                                                                                                
+25     see.
+                                                                                                                                               
++5     MV
+                                         2                                                                                   A
+                                                Om
+                                              E                                                                             B
+                                              _5                                                                  Stimuiu; 
+.............................
+                                                                  2                                                          on
+                                              -lo-
+                                                                                                                            C4)    i
+             ig
+                                                                                                                                    1 min.
+                                                      FIG. 1.    (A)   @Microclectrode   rt-qpoiise   from   a   qiiigte   swetit   gland.  
+(B)   Gilv,-tnic   skin    rc.41)oiise
+                                                                                                                                               
+ieousl-,r   witli   (A).
+                                                  from t macroclectrode coveri2ng toe p.,kti of siine extr(-tility,                 recorded   
+siniult.11
+                                                  A  singi.e  iitotiopli@isic   squireiv-,tve   pulse   stimulus   w4is   :tl)plicil   it   the
+irroxv.   Negative   (lefleetioti
+                                                  is (l2o%viiAv-.ir(I in this and succee(lill.,
+                                                      1-@'IG. 2.   (A)  Mieroelectrode re,;poiisi! from ltitni:ii of a            
+siiigle-sireat    glaiid.    (B)     G,@ilvtt)ic
+                                                  skill  response  from  a   -niaci-ociectro(le   cq%@eriii-   toe   ).t(t   of   s;iiiie  
+extreniity.   Relictitive   stiiiiiila-
+                                                  tioii, 10 per  see.,  begins  at  -.Lrrow'.,-ill(l  coi,.tiiities to  ciiil  @f  tr:tciii@. 
+(A)  iiid  (13)   recorded   siiii2iil-
+                                                  tliieougly.
+                                                      FIG.    3.    Mieroelectrode    reipoiise    frotii    lumeu    of    a        11-@V-
+t@oiqtld to iiitr-.L-,trteri.-tl  iiii.
+                                                  of  iiietliiclioliiie clil2oride.
+                                                      FIG.  4.  (A)   Microclectrode   rcsl)oiise   fimoin   epi(lei-mal   cell.4   of   skin  
+of   cat's   pt-,v   pad   obtained
+                                                  (luring the life of tljc aiiiiiial. A similir tr:iciiia eoiil(l be (@istlinc(l for lit,,
+   2                                                                                                                                           
+.trlv  one   tir   post-Tnor-
+                                                  teiii,  lon@r  itfter  swentiiig  lia(l  conscil,  (f3)  Ifieropleetroilo  r"poiit4o   fron-L
+dermis   of   skin   of   liviitg
+              2                                    -tilittiil.  Itelictitive stiiiiul-.ttiott of 10 I)er see. Nvits u@ett iii ol)t:tiiiiiit@,
+I)otli trticiii
+                                                                                                                                               
+gm2
+                                              noted  in  the   experiments   in   which   repetitive                        that  electrical 
+responses  from  the  Itimen  oi
+                                              stimulation  was  used.  Usin,,   low   voltage   sti-                        the individual 
+sweat  lands  and  from  the  skin
+                                                                                                                                               
+2                   to   the   elec-
+                                              muli  in  a  fresh,  or   rested,   preparation,   the                        surface are not
+artifacts related
+                                              tracin-  from  the   macroelectrode   became   ne,,,a-                        tric shocl-I
+stimulus.
+                                                                                                  intites,   as             Loc-a2lizat
+                                              tive ,in(I r,!maine(I so for several "                                                  ion of
+the  slow  co?izpotict.-!  ?f  gat-
+                                              reported    by    Richter    and    Wheelan(10).    At                        vanic skin
+response.  The  superficial  co@-nified
+                                              a  sj,2,,-htly  hi-her  stimulus   voltage,   often   a                        layer of  the 
+epidermis  was  dissected  awav  so
+                                              differential of as little  as  I  volt,  the  positive                        ibat the 1)apillarv
+layer of  the  epithelium  was
+                                              component  ,tppeared   (cf.   Fig.   2A.   and   Llovd                        exposed.   A  
+microclectrode   was   touched   2to
+                                              (6)  ).  Stimulus  pulse  duration  over  I  to  2   5                        the surface of the 
+exposed  epithelium,  but  not
+                                              microseconds  had  no  appreciable   effect   on   the                        in proxii-nity to a
+sweat gland duct orifice,  and
+                                              res,,)onses obtained.                                                     2    a single  pulse 
+was  applied.  No  ne-ative  de--
+                                                Ilhari@tacologic  stimulation.                 The       micro-             ilection  Nvas 
+obtained  with  a  stimulus  which
+                                              electrode  tracin-   from   a   sweat   gland   of   a                        rea(lilv  elicited 
+the  fast  ne-ative  component
+                                   2                                                                                                           
+in-
+                                              cat!s  toe  pad  in  response  to  the  intra-arterial                        %vhen'the
+microelectrode was'subsequently                  '           I
+                                              injection   of   methacholine   chloride   (via    the                        serted into the
+l2umen of a sweat -,land in                 the
+                                              abdominal  aorta)  is   shown   in   Fig.   3,   which                        sime  prepared 
+area.  With   the   microclectrode
+                                              is  included  to  show  the  similaritv  of  the   re-                        in  contzict  with 
+the  epidermal  laver  of  the
+                                              sl)onse  obtained   by2   repetitive   stimulation   to                        sl.@iii   I)ut  
+not   near   a   sweat   -land,    r(,I)ctitive
+                                                                                                                                               
+.1                               .!r
+                                              th-,it       I)ro(Itice(I       by       a     4  parasympathominictic         stiziiulttion  
+identical   to   that   used    in    Fi,,.    2       i
+                                              drug   ((:(inipare   FiL-1.   2   and    3),    and    to    indicate         was   applied.   
+There    was    observed    a    slow    posi-       i tt
+
+                                                               ORIGIN OF TIIE (;ALVANIC                    RESPO.NSE                           
+563
+                  A
+                                   tive Component of the -alva-.iic  skin  resrio:ise          able  to  maintain  their  lumen  neg.-.itivity.
+That
+                                   Aroni the iiiztcroelectro(le. I,' the aii2imal NvaS          the -,ite of this fatigue is the s%VLtt        
+zlrci
+                                   l,ille(l, visible swea.tina soon  Iceased,  all(i   the     not the su(ioniotor nerve,,i  sti por q@(I
+                                   fast cotill)oiietit of the -alvanic skiii resi)oiL-,e       @2")eri@meiits   @i-L@yhich  
+pharmac%)Iogicstiiiiula--
+                                   could no longer be de
+                                                            tected.  Ho                        Lion was  tised_(I-@4%           (See     
+-Thaysen      and
+                                                                               V
+                                   slow   component    could    be    obtained    froiii.Ac    LcLiNviiii(q)).
+                                   e@7
+                                   )@i li7ii-iti@i-Nvit@h the@@iiero7el'e'ctrode for,nearly-     We can account        for  the dzta presented 
+in
+                                   an  l@jur  I)os'@2-niorteni   (Fig.   4A),   Ion-   after    Fig. I and 2 if, as     Richter(5)     
+conten(led,      the
+                                   75c'@s-%V'e7t           ceased to function.                 Positive   component   is   not   reltted   to  
+the   sweat
+                                   To   cxc'aude   the   possibility   that    the    sloiv    -lands, but  ori.-inatei  i;@7tRe-r  ; 
+-oln-str-uc-ttir'es.
+                                   I)ositive  component   originates   fron-,   the   sl@in    Our d'a'ta substantiate Ricliter's       view   
+and     Lre
+                                   structures  below  the  epidermis,  a  strip   of   epi-    consistent      with      the      following    
+mechanism.
+                                   dermis  was  dissected  2away  leavin-   tlie   d(!rzilis    With si@n-le shock
+                                                                                                                      stimulus, the     f     
+t.-r-egative
+                                                                                                                                         as
+                                   exr.osed.   Sweat   ,,lands   in   this   2art!a   poured    C29i@)onent  ori-inates  in  i.he .sweat.
+                                                      0                                                          0                             
+-glands.
+                                   forth   sweat   when   stimulated   repetitively,   I)ut    With     repetitive     stimulation,      the   
+fast-com-
+                                   the   positive 2   conil-)onent    was    not    recorded    1)otients fuse to   become    a    sustained   
+ne,,,,,itive
+                                   e-ii7*                         "'-      ol          'i'@    '                 s  been   sho%i,n    by   
+Rieliter    and
+                                   wh  ii@i-m-i'c-r'o-clectr'6de-wasli@n-2c .-taci-@@'L         T@) t@eiitial as lia
+                                   li@e exposed dermis (Fi-. 4 B).                             'Whc,!ian(IO) and by Lloyd(6).            
+'I'his     wou-Id
+                                   bisclissI,on.'  It  Ls   unlilely   that   curves   such    liso-appear to be   2  the   case    with    a  
+pharmacolo-
+                                   as Fin-.  2A  would   be   seen   under   ph-,rsiolo,,,ical aic  stimulus  of  Ion.-   duration   of  
+action   as   me-
+                                   conditions.  If  a  flat  electrode   is   I)Iace(i   on    tliacholine   chloride   (Fig.   3).   In  
+resl.)onse    to
+                                   the  skin  surface  of  the  palm,   and   2aiiother   on    an   enormous   stress   such   as   repetitive
+stiniula-
+                                   the  back  of  the  hand  of  a   human   subject   (the    tion   or   with   intra-arterial   
+methacb-oline    chlor-
+                                   same  obtains  for  the  panv  of   the   att),   sl)on-    ide,   the   sweat   -land   be,,ins   to  
+fatigue   (after
+                                   tan2cously  arising   ne-ative   waves   will   b(-   re-    apl)rox-Imately   600   shocks   in   Fig.   2)
+and    is
+                                   corded  which  are  identical   to   the   iiiicro,.Iec-    unable   to   maintain    its    lumen   
+negativity.    The
+                                   trode  responses  from   the   lumen   of   a   sin,,,Ie         surface     has     simultaneously    
+become   2  posi-
+                                   sweat  -,land   of   the   cat.   Thes@@-@esp@)nse!@-oQ-    tive   as   the   epidermal   cells   have  
+become    posi-
+                                   cur   in   random   fashion   in   the   url@itiniulated    tive   (Fi-.   4A).   "7hen   the   sweat  
+aland   is    no
+                                   subject  and  by  their  identity   with   the   mici-o-  2  Ion- r able to maintain its         lumen     
+ne@,,,ativity
+                                   electrode   responses   (Fig.   IA),   are    I)resuiii-    (@@@er  approximately  .  1400   shocks,   .  
+in   -   Fig.
+                                   @ply the  electrical  potentials  gener-a-t@ed  by  the'    2A),    the    rricroelectrode.-    within.   
+the.    sweat
+                                   ind2ividual   sweat   ,ands   or    groups    of    sweat    -land duct lumen records the positive          
+poten-
+                                                       ,I                                      0
+                                   I                                                 n         * lal f the   surrounding epidermal cells.
+                                   c,  ands  covered   by   the   skin   electrode.   I   a    t   0
+    2                               restin,,    patient    with    extreme    hyperhydi-oiis    'Nve,  -a  --r,e-e  with  Lloyd  (6)  that  the
+slow  posi-
+                                                                                                                                               
+t
+                                   of the palms of   the hands from whom              ,;uch    tive   component 2  is   obtained   in   
+response    to    a
+                                   tracings  were  taken,  the   sweat   gland   pote;itial    sitigle pulse   stimulus   only   after    a   
+period    of
+                                   chan-es   reci)rded   from   a   skin   electrode   with    rest     following     repetitive     
+stimulation.      The
+                                   an  area  of  6  sq  cm  occurred  a-s  often   as   100    slow   positi2ve   component    in    response  
+to    repe-
+                                   per   miiiute.   These   responses   often   were    su-    titive   stimulation   of   a   given  
+intensitv    reaches
+                                   I)eriml)osed  on  each  other  because  of  their  fi-e-    a    maximum    or    ceilina     for     that, 
+stimulus
+                                   quency,   but   in   no   case   was   fusion   observed    streii-th    and    frequency.    Since     the 
+positive
+                                   such  as  occurs  with   stron(r   repetitive   stimula-    component     runs     an     exceedingly    
+long      time
+                                   tion  of   the   luinbar   sympathetic   trunk   t)r   a    course(6),    subsequent    stimulation,    
+either     sin-
+                                   peripheral    sudoiiiotor    nerve(6,10).   2 On    trac-    -le   shock   or   repetitive,   would   not  
+elicit    the
+                                   in-S   obtained   from   the    resting,    unstimulated    slow   positive   component   of    the   
+galvanic    skin'
+                                   cat or   human   subject,   only    the    fast    negative response   until   a   sufficient   period   of 
+time   had
+                                   component   was   seen.   It    appears    that    under    elapsed  for 2 the  decay  of   the   slow  
+positive   corn-
+                                   the enormous    stress    upon    the    sweat     -,Iinds  ponent.   During   this   period    of    rest, 
+reabsorp-
+                                   when  repetitive  stimulation   is   used   (F!-.   2A),    tion   of   .vater   may   be   taking    place 
+in    the
+                                   the  sweat  glands   become   fatigued   and   are   un-    7sweat   gland   ducts    as    Lloyd(6)    has 
+suggested.
+
+                                                                   ORIGIN OF Tiir GALVANIC SXIN  REspovsi,
+                                        564
+                                                                                                                                               
+;ht
+                                        However,       th                    ot          appear          to (12,13,14) shoul(! be reevaluated  
+2in    the    lig
+                                                       Lg hypothesis does n
+                                        be supported   bv Lloyd's       data,       since,       as       we of our  report.
+                                                                                                         Siti?zm(irv. The    galvanic     skin 
+response
+                                        bive  shown   here, the      slo      v    2  r)ositive       comnonent
+                                                                                                         fror,-i a iii electrode    coverin,,  
+the    toe     pad
+                                        is unrelated      to      sweat-(,land      activity,       If       one acro                     0
+                                                                                                                                               
+2     eouslv
+                                                                                                         of the cit  was compared with   
+simultan
+                                        must  assi-n  the term        "secretory        potential"         to
+                                                                                                         recorded    potentials     arising    
+from     individu@l
+                                        either of  the  2compone2                                     vanic
+                                                                     nts of  the gal
+                                        skin   response,   it    should    be    applied    only    to    the sweat  glands  and   cells   of  
+the   surrounding   epi-
+                                                                                                         deriiiis  and  dermis  of  the  toe 
+pad   skin   of   the   9
+                          2              ini
+                                        tial     fast     ne-Ittive     component     since     the      slow
+                                                                                                         same    animal.    direct       
+measurements         em-
+                                        positive     component     originates     in     the     cells     of
+                                                                                          2               lov,in@     microelect;We-t  ni@'cs-,
+thc"i@;@,neg-
+                                        the      epielermis.       The       physiological       significance ative  component  of   the  
+,,,alvanic   skin   re@,ponse
+                                        of    the.,.e     potentials     recorded     from     within     the v       to originate. in the 
+sweat glands,-, 2-
+                                        Itimeii   of   sin-le    sweat    gland    ducts    will    be    re-                                  
+Che
+                                                                                                         and  to  be  related  to   sweat  
+gland   activitv.I
+                                        ported     later.                                                SII)V.-  positive   component   of  
+the.   galvanic skin-2-
+          4                             In     addition     to     the     Emf     gene     ated,.b     sweat Le@I)onse   was   shown   to  
+originate-   in   the cells
+                                                                                                      bove,
+                                        lylarius                     Ils described.a                     of  the   epide                the,  s
+in   and   is,,.
+                      2                                                                                                rmal  lkver, of,,.      
+k
+                                                                                                         tv
+                                                                                                            r
+                                        an@)ther component of the          Ivanic.,        skin         re-     pnrelated to     
+sweat2ing.-.-.
+                 JAil 5                                                   a
+                   r
+                                        s lonse -is.  the simultaneous  fall      in,      skin      resis-
+                                                                                                         Tlic  allLhors gratefully acknowled-.e
+the     helpful
+                                        tlnce.  Althouch  resistance               2            measurements comments  and  review  of  the 
+mtnuscript  by   Dr.
+                                                                                                                                               
+C.   P.
+                                        were   not   made during these experiments,
+                                                                                                      tilis Richter,  Johns  Hopkins  Univ. 
+School  of  'i%lcd.,  and
+                                        report     would     not     be     complete      without      relat- te,:Iinical  assistance  of  Miss
+Carmen  Diaz  and Miss
+                                        in,- skin resistance to the present worl@.                       Ellen  Hessler.
+                                        Accordin,,     to     Lloyd(6),      the      slow      phase      of 1. Wang,  G.  I           s. 
+bfed.,   19   7,
+                                        ttie     -alvanic skin      response      and       the       impedance 295 (Part 1) ;19SS, v37, 35
+(Part 2).
+                                                                                                         2.  Fere,  C., Compt.  Rend.   Soc.  
+Biol.,   1888,   VS,
+                                        (alternatin,,- current resistance) chan-
+      2                                                 M                              e       in        re- (ci,,,hth series), 217.
+                                        sl-)onse      to      repetitive      stimulation      "show       an
+                                                                                                         3.  Tarchanoff,  G.  Pfietigers  Arch.
+ges.   Physiol.,
+                                        identica2l     course     and     are,      therefore,      considered
+                                                                                                         1,1;90, v46, 46.
+                                        as   si,,iis   of the      same      fundamental       process       at
+                                                                                                         4.   Ver:iguth,   O.,   Das  
+psychogalvanishen   Reflev
+                                        work.-"     Considerin-     the     data     presented      above, p.5enoine7z, Xarger, Berlin, 1909.
+                                        it   appears   that    the    skin    resistance    changes    re- 5. Richter, C. P., Brain, 1927, v5O,
+216.
+                                        corded    by     Lloyd     ori,,inate     in     the     epidermal 6. Lloyd, D. C. P., Proc. Nat.2
+Acad.  Sci.,  1961,  v47,
+                                        cells    and    not    in    the     sweat     glands.     Further 3@5i.
+                                        evidence    to    support    this     view     is     -iven     by 7. Dale. D. H., Feldberg, W., 1. 
+Phvsiol..  1(134,  v82,
+                                        Fdelberg(li)     @@vho     emplo     ed     a      micrositrgi(7a2l 121.
+                                                                                                         B. Aie%ander,  J.  T.,  Nastuk,  W. 
+L.,   Rev.   Scient.
+                                        technic  to   ,Sol           irglig         and         electricai
+                                                                                                         litsir., 1953, v24, 53S.
+                                    2                     ermis       from        surrt)undinl,        snat
+                                        du-cts.    Bv    measurei                                        9. Thayscn, J. H., Schwartz, I.  L., 
+1.  Clin.  Invest.,
+                                                                ;ent-of      resistance       on       the
+                                                                                                   2      195.i, v34, 1719.
+                                        suriace  @f  such  a    preparation          with           micro-
+                                                                                                         10. Richter, C.  P.,  Wh@clan,  F., 
+J.  Neltrophysiol.,
+                                        electrodes,     he     demonstrated     that      the      edider-
+                      2                                                                                   194-1, v6, 191.
+                                                                          --octhe                 resistan
+                                        mis contributes si-nificantfy
+                                                                                                         -@p& iL. rd,lb,,g, R.,  Fed.  Proc., 
+1961,  v2O, 2 245.
+                                        C                                                               -M 12. Lloyd, D. P.  C.,  -Proc.  Nat. 
+Acad,  Sci.,  19S9,
+                                        saunsi:@.      ere    ore,     rpr     tions               relating v45, 410.                          
+1
+                                        to    the    phvsiolo-    of    sweating    which    have2     been i.i.       1. Gen.  Phvsiol., 
+1960,  v43,  713.
+                                                          y
+                                        based   on   the    slow    phase    of    the    galvanic    skin 14.        Proc. Nat.  Acad.  Sci., 
+1961,  v47,   3SS.
+                                        respoiise(6)     and     on     skin      impedance      chant,res Received  May  11,   19692.
+P.S.E.B.M.,     1962,     vl
+                                                                                                                                               
+iir
+

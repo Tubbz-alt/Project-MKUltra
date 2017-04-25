@@ -1,0 +1,1328 @@
+                                    THt SENSITIVITY AND RESPONSE
+                                       OF WEAKLY ELECTRIC FISH
+                                TO STATIC AND PULSED MAGLIMTIC FIELDS
+                                             June 1, 1970
+
+              I. ItiTRODUCTION.
+                      The study of bioelectrocenesis, particularly --n the various  species  of
+                 electric fish, has been of increasing scientific  concern  in  recent  years.
+                 This interest stems primarily from the potential usefulness  of  research  in
+                 this area in contributing to our understandina of  a  number  of  fundamental
+                 and significant problems. By defining the  e2lectric  fish's  unique  sensitiv-
+                 ity to electric and magnetic fields, and how it codes and utilizes such sens-
+                 ory information in its detection and navigation  behavior,  current  evidence
+                 is providing a more complete concept of  such  basic'questions  as  migration
+                 and territoriality, and is leading toward the deve'Lopment of  various  bionic
+                 devices in the form of underwater sensors and  power  sources.  In  ad2dition,
+                 knowledge of the effects of magnetic and  electric  fields  on  physiological
+                 and behavioral processes has assumed great importance in view  of  man's  ex-
+                 posure to drastic changes in such stimuli during space travel.
+                      Living things produce a changingelectric field at and  near  the  surface
+                 of their bodies; all fish, being sheathed in a conductive substance and
+                 living in a conduct2ive medium, produce an electric field that may be detect-
+                 ed at relatively great distances. However, there are  certain  fi'sh  which
+                 produce electric fields exceeding the norm by hundreds or thousahds of
+                 degrees of magnitude. The electric eels of the  Amazon  can  'produce  bursts
+                 in excess of 600 volts. Other electric  fish,  i.e.,  weakly  electric  fish,
+                 produce continuous fields measured only in millivolts, but by  2means  of  in-
+                 terpreting distortions in these fields are able to sense and navigate
+                 through their environment to a degree comparable to  that  of  other  species
+                 in which vision '@s used for these purposes.  The weakly electric fish,
+                 having very poorly developed visual abilities, must depend  on  i,-Iformation
+                 acquired through their electric fields in order to survive.
+                      The mag-ie2tic field is a form of energy to which all plants  and  ani-
+                 mals@are exposed.,  Its influence on living systems, however, is subtle
+                 and not well understood. one approach to studying  the  effects  of  magnetic
+                 fields upon behavior is through the use of an organism  which  produces  an
+                 electric field and uses it as a detection  and  navigation  mechanism.  The
+                 electric fish is just such an organism, and this report2 will  review  a  one-
+                 year study of two of these species (Sternarchus albifrons and  S.  ler)tor-
+                 hyachus; see Figure 1) which has just been completed
+                                                          In these fish, impulses  are  dis-
+                 charged from the tail and received by  the head, which  becomes  positive  in
+                 regard to the tail. This potential difference  creates  an  electric  field
+         2        about the fish's body, permitting it to detect  objects  through  distortions
+                 in the field. Several studies have shown that these  fish  can  perceive  a
+                 static (constant strength) magnetic field, but only  when  either  the  orga-
+                 nism or the field is in motion, thus generating a current in the fish.
+                 It was thought that the fish was responding to the current generated in
+                 itself by the magnet. However, in these expe7riments the  magnetic  field  was
+                 presented as a static field, and the sensitivity of the fish  to  a  pulsed
+                 field presented at various frequencies, particularly the frequency at
+
+              which the fish discharges its own electric field (500-1500 cps), was not
+              investigated. Other investigators have shown dramatic increase  in  sensi-
+              tivity to Ap2lied A.@g. approximating the frequency of the fish's discharge.
+              In addition, the strength of the field was not systematically varied in
+              terms of the gauss level in the fish's proximity.  Therefore,2 there are
+              considerable gaps in our knowledge of the degree of sensitivity of the fish
+              to magnetic fields at various frequencies and strengths.  The present stua-,v
+              was undertaken to clarify sou,.e of these problems regarding the perception
+              of and response to a magnetic field which is systematically  varied  along
+              several continua.
+                Figure 1. Ster-iarchus albifrons (t2op) and Ster-narchu evtorhvnchus (bottom)
+                                                                 !us I
+            IT. BACXGROLND.
+                    Comparatively little work hag been done on the sensitivity of weakly
+                electric fish to various types of electrical and magnetic fields, although
+                the evidence that is available indicates that these fish have an extremely
+                low threshold for such stimuli. Liss=nn2(1958) and  Lissmann  and  Macnin
+                (1958), for example, have shown that gvmnarchus niloticus will  perce've
+                the movement of a magnet or an electrified insulator when either is Moved
+                outside its tank or aquarium.* A small bar magnet was held  against  the
+                *Szabo et al. (1969) w-rite that the electzqreptors respond to both the
+                presence and movement of an object or field.
+  3                                                   2
+
+                  wall of the  aquarium  and  mved  in  avertical  direction,  with  the  result  that
+                  a "single  downward  sweep  produced  aresponse in the  fish  if  the  rrovemnt  was
+                  sufficiently  rapid  and  the  distance between the fish and  the  magnet  suff-i-
+                  ciently  small.  With  the   particular magnet used  a  response  could  be  elicited
+                  at a velocity of  about  3  m/sec  when t2he fish was about 50 cm from the magnet"
+                  (Lissmann  and  ifachin,  p.451).  When an  electrostatic  charge*  was  moved  hori-
+                  zontally in front of the tank, the fish was seen to respond to a voltage of
+                  60 kV when the distance from the fish was 50 cm and the charge was moved at
+                  3 m/sec. The authors  conclude  that  Gvmnarchus  is  able  to  detect  potential
+                  gradients of about 20.30/A@/cm  in  the  surrounding  water.  Table  1  shows  the
+                  remarkable sensitivity of this species as compared to other fish.  It is
+                  apparent that the perceptive ability  of  Gymnarchus  is  of  a  different  order
+                  Table 1. The sensitivity of six species of fish to direct current. (After
+                  Lissmann and Machin, 1958.)
+                                                                      Current density
+   2                                Species                              (,uA./cm.2)
+                             Phoxinus  2h2Linus   (minnow)                    10
+                             Cypriniis cardio (carp)                          60
+                             C. auratus (goldfish)                            16
+                             -ia@a-siiu-rus, asotus (catfish)               2   8  -
+                             Ca@;-terosteus acut-eatus (stickleback)         110
+                             2ymnarchus niloticus                        2 x 10-5
+                  of magnitude than other fish.  Since it can detect     a direct  current  of   about
+                  .15 microvolt per  centimeter,  an  individual  sense  organ  in  Gymnarchus  should
+                  be sensitive to a current 2change as small as .003 micromicroampere.
+                       Lissmann (1958) has observed that Gvmcrtus carat)o can be conditioned
+                  to feed in response to a stationary permanent magnet mounted outside its
+                  tank and to inhibit feeding  responses  when  the  magnet  is  absent.  He  notes
+                  that although there is no sipecifically relevant data, it would seem that this
+                  fish should be able to2 perceive a field  of  about  10  oersted  when  moving  at
+                  a rate of 10 cm/sec.
+                       In a subsequent paper by Machin and Lissmann (1960), it was shown that
+                  the receptors responding to small direct currents were also used in the fish's
+                  object detection and location.  That  is,  "the  sensitivity  of  the  fish  to  ex-
+                  ternally applied  currents  gives  information  about  the  electric  recept2ors  for
+                  object location 11 (Machin and Lissmann, p.802).
+                  *A small aluminum cylinder on an insulated handle and charged from a
+                  Wimshurst machine was used.
+                                                          3
+
+                 A.   liagnetic field effects.
+                          The effects of various types of magnetic -.@ields on living organisms
+                      has been a subject of increasing interest in recent years for both theo-
+                      retical and practical reasons.  "Basically, the magnetic field, being a
+                      form of energy, just as are light, heat and sound, impinges upon all liv-
+                      ing or-anisms whether plant-2or animal.  The question as to its effect
+                      on living matter is what we are seeking to learn.  Is it an active or
+                      passive process?  How will an organism react tD an environment that is
+                      devoid of a magnetic field?  Further, what will happen if the field is
+                      altered or distorted?"  (Caldwell and Russo, 1968, p.233).
+                          Caldwell and Russo studied the effects of an A.C. magnetic2 field
+                      upon the behavior of the Italian honeybee (Lois mellifica), and found
+                      that the bee would respond to the magnetic energy field with a stereo-
+                      typed nodal reaction, i.e., three of the four subjects would situate
+                      themselves and become riaidly fl-ated over one of the magnetic nodes
+                      When the magnet was on.  Cottlieb and Caldwell (1967) investigated the
+                      ma2gnetic field effects on the compass mechanism and activity level of
+                      the snail Helisoma deyi endiscui.  Using a bar magnet with a weak field
+                      (1.5 gauss), they obtained significant effects on the activity level of
+                      the subjects.
+                          Since astronauts have and will continue to be exposed to magnetic
+                      fields -.4hich are much less intense than the Earth's magn2etic field while
+                      exploring the surfaces of neighboring celestial bodies, "the question
+                      arises as to whether the human body has during its evolution become de-
+                      pendent on the presence of the Earth's magnet-r@c field for the maintenan,:e
+                      of its normal functional integrity.  Accordingly, it has become most im-
+                      portant to ascertain whether a low-intensity maanetic field exposure
+2                      could pospibly lead to an impairment of health or performance of an in-
+                      dividual" (Busby, 1967, p.7).  However, there is also the possibility
+                      that astronauts Could be exposed to intermittently high-intensit-/ mag-
+                      netic fields up to 1,000 gauss for varying periods during space travel.
+                      Beischer (1963, 1969) and Beischer et al. (19672) have studied the ef-
+                      fects of both low- and high-intensity fields on man and animals.  Their
+                      results show that man does not seem to be affected by a two-week exposure
+                      to 50-gama fields; mice survive a one-hour exposure to 120,000 gauss;
+                      and in a low-intensity magnetic field, there is a significant gradual
+                      decrease of the scotopic flicker fusion thres,iold in man.
+          2                 Agalides has recently completed a series of studies on weakly
+                      electric fish, including some work on their sensitivity to moving magnetic
+                      fields.  Using GXmnarchus and Sternarchus as subjects, he observed that
+                      they responded to a permanent bar maonet of 930 gauss.  The magnet was
+                      moved at 3 m/sec and was perceived by the fish at a distance of 120 cm.
+                      This was 0very close to the fish's sensitivity to static electric fields,
+                      and corresponds to a gradient of 3 emu, or 0.03,tAV/cm.
+                                                        4
+
+                B.  Electrosensitivity
+                        Granath et al. (1967) worked with Sternarchus albifrons in their ef-
+                    fort to determine its sensitivity to imposed electric  fields.  To  study
+                    the frequency response continuum, the authors used a  conditioning  prob-
+                    lem in whizh both uniform and nonuniform alternating current (A.C.) fields
+                    were employed as signals for the subjects 2to leave a porous cylinder and
+                    swim to a vertical plastic tube for a food reward.  After the conditioned
+                    response was established with high stimulus values, the  signal  was  re-
+                    duced to daternine the threshold of the fish.  T@,e results indicated that
+                    Sternarchus is most iensitive at its own discharge frequency at room temp-
+                    erature, i.e., in the area of 1,000 cps, wit2h a  maximum  sensitivity  of
+                    0.2 microvolts per cm.  However, a secondary maximum was observed at the
+                    second harmonic of the discharge frequency.
+                        Watanabe and Takeda (1963) employed the South American gy=atid,
+                    Eigenmani , in their study of the effects of ekternally applied electric
+                    current.  Like Granath et al., they found that the effective stimulus was
+                    an2 alternating current presented at a frequency very close to that of
+                    the fish's own discharge.  In this case, Bigennania has a discharge rate
+                    of about 300 cps at 250C. Their results showed that  "when  a  sinusoidal
+                    (or a square pulse) electric signal with a frequency similar to  that  of
+                    the fish's own discharge is applied to the fish, the  latter's  discharge
+                    frequency changes aG if to escape fro2m the applied signal frequency.  The
+                    effectiveness of the stimulus depends on the difference  beween  the  two
+                    frequencies (.!@S); whenZ@S is more thanlo cps the response is barely rec-
+                    ognizable.  The smaller LS, the more effective the stimulus, except when
+                    AS is very small, where the response again fails to occur" (Watanabe and
+                    Takeda, p.65)
+                        Dewsbu2ry, (1966b) believes that stimuli* differ  and interact in  the
+                    kind and/or amount of change they induce in the  discharge  frequency  of
+                    weakly electric fish.  Hie observed several different species, but not
+                    Sternarchus albifrons  which does not appear to behave in this way.
+                    Dewsbury attempts to relate his data to a concept of arousal, wherein
+                    discharge frequency changes with arousal level.  In anot2her study (1966a),
+                    he confirmed the hypothesis that electric organ  discharge  frequency  in
+                    gymotids is higher in darkness than in liglit.  This  would  normally  be
+                    expected, although we have not found such evidence in S. albifrons.
+                         The effect of temperature on discharge frequency is  a  particularly
+                    important problem in that'the exact nature of this relationship  must  be
+  2                  knl-wn in order to establish baseline data for further study on the fish's
+                    discharge behavior.  Gallon et al. (1967) and Enger and Szabo (1968) have
+                    found that the rate of discharge varies with temperature in mor:nyrids and
+                    *For example, light-darkness, shock, aeration, metallic  objects,  and  a
+                    buzzer (Dewsbury, 1966c).
+                                                       55
+
+                                    gymnotids,   Their results are summarized in Figures 2 and 3.
+                                                              I 0-        030/20 2 2 03
+                                                                     02
+                                                           Lli            030120   2..i-
+                                                                      2             0
+                                                               12-
+                                                                     G3
+                                                                          030/20 a? 4 6
+                                                              1
+                                                                6-     0
+                                                                 t
+                      2                                                20          25           30
+                                                                             TEMP. "C
+                                    Figure 2. Discharge rate as a  function of temperature.   Open circles,  as-
+                                    cending series;  filled circles,  return to lower temperature;  triangle,
+                                    second ascending measureuznt.  (After Gallon et al.,  1967.2%,
+                                                             2000
+                                                                                               Gioll L3
+                                                                5m
+                                                                                               a
+                                                            06                                 Sternapylus
+        2                                                    E
+                                                                                                Increasing te".
+                                                                                                Decreasing terr4,)@
+                                                                   20     25     30     35    IC
+                                    Fisure 3. Relation between water temperature and di1scharge rate.   Open
+                                    circles,  increasing temperatures; closed circles,  decreasing temperatures;
+                                    broken lines, Qlo- values  for comparison.  (After Enger and Szabo.  196a.)
+
+                        Attem@)ts have also been made to condition the discharge rate of
+                   morntyrids with both classical and operant methods.  Mandriota et al. (1965)
+                   report that three species of Mormvridie would  briefly  increase  their  dis-
+                   charge frequency (conditioned response) in  response  to  light  (conditioned
+                   stimulus) following training trials in which light  was  p2aired  with  shock
+                   (unconditioned stin-,ulus). Mandriota et al. (1966)  later  discovered  that
+                   operant (avoidance) conditioning was also effective in these fish and,
+                   in fact, was uiore efficient than classical conditioning  in  that  fewer
+                   shocks were required to establish the response.
+           111. CUR-RENT STUDY: THE SENSITIVNY AND RESPONSE OF STERNARCEUS ALBIFRO'tqS TO
+                STATIC AND PULSED 14AGIqETIC FIELDS,
+                A. Problems and hypotheses.
+                        Tl,.e prixaary hypotheses of this study were concerned with the  problem
+                   of determining whether weakly electric fish  are  sensitive  to  magnetic
+                   fields and, if so, how this sensitivity might vary as the field is changed
+                   from a static to an alternating and to 2a pulsed one,  as  the  frequency  of
+                   the field is increased or decreased in relation to the normal discharge
+                   frequency of the subject, and as the strength of the  field  is  varied.,  A
+                   secondary problem conceined with effects of various drugs on the elertrical
+                   activity of the fish was also investigated.  H(xiever,  before  the  data
+                   could be collected, it was necessary to find a 2source from which weakly
+                   electric fish could be obtained, develop  life-support  systems  for  the
+                   subjects, and design and construct the  required  equipuent  and  apparatus.
+                   le  Subjects.
+                            A total of 18 fish were purchased, consisting of 9 Sternarchus
+                       albifrons, 6 S. le2torhvnchus, and 3 weakly electric fish of an un-
+                       known species.  Most of t2he specimens were bought from the Cappet
+                       Corporation in Alexandria, Virginia, and a few from local pet shops.
+                       Four of the fish, all S. altbjifr., remained  healthy  during  the  peri-
+                                                I.L.trons
+                       od of the study, and were the only ones used in  the  final  experiments.
+                       Viair size Is shown in Table 2. Wit2h  few  exceptions,.the  others  died
+                       within one week of purchase,
+                            Table 2, Size of the four experimental S. albifrons.
+                                         $,4bjict         Length
+                                         lish  #1         18  cm
+                                         Fish  #2         21  cm
+                                         Fish  #3         14  cm
+                              7           Fish  #4         11  cm
+                                                       7
+
+                          The subjects were kept in individual tanks of either 14  or  20
+                     liter capacity. The water was aerated with  conventional  air  pumps
+                     working through ctiarcoal and glass wool filters. I'he  temperature
+                     was maintained at about 26.SOC and the pH at 6.7 to  6.9.  Food  con-
+                     sisted of either live or dehydrated brine shrimp. The  fish  were  fed
+               2      2 - 3 titres a day, and once a week an antibacterial agent was  added
+                     to the water to suppress the growth of bacteria.
+                 2. Equipment and apparatus.
+                          A plastic Y maze (Figure 4) was constructed for tests  with  the
+                     the static or steady ma@netic field. Its three arms  were  joined  at
+                     angles of-1200, and the maze itself made of 0.04011 sheet styrene
+                 2    fastened with styrene solvent. The water in the maze  was  drawn  from
+                     a continuously aerated and filtered source with a pH of 6.8  and  a
+                     temperature of 26.80C. It was exchanged every @  hour,  within  which
+                     tirrie the temperature drop was approximately 0.20C. However,  because
+                     of its inadequate size, this maze proved unsatisfactory,  i.e.,  the
+                     larger subjects co2uld not be used in it. In addition,  with  a  magnet-
+                     ic field of 8-10 gauss and the magnet centers at the distal  end  of
+                     one test arm, a minimum field of 2 gauss was present at  the  farthest
+                     point in the starting chamber. The field was 4 gauss in  the  area  of
+                     the fish's head when the subject was released from the  starting  cham-
+                     ber.  These problems with the Y maze may have contributed 2to the
+                     failure to find any response by the fish to the magnetic  field  in
+                     the initial experiments.
+                          A larger T maze (Figure 5) was then designed  and  constructed
+                     in an attempt to demonstrate a more positive response to one  arm  at
+                     the choice p@,.int with the magnetic field as a cue. In the Y  maze,
+                     the subject appeared to swim into the arm on the side of  the  2starting
+                     chamber that the fish was closest to when the door to  the  starting
+                     area was opened. The length and depth of the T-maze  arms  were  much
+                     greater than those of the Y maze, permitting the use of  the  largest
+                     specimens. This maze was also provided  with  continuous  filtration
+                     and heating. It had a 10-liter capacity,'with  an  auxiliary  16-liter
+                     and 50-2watt heater. An air lift and siphon were  arranged  so  that
+                     heated, filtered water was slowly and continuously fed into  the  leg
+                     of the T from the tank. A return siphon ran from the  distal  end  of
+                     each arm to the auxiliary tank. Temperature in the maze  was  held  at
+                     26.8'C by maintaining the temperature in the external tank  at  32.50C.
+                     The tank and siphons were wrapped with paper 2lagging  and  jacketed
+                     with aluminum foil to achieve and hold the  desired  temperature.  The
+                     maze itself was made of kll sheet clear acrylic plastic, joined  with
+                     an appropriate solvent. The material proved to be  light  and  strong,
+                     and permitted good observation of the fish.
+                          The magnets were made by winding 5 pounds of #12  copper  magnet
+                     wire on each of 2 alu8minum tins of 23 cm diameter. When  in  use,  the
+                                                    8
+
+                                              POWER SUPPLY
+                                              6-12 volt
+                                              20-10 Arnp.
+                                              battery eliminator
+           Y-MAZE
+     Constructed of.040" sheet styrene
+           Water In-the maze drawn and replenished
+           half-hourly from 80-degree F-7. 9 piff
+           source. Temp2erature loss la the Interval
+           negligible.
+                                                    STIMULATOR
+                                                    9 volt 22 mA@n
+                                                    thru stialnless steel
+                                                    electrodes
+           Figure 4.  The plastic Y maze shown   with the equiprent (tuagnets. power supply and stimulator) used in tests
+     6      of the static magnetic field.
+
+                                                                v eE o n=
+                                                                version of
+                                                                 "rs d vo]
+                                                           cm:indtjc:e  ive
+                                @@7.5cm@@-15cmE,8                 ced wave 30cm                45cm
+                                                          @c m
+                               4L
+                            ma net
+                                                     10cm
+                                                                         0.24V  0.2V   8OmV    -12mV    -5mV
+                                                                          24G   2OG     8G      -1.2G    -5G
+     2        Distribution of 14agnetic Field'                                        Voltages shown are those i@,luced
+                                                  41
+             and form of induced puise in                                            in a 300 turn test coil of 3cm dii
+             tb,e Electric Fish Tee Maze.-
+                                                       25cm
+                                               2                                         @2@Smvp2e5'G
+                                                                                            16mV, 1.6G
+                                                                       5 cm. (110 Io         5niV,0.5G
+                                                           7@5@               dep
+                                                           a__                    cm)
+ 1                                                    6=7                         th
+                                       3.  'Ahe      mnd the             of -t@%,z       @4"lene, '-,n It.
+
+                      2 coils were wired in series and placed on either side of  the  maze
+                      arm, 13 cm apart.
+                           The discharge patterns of the fish were recorded by  means  of
+                      probes of pure carbon rod.  Above the water level, these probes were
+                      shielded in thickwall aluminum tubing. Shielded cable  was  used  to
+                      connect the probes with the oscilloscope  input.  The  oscilloscope
+2                      was a TEKTRONIX 502 A. and the built-in prcamp was found to  be  suf-
+                      ficient to record these fish at distances over 50 cm, which exceeded
+                      oixr needs for these experiments. In recording, the  probe  shields,
+                      the cable shields, and the scope ground were all connected to a doub-
+                      le wrap of heavy aluminum foil arounl the chamber containing the fish.
+                      With this 2arrangement the "noise" level on the system was  held  to
+                      0.3 mV, which was-acceptable.
+                           The electrical equipment which surrounded the  experimental  ap-
+                      paratus was a source of an electrical noise electromotive force
+                      (E'MF) wiich drove current through the input resistor  R    I  of the
+                                                                           IP  input$
+      2                measuring device (in this case an oscilloscope).. The  noise  power
+                      dissipated in such an input resistor is a constant, Pn, so the noise
+                      voltage developed at the input of the scope is
+                                           Vn=FPnRi.,ut     (1)
+                      and therefore by reducing the input impedance "Rinputo noise voltage
+                      is reduced.  The network shown in Figure 6 reduc2ed the input impedance
+                      of the oscilloscope from its usual value of 1 @leoohm to 20  kilo-ohm
+                                                                      0
+                      and allowed the input imped3nces for the two separate beams  to  be
+                      balanced in order to eliminate any assymmetries in the external net-
+                      work. The noise improvement achieved by this method is  a  factor  of
+       2               7; the measuremnts were not affected since the impedance of the
+                      source electrodes and tank was about 500 ohms.  As long as the source
+                      impedance is low with res@ect to the input impedance of the masuring
+                      device che source is not affected by the measurements.
+                           The operation of the device is straightforward.  After  all  of
+                      the shields have been conn2ected, the 40K potentiometer  is  adjusted
+                      until the noise on both beams of the oscilloscope is minimized.
+                      This is the bes't operating point.
+                          The distribution and strength of the magnetic field were determ-
+                      Lned with a test coil of 300 turns, 15 mm in diameter.  'The  induced
+                      electromotive force.(EMF) was converted into a field strength measure-
+                   3   ment in gauss by application of Faraday's law
+                                                EHF         (2)
+                                                      dt
+                      ,where  is the magnetic flux through the circuit.  Equation (2)
+                      says that the E@IF induced in a circuit is equal to the rate of change
+                      of the riagnetic flux through the circuit.  The magnetic flux is
+
+                                                                  Beam #1 input.
+            to electrode
+                                                            1 m
+                          40 K                                       Oscilloscope
+           to electrode
+               #2
+                                                            I m
+              shiela
+                                                               Beam #2 input
+6
+                          Figure 6. Input impedence'reduction network.
+                                                12
+                                                as
+
+<<OCR Error  --  Unable to read TIFF image>>
+                     been added.  By varying the voltage output of the power supply, the
+                     voltage output at the si-nal generator, and by careful adjustment of
+                                             0
+                     a variab:e bias-resistor at the simnal input to the transistor "switch",
+                                                       0
+                     a pulsed field of the desired characteristics was achieved.
+                          The2 circuit schematic is shown in Figure 7.  The circuit consists
+                     of four npn transistors, three of which ('/'2N3055) switch all of the
+                     current through the magnet, and one (#ZN3054) receives the signal from
+                     the signal generator (Lafayette #99-5014) and drives the three power
+                     transistors.  The resistors in the circuit are bias resistors and the
+                     capa2citors tend to round off the switchin- ptilses and prevent oscilla-
+                     tions.
+                          When'the sinxisoidal signal from the signal generator goes posi-
+                     tive the transistor switch turns on and the current flows from the
+                     12V poi;er supply through the magnet.  When the signal reaches the
+                     negative portion of its cycle, the switch turns off and current is
+                  2   prevented from flowing.  By putting in a 1000 Hz signal we therefore
+                     put 1000 pulses per second through the magnet with a maximum of 12 amps
+                     peak current.  The actual current through the magnet is considerably
+                     less since the inductance increases the im-pedarce.
+                          The transistors dissipate a great deal of power and must be
+                     placed on heat sinks in order to oper2ata properly and to prevent
+                     thermal failure.
+               B.  Experiment 1:  Temperature-frequency baseline data.
+                       We had observed that the discharge frequency of each fish at a given
+                   temperature was different from that of the other fish.  Agalides reports
+                   that temperature-related frequency changes in 'S. albifrons-are complex,
+                   but are on the order of A50 cps/&CO, which our work confirme2d.  Since
+                   the current experiuents required an accurate prediction of discharge
+                   frequency, a study was made of the temperature-frequency relationship
+                   in the fish in order to provide baseline  data.
+                       Each fish was monitored for frequency at '10-12 points in the 21 to
+                   310C range and over a period'of 6 weeks.  The test chamber was a plastic
+                   box 25 x 43 x 20 cm, double wrappe2d on the exterior with heavy aluminum
+                   foil.  Three liters of water were drawn from the test fish's home tank
+                   and placed in the box.  Temperature variations were achieved with a heat
+                   exchanger made from a plastic pitcher and a length of plastic tubing.
+                   The tubing was coiled in the pitcher, which was filled with either hot
+                   or cold water.  Water from the test apparatus was forced through the
+                2   tubing at such a rate as to change its temperature 1OC/15 min.  When the
+                   desired change was achieved, as determined by an electric thermotreter,
+                   2 minutes were allowed to elapse, and then the frequency of the test fish
+                   was recorded.  Before recording, the sensing thermistor of the thermometer
+                   was removed from the apparatus because it introduced extraneous signals
+                   into the water and, thus, i8nto the oscilloscope used for frequency de-
+                   terminations.  Fifteen-minute observation periods indicated that frequen-
+                   cy always stabilized in less than 2 minutes.
+                                                     14
+
+                                                                                      Magnet
+               +12 v
+                                     150K
+                                                                                         3055
+                                                                                                 @Ilt4
+                                                                                 055
+          3i9gnal
+              input
+                                             3054
+                                                                       055
+                    *Note: The'2N3055's may     be  replaced by the more costly,
+                             SK3027
+                               Figure 7. Schewtic of magnet switching circuit.
+                                                      15
+
+                      A series of observations with the fish maintained in  close  fitting
+                 rigid styrene tubes showed no variations in either che amplitude  or  the
+                 phase relationships of the discharge accompanyina the change in frequen-
+                 cy.  These results are not in keeping with those of Agalides, who reports
+                 aviplitude changes.
+                      Within the limits of accuracy of our test situation, we fo2und these
+                 fish to have straight-line plots of temperature-frequency  response  with
+                 a range of +15 to +50 cps at any given point, depending on the fish.
+                 Whether thi7s varia7tion resulted from individual differences or  variability
+                 in the method is not known, jut the experimenters lean toward the latter
+                 interpretation. Our laboratory was by no means  2terrperature  controlled,
+                 and the fish may have been responding to changes in temperature over the-
+                 entire apparatus, which was not apparent in the small area actually
+                 sampled for temperature. The results of  this  experiment  are  shown  in
+                 Figure S.
+              C. Experiment 2: Response to unpulsed magnetic fields in the Y maze.
+                 1. &nvironmental preference using a static magnetic field.
+2                         The equilateral Y maze was initially used in an attempt to dem-
+                      onstrate a sensitivity to a relatively strong static magnetic  field
+                      in the sirall specimns of S; albifrons and S. leotorhvnchus.  It
+                      was thought that these fish, with electric iields having a maxi
+                      potential as observed in our lab of only 6.2 m volt, and an  ability
+                      to detect one an2other by mans of these fields at  distances  exceed-
+                      ing 1 meter, would respond.(a) to changes in this field  induced  by
+                      • large magnet, or (b) to currents induced in their bodies  by  such
+                      • magnet. However, no gross responses from the  fish  were  observed
+                      in either swi=ing behavior or in electrical discharge  pattern  when
+                      the magnetic coils were arranged so that a magnet2ic field calculated
+                      at 9- 10 gauss was centered in a 40 x 20 x 30 cm aquarium  iA  which
+                      a fish had been previously placed.  Consequently the Y maze was used-
+                      for further experimentation.
+                          The dimensions of this maze allowed relatively low levels of the
+                      magnetic field in the first 5 cm of the experimental arm with inten-
+                      sity increasing to a maximu2m of 9 - 10 gauss at 11.5.cm.  The overall
+                      dimensions of the apparatus allowed minimal swirmning room for the  four
+                      smallest fish: two albi,frons and two leptorhynchus 15 - 15.5 cm  in
+                      length.
+                          The current induced ove-r a short distance in the environment by
+                      a standard 9-volt transistor radio battery proved to be a noxious stim-
+     0                 ulus, and electrodes were installed at the starting point in  the  event
+                      that subjects did not move rapidly to the choice point.
+                          The subject was placed in the starting arm and a  short  period  al-
+                      lowed to elapse. Both experimental species  were  passive  fish  and
+                                                    16
+
+          TEMPERATURE-FREQUENCY REIATIONSHIP
+   Z9     PLOTS FOP. FOUR STERNARCHUS ALBIFRONS                                                                                           Amok
+   !8
+   t7
+      -26-.8-
+   t6
+                                  2                                                  s                              3
+   t5
+   !4
+   @3      6                           0                6       800                       v 0                       1000
+                                                     FITEQUENCY Or DISCIIARGE    CPS
+                                Figure 8. 'A"he disc,%zrge grequency-te,.iioerctLirp-
+
+                       short-accomodation periods of about one  minute  were  sufficient  before
+                       the door to the choice point was opened.  The  subject  was  allowed  2
+                       seconds to move to the choice point. If this  had  not  occurred  at  2
+                       seconds, the experirentor made contact in the stimulator circuit.
+                       Out of 120 trials, this was necessary only about 10% of the tim ip
+          2             largely with one particular  fish.  Stimulation  once  initiated  was  -
+                       maintained through the trial. Tne fish  is  not  greatly  affected,  if
+                       at all, except in the area directly between the electrodes, but in
+                       order to control the possible effects of  other  variables,  this  tech-
+                       nique was used.
+                            The magnet was kept at the left arm, and was left on for 10
+        2               trials, off for  10 trials, and then on for a final  10.  After  a  trial
+                       the fish was allowed to return to the starting  chamber  by  the  process
+                       of blocking the unoccupied choice arm, waiting till the fish had
+                       moved from the other arm, blocking it, and  then  blocking  the  start-
+                       ihg chamber as the fish returned to it  during  normal  exploratory  be-
+                 2      havior.  These fish are nocturnal and exhibit continuous searching
+                       during the dark hours. The  hours  preceding  ard  during  experimental
+                       sessions were dark with only low  level  red  illumination.  The  inter-
+                       val bet-deen trials was thus variable, but the fish was kept in an
+                       unexcited state.  Elapsed time for 30 trials was about 30 minutes.
+                            T'L2ie results of this series of tr@.als (Table 3) indicated no  sig-
+                       nificant preference or aversion for the stati,c magnetic field,  al-  --.
+                       though the subjects did tend to turn left in  the  maze.  The  mean  per-
+                       centage of left turns with the magnet off was 52%,  and  with  the  mag-
+                       net on 54.3%.
+                                    Table 3. Preference trials in the Y 2maze'
+                                          with the static  magnetic  field.
+                                              Choices to the left
+                                           (Magnet on the left arm)
+                                     Magnet on      Magnet off     Magret on
+                       Fish          10 trials      10 trials      10 trials
+                       S.A.31             30%           50%            60%
+              2         S.A.4              40%           50%            40% (magnet off)
+                       S L  22            50%           60%            70%
+                       S:L:3              70%           60%            60%
+                       'nis  fish required stimulation  on the  lst  trial.
+                       2This fish required stimulation  10 times (3,4,3 distribution)
+                    2. Co2nditioned response to the static  magnetic field.,
+                            In a futther attempt to obtain some  indication  that  S.  albifrons
+                       is sensitive to a non-pulsed magnetic  field,  a  conditioning  technique
+                       was used in which the presence of the field (conditioned stimulus)
+                       was paired with electric shock (unconditioned stimulus).
+                                                       18
+
+                         The S was selected on the basis of size, i.e.,  the  most  suitably
+                    sized fish for the experir,.ental chamber, which consisted of one  arm
+                    of the plastic water-filled Y maze.  Electric  shock  was  administered
+                    from a 9-volt battery through electrodes fastened to the  walls  of  the
+                    chamber. The two magnets were placed on either side  of  the  arm  and
+                    activate2d by an 8-volt, 9-amp power source.
+                         When the fish was placed in the chamber, the magnetic field
+                    (9 - 10 gauss) was turned on, and k second later,  the  electric  shock
+                    was administered for a period of one second, at which  point  both  stim-
+                    uli were turned off. The S responded in  a  characteristic  manner  to
+                    the shock with a "startle" reaction  (unconditioned  response).  I2t  was
+                    hoped that after a sufficient number of trials the S would respond
+                    (conditioned response) in this way to the magnetic  field  alone,  or,
+                    when both stimuli were used, would anticipate the presentation of
+                    shock by responding to the field in the initial 12-second interval.
+                    However, after four series of 25 trials each, giving a  total  of  100
+                    trials, the S fail2ed to show any response to  the  magnetic  field.  Con-
+                    sequently, there was no indication that the fish was  able  to  perceive
+                    the non-pulsed magnetic field.
+                 3. Conditioning with the magnets at reduced intensities.
+                         S. albifrons #3 was confined to one arm of the Y maze.  Two
+                    electrodes were fixed to the sides of this arm, and  the  magnets  placed
+                    on either side. In 2contrast to the first  experiment  in  this  series,
+                    the magnets received only 4 volts and 4.8 amps from  the  power  supply,
+                    producing a magnetic field of considerably less  intensity  (3@  gauss)
+                    than that used previously. In the first experizrent,  the  fish  failed
+                    to respond to the magnetic field, i.e., it gave no  evidence  of  sens-
+                    ing the field at full strength, and it was decide2d  to  attempt  another
+                    test with the field at half strength on the possibility  that  the  orig-
+                    inal was too strong, thereby interfering with the fish's afferent
+                    processes.  With the fish confined to one arm of the maze, the =gn@tic
+                    field was turned on for a period of two seconds, and  after  the  first
+                    second, e'-ectric ahock ( gvolts, 200/tfi@m2) was a2dministered to  the
+                    subject for one second. At the end of two seconds,  both  the  field  and
+                    shock were turned off. As expected, the fish  responded  to  the  shock
+                    (uncondit-'-oned stimulus) with a "startle" movement (unconditioned  re-
+                    sponse), but after 50 trials, when the field  (conditioned  stir-ulus)
+                    was used by itself, there was no  anticipatory  conditioned  respo2nse.
+                    It appears that the fish did not sense the magnetic field as presented.
+                         A second series of 50 trials were then run with  S.  albifrons  #4
+                    with the magnetic field power source at 2 volts and  1.8  amps.  The  re-
+                    sults, however, continued to be negative. But over  the  course  of  the
+                    ttials, both fish showed sme habituation to  the  electric  shock,  which
+                 2   had b en reduced with a recalibration of the variable  resistor  to  100
+                   ,,RA/cm at 9v for the second set of trials.
+                                                   19
+
+                        D. Experimnt 3: Drug study.
+                               In contrast to various reports in the literature on other gyrmotid
+                         fish, no stimuli to which Sternarchus would normally be exposed were
+                         found to affect their discharc,e frequency.  Such things as noise, physi-
+                         cal manipulation, light, dark, feeding, starvation and illness failed to
+                         change ,he f2reque-.icy of the fish in the current study.  As we have seen,
+                         frequency  changes  with  temperature  in  a  highly  predictable   manner,   and
+                         Watanabe and Takeda (1963) demonstrated a response to applied AC current.
+                         They found that AC at the fish's own frequency caused the fish to alter
+                         his  own  frequency  in  response.  The  greatest   relative   changes   occurred
+               2          when the applied current was closest to the fish's own frequency.
+                               In an  effort  to  determine  the  degree  of  stability  and  control  the
+                         fish  is able to maintain over its discharge frequency, a study of the
+                         effects of various drugs on their discharge patterns'was undertaken.  Two
+                         depressants, Nembutal (sodium pentobarbital) and Pontocaine (tetracaine
+                         hyd2rochloride), and L-dopa (levodopa) were tested.
+                               Nembutal at 750 mg/liter anesthetized the fish with no effect on
+                         the  amplitude  ot  frequency  of  their  discharge.  The  L-dopa   effects   are
+                         discussed separately; they did not shoir a direct effect on frequency.
+                         Pontocaine, however, modified the fish's discharge frequency.  At a con-
+                         centratio2n of 3 m- in 500 ml water, the discharge rate dropped  140 cps.
+                         Twenty minutes after a final total dose ofl.12 Sms/500 ml, the discharge
+                         was 375  cps  below  the  expected  level.  The  fish  rested  on  its  side  and
+                         vas unresponsive to stimuli.  At this time, the amplitude and phase re-
+                         lationships of the discharge were unaltered.  The results are summarized
+                         in2 Table 4.
+                               Table 4. The effects of   Pontocaine on discharge frequency.
+                                                        rugge@         Norma
+                                                              'c2y    Frequency
+                         Tim      Dose        Tem;i. _lfrequen                           Remarks
+                         09:25   0.375,cm     27.                            10
+            2                                                          980 +
+                          "Zi:30              27.5       839
+                         09:37   0.375gm
+                         09:43                27.35      787          965 + 30
+                         09:45   0.375gm
+                         09:51
+                         09:56                27.2       649          955 + 30
+                         10:02            9                                          200 ml water re-
+                                                                                    placed   with   fresh,
+                                                                                    fish letl--largic
+                         10:08                27.1       575          950 + 30
+                      -io .  i-i                                                    fish lying still
+
+                         In view of the considerable interest in the neurotropic drug levod'opa
+                    (L-dopa), and because the experimental techniques developed in the current
+                    study are capable of providin- direct telemetric evidence  of  nervous  sys-
+                    tem functions, it was decided to test L-dopa on selected  fish  in  order
+                    to determine its effects on their electrical discharge  patterns  and  be-2
+                    havior.
+                         The first subject was S.A.,';-4, who received the drug for 27 days.
+                    Long exposure to relatively large doses is necessary  to  produce  behavior-
+                    al effects in other species. A technique of  repeated  injections  as  one
+                    way of achieving this was ruled out as impractical;  therefore,  a  method
+                    for dissolving L-dop4 into the aquarium water  was  2worked  out.  Dar7  pro-
+                    vided by the'manufacturer of the drug (Iloff,-nann-LaRoche) indicated that
+                    L-dopa is not very soluble in water; approximately 0.4%  at  800F.  An  air-
+                    lift was arranged to bubble aquarium water from the 20  liter  home  tank
+                    at a very slow rate through a chamber containing the  drug  and  lined  with
+                    filter paper. The charco2al was removed  from  the  tank's  filter.  Every
+                    day, weekends excluded, 100 mg of the drug on fresh filter paper was
+                    placed in the dispenser. lie found that L-dopa,  under  these  conditions,
+                    rapidly combined with other substances present to form a heavy, dark,
+                    flocculent precipitate, which clogged the tank filter and the filter
+                    paper in the dispenser.  The principal change was a conversio2n of the
+                    dopamine to melanin, which was later prevented by the addition  of  50  mg
+                    of ascorbic acid every time L-dopa was added.  S.A.#3  also  received  the
+                    ascorbic as a control.
+                         No unusual behavior or alteration-in the form or  amplitude  of  the
+                    electrical discharge of S.A.44 were noted for  14  days.  Then  an  increas-
+                    ing disorientation, reduced abi2lity to find  food,  and  abnormal  discharge
+                    frequencies were noted. On the 21st day of  drug  experimentation  a  tho-
+                    rough series of temperature-frequency studies was performed  in  the  pre-
+                    viously described manner.  These revealed that the slope of the temperature-
+                    frequency plot was unchanged, but whereas a variability of +  50  cps  had
+                    been previously noted, varia2bility was now found to be + 150  cps  as  test-
+                    ed over a period of 3 consecutive days. The drug  was  s@opped  at  the  end
+                    of this time, the water in the tank changed,  and  charcoal  filtration  re-
+                    sumed. Four days after-t:his, the temperature response  was  still  quite
+                    erratic. The next close evaluation came 50 days  after  cessation  of  the
+                    drug. Temperature-freque2ncy response at this time  had  returned  to  the
+                    pre-drug parameters.
+                         The cotitrol, receiving ascorbic acid alone,-showed  no  such  effects.
+                         S.A.#2 was given L-dopa and ascorbic acid over  47  days.  The  dis-
+                    penser in this case was a plastic funnel suspended with  the  narrow  end
+                    of the cone submerged; discs of filter paper, folded in  half  twice  and
+       2             opened to form a cone lined the funnel. Fifty mg each  of  dopa  and  as-
+                    corbic acid were placed into the cone and were dispersed  by  simple  dif-
+                    fusion over a period of 2 days. This was  a  more  reliable,  less  trouble-
+                    som method of dispensing the drug than that  used  earlier.  In  this  case,
+                    the tank filtration was left intact, but the air flow to the bubbler
+                                             2         21
+
+                    was reduced, lessening the water floi4 throu-h the charcoal.  We assumed
+                                                              0
+                    that with an undissolved supply of the drug at hand, an equilibrium would
+                    be achieved, and the amount of drug in the water would be constant despite
+                    uptake by the fish and/or the charcoal.
+                         Several tests were tried, removing the fish thro2ugh 2 changes of dis-
+                    tilled water which had been aereated and brought to the proper condition
+                    with reagent grade chemicals, to test for metabolized dopamine with fer-
+                    ric chlor-'@do.  However, there were no differences demonstrated in the
+                    color or quantity of precipitate betweer. experinental and control fish.
+                         S.A.#2, during and after 47 days on the drug, showed no al2tered be-
+                    bavior and no change-in his electric field.
+                         The drug studies were terminated at this point.  The exact cause of
+                    S.A.#4's reactions are not definitely known.  Because of his sma.11 size,
+                    the drug may have had more effect on him than on S.A.#2.  He may have
+                    suffered an illness, or been affected by a toxic buildup of some sub-
+                    stance or substances 2due to a lack of filtration in his tank for 27 days.
+                                                                            "2's tank may have
+                    Another possibility is that the operating fi:lter in S.A.,r
+                    reduced the concentration of L-dopa below an effective level.
+                 E. Experimnt 4: Response to AC and  pulsed magnetic fields in the T maze.
+                    1. Conditioning of the sixty-cycle field.
+       2                     The acrylic plastic T maze was prepared and the apparatus suitably
+                         modified to initially produce an alternatin- magnetic field and later
+                         a pulsed, but unidirectional field.  A new line of investigation was
+                         then undertaken.  We were now able to change the intensity of the mag-
+                         netic field over a considerable ran-e frcm-i 0 to over 50 gauss with a
+                2         simple adjustment of a variable AC ("Variac") transformer, or 0 - 20
+                         gauss with the DC power source.  The AC field was pulsed at the 60-
+                         cycle commercial frequency; the previously described circuit allowed
+                         the DC field to be pulsed from 0 - 1500 cps with no directional change.
+                         in the field.  The chan,,es in frequency and intersity could be made
+  2                       concurrently, although the complete range of intensities could not be
+                         achieved at every frequency.
+                             The first trials were run with a 60 cps AC mgretic field at 6
+                         intensity levels (see Table 5).  S.A.#3 was placed in the T maze, with
+                         the two magnets encircling one arm.  The intensity of the magnetic
+                         field in that arm Fas var2ied by adjusting the voltage on the Variae.
+                         Freqt@ency was maintained at a constant 60 cps.  At 41 gauss (50 volts),
+                         the fish was given 250 trials (on alternate trials, the field was turned
+                         on and off).  'When the field was on, each time the subject entered
+                         the experimental arm of the maze it was shocked briefly.  With the field
+                         off, 2the S could enter and swim in the arm freely.  It was hoped that
+                         in this way, i.e., by conditioning the S to avoid the field as an avers-
+                         ive stimulus by pairing it with shock, evidence could be obtained as
+                         to whether the fish was sensitive to the field.  If candi tioning was
+                         achicved, then it would be definite that the S could perceive magnetic
+                         stim-ili, and its threshold for such stimuli determined by lowering the
+                                                      22
+
+                       intensity of the field.  The first tests (250 trials) were made at
+                       41 gauss. Aftc-.r 100 trials at this level, the  fish  never  entered
+                       the arm with the field on, but swam into it when  the  field  was  off.
+                       Twenty trials were then attempted at 34, 36, 18@ 9 and 1 gauss,
+                       with similar positive results at  the  three  higher  setting2s.  How-
+                       ever, at 9 and 1 gauss, behavior became inconsistent,. with @z!%e S  re-
+                       sponding correctly about half the time.
+                         Table 5. Sixty--cps trials at intensities from 1 to 41 gauss.
+                                    Intensity       No. of trials       Results
+                                    41 gatiss             250        Positive   response
+                                    34  ga2uss             20         Positive   response
+                                    26  gauss             20         Positive   response
+                                    18  gauss             20         Positive   response
+                                                                     Partially positive
+                                     9  gauss             20               response
+                                                                             ly PO,@ic2ive
+                                     1  gauss             20
+                                                                             sp-onse
+                    2. Conditioning of variable-frequency fields.
+                             In each series of  these  trials the intensity  of  the  magnetic
+                        field was held constant while frequency was  varied  by  changes  of
+                        100 cps from 500 cps below the fish's  (S.A.#3)  own  frequency  to
+                        500 cps above it (Table 6).  A total of 1100 trials were run, 100
+                        at eaci frequency. The method used was  similar  to-that  of  the  pre-
+                        vioils experiment. That is, the field was turned on  and  off  on  al-
+                        ternate trials during each series of 100, and  each  time  the  fish
+                        went i2nto the arm of the maze with the field  on  it  was  shocked.
+                        When the field was off, no shock was  used.  The  results  in  each
+                        case were negative; the fish did not learn to  respond  to  the  field
+                        as a noxious stimulus as we had expected on the basis of previous
+                        results, but tended to enter and stay in  the  field  regardless  of
+                        the shock. Thus, the field seemed  to  have  son*  posit2ive  reinforce-
+                        ment value to the fish. This  surprising  outcome  was  checked  in
+                        another series of 300 trials with S.A.#3,  100-at  his  own  frequency
+                        (IC40 cps) and 100 each at 540 and 1540 cps.  In these tests, however,
+                        the intensity of the field was increased  to  15  gauss.  The  results
+                        were     same; the S would not avoid the field whe9n paired with shock,
+                        but tend@@d to approach under all  conditions.  This  interesting  de-
+                        velopment led to the final and most important experinvnt in the pres-
+                        ent study, wherein the preference of the S's  for  the  magnetic  field
+                        was more fully explored.
+                                                         23
+
+                    Table 6. Conditioning with frequencies from 540       1540 cps at  5  gauss.
+                              Frequency (cps)          No.  of trials         Results
+                                   1540                    100                negative
+                                   1440                    100                negative
+                                   1340                    100                negative
+                    2               1240                    100                negntive
+                                   1140                    100                negative
+                                   1040  (S''s own         100                negative
+                                         frequency)
+                                    940                    100                negative
+                                    840                                       2negative
+                                    740                    100                negative
+                                    640                    100                negative
+                                    540                    100                negative
+                     3.  Approach response to pulsed  fields with frequency   and intensity varied.
+                             Up until this point,  the  evidence  was  somewhat  contradictory  and
+        2                 .it was not sufficiently clear that the subjects were sensitive and re-
+                         sponsi-;e to magnetic fields. Ttierefore, on the  basis  of  the  positive
+                         evidence in the last experiment, it was decided to conduct a more
+                         comprehensive study of the fish's  @reference  for  or  approach  tendency
+                         to the magnetic field.
+                             Tliie T maze was us2ed as before, with  the  magnets  positioned  on
+                         either side of one arm (Figure  5).  Two  series  of  trials  were.run,
+                         one at 10 gauss and the other at 20 gauss.  Each of the four speci-
+                         mens of Sternarchus albifrons was put  in  the  maze,  and  the  frequency
+                         was adjusted to the subject's own discharce rate, which, in these
+                         fish, was 700, 2885, 935, and 1,040 cps respectively.  In subsequent
+                         trials the frequency was raised and lowered 100 and 200 cps above
+                         and below each subject's normal  discharge  rate  at  26.80C.  Thus,  the
+                         experimental design involved  changes  along  two  continua,  frequency
+                         and intensity (Table 7).  Under each condition, the fish was placed
+                         into t2he maze, and the number of  times  it  entered  the  experimental
+                         area in the arm between the magnetic coils during  a  period  of  15  min-
+                         utes with the field off a-&id 15 minutes with the field on i;as recorded
+                         on a counter. Each fish was tested  for  its  tendency  to  approach  the
+                         field at five frequency levels ranging from 200  cps  below  to  200  cps
+                 8        above its own frequency and at two intensity levels.  A su=ary of the
+                         results are presented in Tables 8 and 9  and  illustrated  in  Figure  9.
+                                                         24
+
+                    Table  7.  Experirrental  conditions  for  the  approach-response   experiment
+                                          with a :-.ul,;ed magnetic  field.
+                                                  10 gauss                    20 gauss
+                            S.A.1:1085     15 min on, 15 min off       15 min on, 15 min off
+                            S.A.2:900
+                +200   c2ps  S.A.3:1240
+                            S.A.4:1135
+                            S.A.1:985
+                            S.A.2:800
+                +100   cps  S.A.3:1140
+                            S.A.4:103
+                            S.A.1:885
+                normal      S.A.2:700
+                rate        S.A.3:1040
+                            S.A.4:935
+                            S.A.1:7285
+                            S.A.2:600
+                -100   cps  S.A.3:940
+                            S.A.4:835
+                            S.A.1:685
+                            S.A.2:500
+                -200   cps  S.A.3"840
+                            S.A.4:735
+                Table   8. Summa--y  of results  for  the  approach  experiment,  showing  the  number
+             of times the subjects 2 entered  the  experimental  area  with  the  field  on  and  off.
+                               S.A.1          S.A.2              S.A.3             S.A.4
+                            10     20       10       20        10       20       10       20
+                          gauss  gauss     gauss    gauss    gauss    gauss    gauss    gauss  total
+                      on    36     41        69    2   56       92       87       27       81     489
+           +200cps    off   44     44        35       49       50       54         6      45     327
+                      on    34     44         .49     36       59       74       53       78     427
+           +100cps    off   21     17        33       29       42       42       53       52     289
+            ,6(srm.   on    38     @8        34       43       27       14       19       23     236
+ 2          -freg.     off   36     28        26       21       29       17   1   11       16     184
+                      on    38     46        44       61       52       50       60       59     410
+           -IOOCDS   offl  .25     34        28       32       46       27       39       39     270
+                      oni   33     57        52       72       45       49       54   l@57@      419
+           .:@c s@l -.,of2 f 144    44        41   1   41       54       36       40   1   39  1  339
+                            As we  can see in   the total column, there   was a  very definite
+                       tendency for the Ss to enter the area between      the magnets signi  'ficantly
+                       more times with the field on than,wlth the field off.  For all fish
+                       and under all conditions, the experimental area was entered 1,981 times
+              2         with the field on, and 1,409 times with the field off.  Means were cal-
+                       culated for the average number of times the fish entered the area with
+                       the field on and off under  all  frequencies  and  at  the  10  and  20  gauss
+
+                     levels.  The results are shown in Table 9.  To test the significance
+                     of the difference between the combined means, a test was done with the
+                     following results:
+                                      R=49.53    (field on mean)
+                                      7-35.23    (field off mean)
+                                      B-14.30    (difference)
+                                      EDi=-56-2-
+                                      BDi2=14,956
+                                      N-40
+                                      Di-14.30     2_   E(y,7)2
+                                      Sd=10.35                    4288       107.20
+                                                         N         40
+                                                  S        7.20  10.35
+                                             Sd
+                      2                Off                 10.35   1.66.
+                                           VN- --I         6.25
+                                      t            14.30 = 8.61
+                      We can thus reject the null hypothesis that the results occurred by
+                      chance at the .01 level, i.e.' we can be 99% confident that the ob-
+                      served difference was not due to chance.
+                Table 9. Mean number of times the Ss entered the experimental area with the
+                field on and off at 10 and 20 gauss and overall for al,l frequencies combined.
+                                                10 gauss    20 gauss     combined
+                            Field on             45.75         53.30       49.53
+                            Field   off          35.15         35.30        35.23
+                            In   Figure 9, average difference scores were  det2ermined by finding
+                        the  difference between the number of times the Ss entered the experi-
+                        mental area with the field on and with it off, and dividing this number
+                        by 4 (the number of Ss).  This  was  th'en plotted against the various fre-
+                        quencies tested.  It can be seen that there are two definite peaks in
+                        the approach          of the Ss to the field, at -100cps and in the re-
+      2                  gion between +100 to +.200 cps.  Surprisingly, there was a sharp drop
+                        at the subjects' own frequency, which is contrary to what we had expected,
+                        Previous reports had indicated that these fish are most sensitive at
+                        their own discharge frequency.
+                            After this analysis of the data, it was apparent that the fish
+                        were not responding to a pulsed magnetic 7field in the expected manner,
+                        i.e,, responses at the frequency of the fish at maze temperature were
+                        not the maximal responses observed, nor were the frequencies at which
+                        maximal responses were seen related in a periodic manner to the base
+                        (26.80C) frequency of the fish.
+                                                        26
+
+              20--
+                                                                               2.o
+        0 0                                                        ........
+                                                                  4
+          fa
+        41 4
+                                                                               J-
+                                                       0
+            2                                                         f efec'tri'c@l dischargel--,.-.-.
+      Frequency of:ma'Snetic. f iolcis in-i6l'at3'.on to,fish-s frequency;o
+             Figure 9.  Changes in average difference scores with magnetic field frequency.
+                         Therefore, an additional series of trials were run  extending  the
+                    frequency 2range of the magnets.  A field strength of 20 gauss was used
+                    throughout to maximize responses.
+                         The procedure'was-the same as before. The  experimental  fish  was
+                    'Placed in the maze, the lights were extinguished, and two minutes  al-
+                    lowed to elapse before counting began. The number of  times  in  a  15-
+                    minute period that the fish entered between the magnetic coils with
+         8           the magnets off was then recorded. With the  electrical  input  to  the
+                    magnet ard to the switch adjusted to produce 20 gauss  and  the  desire'd
+                    frequency with the standardized pulse as shown -1@n Figure 5 for the mag-
+                    net longitudinal axis, the entries into the area  between  the  magnets
+                                                    27
+
+                          GNETIC                                                                                   ONTAL
+                                                                                          tiAGNET FREQIIENCY  IIORIZ
+    LD.
+                                                                                         SCALE, 100 Hz. DIVISIONS. BASE
+                         SA I                                                            FISII FREQUENCY IN CENTER2
+    ed on performance
+    a 20 Gauss field.
+                                        385                                                1385
+                         SA 2
+                                                                   00                                    1500
+         co
+                         -SA 3
+                                                                  LU4U                 1440
+                          SA 4
+3
+                                            85                      935
+
+                        0
+                            in 15 minutes with the magnets  on  and  off  were  counted.  After  each
+                            series of half hour trials, the fish  was  returned  to  his  home  tank,
+                            the n.,agnets readjusted if necessary to  accommodate  the  frequency  of
+                            the rext subject, and the  process  started  aoain.  In  any  given  day,
+                            one 2fish would have a maximum  of  two  half-hour  trials,  separated  by
+                            at least one hour.
+                                The results  are  shown  in  Figure  10.  Tnese  per-formance  curves
+                            were drawn by subtracting the  number  of  entries  durina  each  control
+                            run from the nurber  of  entries  during  the  companion  experimental  run
+                            at each ma-net  frequency.level.  In  actual  numbers,  the  entries  under
+                            cont-rol conditions ranged from 16 to  90  and  under  experimental  condit
+                            tions ran-ed from 14 to 87 in a 15-minute period.
+                                Limitations in the equipment prevented the testing of performance
+                            at frequency levels of half and  double  that  of  the  base  frequency  of
+                            ea@-,h fish. However, the range tested  was  adequate  to  show  that  sen-
+                            sitivity to a magnetic field  in  Sternarclius  albifrons  is  vastly  dif-
+                            ferent from that to an electric current.
+                                All of the  data  in  previous  reports  with  regard  to  response  to
+                            magnets have been discussed in  terms  of  the  current  generated  in  the
+                            fish by the magnetic fi2eld.  This  may  be  t-.ue,  but  these  performance
+                            curves clearly  indicate  that  the  sensitivity  to  magnetism  is  more
+                            complex. The  literature  is  in  agreement  that  maximum  sensitivity  to
+                            applied current occurs  at  the  fish's  own  frequency  (Granath,  1967,
+                            Figure  11).  The  results  reported  here  indicate  that  maximum  sensi-
+                       2     tivity to a magnetic field occurs  at  a  point  or  points  one  to  three
+                            hundred Hertz above  and/or  below  the  base  frequency.  What  is  most
+                            certainly indicated is that raxiiru,.n A.2 s@itivi@ty does not  occur  at
+                            the fish's own fre         with the ma2netic field.
+                                        so
+                    2                   7.
+                                       2
+                                       Z30 -
+                                                                                 20
+                                       ;:Io
+                                                    2            3            4
+                                                               I 0
+                                                       Fngou[Ncy (HZ)
+2                         Figure 11. Response spectrum to a uniform AC field.  (After Cranath, 1967).
+                                  If, as our data indicate, the fish respond to more than induced
+                             current in a pulsing  magnetic  field,  there  is  still  the  problem  of
+                             defining more  clearly  the  stimuli  to  which  they  are  responding.  A
+                             crude model of a fish @as achieved by moving an inducti6on coil through
+                             the  maze.  Results'are  reproduced  in  part  in  Figure  5.  These  wave
+                                                               29
+
+                       forms were induced with the axis of the  test  coil  parallel  to  the  axis
+                       of the riagnetic coils. With the  a-is  of  the  induction  coil  perpendic-
+                       ular to the axis  of  the  magnetic  coils,results  were  similar  from  the
+                       distal end of the test arm to the  point  15  cm  from  the  magnet  center,
+                       but induced currents were weaker, 2 - 50 mV as op2posed to  the  5  -  80  mV
+                       sho%4n on the diagram. However, from 15 cm, on  toward  the  magnet  center,
+                       the induced pulses became more roundcdand diminished in strength to
+                       about I gauss at the  center  of  the  magnetic  coil.  A  behavior  pattern
+                       observed in the fish  indicated  that  the  first  model,  though  extremely
+                       crude, was better than2 the second. The  fish,  in  moving  from  the  distal
+                       end of the test arm would hesitate at about  ttis  15  -  18  cm  area,  and
+                       then frequently continue to the magnet  center  in  a  rush,  working  their
+                       jaws and moving in  an  exciied  manner.  Interestingly,  the  induced  cur-
+                       rent pulse in the-test coil assumes a  wave  form  that  is  very  like  the
+                       fish's own di2scharge at this 15  -  18  cm  point  in  our  test  apparatus,
+                            One other  aspect  of  observed  behavior  toward  the  magnetic  field
+                       is unexplained. When the fish chose the leg  of  the  T  at  a  point  0  to
+                       10 cm from the  intersection,  they  %iere  observed  to  sometimes  execute
+                       a forward roll, frequently two or  three  in  succession  with  some2  degree
+                       of force. As can be seen from the  diaaram,  there  appears  to  be  no  in-
+                       dividuality in this area of the  field.  This  response  was  seen  to  some
+                       degree at all frequencies and-at 10 and 20 ga-ass, but  seemed  to  be  most
+                       common at those frequencies of maximum  response  to  the  magnet.  A  crude
+                       three-dimensional plot of the field shows2  it  is  cigar  shaped.  The  fish
+                       were restricted to an area + 5 cm above  and  below  the  edge  of  the  ci-
+                       gar-shaped field (23 cm in 'jiatreter). At  this  10  cm  point,  the  lines
+                       oi equal force would be  essentially  parallel  to  the  long  axis  of  the
+                       arm in the vertical plane, and cur-,.,ing  toward  the  magnet  center  line
+                       in2 the horizontal plane.  Perhaps it is this gradient to which the
+                       fish respond in this manner.
+                 F. Summary of results.
+                          (a) The rate of discharge in the electric  field  of  Ster-narchus  albi-
+                     frons is a  positive  function  of  temperature.  In  three  subjects  (S.A.1,
+                     3, and 4) the change was +  50  cps  for  1  degree  C.  The  other  specimen,
+               2      (S.A.2) varied + 15 cps per 1 degree C.
+                          (b) The fish showed no significant approach  or  avoidance  behavior  to-
+                    -ward a static (non-pulsed) magnetic field of  9  -  10  gauss  in  a  Y  maze.
+                          (e) A conditioning procedure  in  which  elec'tric shock was paired
+                     with a static magnetic field of 9 - 10 gauss and 3k  gauss  in  a  Y  maze  in
+      0               order to establish an avoidance response was not successful.
+                           (d) In a study of the effects  of  drugs,  Nerbut,il  and  levodopa  (L.
+                     dopa) failed to alter the discharge  patterns  of  the  subjects'  field,  al-
+                     though L-dopa produced  a  more  variable  temperature-frequency  relationship
+                                                        30
+
+                     'and some abnormal behavior. Pontocaine,  however,  modified  the  discharge
+                      frequency by depressing the rate sever6ly.
+                           (e) Conditioning trials were attempted with a  60-cycle  AC  magnetic
+                      field of I - 42 gauss paired with electric shock in a  T  maze.  The  fish
+                      learned @.o avoid the field at intensities of 34, 26, and 218  gauss,  but
+                      the results were inconsistent at 9 and 1 gauss.
+                           (f) Additional conditioning trials were run in the T  maze  with  a
+                      pulsed, unidirectional field at frequencies ranging from  540  to  1540
+                      cps at 5 and 15 gauss in which the field was paired with shock, but
+                      the subject failed to learn to avoid the field.  Instead, the  fish  showed
+               2       a tendency to stay in the field regardless of the  shock  it  received.
+                           (g) Each subject was tested for an approach tendency  to  the  field
+                      in a preference study. The pulsed field was  varied  in  intensity  from
+                      10 to 20 gauss, and in frequency from 200 cps above the  fish's  own  fre-
+                     .quency to 200 cps below it by decrements of 100 cps.  The subjects
+                      2showed a significant preference at the .01 level for  the  area  between
+                      the magnetic coils with the field on as compared with  trials  with  the
+                      field off, indicating clearly that they are sensitive  to  the  magnetic
+                      stimuli. The preference study showed  maximal  responses  at  frequency
+                      rates other than those of the fish, in a pattern  totally  dissimilar  to
+                      imposed current stimuli.
+2
+              IV. REFERENCE BIBLIOGRAPHY,
+                   AS alides, E. Information  processing  by  electric  fishes.  General  Dynamics,
+                      Pomona Division.
+                   Anonymous.  Ariadne.  Nei; Scient., July 31, 1969, 253.
+                   Anonymous.  Electricity and disease.  New Scient., July 24, 1969, 173.
+                   Anonymous.  L-dopa ready for FDA approval. @ted. World News,  July  18,  1969i
+                      35-37.
+                   Anonymous.  Radio waves and health.  Nei4 Scient., Nov.6, 1969, 276.
+                   Anonymous.  The unshakable man who doped out L-dopa.  lied, World l@leiis,
+                      Nov.14, 1969, 24-25.
+                   Barham, E.G,, W.B. Huckabay, R. Dowdy and  B.  Burns.  Microvolt  electric
+       2               signals from fishes and the environment.  Science,  1969,  164,  965-968.
+                   Barnes, E.B. Biomagnetic mechanisms. Diss.  Lb-stv.,  1968,  29,  1557-1558.
+                   Bauer, R.  Analysis of the electric discharges and the prey capture behavior
+                      in the electric catfish,  M@@     @ electricus  Grielin  1789  (Siluroidea,
+                      Ifalapteruridae2, Lacep, 1803). 4. Ylrgl. Lhvsicl.,  1968,  59,  371-402.
+                   Beischer, D.E.  Biomagneti,cs..  In: Lectures in Acros  1,t
+                                                                        -p. I d., Feb. 4-8, 1963,
+                      365-386.
+                   Beischer, D.E. Research on the effects of very  strong  magnetic  fields  and
+                      of magm2etic field-free environments on man  and  animals.  Progress  report
+                      for Nov.1, 19 8 - Jan.31, 1969.  NASA  order.R-39,  NASA-CR-99767,  documnt
+                      series N69-18293, NASA.
+                   Beisc'her, D.E., E.F. Miller and J.C. Knepton. Exposure of man  to  low  in-
+                      tensity magnetic fields in a coil system.  NASA  order  R-39,  NASA-CR-
+                7      90223, NAMI-1018.
+                                                        31
+
+                   Bennett, M.V.L.  Mechanisms of alectroreception.  In: Lateral Line Detectors.
+                      Proccedines of a Svmoosiuni. April 16-18, 1966, k:ew York.  Bloomington, Ind.
+                      Indiana Uiv. Press, 1967, 313-393.
+                   Bennett, II.V.L.  Iloural control of electric organs.  In:  The Central Nervous
+                      System and Fish Behavior, ed. by2 D. Ingle. Chicago, Ur@iv-. Zh-icago Press,
+                      1968, 147-169.
+                   Billard, R.  Im..obilization of aquarium fishes by a magnetic field.  Ann. Biol.
+                      Anin. Biochim. 2i2phvs., 1966, 6, 533-536.
+                   Bennett, II.V.L. and H. Crundfest.  Analysis of depolarizing and hyperpolarizing
+                      inactivation response2s in gy"otid electroplaques.  J. Gen.             1966,
+                      50, 141-169.
+                   Brown, M.V. and C.W. Coates.  Further comparison of length and voltage in
+                      the electric eel, Blectrophorous electricus.  ZooloRica. 1952. 37, 191-197.
+                   Bullock, T.F. and S. Chichibu.  Further analysis of sensory coding in electro-
+                      receptors of electric fish.  2Proc. Nat. Acad. Sci. 1965, 54, 422-429.
+                   Busby, D.E.  Biomagnetics'Report prep7ar-ed for NASA under contract no. MSr-115
+                      (NASA CR-889) by Lovelace Foundation for @ledica'l Education and Research,
+                      September 1967.
+                   Chagas, C., A. Leao, M.F. @foreira and M.S. Santos.  Low voltage discharge of
+                      the electric eel.  Nature, 19462, 158, 746-747.
+                   Caldwell, W.E.  E. Gaddis and M. Werber.  An operant electromagnetic chamber.
+                      J. Genet. P;Ychol., 1969, 115, 7-16.
+                   Caldw@ll-, li.E. and J.E. Germas. An'exploratory study of  the  environmental
+                      preferences of electric fish (Sternarchus albifrons,). In press
+                   Caldwell,-W.E. 2and F. Russo. An exploratory study of the  effects  of  an  AC
+                      magriatic field upon the behavior of the Italian honeybee (,Lois m.-ellifica).
+                      J. Genet. Psychol. 1968, 113, 233-252.
+                   Coates, C-.W., M. Altamirano and it. Grundfest. Activity in  electric  organs
+                      of knife fishes.  Science, 1954, 120, 845-846.
+                   Danyulite, G.P. and d.A.-@Fa-l@nkina.  Investigation of the physiological mech-
+                      anism of action of a direct-current electrical field on fish.  In: Beiavior
+                      and Receotion in Fish, Moscow, 1967, 56-62. (Translated  from  Russian  and
+                      available from the Clearinghouse for Federal Scientific and Technical In-
+                      formatio--t, PB 184921)
+                   Dewsbury, D.A.  Diurnal 2iluctuations in the discharge frequency of a gymnotid
+                      electric fish.  Psychon. Sai., 1966a, 6, 35-36.
+                   Dewsbury, D.A.  Some corre@lates of electric organ discharge frequency in three
+                      species of electric fishes.  Diss. Abstr.. 1966b, 26(11), 6866-6867.
+                   Dewsbury, D.A.  Stimulus-produced changes in the 4@ischarge rate of an electric
+            2          fish and their relation to arousal. Ely.Shol. Rec.,  1966c,  16,  495-504.
+                   tnger, P.S. and T. Szabo. Effect of temperature on  the  dtscharge  rates  of
+                      the electric organ of some gymnotids.  Como. Biochem. Phvsiol., 1968, 27,
+                      625-627.
+                   Erskine, F.T., D.H. Howe-and B.C. Weed.  The 'discharge period of  the  weakly
+         2             electric fish Sternarctius albifrons.  Amer.Zool., 1966, 6, 521.
+                   Howe, D.W., F.T. Erskine and L.P. Granatt@-.-Th'resliold sensitivity of Sternarch-
+                      us albifrons to electric fields.  Amer. Zool., 1966, 6, 521.
+                   'Callon, R.L.,,F.J. Mandriota and R.L. Thompson. Effects  of  temperature  and
+                      shock 2on electric organ discharge rate in  Gnathonemus.  Proc.  75th  Ann.
+                      Con. Amr. lay.Ehol. As@.oc., 1967, 2, 131-132.
+                   Got7tl-ieb,- N-.D. and W.E. Caldwell.  Magnetic field effects on the compass
+                      c*chanism and activity level of the snail Helisoma durvi endiscus.  J.
+                      Genet. Psvchol.,0 1967, 111, 85-102.
+                   Granath, C.?., H.G. Sachs and F.T. Erskine  III.  Electrical  sensitivity  of
+                      a weakly electric fish.  Life Sci., 6, 2373-2377.
+
+                  Gruitdfast, 11. Electric fishes.  Sci. Arner., 1960, 203, 115-124.
+                  Ilarder, W. and 11. Milemann.  On the frequency behavior of Gvrinarchus niloticus.
+                     Z. Vcrgl. Physiol., 1967, 54, 85-88.
+                  Hixson, J.R.  L-dopa.  Fam. licalth, January 1970, 44-47,
+    2              Keynes, R.D. The thermodynamics of nerve and  electric  organ  (crab,  squid,
+                     frog, rabbit, electric fish). In: rroc. Conf. Islerve Tissue,  Phila.  Pa.,
+                                                         @nd-R - , 1966, 293-304.
+                     Nov.12-13, 1964.  New York: liarper      owe
+                  Krivoy, W.A., R.A. Hutgins, D.C. Kroeger, B.E. Ilobe2rly and J.R. Porter.
+                     A technique for measuring the actions of drugs by using  electric  f-ish.
+                     Med. Res. Eno               -20.
+                                 ,., 1967, 6, 16
+                  Lanmrs, A.J.J.C. and J.M. Van Rossum. Bizarre  social  behaviour  in  rats  in-
+                     duced by a combination of a peripheral decarbox@lase  inhibitor  and  dopa.
+                 2    Eur. J. Pharmncol.l. 1968, 5, 103-106.
+                  Larilr.er, J.L. and J.A. MacDonald. @'ensory feedback from electroreceptors  to
+                     electrorriotor pacemaker centers in gym-iotides. Amer. J. Physiol.,  1968,
+                     214, 1253-1261.
+                  Lemkan, F.V. More on Cerletti and electric  fish.  Amer.  J.  Psvchiat.,  1969,
+     2                125, 16001-1610.
+                  Lissmann, H.W. Continuous electrical signals from the tail of  a  fish,  G  m-
+                                                                                             .Y
+                     narchus niloticus.  Natura, 1951, 167, 201-202.
+                  Lissmann, H.W. On the function and evolution of  electric  organs  in  fish.
+                     J. ExD. Biol.92 1958a, 35, 156-191.
+                  Lis'@mann, H.W.  Ecological studies on the Gymnotidae.  In: Bioelectrojenesis,
+                     ed. by C. Chagas.  Amsterdam, Elsevier, 1961, 215-223.
+                  Lissmann, H.W. Electric location by  fishes.  Sci.  Amer.,.1963,  208,  50-59.
+                  Lissmann, H.W. and K.E. Machin. The mechanisn@o-f object location  in  Gvrl-
+   2                  narchus niloticus and similar fish. J. Exp.  Biol.,  1958,  35,  451-485.
+                  Lissmann, H.W.-and A.M. Mullinger. Organization  of  ampullary  electric  re-
+                     ceptors in Gy=otidae (Pisces). Proc. RoX. Soc.  Ser.  B  Biol.  Sci.,  1968,
+                     169, 345-378.
+                  Lissmann, H.W. and H.O. Schwassmann. Activity rhythm  of  an  ele2ctric  fish,
+                     Gymnarhanphicthvs hypostomus, Ellis,  Z. YILPI. Phvsiol., 1965, 51,
+                     153-171.
+                  Machin, K.E. and H.W. Lissmann.  The mode of operation of the electric receptors
+                     in 2ZEnerchus niloticus.  J. Exi>. Biol.1 1960, 37, 801-808.
+                  Murray, R.W. The function,octhe ampullae  of  Lorenzini  of  elasmobranchs  (Tor-
+                     peda, Scyliorhinus, rays, sharks, Raja, Squalus,  mormyrids,  Hypopomua,  S
+                     Sternarchus, Sigerurannia, Gymnarchus, Negoprion).  In:  Lateral  Line  Detec-
+                     tors. Proc. Svmp. A@pril 16-18, 1966, Now  York.  Bloomington,  Ind.,  Indiana
+                     @-ni-v.   s2, 1967, 277-293.
+                  14andriota, .-.J., R.L. Thompson and M.V.L. Bennett.  Classical  conditioning
+                     of electric organ discharge rate in Ilor-,nyrids.  Science, 1965, 150 (3704),
+                     1740-1742.
+                  Mandriota, F.J., R.L. Thompson and M.V.L.  Bennett.  'Avoidance  conditioning
+                     of the rate of electric orga2n discharge in I-lorr-yrid fish. Anim.  Behav..
+                     1968, 16, 448-455.
+                  Michaelson, S.@t., R.A.E. Thomson and W.J. Quinlan.  Effects  of  electromagnetic
+                     radiatrons on physiologic responses. Aerosz,. lied., 1967,  38,  293-298.
+                  Moos, W.S., R.K. Clar, and F. Krown.  A  precision  controlled  environmental
+          2           chamber for studies of the effects of electric fields on biological objects.
+                     Int. J. Biometior., 1965, 9, 117-126.
+                  Niussen, H. and I.J.H. Isbrucker. Gvmnotus carado  and  G.  anguillaris  (syn.
+                     q. coro2inae), tiio ofteniconfused species of gymnotij  species  (Pisces,
+                     Cypriniformes).  Beaufortia, 1968, 15,6 161-168.
+
+                    Radil-Ileissi T. and 14. I'lovacc%,ic. Biophysical  parameters  of  the  skin  of
+                       the skin of the electric  fish  Tornedo  r,,ormorata.  Mar.  Biol.,  1969,  3,
+                       304-305.
+                    Sandler, It., F. Karotim  and  C.R.J.  Ruthven.  rn-Ilydroxyphenylacatic  acid  forma-
+                       t2ion  from  L-dopa  in  man:  suppression  by  neomycin.  Science,  1969,   166,
+                       1417-1418.
+                    Schiian,  H.P.  and  L.  Sher.  Alternating-currcnt  field-induced  forces  and  their
+                       biological implications.  J. Electrocha@n. Soc., 1969, 116, 170-174.
+                    Seiden,  L.S.  and  A.  Carlsson.  Temporary  and  partial,  antagonism  by  L-dopa
+                       of  reserpine  induced  suppression  of  a  conditioied  avoidance   response.
+                       Ps,vchopharm          ) 1963P 41 418-423,
+                    Seiden,  L.5.  and  A.  Carlsson.  Brain  and  heart  cat&chalamine  levels   after
+                       L-dopa administration in reserpine treated mice: correlations with a con-
+                       ditioned avoidance response.  Psvchooharmacolozia, 21964, 5, i78-1.81.
+                    Suga, N.  Coding  in  tuberous  and  ampullary  organs  of  a  gyrmotid  electric
+                       fish.  .1. Como. i'Teurol., 1967a, 131, 437-451.
+                    Suga,  N.  Electrosensitivity  of  canal  and  free  noaromast  organs  in  a  gy=otid
+                       electric fish.  J. Cow.P. Nleurol., 1967b, 131, 453-457.
+            2        Suga, N.  Electrosens@ti-vity of specialized and ordinary lateral line organs
+                       of  the  electric  fish,  Gymnotus  carapo.  In:  Lateral  Line  Detectors.   Proc.
+                       Svmo. April 16018, 1966, New York.  Bloomin@Son,-Ind,, Indiana Univ. Press,
+                       1967cp 395-409.
+                    Szabo, T.  Sense orkans of the lateral line system in some 2electric fish of
+                       the Gvmr..otidae. Vior.-Yvridae and Gvmnarchidae.  J. 112  h., 1965, 117, 229-250.
+                    Szabo, T.  Activity of peripheral     and central neurons involved in electrove-
+                       ception. Gnathonerus         va@nus@, Gnathonemus octersi, Eigenm.2nnia virescens.
+                       Steatoi,enys eletans,   2   @7,jtis carano, Ster.nar.c'.Ius albifrons). In:  Late
+                       Line Detectors. Proc. Svmp. April 16-13, 1966, New York. Bloomington, Ind.,
+                       Indiana Univ. Press,   1967, 205-311.
+                    Szabo,  T.,  P.$.  En-er  and  T.H.  Bullock.  Functional  characteristics  of  the
+                       electroreceptors of the  electric  fish  of  the  genus  Steatogenys  of  l2ow  fre-
+                       quency.  1. 11NsLol., Suppl.1, 1968, 315-316.
+                    Szabo, T.  and  S.  Ilagiwara.  A  latency-change  mechanism  involved  in  sensory
+                       coding  of  electric  fish  (mormyrids).  Phvsiol.  Behav.,  1967,  2,  331-335.
+                    Wachtel, A.W. and R.B. Szamier,  Special cutaneous receptor organs of fish;
+                   2    the tube-rous organs of Eigenwannia.  J. @fort)hol.,  1966, 119, 51-80.
+                    Watanabe, A. and  K.  Takeda.  The  change  of  dischar,e  frequency  by  AC  stimulus
+                       in a @eak electric fish.  J. Lx                     40, 57-66.
+                                                         _2. @iol., 1963,
+                    Webb,  G,D.  Electrophysiologi7cal  studies  of  the  isolated   posterior   moiety
+                       of the electroplax of the electric eel.  J. Cell. Phvsiol,, 1977, 70, 197-20$.
+                    Wright,  P.C.  An  electrical  receptor  in  fishes.  Nature,  1958,  131,   64-65.
+                V. WHERE - 7ABO'ttATORY INDEX.
+                         The  following  is  a  list  of  laboratories,uuniversities0,  and   institutes
+                    where work is in progress.
+                    University of California
+                    Graduate School
+                    San Diego-LaJolla, California 92038
+                    (Prinipal investigator: Th. Bullock)
+                                                            34
+
+                  Thp- City College of New York
+                  The City College Research Foundation
+                  Ne,w York, L%led York 10031
+                  (Principal investigator: Frank J. Mandriota)
+                  Columbia University
+                  College of Physicians and Surgeons
+                  New-York, New York 10027
+                  (Principal investigators: Arthur Karlin; David Nachmansohn)
+                  University of  Connec2ticut
+                  Biological Sciences  Group
+                  Storrs, Connecticut  06368
+                  (Principal inves,tigator:.Tobias L. Schwartz)
+                  University of  Connecticut
+                  Graduate School
+                  Storrs, Connecticut  06268
+                  (Principal investigator: A.W. Wachtel)
+                  University of Ilaryland
+                  School of Yedicine
+                  Baltimore, Ilaryland
+               8   (Principal investigator:L. Holdman)
+                  Pennsylvania Hospital
+                  Philadelphia, Pennsylvania
+                  (Principal -'-nvestigator: Su=er I. Zacks)
+                                                      35
+

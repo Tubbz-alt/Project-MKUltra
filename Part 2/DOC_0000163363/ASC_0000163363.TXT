@@ -1,0 +1,732 @@
+                                                                                                                                        AL- P-
+72 -73
+                      4@,
+                                                                                                                                           JUNE
+1972
+                                                                       UNSOLICITED PROPOSAL
+                                     FOR RESEARCH IN MONITORING2
+                                                               LIV       I N    G      P   LANTS
+                                                                              APPROVED BY
+                                                                                                STAF
+                          I 9 7 2 Leadership
+                              5 in Science
+                          2                                                                     9                       ALBUQUERQUE DIVISION
+                          Y E                    y                                     GOVERNMENT             COMMERCIAL SYSTEMS GROUP
+                                   &Technolog
+                                                                                       E L. &INC 9.13 GRADOWAY DRIVE S E ALBUGLJC-IMGLJE. N
+
+                                                             CONTENTS
+                                                                                                      Page
+                     CHAPTER1           INTRODUCTION        ..........
+                                        1.1     General Background      .........
+                                        1.2     Summary of Proposed Areas of Investigation.           1-2
+                            2                    1.2.:l    Crop    Control    System ............      1-2
+                                                1*  2.2   Early  Warning  of  Natural   Disasters.   .1   2
+                                                10  2.3   Communication System - Plant to
+                                                          Man          ............                   1-3
+                                                1.2.4     Intruder     Alarm      Sys2tem      ....      1-3
+    ,F..                                        1.2.5     Psychology Tool and Mental Illness
+                                                          Monitor            ......    O..*      ....... 1-3
+                     CHAPTER       2    TECHNICAL DISCUSSION          ..........                      2-1
+                                                Introduction           ............
+                                        2.1                           2                                2-1
+                                        2. 2    Investigation Steps               .................... 2-1
+                     CHAPTER       3    SUMMARY OF CURRENT KNOWLEDGE ON PLANT
+                                        ELECTRONICS       ..............                   ........... 3-1
+                     CHAPTER       4    TIME    AND    COST    ESTIMATES     FOR     PLANT
+                                        ELECTRONICS                          .2.....
+                                                                                                      4-1
+                     CHAPTER       5    EG&G AND ALBUQUERQUE DIVISION
+                                        BACKGROUND        ...........        0          .............. 5-1
+                                        5.1     Corporate History          ........                   5-1
+                                        5  2    Albuquerque    Division    2 Organization ........     5-2
+                                        5.3     Albuquerque    Division     Directorates ........     5-4
+                                                5.3.1     Engineering Directorate                     5-4
+                                                5. 3. 2   Programs      Directorate....      ....       5-7
+                                                5.3.3     Administration    and    Finance
+                               2                           Directorate                           ...... 5-7
+                     APPENDIX A   RESUMES          .......       ......                              oA-1
+                                                                                       41   0 0
+                                                         ILLUSTRATIONS
+                     Figure                                                                           Page
+                      5-1        EG&O Corporate Organization             .......       .......        5-3
+                      5 2        Albuquerque Division Organization                    ................ 5-5
+                                                                                                       77
+                                                                   7
+
+                                                         CHAPTER1
+                                                       INTRODUCTION
+                    1.1         GENERAL BACKGROUND
+                                In 1966, a polygraph expert, Mr. Cleve Backster, tested a plant
+                    with a polygraph to see if  he  could  get  an  indicationof  water  rate  absorption
+                    by the plant. Instead, he got a  reaction  on  the  s2trip  chart  record  similar  to
+                                                 a      an  under  stress.  Highly   intrigued,   Mr.
+                    the readout obtained from  hum
+                    Backster  soon  discovered  that  the  plant  responded  to  his  thoughts.   The
+                                   ming the plant was sufficient to trigger a violent reaction that
+                    thought of har
+                    was  clearly  registered  by  the  polygraph.  Mr.  Backster's   c2ontinuing   studies
+                    have indicated that further research in this area may open up some interesting
+                    and beneficial applications.  Much of this early research has been directed
+                    toward  finding  out  more  about  the  nature  of  the  communication   response
+                    from  plants.  Mr.  Frank  Wilcoxson  of  EG&G   has   performed   initial   research
+                    in this area to the extent that he and EG&G researchers beli2eve that some
+                    very beneficial practical applications of the principles already discovered
+                    are  possible  even  before  the  nature  of  the  communication  phenomena   are
+                    fully  defined.  Therefore,  based on  their  'initial  research,  EG&G  is  sub-
+                    mitting this  proposal  to  explore  some:of  the  more  promising  practical  appli-
+                                he  areas  proposed  for  r2esearch  are  listed  here   for   summary
+                    cations.    T
+                    purposes and discussed in more detail later..
+                                (1)   Crop control system
+                                (2)   Natural disaster early warning system
+                                (3)   Communication system - plant to man
+                                (4)   Intruder alarm system
+                                (5)   Psychology tool a9nd mental illness indicator.
+                                Investigation of these areas appears feasible at this time based
+                    on  research  performed  by  Mr.  Frank  Wilcoxson  of  EG&G  and  as   reported   in
+                    the literature. A bibliography of this literature  is  provided  at  the  end  of
+                    this   chapter. A brief discussion of prior  research  is  included  here  as  it
+                    pertains to each proposed area of investigation.
+
+                    1.2        SUMMARY OF PROPOSED AREAS OF INVESTIGATION
+                    1.2.1      Crop Control System
+                               An article in the Soviet Newspaper Pravda dated 12 October 1966
+                    describes the basic elements of a "crop control"     system.  The crop control
+                    investigation proposed here is similar to the one described and referred to
+                    as "things to come  n the article,
+                  2             The technique involved is to select various  crop  plants  such  as
+                             matoes, wheat, etc., and remove a number of the plants to a con-
+                    corn, to
+                    trolled environment.  The plants will be grown under nearly identical condi-
+                    tions until they reach a monitorable size.  The plants in the controlled
+                    environme
+                               nt can then be electronically monitored un2der varied conditions of
+                    nutrients, environment, etc., to  determine  the  ideal  conditions  based  on
+                                      The data derived can then be used to improve soil or other
+                    plant response.
+                    conditions for the entire crop.  Similar setups could be arranged for insect
+                    and disease treatment and control.  The data derived could be fed into a
+                                                                m2puter to derive the value of various
+                    computer memory bank         enabling the co
+                    nutrients and conditions.  Since plants have been shown to be responsive to
+                    human presence, the data would have to be taken by remote monitoring and
+                    simple automatic triggering systems,
+                               There is also the
+                                                  prospect that enough data on crop control could
+              2      be accumulated during the first six months of a study to verify a crop control
+                    hypothesis, and the remaining six months of a one-year study could be devoted
+                    to a natural disaster warning concept research.  This concept will be dis-
+                    cussed next.
+                    1. 2.2     Earl-y Warning of Natural Disasters (Earthquakes, Avalanches  etc)
+                               The objective here is to find plants most receptive t2o that natural
+                        ning system that directs birds and animals to leave  areas  that  will  be
+                    war
+                    affected  by such disasters long before the event actually occurs. As indicated
+                    in the bibliography, this exodus  from  such  areas  has  been  observed  many
+                    times.  Once the plants that are most receptive to this warning system are
+                    found, the development bf long-life monito9ring equipment can be accomplished
+                    as well as the design of systems used to tie the plant response  data  into  a
+                    regional or national alert system.
+                                                                -2
+
+                    1.2.3     Communication System - Plant to Man
+                              In' ial testing of the crop control system and natural disaster
+                                it
+                    wa
+                      rning system requires the elimination of close proximity contact between
+                    man and plant, The investigation of this communication system will require
+                                                                                    as fa2r as
+                    the monitoring of plant and man smultaneously and the exclusion
+                    is possible) of all disturbances.
+                                                   -to-plant tie of some sort must be investigated
+                              This concept of a man
+                    thoroughly, and the investigator will be challenged to find answers as to ho
+                    to conduct this investigation in the best way.
+                    1. 2.4    Intruder Alarm2 System
+                              Mr. Wilcoxson of EG&G has found that some plants will respond
+                    to the presence of strangers or intruders at distances up to 30 feet.  This
+                    application seems highly feasible at this time. Here again, however, the
+                    optimum plant for the system must be found and checked for longevity of
+                    response life, etc. -this plant must then be tied to a long-life electronic
+                 2   system capable of triggering an alarm of some type.
+                    1. 2.5     sychology Tool and Mental Illness Monitor
+                              As reported in the literature by Mr. Backster and verified by
+                    Mr. Wilcoxson of EG&G plant response to human emotions is fairly well
+                    established.  This principle could possibly be tied td the field of psychology
+                     nd may be helpful in work related to the mentally ill and possi2bly with
+                    a
+                    mentally disturbed children.
+                              This particular area wou d require a great deal of research with
+                    both plants and patients and, at this time, would appear to be an area to
+                    be investigated slowly and thoroughly. ff the plant served no other purpose
+                    other than to identify a person who is mentally ill, at a very early stage in
+                    that illness, then the resea4rch effort would be well spent.
+                                                         1-3
+
+                                                   BIBLIOGRAPHY
+                                    Bacon Thorn;  "The Man Who Reads Nature's Secret
+                                    Signals, 11 National Wildlife, February/March 1969;
+                                    4-8.
+                              2.    Backste   Cleve; Int
+                                           r,                       rnal of Parapsychology,
+                                                      2 ernational Jou
+                                    Winter 1968; 329-348.
+                              3.    Robbin Janice and Charies;"StaAling New Research from
+                                    the Man Who Talks to Plantstl National Wildlife,. October/
+                                    November 1971; 21-24.
+                              4*    Lawrence, L. G.; "Electronics and the Living Plant,
+                                    Electronics World2 October 1969.
+                              5.    Shuvaton, L., trans.; "The Powerful Li-Iliputian, Pravda
+                                    No. 285, 12 October 1966; pg. 3; Foreign Te
+                                                                              chnology
+                                    Division USAF AD678622 FTD-HT-23-1161-67.
+                              6.    Wilcoxson, F. W.; Plant Response Data Old and New, EG&G
+       7                             Report No. 1; 1 April 1972
+                                                        1-4
+
+                                                         CHAPTER 2
+                                                  TECHNICAL DISCUSSION
+                      2.1        INTRODUCTION
+                                 One must keep in mind that the field of  investigation  addressed  in
+                      this proposal is, in essence, a new scientific area that will initially  require
+                      establishment of a basic standard measurement or data gathering system.
+            2          This will include the development  of  measuring  techniques  dependent  on  the
+                      specific area of investigation.
+                                 Investigation may reveal that electrode to electrode measurements
+                      w                     he exploration of the communication field desc
+                       ill perform well in t                                                ribed.
+                      A method of recording changes in the light  passin2g  characteristics  of  leaves
+                      may be more useful in the crop control system, etc. Assuming that mag
+                      netic charges occur in plants,  measurement  of  this  parameter  may  prove  to
+                      be of great value.
+                                 l@efore any one area can be fully explored researchers must con-
+                      firm that data is repeatable, that available instrumentation  is  adequate,  and
+                      that measurem2ents are not being influenced by external electrical noise.
+                      -The most active or receptive plants must be found and their useful time
+                      limits established. Some plants show a  tendency  to  stop  responding  to  cer-
+                      tain stimulation after repeated exposure to the same stimulant day after day.
+                                 Standards must be derived that can  be  used  for  direct  comparison
+                      with plant data obtained i2n the lab.
+                                 The basics for this new area  must  be  established.  Once  this  has
+                      been accomplished, specific areas of practical value can be investigated.
+                      2. 2       INVESTIGATION STEPS
+                                 The steps for establishing the  basic  investigation  procedures  and
+                      standards are outlined below:
+                                 (1)   various electronic probe s9ystems will be  tested  in  order  to
+                                       verify their value in the response studies and determine
+                                       their shortcomings.  This will include electrodes light
+                                       sensors  magnetic sensors, etc.
+                                                               2-1
+
+                               (2)   Electronic components will be tested for drift and suscep-
+                                     tibility to noise. These components must be capable of
+                                     operation over long time spans.'
+                               (3)   Probes and, electronic components will be assembled as a
+                                               -tested for drift, noise, etc.
+                                     unit and re
+            2                   (4)   Plants will be selected and tested for response to stimulation
+                                     of various kinds.
+                               (5)   Preliminary tests will be run to determine repeatability  of
+                                     response to various stimulation.
+                               (6)   The best combination of plant  probe,  and  electronic  com-
+                                     ponents can then be used to start2 the data gathering  proce-
+                                     dures.
+                               (7)   In addition to plant output data, environmental conditions
+                                     will be recorded. This data will include temperature,
+                                     hu  dity, barometric pressure plant diets, soi.1 conditions
+                                        ml
+                                     (acid, neutral, or alkaline), etc.
+                   2            (8)   To ensure maximum protection from outside electrical inter-
+                                     ference  all testing should be conducted in a screen room
+                                     located within the hothouse. Assurance of data validity:
+                                     (a)     All test equipment will be subjected to calibration
+                                             runs immediately prior to and after all test rims.
+                                     (b)     All test equipment will be checked for noise pickup at
+                                             least every two weeks.
+                                     (c)     All test equipment will be calibrated every 30  days
+                                             to ensure that no erroneous readings are introduced
+                                             into the data due to incorrect equipment handling
+                                             and/or adjustments. All critical data8 gathering equip-
+                                               ent adjustment points will be sealed after calibration.
+                                             m
+                                                             2-2
+
+                                                      CHAPTER 3
+                                                     KNOWLEDGE ON PLANT ELECTRONICS
+                           SUMMARY OF CURRENT
+                               Mr. Cleve Backster first became aware of the plant electronics
+                     phenomena on February 2, 1966.  He w
+                                                            as testing a plant with a polygraph
+                     machine to see if he. could ge2t an indication of rate of water absorption by
+                     the plant and got a reaction (on the strip chart record) similar to the graphical
+                     readout obtained for a human when under stress.
+                               Mr. Backster was first to note plant reaction to human thought
+                     and emotion, first to tie plant response to the death of brine shrimp, etc.,
+                     and is presently, as far as can be ascertained, investigating the possibil2ity
+                     of a cell-to-cell communication system and the possibility that memory,
+                     etc., may exist at the cel-I level.
+                               He has made many plant experiments, including using a plant to
+                     point out a student who destroyed another- plant in the same room; the
+                     student was selected by the plant.from five possible choir-es.. Mr. Backster
+                     is also attempting to teach p2lants to recognize objects,
+                                                                            and he has recorded
+                     the response of one egg when another was broken.
+                               An article by @ Mr. L. G. Lawrence listed in the bibliography in
+                     Chapter 1 describes various systems for monitoring plant reactions via
+                     electronic and other means and describes some of the work done by Mr.
+                     Backst2er. He also verifies the plant memory theory and points out another
+                     way of training plants by the use of electric shock. An article appeared in
+                     the Soviet newspaper, Pravda,, that describes the basic ingredients for a
+                     crop control system similar to that described in this proposal.  The author
+                     of that article would have one believe that the article was a prediction of
+                     things to come.  However, it is2 highly possible that the article describes
+                     an existing test facility.
+                               Other so-Lirces of data are available, but extremely hard to get
+                     since investigators are reluctant to disclose data that is not yet complete.
+                               Mr. Wilcoxson of EG &G has verified some of W. Backster's
+                     data and also looked-at areas not covered in the known published data as
+                     follows:
+    1                                                      3-1
+
+                                    Questions have been presented to plants by simply thinking
+                                    of these questions and recording the plant's reaction on a
+                                                                         e was to try to establish
+                                    strip chart recorder.  The object her
+                                    a "yes" or no and/or "O to 1" state by human mental stimu-
+                                 2   lation of the test plant. No "yes" or flnolt response could be
+                                                                      -to this
+                                    established as the plant's reaction       human mental
+                                    stimulation resulted in a complex waveform. A different
+                                    waveform was recorded for each different question presented
+                                    to the plant.  The test plants res2ponded to 56 percent of the
+                                    questions presented.
+                              (2)   While running a test on a cactus plant, an erratic fuU swing
+                                    to the left was noted and subsequent investigation of the
+                                    immediate test area revealed that a stranger had approached
+                                    the test area and departed without letting his presence be
+                                    2known to the test area occupants.  This test was repeated
+                                    a week later and four such close passages of strangers to the
+                                    test area were recorded.  Two of the four indicated tres-
+                                                                        ot be verified.
+                                    passes were verified and two could n
+                              (3)   An attempt to run tests on several previously responsive2
+                                    plants failed when testing was conducted durino, a severe
+                                                                                         what
+                                    wind storm. The test plants would not settle down to
+                                    had been previously observed to be a normal state on the
+                                    records. After the storm, normal response was resumed.
+                             (4)    An e2yewitness has been found that has described a test run
+                                    on a tree in the vicinity of a snow slide in Colorado two or
+                                    three years ago.  The witness indicated that analysis of the
+                                    data obtained showed a definite disturbance in the tree's
+                                    response curve that started two hours before the snow slide
+                                    occurred and returned to normal after4 the slide was over,
+                                    The test tree was about 600 yards from the slidd area.
+                                                         3-2
+
+                              (6)   Tests
+                                          run on wild bird eggs indicated a response to thoughts
+                                    of breaking the egg.  This curve was identical to that obtained
+                                    on a plant under threat except that it was opposite in polarity.
+                              (7)   Mr. Wilcoxson has started testing tomato plants on a varied
+                                    diet basis as des7cribed previously in this proposal.
+                                                          3-3
+
+                                                           CHAPTER 4
+                                  TIME AND COST ESTIMATES FOR PLANT ELECTRONICS
+                                 The. materials cost and labor figures shown below are based on a
+                      concentrated  one  year  research   effort.
+                                 Labor                                         $51,293.00
+                                        Consultants                          $20   3822.00
+                                            Botanist
+                                             Psychologist
+                                            Chemist
+                                 .Materials                                    $192817.00
+                                        Hothouse and associated equipment
+                                        Electronics     equipment
+                                        Plants, planting materials
+                                     2   Misc. cables, connectors, etc.
+                                                                 Total:        $91,492.00
+                                   noted that the material cost would apply to the entire program as
+                      It should be
+                      an initial expense.  The labor figures could encompass a two-year, one-half
+                      time  effort   etc.
+                                 Some data related to the natural disaster early warning system
+   2                   would probably be forthcoming during this initial effort due to the fact that
+                      the Albuquerque area, where testing would be conducted, is subject to earth
+                      tremors, severe electrical storms, and occasional severe wind storms.
+                                 There is also the prospect that enough data on crop control could
+                      be accumulated during the first six test months to verify the crop control
+                      syst2em hypothesis, and that the remaining six months could be devoted to
+                      the  disaster  warning  concept   research.
+                                 Extensive testing of the disaster Nvarnin- system would require field
+                      testing, more elaborate electronics equipment, and e@,,tensive travel time.
+                                 Investigators would also expect to derive some data related to the
+                      man-to-plant communication 5theories stated.  This would be a natural side
+                      product of the test records.  Complete investicoration of this communication
+                      aspect would require a separate program utilizin- much more refined elec-
+                      tronics test equipment and more elaborate facilities.
+                                                                4-1
+
+                                                             CHAPTER5
+                                           G AND ALBUQUERQUE DIVISION BACKGROUND
+                                       EG&
+                          5.1       CORPORATE HISTORY
+                                    In 1947, the MIT-based partnership of Edgerton, Germeshausen
+                                                     a
+                          and Grier (EG&G) formed2      company to continue classified research, develop-
+                          ment, and instrumentation work previously perlor  ed under their direc
+                                                                               m                        tion
+                          for the Manhattan Project.   For the first few years, the company was pri-
+                          marily a contractor to government agencies, providing timing and firing
+                          control,  2diagnostic  instrumentation  systems,  and  field  operational  support.
+                          The  company  now  is  diversified  into  commercial  electronics,   oceanography,
+                          instrumentation operations,  and  other  specialized  technology,  in  many  parts
+                          of the world. It specializes  in  the  sophisticated  instrumentation  needed  for
+                          today's technology, both in connection with other projects and separate2ly.
+                          Eniironment  monitoring  systems  have  been  set  up  with  computer   controlled
+                          functions  and  complete  meteorological  data  gathering  and  processing  systems
+                          have been  fielded  and  are  being  operated  by  EG&G.  Other  weather  modifica-
+                          tion       programs,       includingcloudseedingandfogdispersal,havebeenperformed..
+                                     Upon  enter2ing  the  commercial  products  market,  EG&G   first   pro-
+                          duced new versions of  electronic  flash  tubes  and  flash  equipments  developed
+                          years earlier by  the  partnership.  Next  were   standard   ceramic-metal   hydro-
+                          gen thyratrons and rectifiers, and special-purpose instruments for ultra-
+                          hitrh-speed measurements.  An airborne instrumentation system was produced
+             2             for the Air Force and this was followed by  a  great  number  of  special  projects
+                          rancrinc., from electromagnetic pulse simulation to laser scanning systems.
+                                     Dr. Harold E.-  -Edgerton's  personal  interest  in  underwater  photog-
+                          raphy led to the  development  of  cameras  and  light  sources  for  ocean-bottom
+                          research  and  exploration.  The  long  standing  pro2blem  of  positioning  cameras
+                          and lights at a known distance above the bottom of the ocean was solved by
+                          developing a compact, accurate *Sonar pinger system.  This was soon followed
+                          by  the  development  of  powerful  acoustic  transducers  for  ocean-bottom  pro-
+                          file survey work.  EG &G underwater equipment is extensively used in
+                          searches for sunken ships, submarines, etc. 8 For example, EG&G equipment
+
+                             located the subniarine Thresher, and rece            ntly was used to locate a sunken
+                             frei-liter in the Gulf of Mexico.
+                                          The company's growth was steady during the late 1950's and early
+                             1960's.  The small, commercial products and oceanographic business, plus
+                             a tochnolo,-ical backlog built up over the years, provi2ded a sound base for
+                             accelerated (Trowth and increased diversification.
+                                          Company resources were applied to the development of new pro-
+                             ducts and an advanced technological capability in the fields in which it had
+                             an established position-.  high-energy pulse discharge components and sys-
+                             teiiis, ultra-fast measurements, el2ectronic flash components and systems,
+                             nuclear instrumentation, and oceanography.  Company-funded research and
+                             development was a key element in the expansion (see Figure 5-1).
+                                          Today, EG&G is a multi-element company with broad technical
+                             capabilities and business interests.  Research and development, instrumen-
+                             tation system desig2n, engineering service work and manufacturing encbm-
+                             pass the fields of physi
+                                                          cs, electronics  optics, nuclear science, and com  ter
+                                                                                                                          PU
+                             sciences.  In the non-government business areas, EG&G companies are
+                             en,-,a,,2ved in the fabrication of new products and large-scale field support
+                             services work.  This background and technology base provides a good reser-
+                             voir of skill and knowledge to support research in the new area of research
+                             and monitoring responses of living plants.
+                             5. 2         ALBUQUERQUE DIVIRON ORGANIZATION
+                                          Just seven years ago, t2he entire EG&G operation at Albuquerque
+                             consisted of 15 employees housed in a modest office.  Today, 400 EG&G
+                             personnel are employed in a spacious, modern facility occupying approxi-
+                             mately six acres of the University of New Mexico Industrial Park.
+                                          This phenomenal growth rate is a direct result of the professional
+                             capabilities of the 2Division's personnel.  Individually and collectively, they
+                             provide both specialized and interdisciplinary scientific knbivledge which can
+                             then be applied toward the solution of almost any state-of-the-art problem.
+                                          Enhancin,-
+                                                        this capability is the broad scope of the Division's
+                             operations which covers a7n extremely wide range of scientific disciplines.
+                                                                              5-2
+
+                                                                     BOARD OF DIRECTORS
+                                                                        B. J. O'KEEFE
+                                                                         PRESIDENT
+                                                                                    R. G. B. FELT     H. E. G]
+                                                K                                                       2    IIER
+                                                co               SR                 CE PRESIDENTI            IDENT
+                                                I      I    VICE PR                 pi
+                                         FIREE                                    rv
+                                                                      GOVERRUENT AND
+                C4                                                   COL'MERCIAL SYSTEMS   2                                            LOS
+ALAMOS
+                         T                APPLIED
+                                                ay                         GROUP
+                         p               ECHNOLO     I                                                                                  
+DIVISION
+                                            GROUP        ROU              H.V.WALLACE
+                                                                     SR. VICE P2RESIDENT
+                                                                                                                    GMX
+                                                                                                               GAI
+                                                      BEDFOR             ALBUQUERQUE       SANTA BAREARAI
+                                                      DIVISIO             DIVISION
+                                   3                                                                             "IVI"011-
+                                                           Figure 5-1.      EG&G Corporate Organization
+
+                        For example, EG&G Albuquerque has proven capabilities in systems engin-
+                        eering, program management, conceptual design, advanced design, planning,
+                        testing, evaluation, operation, and data analysis.
+                                  The Albuquerque Division is directed by Dr. James L. Dick,
+                        General Manager, who  reports  to  H.  V.  Wallace,  Senior  Vice  President  of
+                 2       EG&G.  A chart of the Albuquerque Division organization is shown in Figure
+                        5-2.
+                                  The Albuquerque Division of EG&G is assigned to the Government
+                        and  Commercial  Systems  group  of  EG&G.  The  entire  group  is  made  up  of
+                        the Bedford, Albuquerque, and Santa Barbara Divisions as well as GAI/GrvIX.
+                        As indicated on the Albuquerque Division O2rganization Chart, the Division is
+                        orcranized into major directorates that are described  in  the  following  para-
+                        rraphs.
+                        5.3       ALBUQUERQUE DIVISION DIRECTORATES
+                        5.3.1     Engineering Directorate
+                                  The  Engineering  Directorate  encompasses  the  technology  of   clec
+                        tronic/electrical, mechanical, and electro-opti2cal engineering, and theoreti-
+                        cal and analytical pnysics.  The directorate has a proven capability in analvsis
+                        and the application of computer  oriented  techniques  to  scientific  problems.
+                        Capabilities and experience have been demonstratect in the follonvinfr general
+                        areas:
+                                  (1)    Design and development of special-purpose elect2ronic,
+                                         digital and analog data acquisition  microwave data, and
+                                         electro-optical (including photo, optical, laser,  televisioti)
+                                         systems.
+                                  (2)    Design, installation, and operation of ENIP dia-nostic
+                                                                                          iz,
+                         2                instrumentation.
+                                  (3)    Design  of  timing  and  firing/command  and  control  systems.
+                                  (4)    Design of mechanical systems requiring high precision
+                                         fabrication.
+                                  (5)    Development of special purpose packa(rin- techniques.
+                                  (6)    Systems engineering and inte-ration.
+        4                                                         5-4
+
+                                                                                              ALBUQUERQUE
+                                                                                                DIVISION
+                                                                                                J. L. DICK
+                                                                                              General min3get
+                              2                          CHIEF                        N
+                                                                               DIVISIO                                            DIVISION
+STAFF
+                                                                             CONTROLLER
+                                                         R.M. BLAKNEY        D. R. SUPOWIT                                         W.D.GEORGE
+                                      2                                                                                                Matkiger
+                Cil
+                                                                  &                           ENGINEERING                           PROGRAMS
+                                                        AD NSTRATION
+                                                         D.R    POWIT
+                                                          2                                    R.F.MAYO                             W. D.
+HEWITT
+                                                               -t-                              Director                              Director
+                                                           D"!u
+                                                                      APPLILD SCIENC
+                                                                              2      Es          ENGINEERING                    ING         A
+SCIENCES
+                                                                                                                MECH. ENGINEER                 
+FIELD TEST
+                                                                        OKFARIVINT                                                   F   5AT
+                                                                                          3    DEPARTWLNT           DEPARTMENT           
+DEPARTMENT           DEPARTMENT
+                                                                                                                                             
+at-II            JA. to(PAI II
+
+                                  E -1@ertise has been dev loped in the following fields:
+                                                        e
+                                                                  clear device and induced
+                                  1)   Ground Motion Research:  nu
+                                       shock propagation, ground motion predictions, and
+                                       structural response analysis.
+               2                        Analytical Instrumentation Modeling: research and
+                                       development in the physical and'mathematical modeling
+                                       of specialized nuclear and non-nuclear instrumentation
+                                       transducers.
+                                  (3)  Data and Information Systems Software Design: high-
+                                       volume data handling  requirements  specifications,2  infor-
+                                       mation storage and  retrieval,  and  scientific  programming.
+                                  (4)  Nuclear Test Studies: conceptual design analysis,
+                                       experiment development, and data analyses.
+                                  (5)  Nuclear Phenomenology: gamma, neutron, X-ray,
+                                       EMP, thermal, blast and shock effects.
+                                  (6)  Electromagnetic  Pulse  Simulation  and  Analysis:   Corona
+                                       studies, and EMP interactions with electrical and elec.@-
+                                       tronic systems and dielectric/conductive envelopes.
+                                  This Directorate also provides a capability for the  operation,
+                         m',Iiiitenance; engineering modification, and fielding of complex electronic,
+                         mec2hanical, electro-optical,  and  photo-optical  instrumentation  systems.
+    ;Z,.,                The technolo,aies encompassed include the following systems: timing, RF,
+                         Photocrraphic, particulate sampling and dosimetry, servo, line  of  sight
+                         pipe diagnostics instrumentation, spectral measurement, and analo
+                                                                                          g  a2nd
+                         di--, ital data.
+                                  The Directorate  maintains  and  operates  a  computer-oriented
+                         data reduction facility, which incorporates analog-to-digital conversion,
+                         data playback, and conversion of hard copy data and film utilized in  posa
+                         trian,-ulation.
+                                   This Directorate provides a focal point for all electronic  and
+   4                      mechanical technicians  who are supplied to the operating directorates on
+                         a programmatic basis. It provides the facilities and  services  of  an  R&D
+                                                              5-6
+
+                         Laboratory, a Fabrication Laboratory, a Metrology Laboratory, an
+                         mental Test Laboratory, a Model Shop, and a Drafting Section.
+                         5. 3. 2    ProoTams Directorate
+                                    The Programs Directorate provides the Division -with the caixii)llol
+                         for continuity for major programs by ensuring that the most applicable
+                         ma2nagement techniques are being supplied and that the program mana-,crq
+                             utilizing those personnel -whose talents are best fitted to each pro@,-rl-.
+                         are
+                         This frees the other directors to administer and develop the resources unc.er
+                                         veloponcomingprograms.  TheProgramsDirectorrci)ort-i
+                         them and to de
+           2              to the Division Manager as to the progress of each program and implen,.c-t-i
+                         methods Nvhereby the program's objectives might be more expeditiousl,,-
+                         accomplished.
+                         5. 3. 3    Administration and Finance Directorate
+                                    This Directorate provides administrative and cost support to
+                         scientific and technical functions of the 3other    directorates.  It also per4.c.-,@;
+                         f inan ial accounting, cost tracking and reporting, property managlmcnt.
+                         data processing, and publications support for the Albuquerque Division.
+                                                                  .5-7
+
+                                                                                                                                               
+APPENDIX A
+                                                                                                                                               
+RESUMES
+                     7,V
+                                                                                   7                                                           
+77f             "7
+
+                              ri
+                                                                             FRANK W. WILCOXSON
+                                                                                 Senior Technologist
+                                                                                Albuquerque Division
+                             EDUCATION
+                             New Mexico State University, Mechanical Engineering, 1949 to 1951
+                             IC2S, Industrial Engineering, 1949 to 1951
+                             EXPERIENCE SUMMARY
+                             Mr. Wilcoxson is group leader and head of the EG&G Albuquerque Division
+                             Product Design Group responsible for product prototype packaging.  This
+                             erroup places emphasis on design for mass production and consequent cost
+                             saiin-s in manufacturing new products. Mr. Wilcoxson is also responsi2ble
+                             for providin- consultin- support to enoineers regarding electronic packaging,
+                             ENT shieldincr systems, and EMP simulator designs.
+                             For the past six months, Mr. Wilcoxson has been the senior experimenter
+                             on a program to study response of plants to such stimuli as human emotion,
+                             i-nental thought transmission to plants, and various plan2t responses to other
+                             living creatures such as birds and animals.
+                             Previously, Mr. Wilcoxson was a senior technologist and group leader of
+                             electronic packaging group responsible for all packaging functions design of
+                             E.'L%IP simulator structures, design of EM shielding systems, and all design of
+                             optical-mechanical laser systems. He was also responsib2le for bids, pro-
+                             posals, and detail designs of classified weapons systems. Systems designed
+                             and now operational include the ARES simulator shield system, SAFEGUARD
+                             simulator and its associated shield system, rotated EMP simulator built for
+                             AFWL at Kirtland AFB, and a shield system for the ALECS simulator at
+                             Kirtland Air Force Base.  Earlier, Mr. Wilcoxson2 worked as a technologist
+                             responsible for all electronic packaging and shield room designs. Projects
+                             rancred from electronic packages built to withstand 100 g shock loads to
+                             miniature packages capable of withstanding 5000 g shock loads, light pipe
+                             trigger units for shield rooms and boxes, and various packaging of miniature
+                             and micro-minia2ture electronic packages. He has also worked as a technical
+                             supervisor at EG&G Albuquerque, responsible for electronic packaging and
+                             complete drafting department operation.
+                             Before joining EG&G, Mr. Wilcoxson was a packaging engineer at the
+                             University of New Mexico Physics Department. He was responsible for the
+                             design, fabricat2ion, and environmental testing of an optical-mechanical
+                             satellite package and an electronic satellite package for use in the OGO and
+                             OSO satellite series'. Both units were orbited.
+                             He also worked as chief draftsman for the Eberline Instrument Company
+                             where he was responsible for all packaging and machine design as well as
+                             super-vision of drafti9ng department operations.
+                                                                A-2
+
+                                                                                  DR. ROBERTIVL BLAKNE
+                                                                                                             y
+                                                                                  Chief Scientist
+                                                                                  Albuquerque Division
+                             EDUCATION
+                                  2   iersitv of Rochester, 1955, Physi
+                             PliD, Uiii                                cs and Optics
+                             BA, Williams College, 1943, Physics
+                             EXPERIENCE SUMMARY
+                             Dr. Blakney is the Chief Scientist and scientific adviser in optics and electro-optics
+                             for the Albuquerque Division. He has approximately 14 years of experience managing
+     2                        tnd workina in electro-optics for industry, approximately 6 years in teaching at the
+                             Iiisti,-ute of Optics at the University of Rochester, and 3 years as Principal Investi-
+                             @:ator in research involving physical measurements of thermal radiation in associa
+                             tioii with the study of flash burns.
+                             Prior to cominc, to the Alb2uquerque Division, Dr. BLLkney was General Manager and
+                             Director of Research and Engineering for the Santa Monica Division of EG&G for 5
+                             years, primarily engaged in application of lasers to classified military projects
+                             recuirin- prototype design, fabrication, and testing. He also workedwith electro-
+                             optical systems, both imaging and non-imaging. Other work included exper2imental
+                             research on the effects of atmospheric turbulance on the propagation of optical
+                             si-
+                               ,nals. He has performed optical systems analyses for many of the projects just
+                             described.
+                             Prior to his work at EG&G, Dr. Blakney did work -with photographic emulsions and
+                             %,orked Nvith solid-state aspects of Xerog2raphic plates. He -was granted patents for
+                             Xerographic processes and processes for treating selenium.
+                             Dr. Blakney h      merous publications in the electro-optical field and in areas re-
+                                          as nu
+                             covered by this resume. He is a member of the American Physical Society, the
+                             Optical Society of America, and Sigma XL He was President of the Roches4ter
+                             Section of the Society for Engineering Education.
+                                                                    A-3
+
+                          EDUCATION
+                          University of Utah, PhD in Physics, Mathematics Minor, 1956
+                          University of Utah, MS in Mathematics, Physics Minor, 1951
+                          University of Utah, BS in Mathematics, Physics Minor, 1949. Graduated -xit!t
+                                    honors.
+                          EXPERIENCE SUMMARY
+                          Dr. Morris specializes in plasm2a physics, electro-optics,
+                                                                                        and astraphystet.  I!r
+                          has been working primarily with electro-optical system design and E.NIP
+                          His work includes development of an electro-optic E-field  sensor  for  E.Mil
+                          lator applications.  His most recent work is an airborne laser propazation I-%-
+                          periment using scintillation to measure atmospheric turbulence at altitude.%
+                          from 5 kft to 40 ldt along horizontal paths between two NC-135 aircraft.
+                          Previously, he was a senior basic research scientist with Plasma  Phy-e-tc.-t
+                          Laboratory, Boeing Scientific  Research  Laboratories,  where  he  conducteti
+                          basic researc2h in plasma physics, including laser production and beatina
+                          plasmas in and out of a magnetic field.  He constructed a high power pul.-@ets
+                          CO laser and an Argon ion laser  for  diagnostics.  He  used  ot         nf
+                            2                                                            her kinds
+                          routinely for various purposes and conducted other basic research in pla2ilr-"
+                          physics, including studies of some astrophysical  plasmas.  He  developld  .1
+                          photomultiplier radiometer for detection of radio-frequency intensity mcxU--,c -
+                          light signals from plasmas, and a resonance probe apparatus and CxPcri:@:W.--.
+                                                                                        2     nci
+                          technique for resonance probe measurements at microwave freque
+                          also developed a graphical digitizer for direct reading of existing X-Y
+                                                                                        ter co
+                          digitizing the data for read-in to a computer and replotting af    mPu cr
+                          cessing of one or more plots.
+                       2   Earlier, as an assistant professor of physics at San Diego State COllecc
+                          taught physics courses in eletromagnetic theory, optics,  and ad   c
+                          anics.  He also has worked as a staff member at Los Alamos Scit I 'c
+                          tory in the Test Division, Group J-12.  He participated in weapons 100-;
+                                                                                       2    'qt
+                          Eniwetok and Nevada Test Site and worked on development of a f,2-
+                          photomultiplier between tests.
+                          Dr. Morris also developed several types of electron guns, inclucilr4t
+                          types and gas type guns  He developed a fast-beam switching gu.13
+                                                                                         e
+    2                      beazn-plasma interaction studies, including plasma 0            =
+                                                                                scillation
+                                                                                          'Ctrc:@
+                          rnents and did experimental studies of positive ion focusing Of C"
+                                                                                e    He per-lo2r@--
+                          cluding holding electron beams together over long rang s,
+                          sheet analyses and 'water tank analyses of electron gun co
+                          achieve optimum operation.  These var'            ere  used   r"
+                                                                lous guns w
+                          Of three years to e2dte oscillations in plasmas, etc-
+                          Dr. Morris has an ex3tensive number of publications relating to t-I
+                          (ap roximately 25.) He is a member of  -the  American  Phyllcli
+                          p
+                          Xi, and Sigma Pi Sigffia.
+                                                               A-4
+                                                                 @77
+

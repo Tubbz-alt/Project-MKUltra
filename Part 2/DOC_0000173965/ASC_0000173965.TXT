@@ -1,0 +1,397 @@
+                          AN EXPERIMENTAL INVESTIGATION OF
+                         THE ELECTRIC FISH SENSORY AND D-ARL"A
+                         PROCESSING SYSTEMS DESIGNED TOWARD
+                          DEVELOPING PHYWOICAL ANALOGS FOR
+                            @Li,4iRDI@"ARE PROT OTYPES H.A-V-iNG
+                                 SIMILAR CAPABILITIES
+                   0                  2 Octobe.- 1973
+
+                   Experiments Needed to Assess Sensitivity, Range and Effective-
+                   ness of the Electric Fislies to Detect Objects and Communicate-
+                   Underwater
+                   We consider it necessary to perform a number of experiments de-
+            signed to quantify some of the electric fish properties. Four different
+            species of el ectr-Lc f-'.sl.ics have been considered for these experiments be-
+           2 cause of their basically different @;ysteni:@ used as transmitters and electro-
+            receptors. These fishes are:
+                   a.  Gymnarchus niloticus
+                                                               'th
+                      -AnAfricanweaklyfresh-waterelectricfish.-wi  amedium.--
+            fixed frequency(260 to 300 Hz) d a           efor'm.'' Frequency
+                                       an   compos2ite wav
+            does not change .vith ter--L-1@n-&-ature. It has about seven kinds -of electro-
+            receptors plus displacement,, acoustic and chemical sensors located on
+            or near'the skin. Electroreceptors are located on the whole body but are.
+            more numerous near and on the head and near its  roi.,ited W1.
+            Countries or origin Sudan, Nigeria and Ivory Coast and the two Congos2
+            of Africa. It can grow to a maximum size of 5 feet and has'a life span of
+            about 40 years.
+                      The electric organ is located caudally occupying about 1/2
+            to 2/3 of the fish le ngth. Electric organ is derived from modified
+            muscle spindels. Difficult to obtain and to keep alive. Has strange
+            parasitic diseases affecting the spinal cord. The fish is blind and has
+            only vestigial eyes.
+                   3b.  Sternarchus albifrons
+                      A South-American weakly fresh-water electric fish with a
+            high, relatively fixed frequency (700-800 kHz) and a composite Nvaveform.
+            The rate of dischar-e is temperature dependent at a rate of between 40
+
+                   to 60 Hz er de,,r
+                            p      ree centigrade.  Has at least three kinds of electro-
+                  receptors plus displacement, acoustic and chemical sensors located on
+                  or near the skin.  Electroreceptors are located on the whole body and.
+                  preferentially on or around the head.  Counties of origin: Brazil.,
+                  Columbia., Venezuela, Guyanas, Argentina.. Bolivia, Ecuador, Peru
+              2    in South-America and some parts of Central Amer- ca.  Can grow to a
+                  maximum size of one foot.  Life span is at least 10 years.
+                              The electric organ is located candally occupying about 2/3
+                  of the fishs' body length.  The electric organ is derived from modified
+                                  -It is a hardy species, easy to maintain and easy to
+                  nervous tissue.
+                 procure.  This fish is also bli2nd and has vestigial eyes.
+                         c.  Gymno,'.us carapo
+                             A South-American weakly fresh water electric fish with a
+                 mediurii   low variable frequency (30 to 150 Hz) and a composite wave-
+                 form.  Has multi     electro and sensory receptors located on or near
+                 the skin.  Electroreceptors are located on the whole body and preferenti-
+                 ally on or near the head.  Counti2es of origin same as for Sternarchus
+                 albifrons.  Can grow to a maximum size of one and a half feet. Life
+                 span is several years.
+                            The electric organ is located caudally occupying about 1/2
+                 of the fishs I body length.  The electric organ is derived from modified
+                muscle spindels. It is a hardy species but is not as easy to procure as
+                Sternarchus.
+                        d.  Gna5thonemus petersii
+                            An- African weakly fresh-Nvater electric fish with a low variable
+                pulse-form repetition rate signal (5 to 170 pps).  Has multiple ampullary
+                and tuberous electroreceptors and sensory receptors located on the body
+                                                2
+
+                and preferentially on or near the head. Counties  of  origin  located  in  the
+                subtropical, tropical and equatorial Africa.  Can grow to a maximum size
+                of one foot.  Life span may be several years.
+                             The electric organ is located in the tail and is derivedfrom
+                modified muscle tissue.  (It is relatively easy to procure, but is very
+                difficult to maintain it alive for loncrer periods of time2 in captivity.)
+                        For all experiments we will use a fibero'lass water tank of 12 R
+                diameter and 4 ft height.
+                        Experiment #1 (B)
+                        This experiment is designed to establish the ability  of  an  electric
+                fish of tl-.o species mentioned under (a) and (b) to detect metallic  or  non-
+                metallic objects having different masses and  introduced  in  the 2 water  tank
+                at different distances from the fish. The fish will be held in  a  position  A
+                by a vertical nylon net.  The nylon-net will be raised and the object intro-
+                duced at position B. The time until the fish will detect the  object  will  be
+                noted by observina the fish which may retract  or  advance  in  the  direction
+                of the 61.)j ect, depending on the _composition and mass of the object and  on
+           2     the species of the fish. This experiment will be  repeated  after  lining  the
+                interior of the tank with aluminum foil (see Fig. 1).  The objects con-
+                sidered are: iron, stainless steel (non-magnetic)., wood, plexiglass,
+                each in different dimensions (like 10 cm x 2 cm; 5 cm x 1 cm; 2 cm x
+                0. 5 cm; etc).  The objects will be fixed to a nylon thread and introduced
+                vertically into the tank.
+  0                      Experiment #2 (B)
+                        This experiment is designed to assess the capability of,electric
+                fishes to use their naviaation system to avoid obstacles like fine nylon
+                                                  3
+
+                                                    Electric Fish Position "All
+                                                    Nylon Net
+                                                    (Can be moved vertically)
+                                                                    Water Tank
+                                                                12 ft 6 and 4 ft high
+                                                                made of f-:berglass
+         2                                                      Object to be I.-itroduced
+                                                               Position "B"
+                           Fig. 1.  The reaction time of the fish will be plotted
+                                    against different masses of the same material
+                                    type of object and for the same mass of dif -
+                                    ferent kind of object materials. A short film
+7                                    may be made to illustrate the reaction of the
+                                    fish.
+                                                    4
+
+                  thread or fine wire (aluminum@, copper cannot be used because copper
+                  even in minute quantities will kill these fishes. Again we will  use  fishes
+                  of the species mentioned under (a) and  (b).  Gymnarchus  niloticus  is  an
+                  air breather and cannot be confined in a tube but it can be used in experi-
+                  ments with free swimming fishes.  It is also a small goldfish eater.  This
+                  fish w2ill be put in the tank at the point "All (see Fig. 2) behind a nylon net.
+                  A double net will divide the tank.  A goldfish will be put in a nylon net bag
+                  and introduced in the tank at point "B" after the nylon net holding the
+                  electric fish has been removed.  The reaction of the fish and the avoidance
+                  of the net will be observed and filmed. The fish species  type  (b)  Stern-
+                  archus albifrons is2 not a fish eater but usually reacts with an escape to  a
+                  metallic object. In this case a metallic object will be used to  force  the
+                  fish to cross the double net.  Its avoidance of the obstacles will be noted
+                  and filmed.  Both fishes are bl.ind.
+                         The experirrent will be repeated usincr  a  grounded  aluminum  foil
+                  along the inner wall of the water tank.
+                         Experiment Tlr3 (B)
+                         This experiment is designed to demonstrate the  ability  of  electric
+                  fish to detect a magnetostatic field.  The arrangement will be similar with
+                  experiment fl but instead of using an object in the water we will use a
+                  permanent magnet outside the tank. Magnets of 10  kG,  1  kG,  and  500  G,
+                  will be used at distances of 3 ft from the tank wall or near the tank0  wall
+                  at Position "B" or IC''. The fish will be located at position  "All  behind
+                  a nylon net (see Fig. 3). The magnetic field in the tank  will  be  measured
+                  with a Hall-effect-probe and a Gaussmeter. The  reaction  of  the  fish  to
+                  the maanetic field will be noted and filmed. The threshold of  detection  of
+                                                   5
+
+                                                          Electric Fish
+                                                          Position "All
+                                                             Nylon Net (Can be removed)
+          Eventual direction of
+          fish movina toward the                                        Water Tank
+                    t@,                                                  erclass 12ft  x 4 ft
+          prey at "B2l'
+                                                                         Nylon Nets
+                                                                       Nylon Ba. LT
+                                                           Gold Fish
+                                                           Position "B"
+                                                         Position of Wire Nets
+                                               Figure 2.
+            0                                      6
+
+                the magnetic field by different fishes of the same species and of the
+                average of different species will be plotted one a-ainst each other.  The
+                magnet will be also moved from I'D" to "El' and the reaction of the fish
+                observed.
+                                                    lectric Fish Position "Ati
+                                                           Nylon Ne+.
+                                      2                            Fiberglass Water T@Lnk
+                                                                  12 ft x 4 ft high
+               Direction of
+              Movement
+                               PO;                         Permanent Magnet
+                               Position "C'
+                                             Figure 3.
+                        The sensitivity of electroreceptors will be calculated, counting
+              4   the number of electroreceptors per square cm and plotting it against the
+                 minimum magnetic field gradient that could be detected by the fish.
+                                                 7
+
+                      Experiment #4 (B)
+                      This experiment is designed to demonstrate the ability of electric
+               fishes to detect electrostatic fields.  The arrancement for this experiment
+               will be similar to the preceding experiment, #3, but instead of a permanent
+               magnet we will use a sphere charged electrostatically to 100, 200t 400t  '
+               and 1000 ESU a2nd isolated on a teflon and plexiglass support.  The gradient
+               of the field generated by the charged sphere in the tank will be calculated.
+               The threshold of reaction of the electric fishes (different fishes of the same
+               species and different species) will be established (see Fig. 4).
+                                                   Electric Fish Position "All
+                                                           Nylon 14et
+            2                                                    Fiberglass Water Tank
+                                                                 12 ft @ x 4 ft hiah
+                     "D"o                                    0
+             Direction Of
+             Movement
+                                                             tro statically
+                              Position                  Charaed Sphere
+                                                             t>
+4
+                              Position 'IC"
+                                             Figure 4.
+                                                  8
+
+                        The threshold of detection of the electrostatic field (stationary or
+                    ving) of different fishes of the same species aa inst each other and the
+                   MO                                              a
+                   average of different species against each other will be plotted.  The sen-
+                   sitivity of the electroreceptors will be calculated, counting the number of
+                   .electroreceptors per square cm2 and plotting it against the minimum electro-
+                   static field aradient that could be detected by the fish.
+                         Experiment #5 (B)
+                         This experiment is designed to assess the ability of electric fish
+                   to detect DC, AC repetitive signals, square wave and transient signals.
+                   The fish will be positioned behind a nylon net in the tank.  Carbon elect-
+                   rodes will be put in th2e tank at the opposite end of the tank at one feet
+                   apart (see Fig. 5).  The four experiments to be performed are as follows:
+                         a.  DC signals will be applied with a telegraph key monitored by
+                   an oscilloscope and attenuated by p@tentimeter and furnished by DC bat-
+                   teries. A resistance in series will limit the current (see Fig. 6).  The
+                   reaction and threshold detection of the electric fis2h of the applied current/
+                   and voltage will be noted.  The gradient of the current will be calculated
+                   and a measurement of the voltacre at the position where the fish will be put
+                   -will be made prior to putting the fish in the tank with two carbon electrodes
+                   one foot apart.  The threshold detection of the different fishes of the same
+                   species will be plotted one against another and the average of differe
+         2          species will be plotted also each against another.
+                          b.  The same procedure will be used to find the threshold of de-
+                   tection of AC sinusoidal current for frequencies of 5, 10, 20, 50, 1002 200.,
+                   5002 1000@ 20002 5000, and 10, 000 Hz (see Fig. 7).  The signals will be ap-
+                   plied with nonpolarizable Aa, Aacl electrodes and1 measured with the same
+                   kind of electrodes.  Also frequencies close to the fishes own frequency will
+                   be used.
+                                                    9
+
+                    c.  Square waves of same repetition rate as the sinusoidal currents
+             will be used and applied with Ag, AgCl electrodes.
+                    d.  The transients will be applied with the help of a network using
+             a pulse transformer., resistors and a charged capacitor (see Fig. 8). The
+             values NNill be calculated and the resulting waveforms will be measured
+             with an oscilloscope. These signals will be applied a2lso with Ag, AgCl
+             electrodes.
+                        The reaction and threshold of detection of the signals will be
+             noted and plotted the same way as for DC current.
+               Fiberglass Water     Electrodes for measurement
+               Tank                 of applied current attenuated  Fish
+                2 ft x 4 ft high    by the water in the tank
+                                         NylonNe
+                                 1 ft
+                        4    12 ft                          12 ft
+                                 1  f
+                                      Electrodes for
+                                    Applying Different Currents
+                                      and Signals
+                                           Figure 5.
+                                               10
+
+        Shie Id
+                                                       Shielded Cable
+                                    p 2
+                                                          Carbon Electrodes
+                                                          1 ft apart 1 cm free ends
+                                                             Oscilloscope
+                            R
+                  '7
+                        B     Battery (optimum v2oltage will be determined by experi-
+                              ments but tentatively set between 2 and 6 volts)
+              pll P23' P3     Potentiometers calculated to have constant impedance
+                              together with RI = resistor to correspond to the im@-
+                              pedance of the carbon electrodes in water measured
+                              with the AC liquid impedance bridge
+                 C and R2  =  capacitor and resistor to4 suppress sparks when the
+                              key is manipulated
+                        k =   key (telegraph type)
+                                Fig. 6. DC signal system.
+
+                                                          Transmitting Electrodes
+                                                              in the Water                 Receiving Electrodes
+                                                                                           in the Water
+                     Viaveform    Impedance                    Ag, AgCl                    Ag$ AgCl
+                      Generator    Adapter
+                                  0         Oscilloscope                           Oscilloscope
+                                   Fig. 7. Set-up for sinusoidal AC and square waves.
+
+    - --------- --
+                                   Shield
+ To battery
+ for char,,:-,inc,        R
+                                 j Shielded Cable
+ the capacitor
+                  --c
+                          T           Ag, AgCl Electrode.
+                                       in IVater
+            JC
+                 c3
+                                        Oscilloscope
+             c   High capacity tantalitic capacitor (val2ue to be experi-
+                 mentally established according to the im-edance of the
+                 electrodes in the water)
+       CR,;CR  = Spark suppressing networks
+        2   3 4
+          RJY R2 =Varial,,!,-@ resistors to adapt the circuit to the Ag-AgCl
+                 electro@u'es in the water
+             i = Jack for peak current measurement (with a resistor
+                 in series and an oscilloscope in parallel)
+             T0   Pulse transformer
+               Fig. 8. Transient generating set-up.
+                         13
+
+                         Experiments #I(P), 3(P), 4(p), and 5(P)
+                         These experiments will be similar to the experiments l(B),, 3(B)'4(B) z
+                  5B but instead of using free swimming fishes we will use fishes of species
+                  mentioned in 'IC" and ID" on page 2 like Gymnotus carapo and Gnothonemus
+                  petersii or equivalents restrained in a plexiglass 2tube with holes and two
+                  c4,@inless steel electrodes at the end (see Fig. 9).  Instead of observing the
+                  reac@L.'ion of the electric fish to the different stimuli. we will monitor on the
+                  oscilloscope and frequency counter the charging rate amplitude and wave-
+                  form of the fish response to the stimuli.  The latency and habituation win
+                  be noted.  This time the graphs will show2 the relation between stimulus and
+                  response and also the threshold of reaction.  With this species of fish and
+                  system a better quantification is possible of the ability of fish to detect ob-
+                  jects, magnetic fields., electrostatic fields, DC currents, AC repetitive
+                  sinusoidal or squarewave signals and transient signals.
+                                                                             Plexiglass tube
+                       2                                                      with fish in it
+                                                                             and electrodes
+                                                                             at the end
+                                                                                  Fiberglass
+                                                                                 Water Tank
+                                                                             2       x 4 ft high
+                           Amplifier
+            'Oscilloscope
+                    Frequency                                          odes for Experiment T:va- P,
+                     Center      Object to be
+                                 detected,
+                                 E.%-perinient f l(p)              Perminent mn-,--,net,
+                  Electrostatically cliarf-ed sphere,             Experiment 76,--'3(P)
+                  Experiment # 4(P)
+                                              Figure 9.
+                                                 14
+
+                      Experiment #6
+                      This experiment is designed to relate the ability of electric fishes
+              to communicate underwater and the distance at which they can manage it
+              (see Fig. 10).  The natural noise and the signal strength of the fish will
+              be measured.  The original signal will be recorded with electrodes on a
+              magnetic tape recorder and monitored on an oscilloscope.  This signal
+              wil2l be played back with the aid of two carbon electrodes in the tank at a
+              place 'If 11 at the distance 11111 from the fish situated at the point llg" and
+              confined there with a nylon net.  The reaction of the fish to its own signal
+              will be observed and eventually filmed.  The signal will be subsequently
+              attenuated to precalculated attenuations corresponding to distances of 100 ftp
+              500 2fti 1000 ft and 5000 ft. Jf the -.@i-sh will not react to a certain attenuation
+              a variable attenuation in between the fixed points will be used to assess the
+              distance at which the fish can detect its own signal. Also later noise will
+              be introduced in the form of white noise and its effect on the ability of the
+              fish to detect its own signal will be observed. At the end graphs will be
+              pl2otted for the signal to noise ratio versus distance of signal detection.
+                     The field generated by the electric fish will be calculated and
+              plotted on a graph.
+                     The experiments #IB, 2B. and 3B will be made in the fiberglass tank
+              as it is and with aluminum foil set around the inner wall of the tank and
+              grounded.  The results with or without the grounded aluminum-foil will
+              be plotted on graphs an8d eventually graphs will be plotted for the differ-
+              ences in results with and without grounded aluminum foil.
+                                               15
+
+                                                          Receivincr Electrodes
+                                                                  0
+                                                          Ag, AgCl
+                                                          Nylon Net
+         Oscilloscope Amplifier
+                                                                Fiberziass Water Tank
+                                                                12 ft  x 4 ft 2high
+                                                      Transmittine, Electrodes
+                                                      Ag, AgCl
+                  Oscilloscope      impedance      Amplifier    nl Tape Recorder
+                                    Network            Electric Fish Position G
+                                                          Nylon Net
+                                                                Fiberglass Water Tank
+                        1                                        12 ft x 4 ft high
+                                                         Transmitting Electrodes
+                                                         Ag2 AgCl, Position E.
+                   Oscilloscope      Impedance     Amplifier  FY, Tape Recorder
+                                       Network
+                                          Fic,,ure 10.
+                                               16
+
+               Experiment #7
+               In this experiment the electromagnetic field around some electric
+         fishes (the ones which can be confined in a tube) will be measured and
+         compared with values resulting from the calculated field.
+                                   0 ol               Electric Fish
+                                                    g, AgCl Electrodes
+                          0
+                                          9            Electrodes Ag, AaCl
+                                                      Moved in the Direction
+   Oscilloscope Amplifier                             to the Center
+                                    '@7  lamplifier
+                                         Oscilloscope
+                                 Figure 11.
+                                    17
+

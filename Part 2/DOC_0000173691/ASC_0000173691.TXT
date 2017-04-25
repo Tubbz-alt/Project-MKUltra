@@ -1,0 +1,759 @@
+                           QUARTERLY TECTINICAL PROGRESS REPORT
+                                  I November 1970 - 31 January 1971
+            Technical progress in this period was as follows:
+                  1) Acquisition and review of applicable reports and data,
+                  Z) Prcliz-i-iinary organization of a systematic approach to the problem
+                     of personnel incapacitation  and
+                  3) Two2 ad hoc evaluations of proposed incapacitation systems.
+            1.  Thirty-eight unclassified and twe:ity-five classified documents are now
+            on hand, covering a wide range of electrical, chemical, sensory and physical
+            -means of restraint or behavior control.  Each of these documents has been
+            screened by one or more staff members.
+            Z.  On 18 November 1970, a report on an!           flashblindness simulation pro-
+            p2osal was forwarded                It was concluded that it might not be  possible
+            to extrapolate the pioposed simulation results to levels of flash intensity that
+            would be useful operationally.  The risk of permanent eye damage at high
+            licyht levels, furthermore, would not be clarified by the tests.  The performa.;,.@-,.
+            tasks proposed were not detailed sufficiently to determine their relevance to
+   2         real situations.  Several operational diawbacks of the flash blindness te chnique
+            itself were pointed out, for example, the critical positioning of flares with
+            respect to the subject by reason of the inverse square law, and the limited
+            usefulness during the day-time, 'and the conspicuity of the technique at ni-ht.
+            The short time of effectiveness makes this technique more useful as an ad-
+            junct system than as a, primary2  behavioral  control  technique.  Primate  studies
+            were suggested as a  means  of  establishing  damage  thresholds  and  performance
+            decrements undcr actual (rather than simulated) flash conditions.
+            3.  On 31 December 1970 a memorandum on the             --Inon-letlial clec-
+            trificd net system was forwarded to             Unfortunately, the  data  provided
+            by the manufacturer are not completely e3xplicit.  Based on certain assumptioii-,
+
+              about the device, it was concluded Lliat a) tiiidcr soi-ne conditions the
+              cotilci cause partial ineapacitatioi-i by paralyzing the subject's arms.; and that
+              b) it woul4 be unlikely to kill licaltliy people.  Disadvantages of the system
+              stei-i-i from the extreme2 variability of the skin resistance factor -- depending
+              on surface contact area, liuniidity, bocly swkiat, etc. , the likeliliood of the-
+              net shorting itself out, the ineffectiveness against fully clothed subjects (who
+              might even be wearing gloves), and the probability that the subject, even
+              though his arms were immobilized, could still run and free himself 2from the
+              net.  The effectiveness of th         therefore, is open to question. A rough
+                                         e
+              circuit diagram of a device which fulfills the specifications of the
+              was prepared.
+              4.  Consideration has been given to a systematic approach to the incapacita-
+              tion problem.  There is a spectrum of situations or scenarios in which immo-
+              buization or restraint syst2ems would be desirable.  These range from a
+              situation in which there is a single assailant (such as a hijacker) who must
+              be subdued in the presence of a large number of innocent bystanders, to a
+              one-to-one confrontation between individuals, to an individual (such as a
+              diplomat) or small group surrounded by a large hostile crowd, to a full-scale
+              riot situation.  Each of these situations has different technical requirements
+          2    for an optimum.system.
+              Incapacitation systems can be categorized in several other ways.  They may be
+              grouped according to the general method used:
+                                            Psycl-iological
+                                            Impact
+                                            Chemical
+                                            Sensory
+                                            Restraining
+                                            Electr9ical
+              or they May be categorized according to the agent employed
+                                            Projectiles
+                                            Bases
+                                            Sound
+
+                                            Light
+                                            Slioclc. wavc
+                                            Nets
+                                            Bolas
+                                            Polymers
+                                            Drugs, etc.
+             Regardless of what type O' device is used, certain attributes of each system
+             need to be considered, as they apply to different scenarios:
+                                   Degree of incapacitation
+                                   Delivery System
+                                   Length of incapacitation
+                                   Speed of action
+                                   Requirement for antidote
+                                   Residual effects
+                                   Lethality risk
+                                   Risk of system failure/countermeasures
+                   2                Range
+                                   Covertness
+                                   Suitable for individual (or group)
+                                   Saf e ty of us e r
+                                   Size and weight
+                                   Environmental requirements
+                                   Shelf lif e
+                                   Trainin.g requirements
+            Plans for future work
+            Definitive work on a systematic evaluation of1 known and proi-.aising personnel
+            incapacitation techniques awaits a conference withi
+            tentatively scheduled for March, 1971.
+            The following steps will be taken in the meantime:
+            1) Literature search will  be  ca rried out as follows:
+                                                      Document Collection
+                                                   3-
+
+                                                        Pocun-icnt Library (computer search)
+                                                        1,N'Ledical Library
+                                                              Library and
+                                         Medical School Library
+             2) Schematics for a       .-3."type device will be forwarded
+             3) An evaluation of a patent of an cicctrificd 7projectile will be forwarded
+               These reports are enclosed
+                                                   -4-
+
+                                   QUARTI-:RLY Tr-CI-]iN'ICAL PROGRR-SS RRPORT
+                                           1 February 1971 - 30 April 1971
+                    Technical pro-ress in this period was as follows:
+                             1) Submission of pos  sible schematics for a.      ---7type device.
+                             2) Evaluation of a patent of an electrified projectile.
+   2                          3) Coi-npletion of literature search of the followine, libraries:
+                                                              ocurnent collection
+                                                             Document Library
+                                                             i.Medical Library
+                                                                   Library
+                                             imedical Library
+ 2                                                   lpolice Academy Library
+                             4)  Presentation of a group of status rg!ports to the Project Monitor
+                                                       20 April 1971.  The items presented were:
+                    during his visit
+                             a) a general outline of the Behavioral Control Support programs
+                                to date.
+                             b) a summary of2 the Behavioral Control literature review
+                             c) Brief descriptions of several real-life situations and possible
+                                incapacitating agents applicable to eac-h (preliminary only)
+                             d) Sug-estions for future activities under Behavioral Control
+                                Support Project.
+                       'Lhis report was submitted on IZ February 1971.  The possible schen-iatics
+ 2                      the        @are assentiall.y.--
+                             a) -an auto        sysctn-L and
+                                a DC '&.o DC.
+                   An output voL!1,,a.g-e ri.' o-.Ily -@goo vol'Ls is specifieii in the pos.'Lu,'ated (a5
+                   opposed t-o ZZ 8I<v for ti-ic     Sy-ste.,ni) 'f>ccause oi Lhe cxorc,-nely r,.!,@nort
+
+                   life aiicl arcin- problems that would exist with the higher volta(le system.
+                                 t@                                                0
+                   2.  U. S. Patent 3, 523, 538 describes an t.-I(.-ctrical shocl,,-producing projec-
+                   tile.  The projectile would be incapable of producing the "A'alse epilepsy, 2" as
+                   claimed by the inventor, would have a limited range, and besides being
+                   ineffective it could possibly liarn-i the victim.
+                   3.  A description of the literature search is -iven under 4(B).
+                   4.  The status reports presented to the Project Monitor will be found in attach-
+                   rnents A, B, C and D.
+                        4                                   2-
+
+                                                                                             ALLi-i: A
+                                          BEH.T\VIORAL CONTROL SUPPORT
+                                               Clencral Otillint! of Pro,,ram
+                     1.  Review Literature
+                              a) Police and crii-iiinology            c) Patents and proposals
+                            2  b) L\,Iedical and sciciilific           f) Science fiction, comics, etc.
+                              c) Military                             g) Other
+                              d) International
+                     Z.  Describe the factors which constitute the   generaliz@cd con,'Iict/control
+                         situations of interesl:
+                              a)  number of antagonists
+               2               b)  number of protagonists
+                              c)  intensity range of hostilities (actual or predicted)
+                              d)  time scale
+                              e)  location/mobility/environmental factors
+                              f)  availability of additional support
+                              g)  effects desired
+                                     i)  of.'ensive (calm, disperse, arrest, subdue, incapacitate2,
+                                        immobilize)
+                                    ii) defensive (avoid hostilities, self-protection, escape/fliaht)
+                     3.  Prepare brief, representative real-life situations to serve as examples and
+                         help generate ideas:
+                              a) Surrounded automobile                d) the crowd
+                              b) Lo,-le individual                    e) Pursuit
+           2                   d) The snatch                           f) Protection of  individuals and
+                                                                         property
+                     4.  Study available and proposed weapons/devices and strategies in light of
+                         desired effects and user-criteria dictated by various situations.
+                     S.  Co.-npile lists of as yet undeveloped devices/weapons and recommend
+      2                   design and bench testing of those judged most valuable.  Some possible
+                         exa-,r,ples:
+                              2         for similar ageni fo)r rapij, transcutaneous administration
+                                  of rru@-s
+                              b'@ Symc.hrGr@,i7@ed strobe lilhts and sound st-irnuli at. crit-,caA' @r:-equenc@-es
+                              c)  Varic.K@,s U-ndL>tecta'-w-'Le (or sub-,hrcs.,I-ioici-y  insu;.ts
+                                                                              Li            0-k)e c
+                                                               10,v ps-i prait,-ct '@t:  -pr    11 d
+   2                           C)
+                         Respond to aie i@ac z,equiests, ror c.,ra.LuaLio-
+                                                                        cor-
+                                                                           .,cepts, proposals, pa-,.ents. c-,,:
+                              a)
+                              b)
+                        7      c) Japanes:e. pazt.,7t@
+                              d)  Others
+                                      "-gal
+
+                                                                                                                                 n,.:
+                                            13EIIAVIORAL CON'I'TZOL LITZ.-LZATUi-ZT- ni@-.vIZW
+                        To clite,  our scircli for bl!li;iviortl c-ozilrol liter;Ature has included the
+                        following local libr-iries,  all of which yiel(lecl some information:
+                              Departn,icnt
+                                                              doctin-icnt library
+                                                              n-iedic;il libriry
+                                                                      general library
+           2                                                       ,@nicclical library
+                                                                                        'Police    Academy
+                        The original 50 documents received at the start of the contract have been
+                        thoroughly reviewed by Drs.                                                                      Those
+                        publications, by nature o2f thc!ir pre-selection,  pertinence and                       variety,  are
+                        still the core of our in-c.-tpacitation literature.   Several of them were used in
+                        a pilot run in order to devise the evaluation form,  shown in At,achrnent A.
+                        This   form   will   be   used   later   to    provide    quick    reference    to    factors    from
+                        selected proposals and techniques.
+     2                   In February .197 1,  all the literature then in our possession was scrccnc,-- ior
+                        bibliographic references to other works.   A master list was m@Lde.                           Ifrom.
+                        which library searches were conducted.   By March it had become obvious
+                        which material was not available locally,  and those'items rerrainin- on the
+  2                      list were then ordered through t4@!                                           (ZS unclassi-1-4L  e  d
+                        documents) or through Washington (26 classified items).   As o.4' April 19,
+                        si.%teen unclassified documents were still on order,  along with the class,.-.'iod
+                        material.
+                        The   library   work   also   incl2uded   a   search    of    card    c-atilols  and   inci@lcos   o,4@'
+                                                          n
+                                                           cnt top2.cs, as we         a.-7, a searc4'i ot
+                                                   @kit;               vf thc@ Icrcali-y avliia.L-,41c
+                             2                                                                            Lzlezzlu,-c  hzs
+                                                                                 aLr,@d;        --.@c c r o s s - in de-v a:  o
+                      are @ive.-i- in Attac.".ment- B)-        Ti,                  COaSiSLS Of           itcr.,,.S Z7,,,
+                                                                      C 0
+
+                                             Coiit-lusions
+                Our literature seircli liis bet-ii coiiil)rcliciisivc enough to draw the following
+                conclusions:
+                                             turc does not mention any innovative hard-
+                1.  As expected, the open liter.-i
+                    warc wl-iic2h could be c-.-Lsily adipted to our purposes.
+                Z.  The greatest concentration of publislied material has been in the
+                    categories of liglit (flasliblindness), sound (all frequencies), electricity
+                    (shock, clectronarcosis, electromagnetic radiation) and chemicals
+                    (drugs and gases). Very little open literature is available on biolotical
+   2                 weapons, odor,  temperaIture, vibration or applicable psychological
+                    methods of incapacitation.
+                3.  It appears tiiat certain gaps in the literature- can be filled only by
+                    obtaining classified documents through Was@hincton.
+                4.  The police literature is mainly concerned with riot control&.  The police
+                    appear to be the recipients rather than the initiators o2f research inlo new
+                    techniques of behavioral control.
+                5.  Our group now has a broad and general conception of current incapacita-
+                    tion devices and,techniqucg-.  The most profitable course for further
+                    search of the literature would be to narrow our fields of interest (as
+                    proposed in the program for the coming months), and collect in-Lorr.-,at2-@on
+                    in those specialized areas.
+                 6. An ongoing, gene
+                                    ral survey.of published material concerning personnel
+                                                                 cl foc%ls or di.rectiort
+                    incapacitation will be maintainc&-31A@tu"s
+                                ftiturc "3xo.6.g.-arn..
+                                                   2-
+                                                                  i    Rom
+
+               L: IL' Li Iy                          '.St-rial No.  pi-    Doc. No.
+          D.11c:
+                                                     Title
+               -----------
+                                    @---------- -----------------------------------------------------------------------
+            degrt:c of                                                                Remarks:
+            lengiii of
+    2      Speed ol Actip!i
+          Residual J'ffects
+         Lethility Risk
+         Dependability
+         Countermeasures
+         Range
+        Delivery System
+        5ize/Wei,,ht
+        CC)vertness
+        Shc-If l,ife                                                                 Scenarios:
+        3-tfc:tY/Tritinitig
+          of User
+          Grou,)
+     7                                                                                                                        >
+        )D-btit-
+                                                      .... . .... ... . ..........
+
+                                                                     Attachment B
+                                         CIZOSS-INDEX CATEGORIES
+                                        AD iitti-iiber
+                                        Bibliogral-)Iiy
+                                        Biolc)gical
+                                        Central Nervous System.
+                                        Che2mical
+                                          drugs
+                                          gases
+                                        Electrical
+                                        Facilities
+                                        History
+                                        Impact
+                                        PI- number
+                                        Proposal
+                                        Psychological
+                                        Restraining
+   2                                     Sensory
+                                          light
+                                          odor
+                                          pressure
+                                          shock
+                                          sound
+                                          temperature
+                                          vibration.
+                                        Theory
+                                        9Tolera.nce[Anticiot
+
+                                               R-EAL-.Lll-7I,: SITUATIONS
+                                         (Diploi-i-iat; Police; Stop and Search)
+                   This situatioi-i ciitails one or two individuals inside t'heir car, surrounded
+                                                                                     c
+                   and outnui-i-ibered by a hostile gro2up, in a potentially unfriendly ' nvironment
+                   such as a forei,,n country, riot area or inspection checkpoint.   The confined
+                   space of the automobile can be an asset and must not become a     trap.  Pre-
+                   installed incapacitation equipment can be utilized providing the  individuals
+                   remain in their own car, otherwise portable equipment would be required.
+                   The least amount of force ne2eded, either to calm the hostile croup or to
+                   make a "getaway, " would be highly desirable from the standpoint of aood will;
+                   tr),ing to calm the group can be expected to consume more time than ryetting
+                   away  by car from a group which is on foot.  Safety for innocent bystanders
+                   may be of limited concern.
+                            Ir@c.ipacitators                      Protect2ion
+                      persuasion (loudhailer)                 bullet proofing
+                      lures (hand-outs etc.                   ear defenders
+                      dyes                                    electric gtound
+                      .s ,@-e Mc h                            gas mask
+                      ,Qcaz, -as;                             gogales
+                      ac-rosol.s.;   penetrants               independen2t air supply
+                      car-too s?-zinkler                      sealed car
+                      'i. e cx%.i;-..i@uisher
+                            sar-, d, heat or smoke
+                            r,-Tz"o,.v barrage
+                      rnars,. . &,L
+                                 booms: with oil, foam,
+                                              srn2c%l-p
+                                 rotat-ing s ic.@zs
+                      car-tc>p
+                      I        F,
+                      L@CIL@-d sou,-,c
+                      i,isecis (rele-ased outside caz-).
+                      slick grotnJ s,,i:riace.
+                   Protection is for the operators; 6some items listed could also be used
+                   by antagonists as countermeasures.
+
+                                                      I-ont, liiclivir!tiil
+                    Perli.ips the n-iost vuliieriiile situitit)ii is Lli;it of a single person who ;,n;-iy
+                    Iii-,ve          citiclet -igait-tmt Iiiiii, witli no vcliil:l2e nor ;ii-iy (.)Ilit:r nuurct: t@i
+                    aid, who niust I)rotect Iiii-iiself otitdoors.  I-lis imn-iccliate need is'for small,
+                    unobtr-,ir,ive cquipi-ncnt (and possibly protective gear) which lic c;,Ln instzlntly
+                    utilize and rely on for coi-i-iplete incipacitation of his-assailant(s).  If the
+                    gei-icral cnvironi-nent is unfriendly, lie may need to rc-usc the equipr@-,cnL. in
+                    order to reach safety--
+                      Lic,t,jacitators                                     Protec-tion
+                    stench                                              bullet-proof vest
+                    si-i-2ioke screen                                    car defenders
+                    con-ibined sn-ioke and gas                          gas mask
+                    tcar cas                                            goggles
+                    aerosols; slzin irritants                           inflatable plast:Lc hclmct
+                          I                                             inflatable plastic shie'Ad
+                    inip.ict balls that break:                          pocket bicycle
+                      s2-i-ioke, stench, LMace
+                    darts with dru,-s
+                    n't.-irst',n-iallow barrage
+                    ta,-'fy pellets
+                    niglit stick/baton
+                    shock
+                    karatc/judo
+                    Stun gun
+                    bi,, net
+                    -Lcil5iesives
+                    bolas
+                    slick foai-ii (sprayed or hurled)
+                    licat-seekin,Q device to trip, tackle
+                    in      'Da, r it. z
+                                                             -z-
+
+                 In this 'tilitioti the i(lvint-ige is witli sev(!i-al persons wi-io Wish to
+                        I
+               .inca,3acit.ite oi-it! or two otliers, in an oulcloor ciivironnient such as a war
+                       Because ilic oper;ttioji ii-itist I)c swift -tnd perhaps2 surre-I)titious, it
+                 ZOI'lc.
+                 i-tiay well be nocturnal.  Protection of bystinders or -,)ropcrty is prob.-t'oly
+                               Inc.-tpaciLation teci-iniqucs must be fast-acting, rnay requ-re
+                 unnecessary.                                                           4
+                 protection for the operators, a2nd should leave the vi@tim in a subdued but
+                 moveable condition.  Any devices used should be portable or -- if the
+                 location is known beforehand -- deployable.
+                  IncaDacit-.itors                                 Protec-tion
+                 instant barrier fence                           beekeeper's suits
+                 radio-controlicd barrier with heat,             'tamouflage s2uits
+                  light, -srnol,,e, stench                       ear defenders
+                 plastic cocoon                                  gas masks
+                 taffy pellets                                   goggles
+                 nets, snares, adl-icsives
+                 ciarts with drugs
+                 water liose,
+                 karate/judo
+                 do,,s
+                 ni,,I-it stick/baton
+ 1                ayes (including inirared)
+                 c i-icn-i ic als smoke
+                 tear gas
+                 ,V, a c e
+                 aerosols
+                 blo%vn sana, dust
+                 swarm of insects
+                 soil
+
+                                                            (7
+                   Beii.ivioral coiitrul of ;t crowd is 1)rc)bibly the most complex siLuaLion to be
+                   cozisidcrecl.                      I)ot(!ntiilly hostile as a "mob". must be
+                   controlled btit not I-).-trticulirly liart-iic.-d.  In -icl(lition. fringe p-trtit-il);ints rncl
+                   -iclj.-iccnt property si-iotilcl be protected.  A prii-i-iiry mellio(i of cont'rol is ti-.r
+                                                                                                     ough
+                   dispersal of the crowd, which            they must retain their i-nobili2ty to some
+                   degree.  Tccliniqtics of control which allow griditions of int(:nsity 6.1 action
+                   and -Ln expan-diblc time fran-ic are recommended.  Metlio(Is of control are
+                   more lir,-iitcd if the crowd is gathered indoors.  Devices should be portable
+                   although their deployment2 beforehand may, in some cases, be possib'Le, and
+                   pre-inst.illcd devices on official vehicles may be available.  Overt technicues
+                   have positive and negative aspects: they may intimidate the crowd or they
+                   i-nay become tirgcts for the c-rowd's hostility.  Selective incapacitation ol'@ tl-e
+                   crowd's leaders is an effective technique.  The operat2ors in this situat-&on
+                   often consist of a large, trained group such as the police; in any case, safety
+                   of the operators i-i-iay depend on their protective gear.
+                     Inca,aacitators
+                   lures (spectacle elsewhere etc.                    marshmallow barrage
+                   runior control/oratory                             nets/snares
+                   louclhailer (pers2uasion - drowning                 bariicades
+                     noise - synchronized sound)                      dogs/horses
+                   s),nc.iron-A:zcd strobe + sound, pulses            insects
+                   robot rovers that emit flashes, heat,
+                     chemicals, sn-ioke, stench, or
+                    -@Ora@* j" St                                     Protection
+                   e.-<I2.c@-,rJ@Lble  that emit same
+                   1; gilt
+                                                                      beekeeper's hc'Amet
+                         ica,-n g,7cnades                             t:ar defenders
+                   'bubbles                                           earphones
+                   slick surface/'oi.1,                               gas masks
+                   stench   2                                              le-s
+                   dye                                                Z.Uvbe-r- boots
+                   smol<.c
+                   cher'nicals: tear gas, ]@4lac-e
+                   balls that L-rca.k,
+                   aerosols
+                   drug darts for ri:LZ
+                   car-top sprink.,'L@-mr
+                9   n.
+                   Lght sticks/ba;z@OMLIS
+                                                           -4-
+                       77!P@                        - - - --------- ------ -
+
+                                                     Pursuit
+                   This situation may follow that of the "Surrounded'Autoi-nobilc:" one or two
+                   persons in a car are I)cing ,)tirstiecl I)y i-lic oc.(:tip.Li-its of another car, in what
+                   must be considered an unfriendly environment.  The ;Advanta,,,,cs to be
+                   exploited are: maneuverability of the vehicle (to utilizl- wind direction, for
+                   example); pre-installation of devices; protection afforded by the car 's own
+                   sliieldin,,.  Devices should be covert when not in use, quick acting because
+                   the pursuers may have lethal weapons, and capable of stopping the chase.  This;
+                   may be accomplish2ed by: incapacitating the following driver, immobilizing the
+                   pursuit car, obs curing its path, barring its path, or disguisinc, the operators'
+                   car or occupants.  Re-use of the chosen techniques may be required if more
+                   than one vehicle joints the pu-rsuit.
+                            Inca-oacitators                       Protection
+                      license-plate change                   bullet proofing
+                      ex2ternal chanae in car's color, etc.   goggles
+                      pop-up people in lead car
+                      smoke screen
+                      blown sand
+                      paint on windshield
+                      foam (on road or windshield)
+                      oil slick
+                      lic,',it beam (nighttime)
+                      instant barrier
+                      wire across road, about 48" high
+                     .extendable boom (if close behid)
+                      pop-up deterrent shapes
+                      tei'.ral.-,edrons
+                      nails strewn on road
+                      .c,:)lling shapes strewn on road
+                             barr:er attached bv wires
+                        to lead car
+                      explosion urder car
+                      gas grenade
+                                                           5-
+
+                                         Protection of Iiiclivirlilll,, ;in(i Pro,,-)(!rty
+                      A I-)rcvcntive -tiici clclcnsive sitti.-ition occli rs wlit!n the loc,-tic of ;i ,)crson
+                                 1,,cr) or L piece of 13ropti2rty (store subject to lootin,-) n-iust be
+                      (public spc.-L                                                   L@
+                      protected.  Atiti.Lilxnts c.-Ln       from -iny clir(-ction but tl-%t- I-)rc.-Lf-ctr-d
+                      object rentiiiis st@itionary.  Ome or more "bodyguards" p2rovide the clc&'cnse
+                      against. one or more -tsstilai-its.  A rearonil.)ly friendly environrr-icnt can DC
+                      supi)oscd, wl-iicli limits the tiscable techniques to tho'se which will not
+                      seriously affect bystanders (nor the operators, the protected individual or
+                   2   the property).  The devices should be aimed directly at the offenders only,.
+                      and should reliably incapacitate them.  The degree of incapacitat-,on can
+                      depend on the sevcrity of the attackers' intended crime.  In all cases it seems
+                      desirable that the devices be quick-acting, portable and covert, so that they
+                      can be used in a variety of @"stay-put" circumstances.
+                       Inc,vpacitators                                    Protection
+                      rhetoric                                          instant plastic shield
+                      electrical shield
+                      li<,I-it bean-i
+                      t.-ifiy pellets
+                      I-Lurled foam, smoke
+                      ,,vlace
+                      dart with drug
+7                      jet-Dropellcd medicine ball
+                      bol@
+                      karate/judo
+                      nig'nt stick/baton
+                      s@ tun gun
+                      balance disruption
+
+                    ------------
+                                       BEI-JAVIORAL CONTROL SUPPORT
+                                  Proposed Program for Co:itinuation of @Vork
+                   1.  Consider overall goals and strategy.  Our inclination is to pursue an inno-
+                   vative or creative approach to the probleni rather tii;An to devote our encr-ies
+                   t2o compiling yet another systuniatic review of currently ;Available incapzlcita-
+                   tion and bcl-iavioral control techniques.  There is, of course, a possibility that
+                   no useful new ideas would be produced, but a systematic approach,  it  would
+                   seem,  would  practica Ily guarantee that result.
+                   2. 'Proceed with further literature review.  It appears that somethin- like
+         2                                                                               0
+                   90,@o of the information to be.had in the ordinary literature is now in hand.
+                   Rather than waste much more time  in  assembling  and  screening  masses  of
+                   literature for a diminishing yield, the following -s-teps are proposed:
+                             a) continue aeneral screening and search on a maintenance or low-
+                         2       effort basis.
+                             b) spend a week browsing through allied fields:. anesthesiology,
+                                psycholo gy, psychiatry, physiology, optics, etc. for fresh ideas. -
+                             c) consider spending several days to a week of intensive  research
+                                at one or two of the best criminology or medical-legal collectio.-is
+                                or libraries available (FBI?  Harv2ard? Justice?  LEAA?).
+                             d) consider examination of far-out literature: occult, science
+                                fiction, comic books, etc. on a low-effort basis
+                             e) consider foreign sources of information
+                    3,.@- Approach people with expertise and/or talent-if feasible, e. g.
+                             Authorities on pertinent subjects
+                                                      Lt.2 Col. ; Riot Control Specialist)
+                                                       (self defensel
+                                      Army Researcr. Centers. such as Edgewood Arsenal (pro-
+                                        je c tile S)
+                    4. Consider ho]dA:n@- an interdisc',Lp'Linary workshop with individuals liavin---,
+                    technical expert ise in appror)yiat8e areas such as criminology, weapons, psyc'no'&%-@
+                    e tc.
+
+                   5.  Conduct feasibility studies of proil-iisin,, new approaches.  For ex;Arnple,
+                   one potentially irtiitful rt.-searcli art!a, probably worth evaluating, involves
+                   cheii-iicals such as                            which rapidly penetrate the
+                   skin and may serve as carrier vehicles for  chemi2cal agents for bi-havioral
+                   control.  The control agent (e. g. , irritant, anesthetir-, synaptic blocker, etc)
+                   could be mixed with the skin penetrant and delivered in liquid, gal or aerosol
+                   form via projectiles, for accurate delivery to individuals, or via sprayers,
+                   for ,roup administration.  Other techniques, such as                    could
+                   also be evaluated.
+               4    6.  Exploratory animal studies.  Brjef,  preliminary studies with promising
+                   chemical or physical techniques may be   attempted if time permits and
+                   conditions justify such an effort.
+                                                          2-
+
+                          QUARTERLY TECIINICAL PROGRESS REPORT
+                                        1 May - 31 July 1971
+             Technical work during this period was directed primarily towards collection,
+             cataloging, review and appriasal of documents related to all aspects of
+             personnel incapacitation.  More than 160 documents have been so processed
+             and many others have been screened.  While there are dozens of good
+             libra2ries throughout the country which have not been visited, the diminishing
+             returns from our literature search suggest tha-t we are in touch with the
+             largest bulk of thought on this subject.  Further intensive literature review
+             would appear to add little, other than detail, to the information already at
+             hand.
+             A great effort has also been made to conceive of "new" approaches to the
+             problem of non-lethal behavioral control.  Discus5sions between project rrem-
+             bt-rs and unclassified exchanges with others have been initiated.  Very little
+             ttioaght which could be described as "new" has resulted from this.  So far,
+             only two possible techniques, not reported in the available literature, would
+             appear to warrant further consideration.
+
+               A further review will be carried out to determine whether either  or  both  of
+               the above techniques are actuall y feasible.
+               A course of action has been formulated for presentation to the project moni-
+               tor in August.  Briefly, the remaining contract effort will be directed as follows:
+               1.  Literature review: A continued effort will be made to acquire and review
+               new documents and other mat2erial related to personnel incdpacitation.  It is
+               expected that no more than 101o of the remaining effort will be spent in  this
+               activity.
+               2. Evaluation of "new" methods of  personnel  behavioral  control:  An  effort
+               will be made to determine the feasibility of using agents such as
+                    )for incapacitation of humans.  This research would be preliminary,
+               being limited to theoretical considerat2ions.  No "bench" testing or animal
+               testing is envisaged at this time. If possible, other new concepts  will  also
+               be generated and examined.  Approximately 30% of the remaining effort,will
+               be spent on "new" techniques.
+               3.  A state-of-the-art review will be prepared using a system approach to
+               the incapacitation problem.  Each group or family of techniques will be
+               consid ered separately.  Some of the major0 categories are as follows:
+                                 Missiles, ballistics/impact
+                                 Light, electromagnetic radiation
+                                 Sound
+                                 Electric currents
+                                 Drugs, chemicals
+                                 Physical restraint
+
+                              Psychology, verbal persuasion
+                              Miscellaneous (odor, slippery foam, etc)
+             Various aspects of each group of techniques will be reviewed, for example-
+                              Physical aspects of the agent
+                              Delivery system
+                              Physiological, biochemical or psy@hological mechanisms;
+                                   medical considerations
+              2                Results or effects, type and degree of performance decrement
+                              Operational factors (portability, reliability, etc)
+                              Possible applications and limitations
+                              Recommendations
+           -Descriptions of any new techniques which appear feasible will be included in the
+             report.
+             Administrative Aspects
+                                      an analyst who has done much of the lite2rature re-'
+             search on this project will be terminating   (employment as of I October 1971.
+                                   a physicist and research analyst, will continue
+                     work.            holds current TOP SECRET and Special Clearances
+             with                                  M.D., who also holds TOP SECRET
+             and Special Clearances, will work on--the medical and clinical aspects of this
+             project.
+             2.  As of 31 July 21971, only 23. 31o of the available funds had been spent (com-
+             pared with a projected 757o).  Accordingly, work on the project is considerably
+             behind schedule and it will be necessary to request an extension of time, without
+             additional funds, to complete the work.  A six-.months no-cost extension to
+             30 April 1972 is therefore requested.
+                                                  3-
+                      065@
+
+                        QIJARTERLY TECHNICAL PROGRESS RI-:PORT
+                               I November 1971 - 31 January 1972
+            Dur-li-ig this quarter, our main emphasis has been on the preparation of a series
+            of reports, based on a systems approach to several groups or families of
+            techniques for incapacitation. Rather than to re-review superficially every
+            possible type of incapacitation technique, our effort has been concentrated2  in
+            areas 1) where a medical or physiological evaluation (as opposed to ballistics,
+            pyrotechnics, etc.) would offer a useful contribution; 2) where there appeared
+            to be some promise of usefulness of the technique, and 3) where a technique
+            appeared to be new or insufficiently studied.
+            A-report entitled,                              As a Vehicle For Incapacitating
+            Agents, 11 was completed in December and forwarded t2o                       not
+            appear to be a promising vehicle for administration of  incapacitating  agents,
+            principally because of the long time required for "carried." substances to
+            reach peak blood concentrations.  Any dosage large enough to provide rapid in-
+            capacitation would be dangerously large, if not fatal, at the time of maximum
+            blood concentration.  Besides being slow, too many variables affect the abs6rp-
+            tion of,   2  lagent combinations and the fact that the technique cannot be used
+            surreptitiously offers several possibilities  for  countermeasures.  A  second,
+            informal report on the "Possible Interaction Between
+                          was submitted in January.
+            The report on non-penet@ating impact, completed in late January was scheduled
+            for submission early in February, 1972.  In spite of the widespread use of billy
+            clubs, special o2rdnance rounds and other impact devices, useful incapacitation
+            by means of impact remains either unreliable (at the "safe" extreme) or
+            hazardous at levels which will reliably incapacitate the subject.  Blows to the
+            genitalia in males and high-velocity, low-mass impacts appear to be the only
+            truly safe methods of incapacitation.  The latter is of "only limited effectivenebs.
+                                                   e                        as 4 a  possible
+            The next two activities will be brief r'views ofi
+
+                 incapacitating agent and of the                         iclectric shock system.
+                                                     Adn-iinL!@L@@@
+                  E:xpenditures to date:
+                                                   Quarter             70            cumulative
+                                                                      f Total          AmoLnt                  of Total
+                               2                    Amount             0
+                                                                                                                 1.  z
+                  Nov 1970-Jan 1971             $                      1.   2        $
+                                                                                                               15.   6
+                                                                      14.   4
+                  Feb - Ap2r 1971                                                                               z3.   3
+                  May-Jul 1971                                         7.   7
+                                                                      ZZ.   3                                  45.   6
+                   Aug-Oct 1971                                                                                76.  6
+                   Nov 1971-Jan       1972                            31.   1
+                                                                          z-
+                                                                                                                                         r
+
+                            Fl,-\'AL Tr-CI-1,NICAT Pr-,OGr\ESS R-,ZPORT
+                                 I February 1972 - 30 April 197Z
+           Du.-in(, the fin-il quarter the last Systei-ns-oricnterl report was I-)reparcd -I.-id
+           subi-i-iitted:                @ti-i
+                                is a relatively safe incapac2itatiii- acyent, variat,.ons
+           While               I                                0  C),
+           in individual susceptibility, possible delayed effectiveness due to breath-
+           holdin- and difficulty in rapid, surreptitious delivery especially in a lar-e
+           room that is  not reasonably airtight -- limit its ilsefulness as an incapa-
+           citatinr, ac@ent.
+           Major emphasis during this qua2rter-was  also placed on providin", in a readily
+           avaifable form, the maximum amount of practically useful  informac;-on  from
+           previous reports. To this end, unclassified versions of-the reports on clec-
+           tric shock and non-penetrat-Lng impact were subnitted: Inca-,3acitatio@-i of Cri-
+           r,ninal.s by Non-Penetrating Impact and Incanacitation of Cri@-n,-nals b-,, Elect-ric
+           Current.
+            .L                                                                     aone
+           O' all the specific incapac.-LL-at-on systems e.,:a,-,nined, the           ars
+           to be the most pro.-nis-.,-i,-,.  Dr.
+                                                               lcardiolo,);.st, Dr.
+                 visited         2                         land subr.7,'iztc(@ a s-,:)eciai re-
+           port on their dev;-ce, with recornrnendations @'or aniinal siud",.ts would
+           help validate the physio'ioolical sal-L'cty of this incapacitation cC.'c!7,,@-.Ique.
+           TI-ie final activity ui-,cdcrtaken uncier this pro;ect2 was a brief acl h(),7 ;7t.-v4,Cw of
+           the Soviet 'techn4@que known as Kirlian photo-.-.-ii,-iy. - Biolo-ical nia@,oz-ials, .vlicn
+                                                                    CD
+           Placed alon- wi,",i photo-raphic "-.Im in a h4,,.@-.-vo'ta-c rad,.o 2o q -,1,2 r, c y f @- 0 ', d
+                                          'eta'ls of 'Li-,c object not vis:'.-I@l.o urdc:- o::@@:.-.a@-y
+           ,)roduce a -
+                     .,)icture which shows ci
+           ii-ht.  Witi-, ',,@ic heII3 of
+           'Liie subject, 7a si,,nple instrument was developed and sat-@s@'zLeLory
+           photo,,raphs were obtained in both color and black-and-wli-xte.
+
+            Summary of reports, letter reports and substantive reviews submitted under
+            Project
+               Letter report on U.S. Patent 3, 5 23, 538
+                                       witli circuit cliagram
+               Lt:tter report on
+               30 April 1971 Status reports:
+                      General Pro-ram Outline
+                                  0
+                      Behavior Control Literature Review
+           2           Real Life Situations
+                      Program for Continuation of Work
+               Report: Electric Current as an Aaent for Personnel Incapacitat:lon
+               Report:       'las a Vehicle for Incapacitating Agents
+               Report: Non-Penetrating Impact as an Agent for Personnel Incapacitation
+               Report:                ]as an Incapacitating Aaerit-
+               Letter report: Possible Interactions Between
+               Letter report: Trip Report "2Visit to
+               Report: Incapacitation of Criminals by Non-Penetrating Impact
+               Report: Incapacitation of Criminals by Electric Current
+               Ad Hoc Report: Investigation.of Kirlian Photography
+               6 Quarterly Technical Progress Reports, which includes the Final
+                      Technical Progress Report and,
+               16 Monthly Contract Status Reports, which includes the final monthly
+                      report.
+                     2                            -Z-
+
+                                                             Acln-iinistrative Aspect
+                      Expenditures    to     date:
+                                                         Quarter                 %                   Cumulative                        %
+                                                         Ai-i-iotint.        of  Tot-.II                An-ic)titit               or TC)IZLI
+           2           Nov 70 - Jan 71                   $                          1.               $                                 1.  2
+                      Feb - Apr 71                                               14.  4                                             15.  6
+                      May- Jul 71                                                 7.  7                                             23.3
+                      Aue, - Oct 71                        2                      22.  3                                             45.  6
+                      Nov 71 - Jan 7Z                                            31.  1                                             76.  6
+                      Feb 7Z - Apr           72                                  23.  4                                            100.  0
+                                                                                7 3-
+
